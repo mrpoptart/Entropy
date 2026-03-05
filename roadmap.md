@@ -56,6 +56,15 @@
 - Embodies the limits of institutional thinking and the control-vs-stewardship theme
 - Her trajectory across the trilogy mirrors the protagonist's: both must lose the thing they built their identity on
 
+### The Tinkerer Mentor ✓
+- Male, late 60s to early 70s, runs a workshop in a poorer district
+- Has a strong elder-generation trickle but chose decades ago to stop relying on magic
+- Saw the decline coming and built a life and career on non-magical mechanisms
+- Not a purist — still uses his trickle practically — but his identity doesn't depend on it
+- Patient, dry-humored, teaches by doing, expresses care through attention and shared work
+- The protagonist's philosophical anchor and the living proof that identity beyond power is reachable
+- Steady presence across the trilogy, not a character who needs his own dramatic arc
+
 ### Antagonist Framework (Conceptual) ✓
 - No central villain — the decline has no cause to fight
 - Antagonists embody wrong responses to the crisis: control, denial/force, despair
@@ -67,7 +76,7 @@
 ### Priority 1: Remaining Key Characters (Broad Strokes)
 Sketch the following characters at a high level — enough to understand their role, motivation, and relationship to the protagonist:
 - ~~**The Patron** — Who are they? What do they actually want? How does the relationship evolve?~~ ✓ Done
-- **The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?
+- ~~**The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?~~ ✓ Done
 - **The Childhood Friend** — The person who knew him before. What's their situation?
 - **Antagonist(s)** — At least one primary antagonist fleshed out; decide on per-book vs. recurring
 
@@ -111,7 +120,8 @@ trilogy/
 │   ├── index.md                 ← Quick reference for all characters [CURRENT]
 │   ├── protagonist.md           ← Full character profile [CURRENT]
 │   ├── sister.md                ← Full character profile [CURRENT]
-│   └── patron.md               ← Full character profile [CURRENT]
+│   ├── patron.md               ← Full character profile [CURRENT]
+│   └── mentor.md               ← Full character profile [CURRENT]
 ├── book-one/
 │   ├── plan.md                  ← Premise, arc, beats, questions [CURRENT]
 │   ├── outline.md               ← [PLACEHOLDER]
