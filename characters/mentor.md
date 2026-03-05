@@ -6,7 +6,7 @@
 - **Age:** Late 60s to early 70s
 - **Gender:** Male
 - **Location:** The city — operates a workshop in one of the younger/poorer districts, where the infrastructure is fraying and nobody pretends otherwise
-- **Magical Status:** Has a trickle — and a strong one, by his generation's standards. He could have had a comfortable, respected career built on channeling. He chose not to.
+- **Magical Status:** Has a trickle — and a strong one, by his generation's standards. He is quietly one of the most magically powerful people the protagonist ever meets. He chose to do almost nothing with it.
 - **Role in the Story:** Steady presence and philosophical anchor. The non-family figure who is like family to the protagonist. His wisdom shapes the protagonist's understanding, but he doesn't need a dramatic arc of his own — he arrived at his conclusions long ago.
 
 ## Who He Is
@@ -21,7 +21,9 @@ To the wider city, he's an eccentric at best, a crank at worst. A man with a per
 ### The Choice
 This is the core of his backstory and the thing that makes him thematically essential.
 
-He had magic. Good magic — an elder-generation trickle, strong and reliable. He trained in channeling as a young man, was competent at it, could have built a career and a life on it. And somewhere in his twenties or thirties, he looked at the trajectory of the decline and made a decision that most people thought was insane.
+He had magic. Good magic — an elder-generation trickle, strong and reliable. More than reliable: *exceptional*. He trained in channeling as a young man, was genuinely talented at it, and could have been one of the more powerful channelers of his generation. He could have held civic office, led infrastructure projects, wielded real influence. The path was open and obvious.
+
+And somewhere in his twenties or thirties, he looked at the trajectory of the decline and made a decision that most people thought was insane.
 
 He stopped relying on magic.
 
@@ -29,10 +31,29 @@ Not dramatically — he didn't make a declaration or join a movement. He just st
 
 He still uses his trickle. He's not a purist or an ascetic. He heats his workshop with channeling on cold days. He's practical, not ideological. But the foundation of his life — his work, his identity, his sense of purpose — doesn't depend on magic. He built it that way on purpose, decades before most people admitted the decline was real.
 
+### The Altruism Underneath
+What makes the mentor's choice more than pragmatic foresight is what he did with his *position*. He didn't just stop relying on magic — he walked away from the power and influence his trickle would have given him. In a world where magical strength is literally political capital, he is one of the wealthiest people in the room and he lives like a pauper. Not out of self-denial, but out of a genuine belief that the world needs people building the future more than it needs another powerful person maintaining the present.
+
+He set up his workshop in a poor district, not a comfortable elder neighborhood. He teaches anyone who shows up. He shares what he's learned freely. He could be sitting on a council, managing budgets, directing labor — the patron's world. Instead he's elbow-deep in grease, showing a teenager how a lever works.
+
+This is not humility — he's too self-aware for that. It's a moral conviction so deeply held that it doesn't need to announce itself. He believes that hoarding capability — magical or otherwise — in a declining world is a form of cruelty. That the people with the most should be building ladders, not walls. He would never say any of this out loud. He just lives it.
+
+**The protagonist doesn't understand the full scope of this choice until later.** Early on, the mentor is just the old man at the workshop — wise, kind, a little eccentric. The revelation of how much power the mentor actually has, and has always had, reframes everything the protagonist thought he knew about him.
+
+### The Yoda Moment
+At some point in the story — ideally when stakes are real and the protagonist or someone in the workshop is in genuine danger — the mentor *shows* what he can do. Not to prove a point. Not as a lesson. Because the situation demands it and he's not the kind of person who lets people get hurt to preserve his own mystique.
+
+The effect should be staggering. He's had a strong trickle his entire life and *decades* of channeling training from a generation where the training was better and the power was stronger. He just hasn't been using it. What comes out, when he finally does, should make it clear that this man could have been one of the most influential channelers in the city — and chose a workbench instead.
+
+The moment recontextualizes him completely. Every time he heated the workshop or lit a lamp with a casual flick of channeling, he was using a fraction of a fraction of what he has. The protagonist — and the reader — suddenly sees the altruism for what it is: not the choice of someone who didn't have options, but the deliberate sacrifice of someone who had *every* option and chose the one that helped other people the most.
+
+This moment should also land differently depending on where it falls in the story. If it happens while the protagonist is still intoxicated with his own Wellspring power, it's a mirror: *here is what power looks like when it's not the point*. If it happens later, when the protagonist is learning to let go, it's a confirmation: *this is the person you're trying to become*.
+
 **Why he made this choice** is layered:
 
 - **Intellectual honesty.** He could see the numbers. The decline was measurable if you paid attention. He paid attention.
 - **A formative experience.** Something in his past — possibly watching someone he cared about lose their capacity, possibly a community that collapsed when its channelers aged out, possibly a project that failed because the magic it depended on wasn't there anymore. *(To be developed — this should be specific and personal, not abstract.)*
+- **Moral conviction.** He looked at a world where the powerful used their trickles to maintain comfortable lives while younger and poorer people fell behind, and he decided that having power and using it only for yourself was a kind of theft. He didn't want to be that person. He wanted to build things that would help people who *couldn't* channel — and he wanted to do it before the crisis forced the choice on everyone.
 - **Temperament.** He's the kind of person who wants to understand *why* things work, not just *that* they work. Channeling always felt like a black box to him — power in, effect out, no mechanism he could examine. Mechanical systems are transparent. You can see every part. You can understand failure. You can fix it without being special.
 
 ### Key Traits
@@ -91,10 +112,13 @@ He represents **stewardship over heroism** — he didn't save anyone dramaticall
 
 He is the **courage of ordinary life** made flesh. He chose to be ordinary when he could have been powerful, and he's at peace with that choice. The protagonist's entire journey is, in a sense, a journey toward becoming the kind of person the mentor already is.
 
+He is the **thematic opposite of the patron.** Both are powerful, both care about the city's future. The patron uses her power to maintain systems from the top. The mentor gave up his position to build alternatives from the bottom. The patron sees people as functions; the mentor sees people as people. They represent two fundamentally different answers to the question: *What do you owe the world when you have more than others?*
+
 He also embodies the **technologist** political faction — but without the ideological fervor. He's not anti-magic. He's pro-survival. He uses magic when it's practical and builds alternatives because he knows it won't always be there.
 
 ## Contradictions to Preserve
 - He's wise and foresighted, AND he's spent thirty years being ignored — the wisdom didn't protect him from loneliness
+- He's one of the most magically powerful people the protagonist knows, AND he lives like he has nothing — by choice, not necessity
 - He chose to reject magical dependence, AND he still uses his trickle daily — he's practical, not pure
 - He's patient and lets people find their own way, AND this means he sometimes watches preventable harm happen
 - He cares deeply about the protagonist, AND he won't chase him or beg him to listen
@@ -112,6 +136,7 @@ He also embodies the **technologist** political faction — but without the ideo
 - Does he live through the entire trilogy, or does he die before the end?
 - What is the specific formative experience that shaped his choice?
 - Does he have a personal connection to a historical Wellspring — institutional memory, family stories, old records?
-- How does he relate to the patron? Do they know each other? Are they foils?
+- How does he relate to the patron? Do they know each other? Are they foils? (They should be — they represent opposite answers to the same question about power and obligation.)
 - What is his relationship to the protagonist's family? Do the parents know him? Trust him?
 - What is his workshop's role in Book Three — does it become a hub, a school, a symbol?
+- **When is the Yoda moment?** Where in the trilogy does he reveal the full scope of his channeling ability? What forces his hand? How does the protagonist react — and how does it change the protagonist's understanding of the choices the mentor made?
