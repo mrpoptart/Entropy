@@ -11,7 +11,7 @@ Quick reference for all characters in the trilogy. Each major character has thei
 - **The Father** — Proud but quietly terrified. Tried to build his son's strength and independence. Fears he's failed as a father.
 - **The Childhood Friend** *(name TBD)* — Grew up beside the protagonist, has magic, carries the awkwardness of the gap. Knew the protagonist before the power.
 - **The Tinkerer Mentor** *(name TBD)* — Older figure from the workshop community. Non-family member who's like family. The "wise sage" who helps the protagonist think in systems. Understands resources and long-term thinking.
-- **The Patron** *(name TBD)* — Powerful person who took the protagonist on as an aide. Seeming benefactor whose motivations may be more complicated than they appear.
+- **The Patron** *(name TBD)* — Female, late 50s to early 60s. A senior figure in the city's civic administration — politically astute, strategically generous, and deeply invested in the institutional systems that hold the city together. Took the protagonist on as an aide for reasons both sincere and calculated. When the Wellspring activates, her protective instincts and institutional logic merge into an escalating need to direct and manage his power. Not a villain — a competent leader whose framework for understanding people as functions within a system becomes the primary antagonistic force of Book One. *(See: patron.md)*
 
 ## Antagonists (To Be Developed)
 - **Book One Antagonist concept:** Someone who wants to control the Wellspring as an asset

@@ -47,16 +47,26 @@
 - Mother: fierce protector, defines herself by sacrificing for her son, sees his condition as her failure
 - Father: proud of his son's strength but quietly terrified about the future, fears he's failed as a father
 
+### The Patron ✓
+- Female, late 50s to early 60s, senior civic administrator
+- Institutional power broker — believes the city's systems are what stand between civilization and chaos
+- Took the protagonist on as an aide for reasons both sincere (moved by his situation) and strategic (political optics)
+- When the Wellspring activates: protective instincts merge with institutional logic into escalating need to direct his power
+- Not a villain — a competent leader whose framework (people as functions within a system) becomes the primary antagonistic force of Book One
+- Embodies the limits of institutional thinking and the control-vs-stewardship theme
+- Her trajectory across the trilogy mirrors the protagonist's: both must lose the thing they built their identity on
+
 ### Antagonist Framework (Conceptual) ✓
 - No central villain — the decline has no cause to fight
 - Antagonists embody wrong responses to the crisis: control, denial/force, despair
-- Decision deferred on whether antagonists are distinct per book or a recurring figure
+- The patron embodies the "control" response in Book One
+- Decision deferred on whether Book Two/Three antagonists are distinct figures or recurring
 
 ## What Needs To Be Done Next
 
 ### Priority 1: Remaining Key Characters (Broad Strokes)
 Sketch the following characters at a high level — enough to understand their role, motivation, and relationship to the protagonist:
-- **The Patron** — Who are they? What do they actually want? How does the relationship evolve?
+- ~~**The Patron** — Who are they? What do they actually want? How does the relationship evolve?~~ ✓ Done
 - **The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?
 - **The Childhood Friend** — The person who knew him before. What's their situation?
 - **Antagonist(s)** — At least one primary antagonist fleshed out; decide on per-book vs. recurring
@@ -100,7 +110,8 @@ trilogy/
 ├── characters/
 │   ├── index.md                 ← Quick reference for all characters [CURRENT]
 │   ├── protagonist.md           ← Full character profile [CURRENT]
-│   └── sister.md                ← Full character profile [CURRENT]
+│   ├── sister.md                ← Full character profile [CURRENT]
+│   └── patron.md               ← Full character profile [CURRENT]
 ├── book-one/
 │   ├── plan.md                  ← Premise, arc, beats, questions [CURRENT]
 │   ├── outline.md               ← [PLACEHOLDER]
