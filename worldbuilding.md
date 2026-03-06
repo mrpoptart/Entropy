@@ -133,15 +133,132 @@ Non-magical technology is being developed as a direct response to the decline. M
 Technology carries social stigma in many circles. Using non-magical tools can be seen as an admission of weakness, a betrayal of tradition, or a sign of poverty. In other circles — particularly among the young, the poor, and the pragmatic — it's the future.
 
 ## Geography
-*(To be developed — surrounding regions need shape, rural areas where decline is most advanced need sketching)*
+
+### The Region at a Glance
+
+The story takes place within a single large nation-state — think the scale of France or California. Other nations exist but are peripheral to this story. The world is large, but the narrative is local.
+
+The landscape is shaped by a central river system flowing south from a mountain range to a warm coast. Solathis sits at the confluence of two major rivers, roughly in the geographic center of the nation — the classic city placement, where water, trade, and agriculture meet.
+
+### The Kharren Fault
+
+Solathis was built on geologically unstable ground. A major fault line runs beneath the river confluence — the Kharren Fault, named for the tremors that early settlers felt and ancient channelers simply... handled. When magic was abundant, seismic reinforcement was trivial. Channelers poured energy into the bedrock, dampening vibrations, stabilizing foundations, fusing weak points in the substrate. The city's founders built on a fault line the way a wealthy person builds on a floodplain: the infrastructure handles it, so why worry?
+
+Three generations later, the infrastructure is failing. The reinforcement teams are smaller, weaker, stretched thinner. The geology hasn't changed. The magic has.
+
+**The earthquake in Book One is not a surprise.** It's the inevitable result of building a city on unstable ground and then losing the ability to keep it stable. The "partly natural, partly consequence of weakened magical reinforcements" framing is the institutional version — politically convenient because it distributes blame. The truth is simpler: they built where they shouldn't have, and they can't afford to hold it together anymore.
+
+### The Hearthlands (Agricultural Belt)
+
+The broad, flat river valleys surrounding Solathis in every direction. Rich alluvial soil. Temperate climate — warm summers, cold enough winters that heating is a daily necessity for four to five months of the year.
+
+**Agriculture here is channeler-intensive.** Crops are grown with magical encouragement — accelerated growth, pest resistance, soil enrichment, frost protection. Every farm family channels into their land daily. It's physical, exhausting work that compounds with the trickle decline: a young farmer with 1,000 kJ/day trying to work land that their grandparents maintained with 10,000 kJ/day. The math is brutal. Yields have dropped 30-40% in a generation, and the gap is accelerating.
+
+**What's happening now:**
+- Farms are consolidating. Young families can't maintain the output alone. Cooperative channeling — pooling trickles across households — is becoming common but socially fraught (it requires an intimacy that not all neighbors want).
+- The first non-magical farming techniques are appearing: crop rotation, composting, selective breeding, irrigation channels instead of channeled water. Crude by the old standards. Effective enough to survive.
+- Elder landowners still produce well and dominate the agricultural economy. When they die, their farms often collapse within a season — no one left with enough trickle to maintain the output.
+- Food prices in Solathis are rising. The Hearthlands can feel the city's appetite outpacing their capacity.
+
+**Narrative role:** The Hearthlands are the canary in the coal mine. Reports of declining yields, farm failures, and food insecurity filter into Solathis as background noise in Book One — the kind of thing the protagonist (and the city establishment) ignores while focused on more dramatic problems. By Book Two, the Hearthlands' crisis is impossible to deny.
+
+### The Ashward Ridge (Highland Country)
+
+North and northeast of Solathis, the river valleys give way to hill country and low mountains — the foothills of the larger range. Timber, mining, and hardscrabble farming. Colder, higher altitude, more isolated. Communities are smaller and more spread out.
+
+**The Ashward is where the decline hits first and hardest.**
+- Higher altitude means more energy spent on heating — a necessity, not a luxury
+- Smaller communities mean fewer channelers to share the load
+- Distance from Solathis means less institutional support, fewer healers, weaker infrastructure
+- Mining requires significant channeling for safety (reinforcing shafts, moving rock, managing air flow) — as trickles weaken, mines become dangerous, then impossible
+
+**The community that "goes dark" in Book Two is here.** A mining-and-farming settlement in the upper ridges where the youngest generation's trickles have crossed below the survival threshold. They can't heat their homes in winter. They can't grow enough food. They can't heal the injured. The first community to fully lose functional magic — not because it's literally zero, but because what remains is too small to sustain the systems they depend on.
+
+**But the Ashward is also where adaptation happens first.** Necessity drives invention. Ridge communities have been building non-magical alternatives for a generation out of sheer survival pressure:
+- Wood-burning stoves and fireplaces (rediscovered from pre-magic designs, or invented independently)
+- Mechanical mining supports (timber framing, wedge-and-lever extraction)
+- Herbal medicine and practical wound care alongside weakening magical healing
+- Gravity-fed water systems, windmills, waterwheels
+
+These communities look "backwards" from Solathis. They are, in fact, the prototype for the future.
+
+**The mentor's networks run through here.** His connections to tinkerers, independent builders, and pragmatic survivors in the Ashward are what looked like a crank's hobby in Book One and become the circulatory system of the transition in Book Three.
+
+### The Verandhi Coast (Southern Seaboard)
+
+South of the Hearthlands, where the rivers reach the sea. A warmer, maritime climate — milder winters, less heating required. Port cities, fishing villages, shipyards. Trade with other nations flows through here.
+
+**The coast has always been partially non-magical by necessity.** You can't channel the ocean. Sailors, fishers, and shipwrights have always relied on physical skill, material knowledge, and weather-reading alongside magic. The result: coastal communities have a higher baseline of practical, non-magical competence than anywhere else in the nation.
+
+**What the coast contributes to the narrative:**
+- **Technology incubator.** The most advanced non-magical engineering comes from coastal shipwrights and metalworkers who've been hybridizing magical and mechanical techniques for decades. Combustion engines, chemical processes, precision metalwork — the seeds of industrialization are germinating here.
+- **Cultural independence.** Coastal people are less deferential to Solathis and less invested in the magical hierarchy. They've always done things their own way. The political factions (denialists, preservationists) have less traction here because the coast never fully depended on magic alone.
+- **Trade and information.** News from other nations comes through coastal ports. How are other countries handling the decline? Some are further along in the transition. Some are collapsing. The coast is the window to the wider world.
+- **Potential refuge.** If Solathis becomes untenable — politically or structurally — the coast represents an alternative. Milder climate, established non-magical infrastructure, connections to the outside world.
+
+### The Verenthi Range (Northern Mountains)
+
+The mountain range north of the Ashward Ridge. High, cold, sparsely populated. The rivers that feed Solathis and the Hearthlands originate here as snowmelt and springs.
+
+**The mountains are mostly narrative backdrop**, but they matter for:
+- **Weather and climate.** Cold air flows south from the range, making winters in the Ashward brutal and Solathis uncomfortable. The mountains are why heating is a constant daily expense.
+- **Historical significance.** The mountains were once home to channeler communities of legendary power — the Ancient generation, now dead, whose works still dot the peaks. Structures carved into living rock, roads that levitate across gorges, monuments to a level of magical capacity that no living person can comprehend. These ruins are a physical reminder that the decline is real and the trajectory is long.
+- **Resource origin.** The rivers. Without them, no Solathis, no Hearthlands, no agriculture. The mountains are the silent foundation of everything downstream.
+
+### The Broader World
+
+Other nations exist. They're experiencing the same decline — magic is planetary, not local. But different nations are responding differently:
+
+- Some are further along in non-magical adaptation (the equivalent of countries that industrialized early)
+- Some are centralizing remaining magic under authoritarian control
+- Some are collapsing as magical infrastructure fails without replacement
+- Trade and diplomacy continue, but the shared crisis creates both solidarity and competition
+
+**For the trilogy's purposes, we stay focused on Solathis and its surrounding region.** The broader world provides context — news from the coast, trade disruptions, rumors of how others are coping — but the story is local. The protagonist's choices matter because they happen in a specific place with specific people, not because he's saving the world.
+
+### Geographic Summary
+
+```
+              THE VERENTHI RANGE (mountains, ancient ruins, snowmelt)
+                        |
+                        | rivers flow south
+                        |
+              THE ASHWARD RIDGE (hills, mining, first to "go dark")
+                    /        \
+                   /          \
+    [mentor's      /            \     [isolated communities,
+     networks]    /              \     early adaptation]
+                 /                \
+           SOLATHIS ←——————→ HEARTHLANDS
+        (river confluence,    (agricultural belt,
+         the grand city)       declining yields)
+                 \                /
+                  \              /
+                   \            /
+                    \          /
+              THE VERANDHI COAST
+           (ports, trade, technology,
+            non-magical competence)
+```
+
+### Distance and Travel
+
+- **Solathis to nearest Hearthland towns:** Half a day by river, a full day overland. Close enough for daily trade.
+- **Solathis to the Ashward Ridge:** Two to four days overland, depending on how deep into the hills. No river route — the terrain climbs. Isolation is geographic, not just social.
+- **Solathis to the coast:** Two to three days by river (downstream, with current). Four to five days returning upstream. River barges are the primary trade route.
+- **Communication across distance:** Resonance objects work regardless of distance (paired at creation), but they require channeling energy to use. In practice, distant communities communicate infrequently because every message costs trickle. The Ashward communities that are "going dark" are also going silent — they can't afford to call for help.
+
+**That last point is important:** The decline doesn't just weaken communities — it isolates them. As trickles shrink, the radius of communication and travel contracts. Each community becomes more alone, more dependent on its own diminishing resources. The geography of decline is the geography of isolation.
 
 ## History & Mythology
 *(To be developed — What do people believe about why magic exists? Are there myths about its origin? Prophecies about its end? What is the historical record of Wellsprings?)*
 
 ## Open Worldbuilding Questions
-- What does the broader geography look like — continents, nations, climate zones?
 - What do people believe about why magic exists and why it's fading?
 - How are Wellsprings treated by institutions? Is there precedent for managing them?
-- What does the economy look like? What are the major industries?
+- What does the economy look like? What are the major industries beyond agriculture and mining?
 - How does law enforcement / military power work in a magic-dependent world?
 - At the end of the trilogy: does magic fade to zero for everyone, or does a faint ember remain?
+- What other nations does the Verandhi Coast trade with? How are they handling the decline?
+- What are the ancient ruins in the Verenthi Range like? Do people pilgrimage there?
+- Do the names Ashward, Verandhi, Verenthi work tonally, or do they need revision?
