@@ -23,7 +23,7 @@
 - The decline parallels climate change: uneven impact, political factions (denialists, preservationists, accelerationists, technologists, authoritarians), generational conflict, institutional failure
 - The generational power gap IS generational wealth made physical — older people have stronger trickles and have built systems that benefit them
 - Non-magical technology is emerging as a response to the decline, carrying social stigma
-- Primary setting: a grand city, stratified by generational magical power, fraying at the edges
+- Primary setting: **Solathis** — a grand city named for its reluctant founder, stratified by generational magical power, fraying at the edges
 - Rural communities are hit hardest but are also inventing the future through necessity
 
 ### Protagonist ✓
@@ -97,7 +97,7 @@ The character foundation and thematic structure are strong. The books now need e
 - ~~**Book Three:** What is the "final expenditure"? What is he building? What does the antagonistic force of despair look like specifically?~~ ✓ Partially done — Movement leader takes a community (fails), patron gets redemption arc, mentor reveals full power, sister completes arc. The specific tipping-point project and the exact nature of the final expenditure remain open. See book-three/plan.md and series-outline.md.
 
 ### Priority 3: Worldbuilding Details
-- Name the city
+- ~~Name the city~~ ✓ Done — **Solathis**, named for Edrin Solath, the quartermaster who stayed and rebuilt after the final battle. See worldbuilding.md.
 - Sketch the geography (regions, nations, rural areas)
 - Develop history and mythology (origin myths about magic, historical Wellsprings, prophecies about the decline)
 - Detail the economy and political structures
@@ -114,7 +114,7 @@ Once characters and plot spine are established, build a chapter-by-chapter (or a
 
 ### Deferred Decisions
 - Does magic fade to zero or leave a faint ember?
-- Character names (protagonist, sister, city, all supporting cast)
+- Character names (protagonist, sister, all supporting cast)
 - ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, the patron threading throughout
 - The sister's specific career
 - ~~Exact mechanism of Wellspring activation~~ **Decided:** The reservoir was always dormant inside him; extreme stress during an infrastructure crisis cracks the seal

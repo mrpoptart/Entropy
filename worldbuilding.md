@@ -95,9 +95,23 @@ This means:
 - His situation is existentially lonely — there is no one who has been through this before, no mentor for this specific problem
 - The world will argue about what he means: a miracle, a death spasm of a dying system, a political asset, a theological sign. He is none of these things. He is a person with a countdown.
 
-## The Primary Setting: The City
+## The Primary Setting: Solathis
 
 A grand metropolis built across generations of abundant magic. The architecture is breathtaking and impossible — structures too large, too delicate, or too complex to stand without constant magical maintenance. A monument to what magic could build at its peak.
+
+### Founding
+
+Solathis was built on the site of the last battle of a war whose name most residents have forgotten. When the fighting ended, the ground was scarred and saturated with spent magic. Most survivors wanted to move on — build somewhere clean, somewhere unmarked. One person stayed.
+
+**Edrin Solath** was a quartermaster, not a general. He kept people alive during the war — organized supplies, treated the wounded, rationed what was left. When the battle ended and the officers moved on, Solath stayed behind with the dead and the people too hurt or too poor to leave. He organized the cleanup. He buried the dead. He laid the first foundations — not out of vision, but because someone had to, and no one else was doing it.
+
+The settlement grew around him the way a city grows around a well. People stayed because Solath had already made staying possible. He became the first mayor because he was already doing the job before the title existed.
+
+When the growing city needed a name, Solath refused the honor. He proposed something forward-looking — the name is lost to history, though scholars have argued about it for centuries. Nobody used it. The people had already been calling the place "Solath's" in casual speech, and that's how cities actually get named: not by decree, but by habit. Over generations, "Solath's" softened into "Solathis," and the formal suffix gave it a weight the founder would have hated.
+
+**What locals know:** Every child in Solathis grows up hearing some version of this story. The details shift — in some tellings Solath was a healer, in others a soldier who refused to leave. The core stays the same: the city exists because one stubborn person wouldn't abandon a ruined place, and the people loved him enough to ignore his wishes about the name.
+
+**The irony the narrative can use:** Solathis was built by someone who solved problems by staying and doing the work. The city that bears his name is now full of people debating the decline from comfortable chairs in elder districts, waiting for someone else to fix it.
 
 **Stratification by generational power:**
 - *Elder districts:* Maintained by residents with strong trickles. Buildings gleam. Infrastructure works. Life feels normal. The powerful live here and see no crisis.
@@ -119,13 +133,12 @@ Non-magical technology is being developed as a direct response to the decline. M
 Technology carries social stigma in many circles. Using non-magical tools can be seen as an admission of weakness, a betrayal of tradition, or a sign of poverty. In other circles — particularly among the young, the poor, and the pragmatic — it's the future.
 
 ## Geography
-*(To be developed — the city needs a name, surrounding regions need shape, rural areas where decline is most advanced need sketching)*
+*(To be developed — surrounding regions need shape, rural areas where decline is most advanced need sketching)*
 
 ## History & Mythology
 *(To be developed — What do people believe about why magic exists? Are there myths about its origin? Prophecies about its end? What is the historical record of Wellsprings?)*
 
 ## Open Worldbuilding Questions
-- What is the city called?
 - What does the broader geography look like — continents, nations, climate zones?
 - What do people believe about why magic exists and why it's fading?
 - How are Wellsprings treated by institutions? Is there precedent for managing them?
