@@ -99,6 +99,8 @@ This means:
 
 A grand metropolis built across generations of abundant magic. The architecture is breathtaking and impossible — structures too large, too delicate, or too complex to stand without constant magical maintenance. A monument to what magic could build at its peak.
 
+**And a city in entirely the wrong place.**
+
 ### Founding
 
 Solathis was built on the site of the last battle of a war whose name most residents have forgotten. When the fighting ended, the ground was scarred and saturated with spent magic. Most survivors wanted to move on — build somewhere clean, somewhere unmarked. One person stayed.
@@ -112,6 +114,30 @@ When the growing city needed a name, Solath refused the honor. He proposed somet
 **What locals know:** Every child in Solathis grows up hearing some version of this story. The details shift — in some tellings Solath was a healer, in others a soldier who refused to leave. The core stays the same: the city exists because one stubborn person wouldn't abandon a ruined place, and the people loved him enough to ignore his wishes about the name.
 
 **The irony the narrative can use:** Solathis was built by someone who solved problems by staying and doing the work. The city that bears his name is now full of people debating the decline from comfortable chairs in elder districts, waiting for someone else to fix it.
+
+### The Wrong Place
+
+Solath didn't choose the site. He just refused to leave it. And for generations, that didn't matter — because when you have abundant magic, you can build anywhere. You can level rocky ground, channel rivers uphill, fuse unstable bedrock, heat stone walls without chimneys, grow gardens in gravel. The Ancient channelers who built Solathis into a grand city didn't worry about the terrain because *the terrain was irrelevant to people that powerful.*
+
+**Without magic, Solathis is nearly uninhabitable:**
+
+- **The ground is wrong.** The city sits on a rocky plateau above the river confluence, not in a gentle valley. The "flat" surfaces of the grand districts were channeled level — bedrock sheared, rubble fused, terrain reshaped by brute magical force. Beneath every plaza and boulevard is geology that doesn't want to be flat. Without continuous reinforcement, the ground shifts, cracks, and settles unevenly.
+
+- **The water is wrong.** The rivers flow through deep-cut gorges below the city, not at street level. Water reaches the upper city through magically maintained aqueducts and channeled lift systems — stone channels where teams of channelers push water uphill daily. Without them, the city has no drinking water above the gorge floor. The lower city floods seasonally; the upper city dries out. Wells require channeling to reach the water table through solid rock.
+
+- **The climate is wrong.** The plateau catches the full force of cold wind off the Verenthi Range to the north. Solathis's architecture was designed to be heated by channeling — the buildings have no hearths, no chimneys, no fireplaces. Walls are thin and elegant, built for beauty and acoustics, not insulation. The grand architecture that makes the city breathtaking is thermally catastrophic. In winter without magic, the buildings are stone-walled wind tunnels.
+
+- **The soil is wrong.** The plateau is rock and thin subsoil — the rich alluvial farmland is in the river valleys below and beyond. Solathis has never grown its own food. Everything is imported from the Hearthlands via magically powered transport. The city is a consumer, fed by a supply chain that runs on channeling at every step.
+
+- **The terrain is wrong.** The gorges, ridges, and rocky ground that surround the city resist roads, wheels, and animal transport. Overland approaches were channeled smooth — magic-fused stone roadways that are now cracking and heaving as the reinforcements weaken. Without maintained roads, the city is naturally isolated by its own terrain.
+
+**What this means for the narrative:**
+
+The protagonist — with his intellect and his tinkerer background — can see this problem clearly, and it's the one his power can't solve. He can reinforce a building, channel water uphill, heat a district. But he can't permanently reshape the geography. The moment he stops channeling, the plateau is still rock, the rivers are still in gorges, the wind still howls off the mountains. His Wellspring can hold the city together, but it can't make the city *work* without magic. That would require either abandoning the site or rebuilding everything from the foundations up — chimneys, insulation, gravity-fed water, new roads. Generations of work. Not a Wellspring's work.
+
+The rural communities — the Hearthlands, the coast, even the struggling Ashward — are in places that *make sense* without magic. Flat land, accessible water, natural shelter, soil you can farm with your hands. The "backwards" communities aren't just culturally ahead of Solathis in adapting to the decline — they're *geographically* ahead. They're in places where non-magical life is physically possible. Solathis isn't.
+
+This is the deep structural problem of Book Three: the transition isn't just "learn to live without magic." For Solathis, it's "learn to live without magic in a place that only exists because of magic." The answer might be painful — dispersal, relocation, a city that shrinks to fit what the terrain can actually support. The protagonist can't magic his way around geography. Nobody can.
 
 **Stratification by generational power:**
 - *Elder districts:* Maintained by residents with strong trickles. Buildings gleam. Infrastructure works. Life feels normal. The powerful live here and see no crisis.
@@ -138,13 +164,15 @@ Technology carries social stigma in many circles. Using non-magical tools can be
 
 The story takes place within a single large nation-state — think the scale of France or California. Other nations exist but are peripheral to this story. The world is large, but the narrative is local.
 
-The landscape is shaped by a central river system flowing south from a mountain range to a warm coast. Solathis sits at the confluence of two major rivers, roughly in the geographic center of the nation — the classic city placement, where water, trade, and agriculture meet.
+The landscape is shaped by a central river system flowing south from a mountain range to a warm coast. Solathis sits on a rocky plateau above the confluence of two major rivers — not the classic, sensible city placement where water and trade meet at a gentle crossroads, but a defensible high-ground position chosen by a war, not by urban planners. The rivers are below in gorges. The good farmland is further out. The wind comes straight off the northern mountains. It's a place where a battle happened to end, and a stubborn man happened to stay.
+
+Every other settlement in the region is in a location that makes practical sense. Solathis is the exception — a city that exists where it does because magic made the question of "is this a good place to live?" irrelevant. That question is becoming relevant again.
 
 ### The Kharren Fault
 
-Solathis was built on geologically unstable ground. A major fault line runs beneath the river confluence — the Kharren Fault, named for the tremors that early settlers felt and ancient channelers simply... handled. When magic was abundant, seismic reinforcement was trivial. Channelers poured energy into the bedrock, dampening vibrations, stabilizing foundations, fusing weak points in the substrate. The city's founders built on a fault line the way a wealthy person builds on a floodplain: the infrastructure handles it, so why worry?
+The plateau's problems go deeper than surface terrain. A major fault line runs beneath the river confluence — the Kharren Fault, named for the tremors that early settlers felt and ancient channelers simply... handled. When magic was abundant, seismic reinforcement was trivial. Channelers poured energy into the bedrock, dampening vibrations, stabilizing foundations, fusing weak points in the substrate. Just one more problem the terrain posed that magic made irrelevant.
 
-Three generations later, the infrastructure is failing. The reinforcement teams are smaller, weaker, stretched thinner. The geology hasn't changed. The magic has.
+Three generations later, the reinforcement teams are smaller, weaker, stretched thinner. The geology hasn't changed. The magic has. The fault is the most dramatic example of Solathis's fundamental problem — a city built by people who never had to ask "but what happens when we can't do this anymore?"
 
 **The earthquake in Book One is not a surprise.** It's the inevitable result of building a city on unstable ground and then losing the ability to keep it stable. The "partly natural, partly consequence of weakened magical reinforcements" framing is the institutional version — politically convenient because it distributes blame. The truth is simpler: they built where they shouldn't have, and they can't afford to hold it together anymore.
 
