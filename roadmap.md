@@ -96,12 +96,12 @@ The character foundation and thematic structure are strong. The books now need e
 - ~~**Book Two:** What does the protagonist try to change and how does it go wrong? Who opposes him? What is the temptation?~~ ✓ Done — Proof-of-concept district as building project, the Levelers emerge from post-earthquake radicalization, the efficiency technique as temptation (rejected for preservation, adopted for capability), the sibling reckoning, ~15-20% reservoir remains. See book-two/plan.md and series-outline.md.
 - ~~**Book Three:** What is the "final expenditure"? What is he building? What does the antagonistic force of despair look like specifically?~~ ✓ Partially done — Movement leader takes a community (fails), patron gets redemption arc, mentor reveals full power, sister completes arc. The specific tipping-point project and the exact nature of the final expenditure remain open. See book-three/plan.md and series-outline.md.
 
-### Priority 3: Worldbuilding Details
-- ~~Name the city~~ ✓ Done — **Solathis**, named for Edrin Solath, the quartermaster who stayed and rebuilt after the final battle. See worldbuilding.md.
-- Sketch the geography (regions, nations, rural areas)
-- Develop history and mythology (origin myths about magic, historical Wellsprings, prophecies about the decline)
-- Detail the economy and political structures
-- Flesh out daily life vignettes for different social strata
+### Priority 3: Worldbuilding Details ✓
+- ~~Name the city~~ ✓ Done — **Solathis**, named for Edrin Solath, the quartermaster who stayed and rebuilt after the final battle.
+- ~~Sketch the geography~~ ✓ Done — Kharren Fault, Hearthlands, Ashward Ridge, Verandhi Coast, Verenthi Range. Full geographic summary with distances and travel.
+- ~~Develop history and mythology~~ ✓ Done — Gift/Loan/Cycle origin traditions, Ancient generation and ruins, recorded history (High Age → Transition → Long Diminishment → Present), no Wellspring prophecies (unprecedented).
+- ~~Detail the economy and political structures~~ ✓ Done — Trickle-based economy, seven major industries, currency/wealth dimensions, City Council governance, warden-based law enforcement, expanded political factions.
+- ~~Flesh out daily life vignettes~~ ✓ Done — Four vignettes: elder in upper districts, middle-generation worker, young adult in lower districts, person without magic (pre-Wellspring protagonist). All in worldbuilding.md.
 
 ### Priority 4: Book One Outline
 Once characters and plot spine are established, build a chapter-by-chapter (or act-by-act) outline for Book One.
@@ -133,7 +133,7 @@ trilogy/
 ├── series-outline.md            ← Full three-book plot outline [CURRENT]
 ├── themes.md                    ← Thematic deep dive [CURRENT]
 ├── worldbuilding.md             ← Magic system, world, city, society [CURRENT]
-├── timeline.md                  ← [PLACEHOLDER]
+├── timeline.md                  ← Historical arc and book-by-book timeline [CURRENT]
 ├── characters/
 │   ├── index.md                 ← Quick reference for all characters [CURRENT]
 │   ├── protagonist.md           ← Full character profile [CURRENT]

@@ -279,14 +279,216 @@ Other nations exist. They're experiencing the same decline — magic is planetar
 **That last point is important:** The decline doesn't just weaken communities — it isolates them. As trickles shrink, the radius of communication and travel contracts. Each community becomes more alone, more dependent on its own diminishing resources. The geography of decline is the geography of isolation.
 
 ## History & Mythology
-*(To be developed — What do people believe about why magic exists? Are there myths about its origin? Prophecies about its end? What is the historical record of Wellsprings?)*
+
+### What People Believe About Magic's Origin
+
+There is no single creation myth. Like religion in our world, beliefs about magic's origin vary by region, generation, and class — and the disagreements matter politically.
+
+**The Gift tradition (dominant in Solathis and institutional circles):**
+Magic is a gift — bestowed by the world itself, or by something older than the world, as a birthright for humanity. The Gift tradition doesn't specify a giver (it's deliberately vague on theology), but it carries an implicit claim: magic is *meant* for people. It belongs to them. This framing underpins the establishment's position — if magic is humanity's birthright, then its decline is an aberration, something that shouldn't be happening and might be fixable.
+
+The Gift tradition is comforting to elders. It's increasingly hollow to the young.
+
+**The Loan tradition (older, rural, gaining traction):**
+Magic was never given — it was lent. The world accumulated magical energy over geological timescales, and humanity learned to draw on it, but the reservoir was always finite and always being spent down. The Loan tradition treats the decline not as a catastrophe but as the natural end of a temporary condition. It's less a religion than a philosophical stance: *we were guests at a table, and the meal is ending.*
+
+This is the tradition the mentor's worldview aligns with, though he'd never frame it in these terms. The Ashward Ridge communities and the Verandhi Coast tend toward Loan thinking — partly because they've been adapting longer, partly because the Gift tradition offers them nothing.
+
+**The Cycle theory (academic, minority):**
+Some scholars argue magic is cyclical — that the planetary reservoir has filled and emptied before, over timescales longer than recorded history. If true, the decline is a low point, not an end. This theory is comforting but unfalsifiable, and its main political function is to justify inaction: *why restructure society for a temporary dip?*
+
+The protagonist's journey implicitly settles the question for the reader (the Loan tradition is closest to truth), but the narrative never states this outright. The world doesn't get a definitive answer. People have to act without one.
+
+### The Ancient Generation and the Ruins
+
+The oldest structures in the world — the mountain roads, the carved peaks of the Verenthi Range, the deep foundations of Solathis — were built by channelers so powerful that no living person can comprehend their capacity. The Ancient generation (dead for over a century by Book One) wielded daily trickles of ~50,000 kJ. They shaped stone like clay. They carved roads across gorges, built structures into living mountainsides, fused bedrock into foundations that were meant to last forever.
+
+**They didn't think they were building for a declining world.** The Ancients assumed their children would be as powerful as they were. Their architecture, their infrastructure, their entire civilization was designed for people with 50,000 kJ/day maintaining it. They had no reason to think otherwise — the decline was a gentle slope in their era, measurable only in hindsight.
+
+**The ruins in the Verenthi Range** are what happens when that assumption breaks. Carved halls in living rock. Roads that bridge chasms on arches of fused stone. Observatories at impossible altitudes. Monuments to channelers who moved mountains because they could and because they thought someone would always be there to maintain what they built.
+
+No one maintains them now. The roads are cracking. The carved halls are dark and cold. The arches hold — stone is patient — but the smaller works, the ones that needed regular channeling to stay intact, have been crumbling for generations.
+
+**Do people visit them?** Yes. The ruins draw three kinds of visitors:
+- **Scholars and archivists** who study Ancient techniques, looking for efficiency insights. Some of the efficiency techniques that survive (including the foundations of what the protagonist learns in Book Two) were reverse-engineered from Ancient construction methods.
+- **Pilgrims and mourners** who visit to feel the scale of what's been lost. For some, the ruins are a temple. For others, a graveyard. The emotional valence depends on whether you think the golden age is coming back.
+- **Salvagers** who strip usable materials and intact mechanisms from abandoned sites. This is technically illegal in Solathis's jurisdiction but widely practiced in the Ashward, where Ancient-era stone and metalwork are too valuable to leave rotting in the mountains.
+
+### Recorded History (Broad Strokes)
+
+The world doesn't have a single calendar era. Dates are reckoned from local founding events — Solathis counts years from its settlement ("Year of the City"). Other regions use other references. This makes precise cross-regional chronology difficult, which is historically realistic and narratively useful: people argue about when things happened, not just why.
+
+**The rough arc:**
+
+- **The High Age (roughly 300–150 years before Book One):** The Ancient generation's peak. Magic at its strongest. The grand architecture of Solathis built. Mountain roads carved. The world shaped to human will. Population growth, cultural flourishing, institutional expansion. The assumption that this was permanent.
+
+- **The Transition (roughly 150–80 years before Book One):** The first measurable decline. Elder channelers noticed their children were weaker. Debate began — cyclical? Temporary? The first political factions formed. Institutions started recording trickle measurements systematically. Denial was easy because the decline was slow and the Ancients were still alive, still powerful, still holding everything together.
+
+- **The Long Diminishment (roughly 80 years before Book One to present):** The Ancients died. Their children — the current Elder generation — inherited systems built for people twice as powerful. The decline became undeniable. Infrastructure maintenance shifted from routine to crisis management. Rural communities began failing. The political factions hardened. Non-magical technology emerged from necessity. Each generation born weaker than the last, inheriting more than they could maintain.
+
+- **The Present:** The Elder generation holds most of the power — political, economic, and literal. The Established generation manages, increasingly stretched. The Middle generation struggles openly. The Young generation is the first to grow up knowing they'll never have what their grandparents had. The decline is no longer debatable. The response is.
+
+### Prophecy and the Wellspring
+
+**There are no Wellspring prophecies.** This is important. In a genre full of Chosen One narratives, this world has no framework for what the protagonist becomes. No ancient texts predict him. No seers foresaw him. No mythology includes a figure like him.
+
+The Wellspring is genuinely unprecedented — and the world's reaction reflects that. When he activates, the institutional response isn't "the prophecy is fulfilled" but "what the hell is this?" Scholars scramble to explain it. Religious figures try to claim it. Politicians try to use it. Nobody has a playbook.
+
+Some people *will* retroactively construct prophecies — reinterpreting old texts, claiming ancient poets foresaw the Wellspring. This is historically accurate (people always find prophecies after the fact) and narratively useful: it shows how mythology gets manufactured in real time. The protagonist watches people build a mythology around him that has nothing to do with who he actually is.
+
+**What prophecy-like traditions do exist:** There are old sayings, folk wisdom, and poetic traditions about the decline. "The last light burns brightest" is the kind of proverb that circulates — not a prophecy, just the fatalistic poetry of people watching something end. These sayings get weaponized after the Wellspring activates. "See? The old poets knew." They didn't. They were just sad.
+
+## Economy
+
+### The Fundamental Economic Unit: The Trickle
+
+In a magic-dependent civilization, a person's daily trickle IS their primary economic asset. Your trickle determines what jobs you can hold, what maintenance you can contribute, what services you can access. Money exists — physical currency, trade ledgers, the usual mechanisms — but wealth and trickle power are deeply entangled.
+
+**An elder with 10,000 kJ/day is not just magically powerful — they are economically productive in ways a young adult with 1,000 kJ/day cannot match.** An elder healer sees ten patients. A young one sees two. An elder construction worker does the job of five younger workers. An elder farmer maintains yields a young farmer cannot sustain. The labor market is rigged by physics.
+
+### Major Industries
+
+**Construction and Maintenance:**
+The largest employer in Solathis. Every grand building requires daily channeling to remain stable. Maintenance crews work in shifts — channeling teams that cycle through districts, reinforcing foundations, repairing weather damage, sustaining the structural integrity of architecture that was never designed to stand on its own. This is blue-collar channeling work: physical, exhausting, essential. As trickles weaken, crews grow larger and less effective. The waiting list for structural repairs in young/poor districts stretches into months.
+
+**Healing:**
+A prestige profession — and an increasingly scarce one. Healers are trained at institutional academies (the best are in Solathis). The training takes years because healing requires anatomical knowledge, not just raw power. An untrained channeler dumping energy into a patient does more harm than good. Elder healers are the backbone of medical care; their retirement or death creates immediate, visible crises. Young healers can handle minor injuries but lack the trickle for serious procedures. The gap is the most viscerally felt consequence of the decline — people die of treatable injuries because there isn't enough healing capacity to go around.
+
+**Agriculture (Hearthlands-based, city-dependent):**
+Solathis imports nearly all its food from the Hearthlands. Agricultural channeling — accelerating growth, enriching soil, protecting crops from frost and pests — is physically demanding work that compounds with the decline. The food supply chain runs on channeling at every stage: growing, harvesting (enhanced strength), transport (powered barges and carts), preservation (temperature control). Rising food prices in Solathis are the economic canary.
+
+**Transport and Trade:**
+River barges powered by channeler teams move goods between Solathis, the Hearthlands, and the Verandhi Coast. Overland transport uses channeler-assisted carts on magic-fused roadways. Both are degrading — barge crews are smaller and weaker, roads are cracking, journey times are lengthening. The Verandhi Coast has the most robust trade networks because maritime commerce never fully depended on channeling (you can't channel the wind reliably — sails and seamanship always mattered).
+
+**Tinkering and Mechanical Engineering:**
+A small, stigmatized, rapidly growing industry. Non-magical tools, mechanical systems, chemical processes — invented by necessity in the Ashward and on the Verandhi Coast, slowly creeping into Solathis. In Solathis, tinkering is still seen as a hobby for eccentrics or a crutch for the magically weak. The mentor's workshop is socially marginal. This changes across the trilogy as the decline makes tinkering's value undeniable.
+
+**Mining (Ashward Ridge):**
+Mineral extraction — metals, stone, coal — using channeling for shaft reinforcement, rock-breaking, and ventilation. As trickles weaken, mines become unsafe. Cave-ins increase. Ventilation fails. The Ashward's mining communities are among the first to face the choice between adapting and dying. Some shift to timber-framed mechanical mining. Many just close.
+
+**The resonance trade:**
+Paired resonance objects (the world's communication technology) must be created together by a skilled channeler. The objects themselves are inert — they need a user to channel into them — but their creation is a specialized craft. Resonance artisans are well-paid, and as communication becomes harder (weaker trickles = fewer messages sent), existing pairs become more valuable. A thriving secondary market in pre-made resonance pairs drives prices up and access down.
+
+### Currency and Wealth
+
+Physical currency exists — coins, trade notes — backed by institutional authority. But real wealth is measured in three dimensions:
+
+1. **Money** — traditional currency, property, goods
+2. **Trickle** — your personal magical capacity (not transferable, but it determines your earning power)
+3. **Access** — institutional connections, district residency, guild membership
+
+The elder generation dominates all three. They have the money (accumulated over longer, more productive careers), the trickle (born stronger), and the access (they built the institutions). This triple advantage is the economic engine of generational inequality — and it's the material basis for the Levelers' arguments in Book Two.
+
+**Debt and dependency:** People without adequate trickles for their district's maintenance obligations sometimes pay others to cover their share — creating a class of trickle-debtors, disproportionately young, who owe a portion of their already-thin daily budget to more powerful neighbors. This is one of the quiet cruelties the protagonist experienced before activation.
+
+## Political Structure
+
+### Solathis Governance
+
+Solathis is governed by a **City Council** — a body of directors, each overseeing a major institutional domain. The patron is Director of Infrastructure, one of the most powerful seats because infrastructure maintenance is the most resource-intensive function of city government.
+
+**Council seats are not elected.** They're appointed through a process of institutional advancement — rising through the bureaucracy, earning endorsements from sitting directors, demonstrating competence within the system. In practice, this means the Council is self-perpetuating: the people who built the system select the people who will maintain it. Elders dominate because the system was designed by and for elders.
+
+**District governance** operates through neighborhood councils — more informal, locally elected or consensus-based. These have real authority over daily life (maintenance schedules, dispute resolution, resource allocation within the district) but no power over citywide policy. The gap between district-level governance (responsive, under-resourced) and city-level governance (powerful, disconnected) is a source of ongoing tension.
+
+**The patron's position** gives her control over maintenance budgets, construction priorities, and emergency response — which is to say, control over which districts function and which don't. Her power is administrative, not dramatic, which makes it all the more entrenched.
+
+### Law and Order
+
+**Law enforcement runs on channeling.** City wardens are trained channelers — not a separate military caste, but civic officers with combat-relevant channeling skills. Their authority rests on being physically more capable than the people they police. In practice, this means:
+
+- **Elder wardens are effective.** They have the trickle to restrain, pursue, and overpower.
+- **Young wardens are outmatched.** A young warden with 1,000 kJ/day trying to apprehend an elder criminal with 10,000 kJ/day is bringing a candle to a bonfire. This is not a theoretical problem — it's a daily reality in districts where elder residents refuse warden authority.
+- **The Wellspring disrupts everything.** When the protagonist activates, he is more powerful than every warden in the city combined. The question of who can hold him accountable, who can arrest him if needed, becomes an unspoken crisis. It's one of the reasons the patron moves to keep him within institutional control — outside the system, he's ungovernable.
+
+**Criminal law** follows standard patterns — courts, advocates, judges — but sentencing can include channeling-based penalties: forced labor on maintenance crews, trickle-monitoring (a humiliating surveillance), or district exile. The system assumes magic makes enforcement possible. The decline is eroding that assumption.
+
+**Military structure** exists at the national level but matters little for the trilogy's scope. Solathis maintains a ceremonial guard and contributes channelers to national defense obligations. The last significant military conflict was generations ago. The military is an institution in decay, its relevance fading with the trickle — which means the nation's ability to respond to external threats is declining alongside everything else.
+
+### Political Factions (Expanded)
+
+The five factions introduced earlier aren't formal parties — they're tendencies, social currents, the way people sort themselves when arguing about the decline.
+
+**Denialists:** Strongest among elders and the established generation. Their argument: the decline is measurable but exaggerated by alarmists, and historical cycles suggest recovery. Denialists hold institutional power because the people who run institutions have the least incentive to acknowledge that the institutions are failing. The patron is not a denialist — she sees the numbers clearly — but she operates within a system full of them.
+
+**Preservationists:** The political center. Ration magic use, regulate waste, extend the timeline. Preservationist policy sounds reasonable and is often authoritarian in practice — rationing means someone decides who gets how much, and that someone is usually an elder with a comfortable trickle. The protagonist encounters preservationist logic in Book Two when the Levelers demand redistribution: the establishment's counter-argument is always "managed decline," which means managed by the people at the top.
+
+**Accelerationists:** A small, passionate, mostly young faction. If magic is ending, spend it all — build one last great thing, live fully, don't ration beauty. Accelerationism is emotionally compelling and practically suicidal. It has cultural influence disproportionate to its political power — accelerationist art, music, and philosophy are the voice of a generation that knows it's inheriting ruins.
+
+**Technologists:** The pragmatists. Build alternatives. The mentor is a technologist in practice if not in political identity. The Verandhi Coast is the technologist heartland. In Solathis, technologists are a growing but stigmatized minority — the tinkerer community the protagonist belongs to before activation. By Book Three, the technologists' position has been vindicated by events, but "I told you so" doesn't heal the damage done by decades of delay.
+
+**Authoritarians:** Centralize remaining magic under state control for "optimal allocation." This faction has real intellectual weight — if the resource is finite and shrinking, centralized management is a defensible position. Its adherents include well-meaning technocrats and power-hungry opportunists in roughly equal measure. The patron's institutional instincts lean authoritarian under pressure, which is part of what makes her the Book One antagonist.
+
+## Daily Life — Vignettes by Social Stratum
+
+These are reference sketches: what a typical day feels like at different levels of the generational-economic hierarchy. Written to ground scene-writing in physical, sensory detail.
+
+### An Elder in the Upper Districts
+
+She wakes in a home that holds last night's warmth — the walls are thick channeled stone, and she reheated them before bed. Her morning routine is unhurried. She channels warm water for washing (a few hundred kJ, barely noticed). Breakfast is fresh bread from the Hearthlands, fruit preserved by a neighbor's channeling, tea heated in her hands.
+
+She walks to her post — an administrative office, a healing clinic, a council chamber. The streets are clean, the buildings gleaming. Maintenance crews were here this morning, reinforcing, repairing. The district hums. She passes younger workers heading to channeling shifts and feels a distant sympathy for how tired they look.
+
+At work, she uses her trickle freely — healing patients (she can see a dozen today), reviewing structural reports, communicating by resonance with colleagues across the city. By evening she's spent perhaps 6,000 of her 10,000 kJ. She has energy to warm the house again, cook dinner, send a resonance message to her daughter. She goes to bed comfortable, the deficit of the day fully replenished by morning.
+
+**What she doesn't see:** The maintenance crew that serviced her street this morning pulled workers from a young district that's been on a three-month waiting list. The food on her table traveled here on a barge crewed by channelers who collapsed from exhaustion at the dock. Her daughter's resonance message was short because her daughter can't afford the trickle for a long conversation.
+
+*The decline is theoretical to her. A number in a report. She knows it's real the way someone knows about a famine in another country.*
+
+### A Middle-Generation Worker
+
+He wakes cold. The walls held some warmth from last night, but not enough — his channeling before bed was thinner than it used to be, and the stone bleeds heat faster than he can replenish it. He channels warmth into his hands and holds them against his face for a moment. A small comfort that costs 10 kJ he'll notice by afternoon.
+
+Breakfast is simpler — porridge, dried fruit, tea that he heats carefully (84 kJ output, ~210 kJ at his basic-to-competent efficiency). His wife channels the water warm for washing. Between them, they've spent 400 kJ before leaving the house. They have 5,000 between them for the day.
+
+He works a maintenance shift in a middle district — four hours of steady channeling into building foundations, road surfaces, drainage channels. It's physical in a way that wasn't true twenty years ago; his father did this work casually. He spends ~1,200 kJ on the shift and comes home with his hands shaking. Lunch is quick. The afternoon is errands — a resonance message to his mother (50 kJ he debates spending), shopping for dinner at prices that have risen again this season.
+
+By evening he's spent, in both senses. He channels a thin warmth into the bedroom walls, wraps a blanket around his shoulders, and sleeps deeply because his body needs the recharge.
+
+**What he knows:** He's losing ground. The gap between what his district needs and what the crews can provide is widening. He's heard the Levelers speak and found himself nodding at things he'd have dismissed five years ago. He doesn't attend their meetings. He's too tired after work.
+
+*The decline is a daily arithmetic problem. He does the math every morning and hopes the answer stays above zero.*
+
+### A Young Adult in the Lower Districts
+
+She wakes in a cold room and doesn't bother channeling it warm — at 1,000 kJ/day, heating is a luxury she can't justify before a shift. She dresses in layers. Pulls on work boots that are wearing through because the cobbler's repair channeling costs more than she can pay. Eats yesterday's bread and drinks water she carried from the district pump (the channeled water system in her neighborhood failed last month and hasn't been repaired).
+
+Her maintenance shift starts before dawn. She's part of a crew of eight young channelers doing work that two elders used to handle. They rotate through a failing residential block — reinforcing load-bearing walls, patching drainage cracks, shoring up a staircase that's been slowly separating from its building. Each of them contributes 200-300 kJ over three hours. Together they accomplish roughly what one elder could do in an hour. The building will need them again next week.
+
+After the shift, she has 600-700 kJ left for the day. She works a second job — packing goods at a trade warehouse, physical labor that doesn't require channeling. The pay is worse but it doesn't drain her trickle. She eats lunch at the warehouse: a bowl of something warm from a communal pot, heated by an older worker whose trickle can afford it.
+
+Evening. She walks home past an elder district where the streetlamps still glow with channeled light. Her own street is dark — nobody has the trickle to waste on lighting. She heats a bowl of soup with her hands (84 kJ), sits in the half-dark, and thinks about tomorrow.
+
+**What she carries:** Anger that she manages into exhaustion. She's not stupid — she can see the elder districts from her window, can see that the crisis is distributed by birth year, not by effort or merit. She's heard the Levelers. She's attended two meetings. She's not sure redistribution would work, but she knows the current system isn't working either.
+
+A tinkerer in her building has rigged a wood-burning stove from salvaged metal and Ashward designs. It heats the common hallway. She didn't grow up with fire — it smells wrong, foreign, like something from before. She stands near it anyway. It's warm and it doesn't cost her anything.
+
+*The decline isn't a problem she's facing. It's the shape of her life. She's never known anything else.*
+
+### A Person Without Magic (Pre-Wellspring Protagonist)
+
+He wakes in his parents' home. The walls are warm — his mother channels the house every morning, spending a significant portion of her daily trickle to make sure he's comfortable. He knows the cost. He pretends he doesn't.
+
+He can't heat water. Can't warm his hands. Can't send a resonance message. He washes with cold water because asking his mother or sister to heat it for him would mean watching them spend their power on his inability. He's learned to dress fast.
+
+Walking to work — to the patron's office where he's an aide — he takes streets, not transit. The channeler-powered tram costs a small trickle contribution from each rider, a social courtesy he can't pay. He walks past people channeling casually: warming their cloaks, flicking small objects to their hands, greeting each other with a brief resonance touch. Every gesture is a reminder.
+
+At the patron's office, he does work that doesn't require magic: filing, organizing, carrying, fetching. He's good at it — meticulous, strong, cheerful. The cheerfulness is both real and performative. It makes people comfortable enough to forget what they'd feel if they stopped to think about his situation.
+
+Lunch in the tinkerer workshop with the mentor. The one hour of his day when his inability is an irrelevance. The mentor hands him tools, not condescension. They work on a mechanical project — a water pump, a lever system, something that works because of physics, not magic. His hands are good. His mind is better. Here, he's not broken. He's just someone doing work.
+
+Evening at home. The family sits together. His sister lights the room with a casual channeling gesture — a warmth that costs her 50 kJ and reminds him, even in the act of love, of the gap. His mother has made dinner, heating the stove with her hands. His father tells a story and squeezes his shoulder. Everything in this house is built on the quiet labor of people spending their power to include him in a world that isn't built for him.
+
+He goes to bed in a warm room he didn't warm. He lies in the dark and doesn't think about the future because the future is just more of this, forever, until he's old enough that people stop feeling sorry for him and start forgetting he exists.
+
+*He doesn't know the word for what he is. Later, other people will. Dead weight. He's heard it whispered. He smiles through it. He always smiles through it.*
 
 ## Open Worldbuilding Questions
-- What do people believe about why magic exists and why it's fading?
-- How are Wellsprings treated by institutions? Is there precedent for managing them?
-- What does the economy look like? What are the major industries beyond agriculture and mining?
-- How does law enforcement / military power work in a magic-dependent world?
+- ~~What do people believe about why magic exists and why it's fading?~~ ✓ Answered — Gift, Loan, and Cycle traditions. See History & Mythology.
+- ~~How are Wellsprings treated by institutions? Is there precedent for managing them?~~ ✓ Answered — No precedent. No prophecy. Institutional scramble. See History & Mythology.
+- ~~What does the economy look like? What are the major industries beyond agriculture and mining?~~ ✓ Answered — See Economy section.
+- ~~How does law enforcement / military power work in a magic-dependent world?~~ ✓ Answered — See Political Structure section.
 - At the end of the trilogy: does magic fade to zero for everyone, or does a faint ember remain?
 - What other nations does the Verandhi Coast trade with? How are they handling the decline?
-- What are the ancient ruins in the Verenthi Range like? Do people pilgrimage there?
+- ~~What are the ancient ruins in the Verenthi Range like? Do people pilgrimage there?~~ ✓ Answered — See History & Mythology.
 - Do the names Ashward, Verandhi, Verenthi work tonally, or do they need revision?
