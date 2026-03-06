@@ -47,19 +47,48 @@
 - Mother: fierce protector, defines herself by sacrificing for her son, sees his condition as her failure
 - Father: proud of his son's strength but quietly terrified about the future, fears he's failed as a father
 
-### Antagonist Framework (Conceptual) ✓
+### The Patron ✓
+- Female, late 50s to early 60s, senior civic administrator
+- Institutional power broker — believes the city's systems are what stand between civilization and chaos
+- Took the protagonist on as an aide for reasons both sincere (moved by his situation) and strategic (political optics)
+- When the Wellspring activates: protective instincts merge with institutional logic into escalating need to direct his power
+- Not a villain — a competent leader whose framework (people as functions within a system) becomes the primary antagonistic force of Book One
+- Embodies the limits of institutional thinking and the control-vs-stewardship theme
+- Her trajectory across the trilogy mirrors the protagonist's: both must lose the thing they built their identity on
+
+### The Tinkerer Mentor ✓
+- Male, late 60s to early 70s, runs a workshop in a poorer district
+- Has a strong elder-generation trickle but chose decades ago to stop relying on magic
+- Saw the decline coming and built a life and career on non-magical mechanisms
+- Not a purist — still uses his trickle practically — but his identity doesn't depend on it
+- Patient, dry-humored, teaches by doing, expresses care through attention and shared work
+- The protagonist's philosophical anchor and the living proof that identity beyond power is reachable
+- Steady presence across the trilogy, not a character who needs his own dramatic arc
+
+### Antagonist Framework ✓
 - No central villain — the decline has no cause to fight
-- Antagonists embody wrong responses to the crisis: control, denial/force, despair
-- Decision deferred on whether antagonists are distinct per book or a recurring figure
+- Antagonists embody wrong responses to the crisis, forming a grief progression: control (bargaining) → righteous force (anger) → despair (depression). The protagonist's arc completes the cycle with acceptance.
+- Book One: The Patron (control) — managerial, institutional
+- Book Two: The Levelers (righteous force) — a generational redistributionist movement. Systemic antagonism, not personal.
+- Book Three: The Movement Leader (despair) — the Levelers' leader, introduced in Book Two, breaks when the movement fails
+- The Patron threads through all three books, evolving in relation to each new force
+- Hybrid structure: institution in Book Two, a specific person emerging from its failure in Book Three
+
+### The Childhood Friend ✓
+- Female, same age as protagonist, grew up on the same street
+- Normal trickle, competent channeler — not exceptional, not struggling
+- The only person who refuses to treat the Wellspring as the most interesting thing about him
+- Represents the road not taken (ordinary life) and serves as the truth-teller
+- Their friendship is strained by his drift into power and tested by reconnection
 
 ## What Needs To Be Done Next
 
 ### Priority 1: Remaining Key Characters (Broad Strokes)
 Sketch the following characters at a high level — enough to understand their role, motivation, and relationship to the protagonist:
-- **The Patron** — Who are they? What do they actually want? How does the relationship evolve?
-- **The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?
-- **The Childhood Friend** — The person who knew him before. What's their situation?
-- **Antagonist(s)** — At least one primary antagonist fleshed out; decide on per-book vs. recurring
+- ~~**The Patron** — Who are they? What do they actually want? How does the relationship evolve?~~ ✓ Done
+- ~~**The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?~~ ✓ Done
+- ~~**The Childhood Friend** — The person who knew him before. What's their situation?~~ ✓ Done
+- ~~**Antagonist(s)** — At least one primary antagonist fleshed out; decide on per-book vs. recurring~~ ✓ Done
 
 ### Priority 2: Plot Development
 The character foundation and thematic structure are strong. The books now need external plot spines:
@@ -86,7 +115,7 @@ Once characters and plot spine are established, build a chapter-by-chapter (or a
 ### Deferred Decisions
 - Does magic fade to zero or leave a faint ember?
 - Character names (protagonist, sister, city, all supporting cast)
-- Antagonist structure (per-book or recurring)
+- ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, the patron threading throughout
 - The sister's specific career
 - Exact mechanism of Wellspring activation
 
@@ -100,7 +129,12 @@ trilogy/
 ├── characters/
 │   ├── index.md                 ← Quick reference for all characters [CURRENT]
 │   ├── protagonist.md           ← Full character profile [CURRENT]
-│   └── sister.md                ← Full character profile [CURRENT]
+│   ├── sister.md                ← Full character profile [CURRENT]
+│   ├── patron.md               ← Full character profile [CURRENT]
+│   ├── mentor.md               ← Full character profile [CURRENT]
+│   ├── childhood-friend.md     ← Full character profile [CURRENT]
+│   ├── antagonists.md          ← Antagonist framework & the Levelers [CURRENT]
+│   └── movement-leader.md     ← Full character profile [CURRENT]
 ├── book-one/
 │   ├── plan.md                  ← Premise, arc, beats, questions [CURRENT]
 │   ├── outline.md               ← [PLACEHOLDER]
