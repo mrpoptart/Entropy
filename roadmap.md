@@ -65,11 +65,21 @@
 - The protagonist's philosophical anchor and the living proof that identity beyond power is reachable
 - Steady presence across the trilogy, not a character who needs his own dramatic arc
 
-### Antagonist Framework (Conceptual) ✓
+### Antagonist Framework ✓
 - No central villain — the decline has no cause to fight
-- Antagonists embody wrong responses to the crisis: control, denial/force, despair
-- The patron embodies the "control" response in Book One
-- Decision deferred on whether Book Two/Three antagonists are distinct figures or recurring
+- Antagonists embody wrong responses to the crisis, forming a grief progression: control (bargaining) → righteous force (anger) → despair (depression). The protagonist's arc completes the cycle with acceptance.
+- Book One: The Patron (control) — managerial, institutional
+- Book Two: The Levelers (righteous force) — a generational redistributionist movement. Systemic antagonism, not personal.
+- Book Three: The Movement Leader (despair) — the Levelers' leader, introduced in Book Two, breaks when the movement fails
+- The Patron threads through all three books, evolving in relation to each new force
+- Hybrid structure: institution in Book Two, a specific person emerging from its failure in Book Three
+
+### The Childhood Friend ✓
+- Female, same age as protagonist, grew up on the same street
+- Normal trickle, competent channeler — not exceptional, not struggling
+- The only person who refuses to treat the Wellspring as the most interesting thing about him
+- Represents the road not taken (ordinary life) and serves as the truth-teller
+- Their friendship is strained by his drift into power and tested by reconnection
 
 ## What Needs To Be Done Next
 
@@ -77,8 +87,8 @@
 Sketch the following characters at a high level — enough to understand their role, motivation, and relationship to the protagonist:
 - ~~**The Patron** — Who are they? What do they actually want? How does the relationship evolve?~~ ✓ Done
 - ~~**The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?~~ ✓ Done
-- **The Childhood Friend** — The person who knew him before. What's their situation?
-- **Antagonist(s)** — At least one primary antagonist fleshed out; decide on per-book vs. recurring
+- ~~**The Childhood Friend** — The person who knew him before. What's their situation?~~ ✓ Done
+- ~~**Antagonist(s)** — At least one primary antagonist fleshed out; decide on per-book vs. recurring~~ ✓ Done
 
 ### Priority 2: Plot Development
 The character foundation and thematic structure are strong. The books now need external plot spines:
@@ -105,7 +115,7 @@ Once characters and plot spine are established, build a chapter-by-chapter (or a
 ### Deferred Decisions
 - Does magic fade to zero or leave a faint ember?
 - Character names (protagonist, sister, city, all supporting cast)
-- Antagonist structure (per-book or recurring)
+- ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, the patron threading throughout
 - The sister's specific career
 - Exact mechanism of Wellspring activation
 
@@ -121,7 +131,10 @@ trilogy/
 │   ├── protagonist.md           ← Full character profile [CURRENT]
 │   ├── sister.md                ← Full character profile [CURRENT]
 │   ├── patron.md               ← Full character profile [CURRENT]
-│   └── mentor.md               ← Full character profile [CURRENT]
+│   ├── mentor.md               ← Full character profile [CURRENT]
+│   ├── childhood-friend.md     ← Full character profile [CURRENT]
+│   ├── antagonists.md          ← Antagonist framework & the Levelers [CURRENT]
+│   └── movement-leader.md     ← Full character profile [CURRENT]
 ├── book-one/
 │   ├── plan.md                  ← Premise, arc, beats, questions [CURRENT]
 │   ├── outline.md               ← [PLACEHOLDER]
