@@ -103,8 +103,8 @@ The character foundation and thematic structure are strong. The books now need e
 - ~~Detail the economy and political structures~~ ✓ Done — Trickle-based economy, seven major industries, currency/wealth dimensions, City Council governance, warden-based law enforcement, expanded political factions.
 - ~~Flesh out daily life vignettes~~ ✓ Done — Four vignettes: elder in upper districts, middle-generation worker, young adult in lower districts, person without magic (pre-Wellspring protagonist). All in worldbuilding.md.
 
-### Priority 4: Book One Outline
-Once characters and plot spine are established, build a chapter-by-chapter (or act-by-act) outline for Book One.
+### Priority 4: Book One Outline ✓
+~~Once characters and plot spine are established, build a chapter-by-chapter (or act-by-act) outline for Book One.~~ ✓ Done — 21-chapter outline structured across four acts (Ordinary World & Activation, The Ascent, The Earthquake, The Reckoning). Includes reservoir tracking, character thread summary, and seeds planted for Book Two. See book-one/outline.md.
 
 ### Priority 5: Style & Voice
 - POV decisions (first person? close third?)
@@ -145,7 +145,7 @@ trilogy/
 │   └── movement-leader.md     ← Full character profile [CURRENT]
 ├── book-one/
 │   ├── plan.md                  ← Premise, arc, beats, questions [CURRENT]
-│   ├── outline.md               ← [PLACEHOLDER]
+│   ├── outline.md               ← 21-chapter outline with reservoir tracking [CURRENT]
 │   └── notes.md                 ← [PLACEHOLDER]
 ├── book-two/
 │   ├── plan.md                  ← Premise, arc, beats, questions [CURRENT]
