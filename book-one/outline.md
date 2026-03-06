@@ -91,54 +91,63 @@ The protagonist works on a project — a small mechanical device, the kind of fo
 
 ---
 
-### Chapter 4 — The Edge of the City
+### Chapter 4 — The Best Thing He Ever Did
 
-**POV:** The protagonist accompanies the patron on a political trip to a failing district. The setup for the Wellspring.
+**POV:** The protagonist brings the patron to his parents' building. Pride, catastrophe, activation.
 
-The patron is building political capital. A district on the city's edge — one of the poorest, youngest neighborhoods in Solathis — has been petitioning for infrastructure support for months. The heating grids don't function. The water systems are unreliable. The structural reinforcements that keep the plateau's edge from crumbling are visibly failing. The patron has organized an inspection and public meeting: she'll assess the damage, make promises, show the Council she's engaged with the city's margins.
+The protagonist has been on the job a few weeks. He's seen how the patron's office works — assessments, priorities, deployment schedules. He's also seen the cracks in his parents' building getting worse every year. The heating lattice on the third floor hasn't worked in months. The stairwell walls are fracturing. The foundation groans on cold mornings.
 
-She brings the protagonist. He's been on the job long enough now to be useful — he knows the filing systems, the engineering terminology, the political dynamics. She also brings him because he's good with people, and the residents of this district are angry.
+He makes his case to the patron: not as charity, but as good infrastructure work in a neglected district. The building is old — one of the oldest residential structures in this part of the city, dating back to the early post-founding era. There's historical significance. There's political value in showing the Council that the Director of Infrastructure cares about heritage and the margins equally. He frames it the way she's taught him to think — strategic, justified, serving multiple purposes at once. The patron agrees. She sees the value. She also sees her aide learning to speak her language, and she's pleased.
 
-The descent into the district: the protagonist sees Solathis from below. Down here, the city's architecture — designed for a level of magical maintenance that no longer exists — is actively hostile. Buildings sag. Walls crack and re-crack faster than the underpowered local channelers can patch them. The transit lifts in this district stopped working years ago; everyone takes the stairs, like the protagonist has done his whole life. For once, he's not the one at a disadvantage.
+The day arrives. The protagonist walks his parents through what's going to happen — a team of channelers will reinforce the foundations, restructure the load-bearing walls, restore the heating lattices. His mother is emotional. Her boy, who couldn't channel a heating stone, arranged for the Director of Infrastructure to fix their building. His father grips his shoulder. The sister is there — maybe she volunteered to help, or came to support the family. Neighbors gather to watch. This is an event.
 
-The inspection reveals the scope of the problem. The plateau's edge is unstable — the Kharren Fault runs directly beneath this district, and the channeled reinforcements that have absorbed geological stress for generations are thinning. Engineers show the patron readings she already knows but needs to see in person. The ground has been shifting. Slowly, but measurably. Everyone in the room is middle-aged or younger — the strongest channelers, the elder generation, don't live in districts like this. Nobody present has enough power to truly stabilize what's failing.
+The protagonist is proud. Genuinely, deeply proud. For the first time in his life, his job — his position, his relationship with the patron, his usefulness — is translating into something real for the people he loves. He stands beside the patron as the channelers begin work, and he feels like he's finally giving back what his family gave him for twenty-three years.
 
-The public meeting: residents confront the patron. They're scared, frustrated, articulate. Why does the upper city get priority? Why do their children grow up in buildings that might collapse? The patron is skilled at this — she listens, she acknowledges, she makes careful commitments. The protagonist watches her work and admires it, even as he recognizes the calculation underneath the compassion.
+**The work begins.** The channelers — a team of four or five, all middle-generation — start with the foundations. They channel reinforcing force into the base stone, stabilizing, restructuring. It's skilled work. The building is older and more compromised than the initial assessment showed — the original construction used techniques from a higher-magic era, and the load-bearing structure has been quietly degrading in ways that the surface-level inspections didn't catch.
 
-Then — the event that triggers the Wellspring. **[TO BE WORKSHOPPED — see notes below.]**
+**The failure.** As the channelers restructure a critical load-bearing wall, they destabilize something they didn't know was failing. The building's internal stresses — held in a fragile equilibrium for decades — shift. A deep groan runs through the stone. The channelers feel it before anyone else does: the load paths are rerouting through walls that can't handle them. They shift from construction to emergency stabilization, pouring their trickles into holding the structure. It's not enough. Their trickles dip — the work has already drained them, and the emergency demands more than they have left. The building shudders. Dust falls from the ceiling. Cracks race up the walls.
 
-Something happens in this district — a structural catastrophe tied to the failing reinforcements and the unstable ground. A sinkhole, a collapse, a cascading failure that puts lives in immediate danger. The people present — the protagonist, the patron, the residents, the engineers — are caught in it. The channelers in the room try to respond but don't have enough power. The protagonist is trapped, watching people die, unable to help.
+The patron orders evacuation. People scramble for the exits. Most of the residents are already outside watching the work. But the protagonist's family — his parents, his sister — are still inside. They were in the apartment, staying out of the way of the channelers, waiting for the work to be finished.
 
-The activation: the dormant reservoir — sealed inside him since birth, fifty gigajoules of raw magical force — cracks open under the pressure of extreme stress and the proximity of death. It erupts.
+**The protagonist runs in.** Against the patron shouting for him to stop. Against the channelers warning that the structure is shifting. He knows this building. He knows every stairwell — he's climbed them his entire life, every day, because the transit lift in this building stopped working years ago. He is fast — a lifetime of stairs, of manual labor, of being strong because strength was the only thing his body could offer.
 
-His first act of power is instinctive and chaotic: raw force slamming into the collapsing structure, bracing stone, holding ground. He has no training, no control, no understanding of what's happening to him. The power pours out wildly — wasteful, terrifying, magnificent. He holds up a section of ceiling that would have crushed people. He stabilizes shifting ground. The force coming out of him is on a scale that makes the local channelers stop and stare even in the middle of a crisis.
+He takes the stairs three at a time. He reaches the apartment. The ceiling has partially collapsed — a section of the floor above has come down. His father is pulling his sister toward the door. She's resisting — she's turned back toward the bedroom. The mother. A beam and a section of stone ceiling have come down on her. She's pinned — conscious, scared, in pain. Not crushed, but trapped. The rubble on top of her is heavy and the structure above is still shifting.
 
-He pulls people clear. He stabilizes the structure long enough for evacuation. He doesn't know how. The power works through him more than he works through it.
+**The sister.** She's channeling. Everything she has — focused, disciplined, precise. She's trying to lift the beam, or stabilize the rubble, or shift the weight enough to pull their mother free. Her hands are shaking. Her trickle is draining — she's already at the weak end of her generation, and the effort is enormous. She's the most skilled channeler her age and it's not enough. The beam barely moves. The rubble shifts and resettles. More dust falls from above.
 
-Then it's over. He collapses. Exhaustion, confusion, his hands shaking, his body unfamiliar.
+The protagonist gets his hands under the rubble. He lifts. Physically. With his body. The way he has solved every problem his entire life. His muscles strain. The stone is too heavy. He repositions, finds a better angle, braces his legs and pulls. It moves — barely. Not enough.
 
-The patron kneels beside him — genuine fear in her face (she cares about him), then her eyes change as she processes what just happened. She shields him from the gathering crowd. She gives orders — medical attention, privacy, no reports filed yet. She is protecting him. She is also, in this same breath, beginning to calculate.
+His mother is looking at him. His sister is looking at him. The building groans again and more of the ceiling cracks. They are running out of time.
 
-**Establish:** The physical reality of the decline at the city's edges. The Kharren Fault as a ticking bomb. The political dynamics of a stratified city. The Wellspring as unprecedented — nobody has a framework, no mythology, no playbook. The patron's dual response: genuine care and immediate institutional calculation.
+The sister's eyes meet his. Not blame. Not pity. The raw honesty of someone who has run out of options. She knows what he is in this moment. He knows what he is. He is exactly what he has always been — the person who can't help when it matters most.
 
-**Emotional beat:** The double shock — the terror of the collapse, then the overwhelming strangeness of power flooding a body that has never channeled. He doesn't feel triumphant. He feels like something broke inside him, and what came through the crack is enormous and unknown.
+His hands are on the stone. His muscles are failing. His mother is underneath. His sister is watching.
 
----
+**And something breaks.**
 
-#### Workshop Note: The Activation Event
+Not with a roar or a flash. Something inside him that was sealed — that was always sealed — cracks open. The power comes through the gesture he's already making. His hands are on the stone. He's lifting. The same motion — but now the stone moves.
 
-The specific catastrophe that triggers the Wellspring needs to be developed. Key constraints:
-- **Location:** A poor, young district on the city's edge, above the Kharren Fault
-- **People present:** The protagonist, the patron, district residents, engineers — all middle-aged or younger, nobody with enough channeling power to handle what's coming
-- **Unknown factor:** A sinkhole or geological instability that nobody knew about — the reinforcements masked the problem, and as they've weakened, the ground has been quietly failing
-- **Scale:** Big enough to threaten lives and overwhelm the local channelers, but localized — not a city-wide event (that's the earthquake later)
-- **Emotional trigger:** The protagonist must be in a position where people are going to die and he cannot help — the distillation of his lifelong helplessness into a single unbearable moment
+It erupts out of him — raw, uncontrolled, enormous. He has no training, no framework, no understanding of what's happening. The force pours through his hands and into the rubble and it doesn't just lift — it detonates outward. The beam flies. The stone scatters. The rubble pinning his mother blasts free.
 
-Possible directions to consider:
-1. **The sinkhole opens during the meeting** — the building they're in begins to drop as the ground beneath gives way. A localized collapse, not an earthquake. The channelers try to hold the building and can't.
-2. **A residential block collapses** — during the inspection walk, a building the patron is evaluating gives way. Residents are inside. The structural failure cascades.
-3. **The edge crumbles** — the plateau's edge, where the district sits, begins to calve away. A section of the district starts sliding toward the gorge. Not fast, but unstoppable with the power available.
-4. **A combination** — the sinkhole triggers a structural cascade in surrounding buildings. Multiple failures at once, overwhelming any single response.
+She's free. She's alive. She's hurt — the crushing left damage, she needs help — but she's alive.
+
+But the uncontrolled eruption doesn't stop at the rubble. The power radiates outward — into the walls, the floor, the already-failing structure. Cracks spiderweb through walls that were barely holding. A section of the apartment's outer wall blows outward. The ceiling above fractures further. His chaotic, untrained, wildly overpowered first act of magic saved his mother and tore through his family's home like a bomb.
+
+The building is done. Not collapsed — the channelers outside, feeling the shockwave of power, pour everything they have left into holding the main structure. But the apartment, the home, the place where his family has lived for decades — it's gutted. The walls are cracked beyond repair. The ceiling is open to the floor above. His mother's blood is on the rubble his power scattered.
+
+**The aftermath.** His mother is carried out. She's conscious, in pain, headed to the healers. She'll be okay — he knows this, the injuries are real but not mortal. His father is holding her hand, white-faced. His sister is staring at him. She felt the Wellspring activate — as a channeler, she felt it. The expression on her face is something he will never forget: shock, relief, confusion, and underneath all of it, something she'll never say aloud — the ground of her identity shifting in real time.
+
+The patron arrives at his side. Genuine fear in her face — she cares about him, cares about the family, this is real. But her eyes change as she processes what just happened. The scale of power she just felt. She gives orders — healers for the mother, temporary housing for the family, no reports filed yet, privacy, containment. She is protecting him. She is also, in this same breath, beginning to calculate.
+
+The family will be taken care of. The patron will make sure of that — she can't have this be a negative story. New housing, compensation, public assurances. But the home is gone. The building where his parents lived for decades, where he grew up, where his mother cooked breakfast with channeled heat and his father fixed things on the weekends — it's gone. And it's gone because he suggested this project. Because he was proud. Because he wanted to give back.
+
+His first act of power: saving his mother's life and destroying his family's home. The guilt and the gratitude, inseparable.
+
+**Establish:** The Wellspring as unprecedented — nobody has a framework, no mythology, no playbook. The activation triggered by the most personal possible stakes. The chaotic first burst as both salvation and destruction — the cost-of-power theme planted in the very first moment. The patron's dual response: genuine care and immediate institutional calculation. The protagonist's guilt: he brought the danger to his family's door.
+
+**Emotional beat:** Not triumph. Relief — enormous, shaking, tearful relief that his mother is alive. And underneath it, the double wound: the guilt of having caused this, and the overwhelming strangeness of power flooding a body that has never channeled. Something broke inside him, and what came through the crack is enormous and unknown and already cost him something he can never get back.
+
+The drive isn't celebration. It's the desperate need to make this mean something — to ensure that whatever just happened to him, whatever this power is, it has to be worth what it cost. His family lost their home because of him. His mother is in the hospital because of him. He has to make it count.
 
 ---
 
