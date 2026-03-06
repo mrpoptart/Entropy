@@ -6,8 +6,8 @@
 - **Age:** Early-to-mid 20s at the start of Book One
 - **Gender:** Male
 - **Location:** The city (name TBD) — the world's political and cultural center
-- **Magical Status (pre-Wellspring):** None. Born without any magical ability — not even the ordinary renewable trickle. Effectively disabled in a world that runs on magic.
-- **Magical Status (post-Wellspring):** The most powerful channeler alive. Massive finite reservoir, non-renewable.
+- **Magical Status (pre-Wellspring):** Apparently none. Born with a massive dormant reservoir sealed inside him — expressing as total magical disability. He spent his entire life believing he was empty. He was actually full, holding a reservoir so large it couldn't express through normal channels.
+- **Magical Status (post-Wellspring):** The most powerful channeler alive. Massive finite reservoir, non-renewable. Activated by extreme stress during an infrastructure crisis. Unprecedented — no one in history has ever been a Wellspring before.
 
 ## Who He Is Before the Power
 

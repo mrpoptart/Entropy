@@ -67,27 +67,33 @@ The magical decline maps to climate change in its social dynamics:
 
 **Institutional failure.** Systems built for a high-magic world are slowly degrading. The cracks appear first in places with the fewest resources.
 
-### Wellsprings (The Massive Finite Reservoir)
-Rarely, the remaining planetary magic concentrates in a single person, creating a Wellspring — an individual with an enormous, finite, non-renewable reservoir of power. This may be a symptom of the decline itself.
+### The Wellspring (Singular, Unprecedented)
+The Wellspring is a one-time anomaly in the world's history. It has never happened before and will never happen again. There is no mythology about Wellsprings, no prophecies, no legends — because until the protagonist, this phenomenon did not exist.
+
+A Wellspring is an individual born with an enormous, finite, non-renewable reservoir of magical power — dormant and sealed, expressing as apparent magical disability until activation. The protagonist spent his entire life believing he was empty. He was actually full — holding a reservoir so massive it couldn't express through normal channels. His "disability" was the presence of something too large, not the absence of something ordinary.
+
+**Why it happened:** Unknown. It may be a symptom of the decline — the planetary reservoir concentrating in a single point as it diminishes, like the last water in a drying lake pooling in the deepest part. It may be entirely random. There is no answer to find, and searching for one is a dead end. The Wellspring simply *is*.
+
+**Activation:** The reservoir was always there. What triggers it is a moment of extreme physical or emotional stress — the seal cracks under pressure. The context of activation matters (it shapes the protagonist's emotional relationship to the power), but the power comes from inside him, not from external circumstances.
 
 Key properties:
-- **Finite and non-renewable.** A Wellspring's reservoir was full at activation and only decreases. Roughly "a million points" — seemingly infinite at first, but absolutely not.
+- **Finite and non-renewable.** The reservoir was full at birth and only decreases from the moment of activation. Seemingly infinite at first, but absolutely not.
 - **Scalable.** Can do tiny things or enormous things. Cost scales with effect.
 - **Efficiency is learnable.** Can't create more power, but can learn to accomplish more with less.
 - **No additional cost.** Using Wellspring power doesn't damage body, mind, or soul. The only loss is the power itself.
-- **When empty, empty.** A depleted Wellspring has nothing — not even the ordinary trickle (if they never had one to begin with).
+- **When empty, empty.** A depleted Wellspring has nothing — not even the ordinary trickle. Back to zero.
+- **Unprecedented.** No one — not scholars, not institutions, not the oldest living channelers — has any framework for understanding what a Wellspring is. There is no playbook. Everyone is navigating blind.
 
 ### The Protagonist's Unique Situation
-The protagonist was born without any magical ability — not even the ordinary trickle. In a world where basic magic is as normal as breathing, they were effectively disabled. Then they became a Wellspring, going from nothing to the most powerful person alive.
+The protagonist was born with this dormant reservoir instead of a trickle. In a world where basic magic is as normal as breathing, he was effectively disabled — the irony being that his "disability" was caused by having more magical potential than anyone in history, sealed and inaccessible.
 
 This means:
 - No prior magical experience — steep learning curve, wild early expenditures
 - Never had the "normal" relationship with magic everyone else takes for granted
-- When the reservoir empties, they return to zero — not to the baseline trickle, but to nothing
-- They are the only person alive who already knows what life without magic feels like — uniquely and painfully qualified to guide others through the transition the whole world is heading toward
-
-### Historical Wellsprings
-*(To be developed — How many have there been? What did they build, and what scars did they leave? Is there a cautionary tale?)*
+- When the reservoir empties, he returns to zero — not to the baseline trickle, but to nothing
+- He is the only person alive who already knows what life without magic feels like — uniquely and painfully qualified to guide others through the transition the whole world is heading toward
+- His situation is existentially lonely — there is no one who has been through this before, no mentor for this specific problem
+- The world will argue about what he means: a miracle, a death spasm of a dying system, a political asset, a theological sign. He is none of these things. He is a person with a countdown.
 
 ## The Primary Setting: The City
 
