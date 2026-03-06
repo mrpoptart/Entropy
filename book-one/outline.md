@@ -9,109 +9,142 @@
 
 ## ACT ONE — The Ordinary World & Activation
 
-### Chapter 1 — The Weight of Cheerfulness
+### Chapter 1 — The Best Day in a Long Time
 
-**POV:** The protagonist's morning routine without magic.
+**POV:** Slice of life. A day in the protagonist's world without magic, without a job, without a place.
 
-The book opens in texture: the protagonist wakes in his family home and navigates a city built for channelers. He can't activate the heating lattice in the walls, so he washes in cold water and dresses in layers. He walks to work because he can't power the transit lifts — stone platforms that rise through vertical shafts on channeled force. He takes the maintenance stairs, forty flights, arriving winded and pretending he isn't.
+The book opens in the morning routine: the protagonist wakes in his childhood bedroom in his parents' home. He's in his early-to-mid twenties. He shouldn't still be here. He washes in cold water because he can't activate the heating lattice in the walls — something every child in Solathis learns by age five. He dresses in layers. He's been up for an hour before anyone else because he needs the extra time; everything takes longer when you do it by hand in a world built for channelers.
 
-We see the careful performance: the smile that arrives before anyone can feel sorry for him. He greets neighbors who channel their morning routines — heating breakfast, reinforcing a cracked wall, coaxing light from ceiling stones — and he carries things, fixes things with his hands, makes himself useful in the narrow ways available to him. His cheerfulness is survival strategy and apology compressed into one expression.
+He moves through the house quietly, trying not to wake his family. He makes breakfast mechanically — striking a fire with flint and steel while the stove's channeling interface sits unused beside him. He cleans. He fixes a loose hinge on a cabinet with a hand tool. Small acts of usefulness, performed before dawn, so his parents wake to a house that's been tended. An apology made in chores.
 
-**Establish:** The city of Solathis — impossible architecture on a rocky plateau above river gorges, built by a stubborn man after a war, sustained entirely by magic. The stratification visible in the walk to work: elder districts gleaming and effortless, middle districts showing strain, young and poor districts fraying. The protagonist lives in the lower-middle band where things work but barely.
+Out into the city. Solathis sprawls across a rocky plateau above river gorges — impossible architecture raised by generations of powerful channelers, now sustained by weaker ones. The stratification is visible in every block: elder districts gleaming and effortless at the heights, middle districts showing strain, young and poor districts fraying at the edges. The protagonist lives in the lower-middle band, where the heating works most days and the transit lifts run on a schedule that gets less reliable every year.
 
-**Emotional beat:** The private moment — a beat alone in the stairwell where the smile drops. Not self-pity but exhaustion. The weight of performing okayness every single day.
+He can't use the transit lifts — stone platforms that rise through vertical shafts on channeled force. He takes the stairs. Forty flights to the market district, arriving winded, pretending he isn't. He has an errand for his mother — something practical, something that justifies leaving the house. Along the way, we see his daily choreography with the city: stepping aside at a narrow bridge so a channeler can pass (they're reinforcing it as they cross, a casual civic act he can never reciprocate), asking a vendor to activate a display he can't trigger himself, smiling through the small humiliations that structure his entire existence. The cheerfulness is survival strategy and apology compressed into one expression.
+
+A private moment — a stairwell, a quiet corridor, a pause on a landing where nobody can see him. The smile drops. Not self-pity. Exhaustion. The weight of performing okayness every single day.
+
+Then the encounter. He's in a public building — maybe the Hall of Infrastructure, running the errand, or the Council annex where permits are filed. The patron is there: a formidable woman in her late fifties, the Director of Infrastructure, moving through the building with staff in tow. Their paths cross at a transit lift — she steps onto the platform and turns to the protagonist, who's standing beside it, and asks him to activate it. A casual request. Anyone could do it. Channel a pulse into the interface stone and the platform rises.
+
+He can't. He stands there, hand on the interface, and nothing happens. The moment stretches. Her staff look uncomfortable. He says, with the practiced ease of someone who's done this a thousand times: "Sorry — I can't channel. At all. The stairs are that way if you'd like company on the walk."
+
+She doesn't move past it the way most people do (the pitying nod, the quick subject change). She looks at him. She asks a question — not about his condition, but about him. How does he get around the city? How does he manage? What does he do?
+
+They talk. She walks the stairs with him. He's warm, sharp, self-deprecating without being pathetic. She's surprised by how intelligent he is, how quickly he reads situations, how naturally he makes people comfortable. And she has a need: her last aide — an extremely talented young channeler — left for a better position two weeks ago. It's a pattern she's tired of. Every aide she invests in outgrows her office and moves on. She's burned out on brilliance that leaves.
+
+Here is someone who will never be poached for his channeling talent. Here is someone who is smart, hardworking, relational, and — she doesn't say this part aloud, but it's there — permanently dependent on opportunities like this one. Her motivations are layered: genuine compassion (she can see his situation is unjust), political instinct (hiring a magicless aide is a statement about inclusion), and a quieter, more selfish need (someone who might stay).
+
+She offers him a position. His face — the real emotion breaking through the performance. He tries to be professional. He mostly manages.
+
+He walks home fast. He's almost running. He bursts through the door and tells his family. His mother cries — fierce, proud, relieved tears. His father grips his shoulder and holds on too long. The celebration is real: dinner is elaborate, his mother channels the stove to full heat, his father opens something they've been saving.
+
+The sister is there. She's radiant, congratulatory, genuinely happy for him. She channels casually during dinner — warming a dish, sealing a crack in a cup — in the efficient, disciplined way that defines her. She had something of her own today — a success, a recognition, something she earned. She starts to mention it and the conversation swings back to the protagonist's news. She lets it go. She always lets it go. Nobody notices. This happens all the time.
+
+**Establish:** The city of Solathis. The protagonist's disability in a magical world. The family dynamic — mother as fierce protector, father as quiet worrier, sister as the overlooked competent one. The patron as a complex figure with layered motivations. The cheerfulness as performance. The private exhaustion underneath.
+
+**Emotional beat:** Joy that cracks through the armor. For the first time in a long time, hope feels earned. And in the margin of the celebration, the sister's silence — the first thread of a pattern the reader will learn to watch for.
 
 ---
 
-### Chapter 2 — The Patron's Office
+### Chapter 2 — The First Real Day
 
-**POV:** The protagonist at work. His first real job. His break.
+**POV:** The protagonist's first days on the job. Slice of life with purpose.
 
-The patron's office in the Hall of Infrastructure — a high-ceilinged chamber where the Director manages the systems that keep Solathis functioning. The protagonist is her aide: he carries documents, takes notes, organizes her schedule. He's good at it. His intelligence and relational instincts make him genuinely useful in ways that don't require channeling. She relies on him more than she expected to.
+The protagonist arrives at the Hall of Infrastructure before dawn — he needs extra time for the stairs, and he's not going to be late on his first day. The patron's office is a high-ceilinged chamber where the Director manages the systems that keep Solathis functioning: water, heating, transit, structural reinforcement. Charts on the walls. Reports stacked on every surface. A staff of channelers and administrators who've been running on too little for too long.
 
-We see the patron through his eyes: a formidable woman in her late fifties, politically sharp, deeply competent, managing a slow-motion crisis. Her staff are stretched thin — the channelers maintaining the city's water systems, heating grids, transit networks, and structural reinforcements are measurably weaker than the generation that built these systems. She reads reports with a tightening jaw. She fights the Council for resources that aren't enough.
+He learns the job. It doesn't require channeling — it requires organization, memory, judgment, and the ability to make people feel heard. He carries documents, takes notes, manages the patron's schedule, sits in on briefings he doesn't fully understand yet. He watches and listens with the attentiveness of someone who's spent his whole life reading rooms because he couldn't participate in them any other way.
 
-The protagonist overhears a briefing about the Kharren Fault — the seismic zone beneath the city. Channeled reinforcements that have absorbed geological stress for generations are weakening. He doesn't understand the full implications, but the fear in the room is palpable. The patron handles it: decisive, controlled, reassuring. This is what she does. She manages crises.
+Small problems arise that show his strengths. A scheduling conflict between two district maintenance teams — he sees a solution neither team considered, reorganizing the sequence so both crews get what they need. A report that doesn't add up — his analytical mind catches the discrepancy before the senior staff do. A visiting official who's frustrated and dismissive — the protagonist disarms him with warmth and patience, turning a confrontation into a conversation. The patron watches this. She made a good hire. She knows it.
 
-**Establish:** The patron's dual nature — genuine care for the protagonist layered with the institutional instinct to categorize people by function. She took him on for reasons both sincere and calculated. He is, to her, proof that the system can still care for its people. He is also good optics.
+Foreshadowing: during a briefing, the protagonist overhears engineers discussing the Kharren Fault — the seismic zone beneath the city. Channeled reinforcements that have absorbed geological stress for generations are weakening faster than projected. He doesn't understand the full implications, but his mind catches on the math: the rate of decline, the gap between what's needed and what's available. He files it away. He'll think about it later.
 
-**Emotional beat:** The protagonist's quiet pride in being needed. The first time in his life someone outside his family chose to invest in him.
+At the end of the day, he meets the childhood friend. They sit somewhere familiar — a wall above the gorge, a bench in a district they grew up in, somewhere that belongs to the time before. He tells her about the job. She's happy for him — really happy. Not performing it, not qualifying it. Just glad.
+
+And then the moment: he pays for drinks. For the first time, the protagonist doesn't calculate what this costs against tomorrow's budget. He doesn't do the mental accounting of whether he can afford to be a person who buys a round. He just orders. The friend notices. She doesn't say anything about it. She doesn't have to.
+
+In her presence, the performance drops. He doesn't have to be cheerful — he is cheerful. The distinction matters. She's the one person who's always seen through the act, and tonight there's no act to see through. They laugh. It's a good night. The unexamined romantic dimension hums beneath the surface — impossible because magical intimacy, a normal part of relationships in this world, was always closed to him. Neither of them has ever named it. Tonight it's just warmth.
+
+**Establish:** The patron's office and the scope of her responsibilities. The protagonist's non-magical intelligence as genuinely valuable. The infrastructure crisis as background tension. The childhood friend as the person who sees him clearly. The feeling of finally contributing.
+
+**Emotional beat:** For the first time, the protagonist doesn't have to act happy. He *is* happy. The distinction is everything.
 
 ---
 
 ### Chapter 3 — The Workshop
 
-**POV:** Evening at the tinkerer workshop.
+**POV:** The protagonist visits the tinkerer workshop. The mentor meets his new optimism.
 
-The protagonist walks downhill after work into a poorer district where the mentor runs a cluttered, warm workshop. This is the tinkerer community — a handful of eccentrics who build mechanical alternatives to channeled solutions. Gears, levers, springs, hydraulics. Crude, unreliable, and the only technology in the city that works without magic.
+Evening, a few days into the new job. The protagonist walks downhill from the Hall of Infrastructure into a poorer district where the mentor runs a cluttered, warm workshop. This is the tinkerer community — a handful of eccentrics who build mechanical alternatives to channeled solutions. Gears, levers, springs, hydraulics. Crude, unreliable, stigmatized, and the only technology in the city that works without magic.
 
 The mentor: late sixties, patient, dry-humored. He has a strong elder-generation trickle — we see small evidence of this, casual channeling done so efficiently it's nearly invisible — but his workshop runs on mechanisms. He teaches by doing: handing tools, asking questions, letting the protagonist figure things out. Long silences filled with the sound of work.
 
-The protagonist builds something — a small mechanical device, maybe a self-winding lamp or a spring-loaded water pump. It's imperfect. It works. In this room, his lack of magic is irrelevant. The work is the work.
+The protagonist is buzzing. He talks about the patron's office — the scale of it, the responsibility, the feeling of being useful in a way that matters. He's excited in a way the mentor hasn't seen before. New opportunities, new world, first time he doesn't feel completely useless.
 
-Other tinkerers drift through: a young woman whose trickle is too weak for her maintenance job, an older man who likes the puzzles, a teenager who thinks mechanisms are the future. A small community of people who, for various reasons, have stepped outside the magical economy.
+The mentor listens. He's happy that the protagonist is happy — this is visible, genuine. He doesn't dampen the mood. But there's a subtle, warm comedy in the scene: the protagonist says something like "For the first time I feel like I'm actually contributing something," and the mentor just looks at the mechanical water pump the protagonist designed last month — the one that's currently running in three homes in the district — and says nothing. Or he hands the protagonist a tool and says "Make yourself useful, then" the way he always has, because in this room, the protagonist has always been useful. The protagonist doesn't catch it. The reader should.
 
-**Establish:** The workshop as the protagonist's real home — the one place where his condition isn't a disability. The mentor as steady presence who expresses care through attention and shared work. The tinkerer philosophy: build things that work without you.
+Other tinkerers drift through: a young woman whose trickle is too weak for her maintenance job, an older man who likes the puzzles, a teenager who thinks mechanisms are the future. A small community of people who, for various reasons, have stepped outside the magical economy. The protagonist fits here. He has always fit here. The difference is that now he has something *else* too — and the something else is already pulling his attention.
 
-**Emotional beat:** The protagonist's hands are confident here. The smile is real. This is who he is when nobody needs him to perform.
+The protagonist works on a project — a small mechanical device, the kind of focused, hands-on problem-solving that engages his mind completely. His hands are confident. The smile is real. This is who he is when nobody needs him to perform.
 
----
+**Establish:** The workshop as the protagonist's real home — the one place where his condition has never been a disability. The mentor as steady presence who expresses care through attention and shared work. The tinkerer philosophy: build things that work without you. The subtle irony that the protagonist can't see: he was never useless. He just couldn't see his value because the world measured worth in channeling.
 
-### Chapter 4 — Family and the Friend
-
-**POV:** Home, then a brief scene with the childhood friend.
-
-Family dinner. The mother has cooked using channeled heat — effortlessly, the way she's done everything for her son: fiercely, without being asked. We see the dynamic: she defines herself by sacrifice for her disabled son and carries guilt over his condition as though it were her failure. The father is warm, proud of his son's new position with the patron, but there's an undercurrent — he fears the future, fears he hasn't done enough. The sister is graceful, competent, asking sharp questions about the patron's office. She channels casually during dinner — warming a dish, sealing a crack in a cup — in the efficient, disciplined way that defines her. She doesn't draw attention to it. Neither does he. The unspoken choreography.
-
-After dinner, the protagonist meets the childhood friend — maybe they walk through their old neighborhood, or sit on a wall above the gorge. She's direct, funny, unimpressed by the patron position. She asks if he's actually happy or just performing happy again. He deflects. She lets him. Their ease is real but carries weight: the unexamined romantic dimension, impossible because magical intimacy — a normal part of relationships in this world — was always closed to him. Neither of them has ever named it.
-
-**Establish:** The full relational web before everything changes. Each relationship carrying tension that the Wellspring will detonate. The mother's identity built on sacrifice. The father's quiet fear. The sister's guilt-driven competence. The friend's clear-eyed honesty.
-
-**Emotional beat:** The protagonist lies in bed that night and allows himself to hope. The patron's office isn't much, but it's something. Maybe this is what getting better looks like. Small, gradual, real.
+**Emotional beat:** The mentor's quiet amusement — not at the protagonist's expense, but at the beautiful blindness of someone who has been valuable all along and is only now learning to believe it, for the wrong reasons.
 
 ---
 
-### Chapter 5 — The Inspection
+### Chapter 4 — The Edge of the City
 
-**POV:** The patron takes the protagonist on an inspection of failing infrastructure.
+**POV:** The protagonist accompanies the patron on a political trip to a failing district. The setup for the Wellspring.
 
-A major transit hub — one of the city's great vertical shafts, a structure built in the high-magic era that now requires more channeling to maintain than the current workforce can provide. The patron wants to see the condition firsthand. She brings the protagonist because he's useful and because she wants him to understand the scale of what she manages.
+The patron is building political capital. A district on the city's edge — one of the poorest, youngest neighborhoods in Solathis — has been petitioning for infrastructure support for months. The heating grids don't function. The water systems are unreliable. The structural reinforcements that keep the plateau's edge from crumbling are visibly failing. The patron has organized an inspection and public meeting: she'll assess the damage, make promises, show the Council she's engaged with the city's margins.
 
-The descent into the infrastructure: the protagonist sees the city's skeleton. Channeled reinforcements glowing faintly where they should blaze. Maintenance workers who look exhausted. Stress fractures in stone that's been magically stabilized for generations. The patron talks to engineers, reviews assessments, makes decisions. She's brilliant at this — commanding, precise, compassionate toward her workers.
+She brings the protagonist. He's been on the job long enough now to be useful — he knows the filing systems, the engineering terminology, the political dynamics. She also brings him because he's good with people, and the residents of this district are angry.
 
-Then something shifts. A deep vibration. A crack spreading faster than the workers can respond. The structure begins to fail — not slowly, but in a cascading sequence. Stone fractures. Support beams buckle. A section of the transit hub begins to collapse with people inside — workers, inspectors, the patron herself.
+The descent into the district: the protagonist sees Solathis from below. Down here, the city's architecture — designed for a level of magical maintenance that no longer exists — is actively hostile. Buildings sag. Walls crack and re-crack faster than the underpowered local channelers can patch them. The transit lifts in this district stopped working years ago; everyone takes the stairs, like the protagonist has done his whole life. For once, he's not the one at a disadvantage.
 
-Chaos. Dust. Screaming. The protagonist is caught in it — trapped, terrified, helpless. People are going to die. He can see it happening. He can't do anything.
+The inspection reveals the scope of the problem. The plateau's edge is unstable — the Kharren Fault runs directly beneath this district, and the channeled reinforcements that have absorbed geological stress for generations are thinning. Engineers show the patron readings she already knows but needs to see in person. The ground has been shifting. Slowly, but measurably. Everyone in the room is middle-aged or younger — the strongest channelers, the elder generation, don't live in districts like this. Nobody present has enough power to truly stabilize what's failing.
 
-**Establish:** The physical reality of the decline — the city is held together by magic that's getting weaker, and the structures built in stronger times are beyond current capacity to maintain. The Kharren Fault as a ticking bomb.
+The public meeting: residents confront the patron. They're scared, frustrated, articulate. Why does the upper city get priority? Why do their children grow up in buildings that might collapse? The patron is skilled at this — she listens, she acknowledges, she makes careful commitments. The protagonist watches her work and admires it, even as he recognizes the calculation underneath the compassion.
 
-**Emotional beat:** The moment before the activation — pure helplessness. The thing he has felt his entire life, concentrated into seconds. He cannot help. He is, as always, the person who watches.
+Then — the event that triggers the Wellspring. **[TO BE WORKSHOPPED — see notes below.]**
 
----
+Something happens in this district — a structural catastrophe tied to the failing reinforcements and the unstable ground. A sinkhole, a collapse, a cascading failure that puts lives in immediate danger. The people present — the protagonist, the patron, the residents, the engineers — are caught in it. The channelers in the room try to respond but don't have enough power. The protagonist is trapped, watching people die, unable to help.
 
-### Chapter 6 — The Breaking Open
+The activation: the dormant reservoir — sealed inside him since birth, fifty gigajoules of raw magical force — cracks open under the pressure of extreme stress and the proximity of death. It erupts.
 
-**POV:** The Wellspring activates.
-
-The activation is not a choice. It's a dam breaking. The dormant reservoir — sealed inside him since birth, fifty gigajoules of raw magical force — cracks open under the pressure of extreme stress and the proximity of death. It erupts.
-
-His first act of power is instinctive and chaotic: raw force slamming into the collapsing structure, bracing stone, holding beams. He has no training, no control, no understanding of what's happening to him. The power pours out wildly — wasteful, terrifying, magnificent. He holds up a section of ceiling that would have crushed twelve people. He redirects a cascade of falling stone. The force coming out of him is on a scale that makes the maintenance workers stop and stare even in the middle of a crisis.
+His first act of power is instinctive and chaotic: raw force slamming into the collapsing structure, bracing stone, holding ground. He has no training, no control, no understanding of what's happening to him. The power pours out wildly — wasteful, terrifying, magnificent. He holds up a section of ceiling that would have crushed people. He stabilizes shifting ground. The force coming out of him is on a scale that makes the local channelers stop and stare even in the middle of a crisis.
 
 He pulls people clear. He stabilizes the structure long enough for evacuation. He doesn't know how. The power works through him more than he works through it.
 
 Then it's over. He collapses. Exhaustion, confusion, his hands shaking, his body unfamiliar.
 
-The patron's reaction — the first sign of everything coming: she kneels beside him, genuine fear in her face (she cares about him), then her eyes change as she processes what just happened. She shields him from the gathering crowd. She sends the workers away. She gives orders — medical attention, privacy, no reports filed yet. She is protecting him. She is also, in this same breath, beginning to calculate.
+The patron kneels beside him — genuine fear in her face (she cares about him), then her eyes change as she processes what just happened. She shields him from the gathering crowd. She gives orders — medical attention, privacy, no reports filed yet. She is protecting him. She is also, in this same breath, beginning to calculate.
 
-**Establish:** The Wellspring as unprecedented — nobody has a framework. No mythology, no playbook. The scholars and channelers who examine him will have no reference point. This has never happened before.
+**Establish:** The physical reality of the decline at the city's edges. The Kharren Fault as a ticking bomb. The political dynamics of a stratified city. The Wellspring as unprecedented — nobody has a framework, no mythology, no playbook. The patron's dual response: genuine care and immediate institutional calculation.
 
 **Emotional beat:** The double shock — the terror of the collapse, then the overwhelming strangeness of power flooding a body that has never channeled. He doesn't feel triumphant. He feels like something broke inside him, and what came through the crack is enormous and unknown.
 
 ---
 
+#### Workshop Note: The Activation Event
+
+The specific catastrophe that triggers the Wellspring needs to be developed. Key constraints:
+- **Location:** A poor, young district on the city's edge, above the Kharren Fault
+- **People present:** The protagonist, the patron, district residents, engineers — all middle-aged or younger, nobody with enough channeling power to handle what's coming
+- **Unknown factor:** A sinkhole or geological instability that nobody knew about — the reinforcements masked the problem, and as they've weakened, the ground has been quietly failing
+- **Scale:** Big enough to threaten lives and overwhelm the local channelers, but localized — not a city-wide event (that's the earthquake later)
+- **Emotional trigger:** The protagonist must be in a position where people are going to die and he cannot help — the distillation of his lifelong helplessness into a single unbearable moment
+
+Possible directions to consider:
+1. **The sinkhole opens during the meeting** — the building they're in begins to drop as the ground beneath gives way. A localized collapse, not an earthquake. The channelers try to hold the building and can't.
+2. **A residential block collapses** — during the inspection walk, a building the patron is evaluating gives way. Residents are inside. The structural failure cascades.
+3. **The edge crumbles** — the plateau's edge, where the district sits, begins to calve away. A section of the district starts sliding toward the gorge. Not fast, but unstoppable with the power available.
+4. **A combination** — the sinkhole triggers a structural cascade in surrounding buildings. Multiple failures at once, overwhelming any single response.
+
+---
+
 ## ACT TWO — The Ascent
 
-### Chapter 7 — Learning to Burn
+### Chapter 5 — Learning to Burn
 
 **POV:** The first days after activation. Discovery and euphoria.
 
@@ -129,7 +162,7 @@ The sister visits. She is radiant on the surface — happy, proud, full of pract
 
 ---
 
-### Chapter 8 — The World Reacts
+### Chapter 6 — The World Reacts
 
 **POV:** The news spreads. The protagonist meets the public response.
 
@@ -147,7 +180,7 @@ The childhood friend comes to see him. She's glad. She says so simply: "I'm glad
 
 ---
 
-### Chapter 9 — Useful at Last
+### Chapter 7 — Useful at Last
 
 **POV:** The patron begins directing his power toward the city's needs.
 
@@ -165,7 +198,7 @@ The patron schedules the next deployment. And the next. Water systems in the sou
 
 ---
 
-### Chapter 10 — Shifting Ground
+### Chapter 8 — Shifting Ground
 
 **POV:** The family dynamic reconfigures. The mother, the father, the sister adjusting.
 
@@ -181,7 +214,7 @@ The sister is working harder than ever. Her trickle — already at the weak end 
 
 ---
 
-### Chapter 11 — The Drift Begins
+### Chapter 9 — The Drift Begins
 
 **POV:** The protagonist's life reorganizes around power and purpose. The old life starts falling away.
 
@@ -201,7 +234,7 @@ Background details he walks past without seeing: a protest by young channelers o
 
 ---
 
-### Chapter 12 — The Patron's Architecture
+### Chapter 10 — The Patron's Architecture
 
 **POV:** The relationship between the protagonist and the patron deepens. We see it from inside.
 
@@ -221,7 +254,7 @@ He visits the workshop. The mentor is working on a mechanical water pump — a p
 
 ---
 
-### Chapter 13 — The Distance
+### Chapter 11 — The Distance
 
 **POV:** The relationships that grounded him are now at arm's length.
 
@@ -243,7 +276,7 @@ He leaves early. Important work tomorrow.
 
 ## THE SET PIECE — The Earthquake
 
-### Chapter 14 — The Ground Speaks
+### Chapter 12 — The Ground Speaks
 
 **POV:** The earthquake strikes Solathis.
 
@@ -263,7 +296,7 @@ The protagonist sees the stratification of the city laid bare in rubble. The ear
 
 ---
 
-### Chapter 15 — The Finest Hour
+### Chapter 13 — The Finest Hour
 
 **POV:** The protagonist is deployed at a scale no one has ever seen.
 
@@ -283,7 +316,7 @@ The patron stands beside him at public briefings. Her strategy, his power. The p
 
 ---
 
-### Chapter 16 — The Hero of Solathis
+### Chapter 14 — The Hero of Solathis
 
 **POV:** The aftermath of the earthquake. The city's response to the protagonist.
 
@@ -307,7 +340,7 @@ He pushes the feeling away. There's too much work to do.
 
 ## ACT THREE — The Reckoning
 
-### Chapter 17 — Edges
+### Chapter 15 — Edges
 
 **POV:** The protagonist begins to sense the limits of the reservoir.
 
@@ -325,7 +358,7 @@ A nagging feeling. The analytical mind that was always his real weapon begins to
 
 ---
 
-### Chapter 18 — The Math
+### Chapter 16 — The Math
 
 **POV:** The emotional climax of the book. The protagonist does the calculation.
 
@@ -351,7 +384,7 @@ And one more calculation, because his mind won't stop: the world's trickles are 
 
 ---
 
-### Chapter 19 — The Workbench
+### Chapter 17 — The Workbench
 
 **POV:** The protagonist goes to the mentor.
 
@@ -375,7 +408,7 @@ The protagonist doesn't have an answer. But the question reframes everything. Th
 
 ---
 
-### Chapter 20 — The Break
+### Chapter 18 — The Break
 
 **POV:** The protagonist tells the patron the reservoir is finite. The relationship fractures.
 
@@ -399,7 +432,7 @@ He walks out of the office. The patron sits alone with her charts and her dimini
 
 ---
 
-### Chapter 21 — The Walk Home
+### Chapter 19 — The Walk Home
 
 **POV:** The protagonist walks through the city. The book closes.
 
@@ -427,14 +460,14 @@ He doesn't know yet. But he's in the right place to start.
 
 | Point in Story | Reservoir | Notes |
 |---|---|---|
-| Chapter 1-5 | 0% (dormant) | No access to power |
-| Chapter 6 (activation) | 100% | Dam breaks; first chaotic use |
-| Chapters 7-9 (honeymoon) | ~90% | Wildly inefficient early use; feels infinite |
-| Chapters 10-13 (drift) | ~75% | Patron-directed deployments, improving efficiency |
-| Chapters 14-16 (earthquake) | ~55% | Days of maximum-output channeling |
-| Chapter 17 (edges) | ~52% | Continued deployment, growing unease |
-| Chapter 18 (the math) | ~50% | The calculation confirms it |
-| Chapters 19-21 (reckoning) | ~50% | Minimal use; the protagonist stops spending freely |
+| Chapters 1-3 | 0% (dormant) | No access to power |
+| Chapter 4 (activation) | 100% | Dam breaks; first chaotic use |
+| Chapters 5-7 (honeymoon) | ~90% | Wildly inefficient early use; feels infinite |
+| Chapters 8-11 (drift) | ~75% | Patron-directed deployments, improving efficiency |
+| Chapters 12-14 (earthquake) | ~55% | Days of maximum-output channeling |
+| Chapter 15 (edges) | ~52% | Continued deployment, growing unease |
+| Chapter 16 (the math) | ~50% | The calculation confirms it |
+| Chapters 17-19 (reckoning) | ~50% | Minimal use; the protagonist stops spending freely |
 
 ## Character Thread Summary
 
