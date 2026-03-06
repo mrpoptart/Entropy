@@ -102,10 +102,26 @@ The leader tried to be a steward — building a movement, organizing for collect
 - Their despair is earned and honest, AND it's still wrong — or at least, it's not the only honest response to their situation
 - They built something real (the movement), AND they can't see that the skills that built it could build something else
 
+## The Community (Book Three)
+
+After the Levelers fragment, the movement leader takes a small community — a district or settlement — and runs it according to their philosophy. Mandatory pooling of trickles. Collective distribution. Even a few elder channelers convinced to join and contribute their stronger power. It's the Levelers' model in miniature: a sincere, organized attempt to prove that fair distribution works.
+
+The protagonist has to let them try. This is stewardship's hardest test — letting people choose a path you believe will fail, because the alternative is becoming the patron. He doesn't intervene. He doesn't sabotage. He lets them go.
+
+The community fails. Not from incompetence — from physics. The pooled trickles keep weakening. The elder contributors decline. The shared resource shrinks until there's nothing left to share. The leader's model distributed the decline equally rather than building past it.
+
+When it fails, the protagonist — now ordinary, powerless — helps. He offers mechanical knowledge, organizational skill, connections to the building networks. The leader's people are welcomed into the broader transition framework. The leader watches the person who was right extend a hand without conditions.
+
+## Resolution
+
+**The leader remains broken.** They cannot make the leap to ordinary life. They cannot find meaning in less. Their intelligence, their conviction, their selflessness — the qualities that made them extraordinary — become the walls of a prison. They are the cost of the story.
+
+Not every wound heals. Not every grief reaches acceptance. The leader's unresolved despair is the honest acknowledgment that the protagonist's journey, while real, is not guaranteed. Some people break and stay broken. The patron adapts and finds redemption; the movement leader does not. Both responses are real. The contrast gives both weight.
+
 ## Open Questions
 - Gender? (Consider what complements the existing cast — protagonist male, sister female, patron female, mentor male, childhood friend female)
 - What is their specific background? (District, family, what they did before organizing)
 - Do they have a personal relationship beyond the political one with the protagonist? (Friendship? Something more complicated?)
-- What happens to them at the end of Book Three? Do they find some kind of peace, or does the trilogy leave them broken? (Both are valid — their redemption would parallel the patron's potential adaptation; their remaining broken would show the real cost of lost hope)
+- Where is the community they take? How many people? How long before it fails?
 - How do they relate to the mentor? (The mentor chose to live without magic decades ago. The leader can't make that choice. There's a conversation there.)
 - How do they relate to the childhood friend? (The friend represents ordinary life embraced. The leader represents ordinary life refused.)

@@ -67,7 +67,7 @@ The patron threads through all three books, evolving in relation to the other an
 
 There should be a moment of genuine connection between patron and protagonist in Book Two — masks down, mutual recognition of shared fear. It changes nothing structurally, but it rehumanizes their relationship.
 
-**Book Three:** The world has moved past her framework. The institutions she protected are transforming or dissolving. She confronts what the protagonist already learned: that control is not the same as stewardship. Whether she makes this turn or remains locked in her framework is an open question with thematic weight either way.
+**Book Three:** The world has moved past her framework. The institutions she protected are transforming or dissolving. She confronts what the protagonist already learned: that control is not the same as stewardship. **She adapts** — seeing the protagonist's building projects succeed, she throws her institutional weight behind the transition. Her redemption parallels the protagonist's: both lose what they built their identity on, both choose to build something new.
 
 ## How the Three Responses Relate
 

@@ -76,7 +76,9 @@ There should be a moment of genuine connection between them — a scene where th
 ### Book Three
 By the trilogy's end, the world has moved past her framework. The institutions she protected are either transforming or dissolving. She is forced to confront what the protagonist already learned: that control is not the same as stewardship, and that building for the future means letting go of the systems you know.
 
-Whether she makes this turn or remains locked in her framework is an open question. Both options are thematically resonant: her adaptation would show that it's never too late to change; her inability to change would show the real cost of fusing identity with institutional power.
+**She adapts.** She sees the protagonist's building projects gaining traction — the proof-of-concept district working, the rural networks spreading, the transition becoming real. She makes the hardest choice of her life: she lets go of the systems she knew and throws her institutional weight behind the protagonist's work. Not as director, not as controller, but as ally. Her organizational skill, her political connections, her understanding of systems — all redirected from managing decline to enabling transition.
+
+She adapts because she's always been brilliant, and brilliance, when it finally lets go of the wrong framework, can do extraordinary things. The world is better for her change. Her redemption parallels the protagonist's: both lose the thing they built their identity on, both choose to build something new.
 
 ## Relationship to the Protagonist
 
@@ -106,7 +108,7 @@ She is the **stewardship vs. control** argument made flesh. She believes she's a
 - ~~What is her specific institutional role? (Council seat, bureau head, something else?)~~ **Decided:** Director of Infrastructure — elected, responsible for the city's magically-maintained systems.
 - What is her personal history? (How did she rise to power? Does she have family?)
 - ~~Does she have a relationship to historical Wellsprings — institutional knowledge about what happened to previous ones?~~ **Decided:** No — there are no historical Wellsprings. This is unprecedented. She has no playbook, which makes her institutional response a live improvisation.
-- How does her relationship with the protagonist end — reconciliation, estrangement, or something in between?
-- Does she ever recognize what she's doing, or does she remain convinced she's right?
+- ~~How does her relationship with the protagonist end — reconciliation, estrangement, or something in between?~~ **Decided:** Redemption — she adapts in Book Three, becomes an ally. Reconciliation through shared purpose.
+- ~~Does she ever recognize what she's doing, or does she remain convinced she's right?~~ **Decided:** She recognizes it in Book Three and changes. Her brilliance, freed from the wrong framework, becomes a force for the transition.
 - ~~How does she relate to the other antagonistic forces?~~ **Decided:** She's the establishment foil against the Levelers in Book Two. See characters/antagonists.md for the full framework.
 - What is her relationship to emerging non-magical technology? (Likely dismissive — it threatens the systems she knows.)

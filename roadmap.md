@@ -93,8 +93,8 @@ Sketch the following characters at a high level — enough to understand their r
 ### Priority 2: Plot Development
 The character foundation and thematic structure are strong. The books now need external plot spines:
 - ~~**Book One:** What external events force the protagonist to use (and spend) his power? What is the patron's specific play? What crisis or conflict drives the action?~~ ✓ Done — Full three-act structure with the earthquake as the major set piece, the patron as Director of Infrastructure deploying his power, the math scene as emotional climax, 50% reservoir spent. See book-one/plan.md.
-- **Book Two:** What does the protagonist try to change and how does it go wrong? Who opposes him? What is the temptation?
-- **Book Three:** What is the "final expenditure"? What is he building? What does the antagonistic force of despair look like specifically?
+- ~~**Book Two:** What does the protagonist try to change and how does it go wrong? Who opposes him? What is the temptation?~~ ✓ Done — Proof-of-concept district as building project, the Levelers emerge from post-earthquake radicalization, the efficiency technique as temptation (rejected for preservation, adopted for capability), the sibling reckoning, ~15-20% reservoir remains. See book-two/plan.md and series-outline.md.
+- ~~**Book Three:** What is the "final expenditure"? What is he building? What does the antagonistic force of despair look like specifically?~~ ✓ Partially done — Movement leader takes a community (fails), patron gets redemption arc, mentor reveals full power, sister completes arc. The specific tipping-point project and the exact nature of the final expenditure remain open. See book-three/plan.md and series-outline.md.
 
 ### Priority 3: Worldbuilding Details
 - Name the city
@@ -118,11 +118,19 @@ Once characters and plot spine are established, build a chapter-by-chapter (or a
 - ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, the patron threading throughout
 - The sister's specific career
 - ~~Exact mechanism of Wellspring activation~~ **Decided:** The reservoir was always dormant inside him; extreme stress during an infrastructure crisis cracks the seal
+- ~~The patron's resolution~~ **Decided:** Redemption — she adapts in Book Three, backs the protagonist's building projects
+- ~~The movement leader's resolution~~ **Decided:** Remains broken. Given a community to try their model; it fails. The cost of the story.
+- ~~The temptation in Book Two~~ **Decided:** Efficiency technique — a channeling discipline that reduces cost per expenditure. Rejected as preservation, adopted as capability. Retroactively enriches the mentor's character.
+- ~~Reservoir at end of Book Two~~ **Decided:** ~15-20%
+- ~~The unspoken sibling conversation~~ **Decided:** Late Book Two
+- The final expenditure — quiet and deliberate, or deliberate and spectacular? Exact nature TBD.
+- The tipping-point project in Book Three — what specifically does he build?
 
 ## File Inventory
 ```
 trilogy/
 ├── trilogy-overview.md          ← Core pitch, themes, structure [CURRENT]
+├── series-outline.md            ← Full three-book plot outline [CURRENT]
 ├── themes.md                    ← Thematic deep dive [CURRENT]
 ├── worldbuilding.md             ← Magic system, world, city, society [CURRENT]
 ├── timeline.md                  ← [PLACEHOLDER]
