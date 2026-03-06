@@ -46,10 +46,66 @@ The primary antagonistic force is **the Levelers** — a generational movement o
 
 *(Full details: characters/antagonists.md, characters/movement-leader.md)*
 
+## The Plot
+
+### ACT ONE — The Builder's Hubris
+
+The protagonist returns to the workshop. He's learned from Book One that spectacle wastes power. He and the mentor design a plan: retrofit a failing district — one of the young/poor neighborhoods devastated by the earthquake — into a proof-of-concept for post-magic life. Mechanical water systems. Non-magical heating. Cooperative maintenance that doesn't depend on individual trickle strength. Wellspring power used to BUILD, not to maintain.
+
+The patron wants him back — managing post-earthquake reconstruction, she offers a formal partnership. He turns it down but needs her institutional access. She gives him the failing district because it costs her little and lets her claim credit.
+
+The proof-of-concept takes shape. District workers are trained. The mentor's decades of tinkering become blueprints. The protagonist is building rather than maintaining or performing for the first time. It starts working.
+
+The sister visits, proud of him — but visibly more tired than she should be. Her trickle is weakening faster than expected. She doesn't mention it.
+
+### ACT TWO — The Collision
+
+The Levelers emerge from the earthquake's radicalization. The movement leader crystallizes the argument: the decline isn't falling equally. They want mandatory redistribution — elder trickles taxed, the Wellspring under collective direction.
+
+The protagonist meets the movement leader. Electric conversations — near-total agreement on diagnosis. For a stretch, they're allies in spirit.
+
+The proof-of-concept starts failing. Not dramatically — grindingly. Mechanical systems need maintenance skills people don't have yet. The protagonist reverts to fixing things himself, draining the reservoir faster than planned. The core lesson: he built the systems, but not the people. He's replaced one dependency with another.
+
+The sister's trickle drops noticeably. She can't maintain her professional standards. She snaps at the protagonist during a family dinner — the first crack in the competence shell.
+
+The Levelers gain genuine political power. The protagonist is caught between agreement with their goals and recognition that their methods won't build anything lasting. The patron wants him to oppose them. He refuses.
+
+The break with the movement leader: the Levelers coerce an elder channeler into forced public expenditure until they collapse. The protagonist confronts the leader. The leader's response: *"You have an ocean of power. She had a cup. You're asking the drowning to be patient while you decide which lifeboat to build."*
+
+Reconnection with the childhood friend. She tells him what his transformation looked like from outside: *"You became someone else. You left. I didn't know if you were coming back."*
+
+### ACT THREE — The Temptation and Turn
+
+The efficiency technique: through his analytical brilliance and the mentor's guidance, the protagonist discovers a discipline for channeling at dramatically reduced cost. If adopted for preservation, his remaining power could last years. He could stay extraordinary.
+
+This is a real, rational option. The mentor may show him — not as temptation but as information: *"You should know what your choices are."*
+
+A rural community goes dark — the first to fully lose magic. The communities that survive are the ones that already adapted: tinkerer philosophy at community scale.
+
+The temptation is rejected and reframed: he keeps building, keeps spending, but applies the efficiency technique to his building work. Not preservation but capability — each expenditure counts for more. The technique transforms the temptation into a tool.
+
+This retroactively illuminates the mentor: the old man's decades of efficiency discipline are why he could choose the workbench over the channeling hall. He wasn't running from power. He was refining it.
+
+The unspoken conversation with the sister. The devastating, freeing reckoning with growing up on opposite sides of the gap. She admits the guilt. He admits the grief. They cry. Nothing external changes. Everything between them does.
+
+End of Book Two: the Levelers have peaked and begun fragmenting. The movement leader is cracking. The proof-of-concept district works imperfectly, humanly, without the protagonist at its center. ~15-20% of reservoir remains. He's shifted from "I must fix this" to "I must build something that works without me."
+
+*(Full series-level plot: series-outline.md)*
+
+---
+
+## Decided Questions
+- **What the protagonist tries to change:** Retrofitting a failing district into a proof-of-concept for post-magic life — mechanical infrastructure, cooperative maintenance, catalytic Wellspring expenditure
+- **How it goes wrong:** Systems he builds create dependency on him; people can't maintain what he constructed. He has to learn the difference between building systems and building people.
+- **The temptation:** The efficiency technique — a channeling discipline that dramatically reduces cost per expenditure. Used for preservation, it could extend his power indefinitely. He rejects preservation but adopts the technique for capability, making each remaining expenditure more effective.
+- **Reservoir at end:** ~15-20%
+- **The unspoken conversation:** Late Book Two — the sibling reckoning about growing up on opposite sides of the gap
+- **Antagonist:** The Levelers, led by the movement leader. See characters/antagonists.md.
+
 ## Open Questions
-- What specifically does the protagonist try to change, and how does it go wrong?
-- ~~Who is the Book Two antagonist?~~ **Decided:** The Levelers (generational redistributionist movement) led by the movement leader. See characters/antagonists.md.
-- What is the temptation — what would hoarding the power actually look like? Who offers it?
-- How much power remains at the end of Book Two?
-- How does the protagonist's relationship with his family evolve?
-- When does the "unspoken conversation" between protagonist and sister happen — Book Two or Three?
+- How much time passes between Book One and Book Two? (Continuous or time gap?)
+- When does the public learn about the reservoir being finite?
+- What is the sister's specific career that's being threatened by her declining trickle?
+- How does the protagonist's relationship with his parents evolve through Book Two?
+- Does the protagonist visit the rural community firsthand or receive reports?
+- What specific secondary characters emerge in the proof-of-concept district?
