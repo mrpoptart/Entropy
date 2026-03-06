@@ -33,14 +33,22 @@ The protagonist knows his power is finite. The world's magic is visibly declinin
 - The world is in open crisis — the magical decline is undeniable and society is fracturing over how to respond
 - The sister's parallel arc is in motion
 
-## External Conflict (To Be Developed)
-- A major antagonist who embodies the wrong response to the decline — possibly someone trying to stop or reverse it through force, hoarding, or authoritarian control
-- Political and social upheaval as the decline accelerates
-- The protagonist being pulled between factions who want to use his remaining power for their own visions
+## External Conflict: The Levelers
+The primary antagonistic force is **the Levelers** — a generational movement of younger channelers whose trickles are measurably weaker than their parents'. They demand the powerful be compelled to spend their magic for the common good, and they view the protagonist's reservoir as the ultimate symbol of hoarding.
+
+- The movement is systemic, not personal — the protagonist fights the wrong answer at scale
+- Their diagnosis is correct (inequality is real, the powerful are hoarding) but their prescription fails (redistribution of a finite, declining resource doesn't build anything that works after magic is gone)
+- Led by **the movement leader** — a peer of the protagonist's age, from a weaker-trickle background, brilliant and charismatic. Someone the protagonist meets, genuinely respects, and ultimately breaks with.
+- The protagonist's relationship with the movement: initial sympathy → growing discomfort → painful public break when methods escalate
+- The patron represents the establishment position against the Levelers' populist energy — the protagonist is caught between institutional control and revolutionary force, rejecting both
+- Political and social upheaval as the decline accelerates and the movement gains power
+- The protagonist being viewed as a hypocrite — the most powerful person alive, asking the powerless to be patient
+
+*(Full details: characters/antagonists.md, characters/movement-leader.md)*
 
 ## Open Questions
 - What specifically does the protagonist try to change, and how does it go wrong?
-- Who is the Book Two antagonist — the person or movement embodying the wrong response?
+- ~~Who is the Book Two antagonist?~~ **Decided:** The Levelers (generational redistributionist movement) led by the movement leader. See characters/antagonists.md.
 - What is the temptation — what would hoarding the power actually look like? Who offers it?
 - How much power remains at the end of Book Two?
 - How does the protagonist's relationship with his family evolve?

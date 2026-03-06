@@ -68,7 +68,7 @@ By the end of Book One, the relationship has become the thing the protagonist fe
 ### Book Two
 She remains present but diminished as a direct antagonist. The political landscape has shifted — the decline is now undeniable, and the factions she held in balance are pulling apart. She's fighting to maintain institutional control in a world that's outgrowing her framework.
 
-She may represent the "preservationist" faction — arguing for rationing, regulation, centralized management of remaining magic. Her position is coherent, defensible, and increasingly authoritarian in practice. She becomes a foil to the protagonist's evolving understanding that lasting change requires trust and distributed power, not optimization from the top.
+She represents the establishment position against the Levelers — the generational movement demanding forced redistribution of magical resources. The Levelers want to tear down the systems she spent her life building. She argues for rationing, regulation, centralized management of remaining magic. Her position is coherent, defensible, and increasingly authoritarian in practice. The protagonist is caught between her institutional control and the Levelers' revolutionary force — rejecting both. She becomes a foil to the protagonist's evolving understanding that lasting change requires trust and distributed power, not optimization from the top.
 
 There should be a moment of genuine connection between them — a scene where the masks come down and they see each other clearly. She is afraid. He knows what it's like to lose the thing you built on. They understand each other, and it changes nothing, because they disagree about what comes next.
 
@@ -107,5 +107,5 @@ She is the **stewardship vs. control** argument made flesh. She believes she's a
 - Does she have a relationship to historical Wellsprings — institutional knowledge about what happened to previous ones?
 - How does her relationship with the protagonist end — reconciliation, estrangement, or something in between?
 - Does she ever recognize what she's doing, or does she remain convinced she's right?
-- How does she relate to the other antagonistic forces in Books Two and Three?
+- ~~How does she relate to the other antagonistic forces?~~ **Decided:** She's the establishment foil against the Levelers in Book Two. See characters/antagonists.md for the full framework.
 - What is her relationship to emerging non-magical technology? (Likely dismissive — it threatens the systems she knows.)

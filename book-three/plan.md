@@ -38,11 +38,20 @@ The final image should be small, warm, and quiet. He is proof that the other sid
 - The world's transition: the beginning of the post-magic age, difficult but not hopeless.
 - The trilogy's central question: what makes a person special? Not what they can do. What they choose to build, who they choose to become, and how they treat the people around them.
 
-## External Conflict (To Be Developed)
-- A movement or leader embodying despair — arguing that a magicless future isn't worth building for
+## External Conflict: The Movement Leader's Despair
+The primary antagonistic force is **the movement leader from Book Two**, now broken by the Levelers' failure. Their articulate, earned despair is more dangerous than any villain — it's the protagonist's own deepest fear given a voice.
+
+- The leader doesn't become a ranting nihilist — they become calm, evidence-armed, and rhetorically devastating. "Be honest. Admit this doesn't work. Stop lying to people about a future that isn't coming."
+- Their argument isn't "give up" — it's "stop pretending." They want the protagonist to publicly confess that his building project is a long shot and the transition will be brutal.
+- They're not entirely wrong — the protagonist's plans ARE imperfect, the transition WILL be painful. The leader draws conclusions the protagonist refuses to accept.
+- Their despair paralyzes people the protagonist needs: builders, organizers, young channelers who might otherwise invest in the future
+- The emotional challenge: how do you build when you can't promise it will work?
+- The patron's parallel reckoning: the world has moved past her institutional framework. Whether she adapts or remains locked in place is an open question.
 - The practical challenges of building post-magic systems while magic is still declining
 - Political resistance from those who still have power and don't want to let go
 - The race between the protagonist's dwindling reservoir and the work that needs finishing
+
+*(Full details: characters/antagonists.md, characters/movement-leader.md)*
 
 ## Open Questions
 - What does the "final expenditure" accomplish specifically? What is he building/completing?
