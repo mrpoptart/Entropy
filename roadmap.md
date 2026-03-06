@@ -13,7 +13,7 @@
 - Magic is a finite planetary resource that's been declining for generations (it was never meant to last)
 - Everyone draws a small renewable daily "trickle" from the planetary reservoir — channeled through hands, voice, intent
 - Trickles are weakening generationally: older people are literally more powerful than younger people
-- Wellsprings are rare anomalies — individuals with enormous finite non-renewable reservoirs (possibly symptoms of the decline)
+- The Wellspring is a singular, unprecedented anomaly — one individual born with an enormous finite non-renewable reservoir that was dormant since birth. There are no historical Wellsprings; this has never happened before and will never happen again
 - Using Wellspring power has no cost other than losing the power itself
 - The protagonist was born with NO magical ability (not even the trickle) before becoming a Wellspring
 
@@ -92,7 +92,7 @@ Sketch the following characters at a high level — enough to understand their r
 
 ### Priority 2: Plot Development
 The character foundation and thematic structure are strong. The books now need external plot spines:
-- **Book One:** What external events force the protagonist to use (and spend) his power? What is the patron's specific play? What crisis or conflict drives the action?
+- ~~**Book One:** What external events force the protagonist to use (and spend) his power? What is the patron's specific play? What crisis or conflict drives the action?~~ ✓ Done — Full three-act structure with the earthquake as the major set piece, the patron as Director of Infrastructure deploying his power, the math scene as emotional climax, 50% reservoir spent. See book-one/plan.md.
 - **Book Two:** What does the protagonist try to change and how does it go wrong? Who opposes him? What is the temptation?
 - **Book Three:** What is the "final expenditure"? What is he building? What does the antagonistic force of despair look like specifically?
 
@@ -117,7 +117,7 @@ Once characters and plot spine are established, build a chapter-by-chapter (or a
 - Character names (protagonist, sister, city, all supporting cast)
 - ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, the patron threading throughout
 - The sister's specific career
-- Exact mechanism of Wellspring activation
+- ~~Exact mechanism of Wellspring activation~~ **Decided:** The reservoir was always dormant inside him; extreme stress during an infrastructure crisis cracks the seal
 
 ## File Inventory
 ```

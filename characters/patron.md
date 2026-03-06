@@ -7,14 +7,15 @@
 - **Gender:** Female
 - **Location:** The city — deeply embedded in its political and institutional center
 - **Magical Status:** Strong trickle (elder generation). Her power is measurably greater than anyone a generation younger. She uses it efficiently and strategically — never showy, always purposeful.
+- **Role:** Director of Infrastructure — an elected official responsible for maintaining the city's magically-built systems (transit networks, structural integrity, water systems, heating grids). She answers to a constituency, which entangles her political survival with her access to the Wellspring's power.
 - **Role in the Story:** Major supporting character and primary antagonistic force in Book One. Not a villain — a person whose institutional logic and genuine care operate on parallel tracks that eventually diverge from the protagonist's interests.
 
 ## Who She Is
 
 ### The Surface
-One of the most influential people in the city. She holds a senior position in the civic administration — possibly a seat on the governing council, or control of a critical bureau (infrastructure, resource allocation, or public order). She is widely respected, politically astute, and known for getting things done within the system. People who work with her describe her as fair, exacting, and unsentimental.
+The Director of Infrastructure — the elected official responsible for keeping the city's magically-maintained systems running. Transit networks, structural reinforcement, water systems, heating grids — everything that was built in the high-magic era and now requires more channeling to maintain than the current workforce can reliably provide. She is widely respected, politically astute, and known for getting things done within the system. People who work with her describe her as fair, exacting, and unsentimental.
 
-She is the kind of person who makes the city function. Not the most powerful individual, not the loudest voice, but the one who knows where every lever is and how hard to pull it.
+She is the kind of person who makes the city function. Not the most powerful individual, not the loudest voice, but the one who knows where every lever is and how hard to pull it. She has a constituency to answer to, which means her competence is also her political platform — every system she keeps running is proof that her approach works.
 
 ### Underneath
 She believes — genuinely, in her bones — that the city's institutions are what stand between civilization and chaos. The magical decline terrifies her, not because she can't adapt personally (she's resourceful enough to manage), but because she can see the systems fraying. The infrastructure the city depends on was built for a higher-magic era. The political structures assume a level of capacity that younger generations can't provide. The social contract is cracking.
@@ -102,9 +103,9 @@ She is the **stewardship vs. control** argument made flesh. She believes she's a
 - She's not evil, AND the protagonist has to break from her to become who he needs to be
 
 ## Open Questions
-- What is her specific institutional role? (Council seat, bureau head, something else?)
+- ~~What is her specific institutional role? (Council seat, bureau head, something else?)~~ **Decided:** Director of Infrastructure — elected, responsible for the city's magically-maintained systems.
 - What is her personal history? (How did she rise to power? Does she have family?)
-- Does she have a relationship to historical Wellsprings — institutional knowledge about what happened to previous ones?
+- ~~Does she have a relationship to historical Wellsprings — institutional knowledge about what happened to previous ones?~~ **Decided:** No — there are no historical Wellsprings. This is unprecedented. She has no playbook, which makes her institutional response a live improvisation.
 - How does her relationship with the protagonist end — reconciliation, estrangement, or something in between?
 - Does she ever recognize what she's doing, or does she remain convinced she's right?
 - ~~How does she relate to the other antagonistic forces?~~ **Decided:** She's the establishment foil against the Levelers in Book Two. See characters/antagonists.md for the full framework.
