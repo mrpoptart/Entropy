@@ -1,6 +1,6 @@
 # The Tinkerer Mentor
 
-*(Name TBD)*
+**Haran**
 
 ## Basics
 - **Age:** Late 60s to early 70s

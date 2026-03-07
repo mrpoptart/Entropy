@@ -1,6 +1,6 @@
 # The Protagonist
 
-*(Name TBD)*
+**Ashlyn** — called **Ash** by everyone. Named after a great-grandparent.
 
 ## Basics
 - **Age:** Early-to-mid 20s at the start of Book One

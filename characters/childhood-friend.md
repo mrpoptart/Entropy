@@ -1,6 +1,6 @@
 # The Childhood Friend
 
-*(Name TBD)*
+**Ryn**
 
 ## Basics
 - **Age:** Same as the protagonist — early-to-mid 20s

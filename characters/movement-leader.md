@@ -1,10 +1,10 @@
 # The Movement Leader
 
-*(Name TBD)*
+**Davan** (male)
 
 ## Basics
 - **Age:** Early-to-mid 20s — roughly the protagonist's peer
-- **Gender:** TBD
+- **Gender:** Male
 - **Background:** Grew up in the city's working districts with a weak trickle. Not magicless like the protagonist was, but close enough to feel the sting — enough power to know what channeling should feel like, not enough to do much with it.
 - **Role in the Story:** Introduced in Book Two as the leader of the Levelers. The protagonist's foil, mirror, and eventual antagonist. Becomes the embodiment of despair in Book Three after the movement's failure.
 

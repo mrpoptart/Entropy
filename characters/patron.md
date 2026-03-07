@@ -1,6 +1,6 @@
 # The Patron
 
-*(Name TBD)*
+**Dorenne Kharren**
 
 ## Basics
 - **Age:** Late 50s to early 60s

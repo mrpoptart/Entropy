@@ -1,6 +1,6 @@
 # The Sister
 
-*(Name TBD)*
+**Maren**
 
 ## Basics
 - **Age:** Approximately two years younger than the protagonist
