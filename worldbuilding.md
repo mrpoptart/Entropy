@@ -465,7 +465,7 @@ A tinkerer in her building has rigged a wood-burning stove from salvaged metal a
 
 *The decline isn't a problem she's facing. It's the shape of her life. She's never known anything else.*
 
-### A Person Without Magic (Pre-Wellspring Protagonist)
+### A Person Without Magic (Pre-Wellspring Ash)
 
 He wakes in his parents' home. The walls are warm — his mother channels the house every morning, spending a significant portion of her daily trickle to make sure he's comfortable. He knows the cost. He pretends he doesn't.
 

@@ -573,7 +573,7 @@ He doesn't know yet. But he's in the right place to start.
 
 | Character | Arc in Book One | Status at Close |
 |---|---|---|
-| **Protagonist** | Helpless → euphoric → intoxicated → awakened | Knows the truth; doesn't know what to do with it |
+| **Ash** | Helpless → euphoric → intoxicated → awakened | Knows the truth; doesn't know what to do with it |
 | **The Patron** | Protector → partner → optimizer | Fractured relationship; still in power, still managing |
 | **The Mentor** | Steady presence → teacher → abandoned → returned to | Demonstrated the philosophy that will save the city; asked the question that reframes everything |
 | **The Sister** | Competent sibling → destabilized | Surface intact, ground shifting underneath |

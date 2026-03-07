@@ -109,7 +109,7 @@ The patron adapts. She recognizes that her institutional framework is ending, an
 - **The patron's resolution:** Redemption — she adapts, backs Ash's projects ✓
 - **The movement leader's resolution:** Remains broken; given a community that fails; the cost of the story ✓
 - **The mentor's reveal:** Full-power channeling in a crisis, recontextualizing his lifelong choice and the efficiency technique ✓
-- **The sister's resolution:** Protagonist helps her through the transition using his pre-Wellspring wisdom ✓
+- **The sister's resolution:** Ash helps her through the transition using his pre-Wellspring wisdom ✓
 - **The efficiency technique:** Threads from Book Two; makes remaining expenditure precise; explains the mentor's power ✓
 
 ## Open Questions

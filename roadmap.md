@@ -26,7 +26,7 @@
 - Primary setting: **Solathis** — a grand city named for its reluctant founder, stratified by generational magical power, fraying at the edges
 - Rural communities are hit hardest but are also inventing the future through necessity
 
-### Protagonist ✓
+### Ash (Protagonist) ✓
 - Male, early-to-mid 20s
 - Born without magic — effectively disabled in a magical world
 - Outwardly cheerful, privately grieving; cheerfulness is both survival strategy and apology
@@ -75,7 +75,7 @@
 - Hybrid structure: institution in Book Two, a specific person emerging from its failure in Book Three
 
 ### The Childhood Friend ✓
-- Female, same age as protagonist, grew up on the same street
+- Female, same age as Ash, grew up on the same street
 - Normal trickle, competent channeler — not exceptional, not struggling
 - The only person who refuses to treat the Wellspring as the most interesting thing about him
 - Represents the road not taken (ordinary life) and serves as the truth-teller
@@ -101,7 +101,7 @@ The character foundation and thematic structure are strong. The books now need e
 - ~~Sketch the geography~~ ✓ Done — Kharren Fault, Hearthlands, Ashward Ridge, Verandhi Coast, Verenthi Range. Full geographic summary with distances and travel.
 - ~~Develop history and mythology~~ ✓ Done — Gift/Loan/Cycle origin traditions, Ancient generation and ruins, recorded history (High Age → Transition → Long Diminishment → Present), no Wellspring prophecies (unprecedented).
 - ~~Detail the economy and political structures~~ ✓ Done — Trickle-based economy, seven major industries, currency/wealth dimensions, City Council governance, warden-based law enforcement, expanded political factions.
-- ~~Flesh out daily life vignettes~~ ✓ Done — Four vignettes: elder in upper districts, middle-generation worker, young adult in lower districts, person without magic (pre-Wellspring protagonist). All in worldbuilding.md.
+- ~~Flesh out daily life vignettes~~ ✓ Done — Four vignettes: elder in upper districts, middle-generation worker, young adult in lower districts, person without magic (pre-Wellspring Ash). All in worldbuilding.md.
 
 ### Priority 4: Book One Outline ✓
 ~~Once characters and plot spine are established, build a chapter-by-chapter (or act-by-act) outline for Book One.~~ ✓ Done — 19-chapter outline structured across four acts (Ordinary World & Activation, The Ascent, The Earthquake, The Reckoning). Includes reservoir tracking, character thread summary, and seeds planted for Book Two. See book-one/outline.md.
@@ -114,7 +114,7 @@ The character foundation and thematic structure are strong. The books now need e
 
 ### Deferred Decisions
 - Does magic fade to zero or leave a faint ember?
-- Character names (protagonist, sister, all supporting cast)
+- Character names (sister, all supporting cast)
 - ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, the patron threading throughout
 - The sister's specific career
 - ~~Exact mechanism of Wellspring activation~~ **Decided:** The reservoir was always dormant inside him; extreme stress during an infrastructure crisis cracks the seal

@@ -53,7 +53,7 @@ If `roadmap.md` doesn't exist yet, this README is your primary orientation docum
 - Trilogy theme and arc design
 - Magic system foundation
 - Worldbuilding foundation
-- Protagonist full profile
+- Ash (protagonist) full profile
 - Sister/secondary character full profile
 
 ### What's In Progress

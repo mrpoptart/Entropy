@@ -65,7 +65,7 @@ The patron threads through all three books, evolving in relation to the other an
 
 **Book Two:** Diminished as direct antagonist but still present. The Levelers' rise threatens her institutional framework — they want to tear down the systems she's spent her life building. She represents the "establishment" position against their populist energy. Ash is caught between her institutional control and their revolutionary force — rejecting both.
 
-There should be a moment of genuine connection between patron and protagonist in Book Two — masks down, mutual recognition of shared fear. It changes nothing structurally, but it rehumanizes their relationship.
+There should be a moment of genuine connection between patron and Ash in Book Two — masks down, mutual recognition of shared fear. It changes nothing structurally, but it rehumanizes their relationship.
 
 **Book Three:** The world has moved past her framework. The institutions she protected are transforming or dissolving. She confronts what Ash already learned: that control is not the same as stewardship. **She adapts** — seeing Ash's building projects succeed, she throws her institutional weight behind the transition. Her redemption parallels Ash's: both lose what they built their identity on, both choose to build something new.
 

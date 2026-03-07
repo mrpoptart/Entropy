@@ -119,7 +119,7 @@ When it fails, Ash — now ordinary, powerless — helps. He offers mechanical k
 Not every wound heals. Not every grief reaches acceptance. Davan's unresolved despair is the honest acknowledgment that Ash's journey, while real, is not guaranteed. Some people break and stay broken. The patron adapts and finds redemption; Davan does not. Both responses are real. The contrast gives both weight.
 
 ## Open Questions
-- ~~Gender? (Consider what complements the existing cast — protagonist male, sister female, patron female, mentor male, childhood friend female)~~ **Decided:** Male.
+- ~~Gender? (Consider what complements the existing cast — Ash male, sister female, patron female, mentor male, childhood friend female)~~ **Decided:** Male.
 - What is his specific background? (District, family, what he did before organizing)
 - Does he have a personal relationship beyond the political one with Ash? (Friendship? Something more complicated?)
 - Where is the community he takes? How many people? How long before it fails?

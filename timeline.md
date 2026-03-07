@@ -49,7 +49,7 @@ The Ancients die. The current Elder generation inherits systems built for people
 
 **Reservoir: 100% → ~50%**
 
-- Protagonist working as patron's aide, living without magic
+- Ash working as patron's aide, living without magic
 - Infrastructure inspection → cascading structural failure → Wellspring activates
 - Rapid, inefficient learning period (wild expenditure)
 - Patron directs him toward struggling districts
@@ -84,11 +84,11 @@ The Ancients die. The current Elder generation inherits systems built for people
 - Movement leader's descent into articulate despair
 - Patron at a crossroads as institutions crumble
 - Letting go of control — watching imperfect implementation
-- Movement leader takes a community; protagonist lets them try
+- Movement leader takes a community; Ash lets them try
 - Mentor's revelation — full elder-generation power, decades of mastered efficiency
-- Sister completes her arc with protagonist's help
+- Sister completes her arc with Ash's help
 - The tipping-point project (specific nature TBD)
 - The final expenditure — reservoir reaches 0
-- Movement leader's community fails; protagonist helps, now ordinary
+- Movement leader's community fails; Ash helps, now ordinary
 - Patron's redemption — throws institutional weight behind transition
 - Epilogue: ordinary life, at peace, in the world he built
