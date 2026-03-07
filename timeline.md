@@ -29,17 +29,17 @@ The Ancients die. The current Elder generation inherits systems built for people
 ## Recent Backstory (years before Book One)
 
 ### ~20-25 years before Book One
-- The protagonist is born without any magical ability — no trickle at all
+- Ash is born without any magical ability — no trickle at all
 - His dormant Wellspring reservoir (50 GJ) expresses as apparent magical disability
 - His sister is born ~2 years later with a normal trickle
 
 ### ~10-15 years before Book One
 - The mentor establishes his workshop in a poorer district of Solathis
-- The protagonist discovers the tinkerer community — the first place his lack of magic isn't a disability
+- Ash discovers the tinkerer community — the first place his lack of magic isn't a disability
 - The generational power gap becomes a public political issue rather than a private grievance
 
 ### ~1-3 years before Book One
-- The patron (Director of Infrastructure) takes the protagonist on as an aide
+- The patron (Director of Infrastructure) takes Ash on as an aide
 - Infrastructure maintenance crises accelerate — more buildings on the waiting list, fewer crews to service them
 - Kharren Fault reinforcement teams are smaller, weaker, stretched thinner
 - Food prices in Solathis begin rising noticeably
@@ -53,7 +53,7 @@ The Ancients die. The current Elder generation inherits systems built for people
 - Infrastructure inspection → cascading structural failure → Wellspring activates
 - Rapid, inefficient learning period (wild expenditure)
 - Patron directs him toward struggling districts
-- **The Earthquake** — major seismic event, partly natural, partly weakened reinforcements. The protagonist's finest and most expensive hour.
+- **The Earthquake** — major seismic event, partly natural, partly weakened reinforcements. Ash's finest and most expensive hour.
 - **The Math Scene** — he measures what's left. ~50% gone in weeks.
 - Break with the patron. Returns to the tinkerer workshop.
 

@@ -17,7 +17,7 @@ Outwardly cheerful, privately grieving. He has learned that bitterness is a luxu
 His cheerfulness is also an apology. Every smile is him trying to be worth the trouble. Every joke, every moment of warmth — that's him paying rent with the only currency he has: being pleasant to be around.
 
 ### Core Strengths (Independent of Magic)
-**Physical capability.** In a world where everyone uses magic for physical tasks, most people are unremarkable in body. The protagonist has had to do everything by hand his entire life. He's one of the more physically fit people in the city — strong, enduring, practical with his body. He doesn't think of this as a strength; it's just the exhausting reality of his existence.
+**Physical capability.** In a world where everyone uses magic for physical tasks, most people are unremarkable in body. Ash has had to do everything by hand his entire life. He's one of the more physically fit people in the city — strong, enduring, practical with his body. He doesn't think of this as a strength; it's just the exhausting reality of his existence.
 
 **Intellect.** This is his real weapon. He's brilliant — sharp, analytical, able to see systems and solutions that others miss. But intelligence without magic in this world is like being a brilliant engineer with no tools. He can diagnose problems he can't fix. He's the person in the tinkerer workshop who figures out why the mechanism isn't working, then has to watch someone with a trickle do the final step.
 

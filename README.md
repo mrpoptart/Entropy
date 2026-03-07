@@ -88,9 +88,9 @@ The project is organized into five phases. Each phase builds on the last — lat
 
 **Key questions to explore in Phase 1:**
 - What is the patron's relationship to the magic system's decline? Are they complicit, fighting it, or profiting from it?
-- What does the mentor know that they aren't telling the protagonist? What is their personal stake?
-- How does the childhood friend represent the "normal" life the protagonist could have had? What tension does that create?
-- Who or what is the primary antagonist — a person, an institution, a force? Is the antagonist aware of the protagonist, or are they a systemic threat?
+- What does the mentor know that they aren't telling Ash? What is their personal stake?
+- How does the childhood friend represent the "normal" life Ash could have had? What tension does that create?
+- Who or what is the primary antagonist — a person, an institution, a force? Is the antagonist aware of Ash, or are they a systemic threat?
 - How do the antagonist's goals connect to the central theme of what it means to be "special"?
 - What is the full chronology of the magic system's decline? When did it start, what are the key milestones, and where is it now?
 
@@ -106,10 +106,10 @@ The project is organized into five phases. Each phase builds on the last — lat
 | 2.5 | Scene-level notes for key moments | `book-one/notes.md` | Not started |
 
 **Key questions to explore in Phase 2:**
-- What is the protagonist's starting state at the opening of Book One? What do they believe, want, and fear?
-- What is the inciting incident that disrupts their status quo?
+- What is Ash's starting state at the opening of Book One? What does he believe, want, and fear?
+- What is the inciting incident that disrupts his status quo?
 - What is the central conflict of Book One specifically (not the trilogy)?
-- What does the protagonist learn or fail to learn by the end of Book One?
+- What does Ash learn or fail to learn by the end of Book One?
 - What is the cliffhanger or emotional hook that pulls readers into Book Two?
 - Which characters appear in Book One, and what are their roles in this specific story?
 - What worldbuilding details need to be introduced in Book One vs. saved for later?
@@ -126,10 +126,10 @@ The project is organized into five phases. Each phase builds on the last — lat
 | 3.5 | Trilogy arc continuity check | `trilogy-overview.md` | Not started |
 
 **Key questions to explore in Phase 3:**
-- How does the protagonist's arc escalate from Book One to Book Two? What new dimensions of "power and identity" are explored?
+- How does Ash's arc escalate from Book One to Book Two? What new dimensions of "power and identity" are explored?
 - What is the midpoint crisis of the trilogy (likely end of Book Two)?
 - How does Book Three resolve the central question: what does it mean to be "special" in a world where magic is dying?
-- Does magic survive? Does the protagonist save it, let it go, or transform it?
+- Does magic survive? Does Ash save it, let it go, or transform it?
 - Which characters survive the trilogy? Which don't, and why does their loss matter thematically?
 - How do the antagonist's motivations become more complex or sympathetic across the trilogy?
 
@@ -174,9 +174,9 @@ These are bigger-picture questions that don't fit neatly into a single phase —
 - What are the social/political consequences of magic dying? Who loses power? Who gains it?
 
 ### Character & Theme
-- What does "special" mean in this world? Is it about magical ability, lineage, destiny, or something the protagonist constructs for themselves?
-- Is the protagonist actually special, or do they just believe they are (or need to be)?
-- How does the sister's relationship to "specialness" mirror or contrast the protagonist's?
+- What does "special" mean in this world? Is it about magical ability, lineage, destiny, or something Ash constructs for himself?
+- Is Ash actually special, or does he just believe he is (or need to be)?
+- How does the sister's relationship to "specialness" mirror or contrast Ash's?
 - What is the emotional core of the trilogy — is it ultimately about acceptance, transformation, grief, or something else?
 
 ### Structure & Craft

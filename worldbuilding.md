@@ -68,13 +68,13 @@ The magical decline maps to climate change in its social dynamics:
 **Institutional failure.** Systems built for a high-magic world are slowly degrading. The cracks appear first in places with the fewest resources.
 
 ### The Wellspring (Singular, Unprecedented)
-The Wellspring is a one-time anomaly in the world's history. It has never happened before and will never happen again. There is no mythology about Wellsprings, no prophecies, no legends — because until the protagonist, this phenomenon did not exist.
+The Wellspring is a one-time anomaly in the world's history. It has never happened before and will never happen again. There is no mythology about Wellsprings, no prophecies, no legends — because until Ash, this phenomenon did not exist.
 
-A Wellspring is an individual born with an enormous, finite, non-renewable reservoir of magical power — dormant and sealed, expressing as apparent magical disability until activation. The protagonist spent his entire life believing he was empty. He was actually full — holding a reservoir so massive it couldn't express through normal channels. His "disability" was the presence of something too large, not the absence of something ordinary.
+A Wellspring is an individual born with an enormous, finite, non-renewable reservoir of magical power — dormant and sealed, expressing as apparent magical disability until activation. Ash spent his entire life believing he was empty. He was actually full — holding a reservoir so massive it couldn't express through normal channels. His "disability" was the presence of something too large, not the absence of something ordinary.
 
 **Why it happened:** Unknown. It may be a symptom of the decline — the planetary reservoir concentrating in a single point as it diminishes, like the last water in a drying lake pooling in the deepest part. It may be entirely random. There is no answer to find, and searching for one is a dead end. The Wellspring simply *is*.
 
-**Activation:** The reservoir was always there. What triggers it is a moment of extreme physical or emotional stress — the seal cracks under pressure. The context of activation matters (it shapes the protagonist's emotional relationship to the power), but the power comes from inside him, not from external circumstances.
+**Activation:** The reservoir was always there. What triggers it is a moment of extreme physical or emotional stress — the seal cracks under pressure. The context of activation matters (it shapes Ash's emotional relationship to the power), but the power comes from inside him, not from external circumstances.
 
 Key properties:
 - **Finite and non-renewable.** The reservoir was full at birth and only decreases from the moment of activation. Seemingly infinite at first, but absolutely not.
@@ -84,8 +84,8 @@ Key properties:
 - **When empty, empty.** A depleted Wellspring has nothing — not even the ordinary trickle. Back to zero.
 - **Unprecedented.** No one — not scholars, not institutions, not the oldest living channelers — has any framework for understanding what a Wellspring is. There is no playbook. Everyone is navigating blind.
 
-### The Protagonist's Unique Situation
-The protagonist was born with this dormant reservoir instead of a trickle. In a world where basic magic is as normal as breathing, he was effectively disabled — the irony being that his "disability" was caused by having more magical potential than anyone in history, sealed and inaccessible.
+### Ash's Unique Situation
+Ash was born with this dormant reservoir instead of a trickle. In a world where basic magic is as normal as breathing, he was effectively disabled — the irony being that his "disability" was caused by having more magical potential than anyone in history, sealed and inaccessible.
 
 This means:
 - No prior magical experience — steep learning curve, wild early expenditures
@@ -133,25 +133,25 @@ Solath didn't choose the site. He just refused to leave it. And for generations,
 
 **What this means for the narrative:**
 
-The protagonist — with his intellect and his tinkerer background — can see this problem clearly, and it's the one his power can't solve. He can reinforce a building, channel water uphill, heat a district. But he can't permanently reshape the geography. The moment he stops channeling, the plateau is still rock, the rivers are still in gorges, the wind still howls off the mountains. His Wellspring can hold the city together, but it can't make the city *work* without magic. That would require either abandoning the site or rebuilding everything from the foundations up — chimneys, insulation, gravity-fed water, new roads. Generations of work. Not a Wellspring's work.
+Ash — with his intellect and his tinkerer background — can see this problem clearly, and it's the one his power can't solve. He can reinforce a building, channel water uphill, heat a district. But he can't permanently reshape the geography. The moment he stops channeling, the plateau is still rock, the rivers are still in gorges, the wind still howls off the mountains. His Wellspring can hold the city together, but it can't make the city *work* without magic. That would require either abandoning the site or rebuilding everything from the foundations up — chimneys, insulation, gravity-fed water, new roads. Generations of work. Not a Wellspring's work.
 
 The rural communities — the Hearthlands, the coast, even the struggling Ashward — are in places that *make sense* without magic. Flat land, accessible water, natural shelter, soil you can farm with your hands. The "backwards" communities aren't just culturally ahead of Solathis in adapting to the decline — they're *geographically* ahead. They're in places where non-magical life is physically possible. Solathis isn't.
 
-This is the deep structural problem of Book Three: the transition isn't just "learn to live without magic." For Solathis, it's "learn to live without magic in a place that only exists because of magic." The answer might be painful — dispersal, relocation, a city that shrinks to fit what the terrain can actually support. The protagonist can't magic his way around geography. Nobody can.
+This is the deep structural problem of Book Three: the transition isn't just "learn to live without magic." For Solathis, it's "learn to live without magic in a place that only exists because of magic." The answer might be painful — dispersal, relocation, a city that shrinks to fit what the terrain can actually support. Ash can't magic his way around geography. Nobody can.
 
 **Stratification by generational power:**
 - *Elder districts:* Maintained by residents with strong trickles. Buildings gleam. Infrastructure works. Life feels normal. The powerful live here and see no crisis.
 - *Middle districts:* Things work, but with effort. Daily channeling leaves residents more tired than it used to. Maintenance is falling behind.
 - *Young/poor districts:* Fraying edges. Infrastructure failing. Buildings cracking. Quiet experimentation with mechanical alternatives. Resentment toward the elder districts.
 
-**The protagonist's experience of the city (before the Wellspring):** A person without magic in a city that runs on it. Can't use channeler-powered transit. Can't contribute to maintenance shifts. Can't do most jobs. Can't participate in basic social rituals that involve sharing magic. A person without electricity in a city built on the grid.
+**Ash's experience of the city (before the Wellspring):** A person without magic in a city that runs on it. Can't use channeler-powered transit. Can't contribute to maintenance shifts. Can't do most jobs. Can't participate in basic social rituals that involve sharing magic. A person without electricity in a city built on the grid.
 
 ## The Rural World
 *(To be developed in detail)*
 
 Rural and frontier communities are where the decline hits hardest and earliest. They are also where non-magical alternatives are being invented out of necessity — crude mechanical tools, manual agricultural techniques, cooperative practices that don't depend on individual magical strength.
 
-**The irony:** The rural world is already living in the future that the city refuses to imagine. By book three, the protagonist may recognize that these "backwards" communities figured out the answer before the sophisticated capital did.
+**The irony:** The rural world is already living in the future that the city refuses to imagine. By book three, Ash may recognize that these "backwards" communities figured out the answer before the sophisticated capital did.
 
 ## Emerging Technology
 Non-magical technology is being developed as a direct response to the decline. Mechanical engineering, chemistry, combustion, basic medicine — invented or rediscovered by people who can no longer rely on channeling.
@@ -188,7 +188,7 @@ The broad, flat river valleys surrounding Solathis in every direction. Rich allu
 - Elder landowners still produce well and dominate the agricultural economy. When they die, their farms often collapse within a season — no one left with enough trickle to maintain the output.
 - Food prices in Solathis are rising. The Hearthlands can feel the city's appetite outpacing their capacity.
 
-**Narrative role:** The Hearthlands are the canary in the coal mine. Reports of declining yields, farm failures, and food insecurity filter into Solathis as background noise in Book One — the kind of thing the protagonist (and the city establishment) ignores while focused on more dramatic problems. By Book Two, the Hearthlands' crisis is impossible to deny.
+**Narrative role:** The Hearthlands are the canary in the coal mine. Reports of declining yields, farm failures, and food insecurity filter into Solathis as background noise in Book One — the kind of thing Ash (and the city establishment) ignores while focused on more dramatic problems. By Book Two, the Hearthlands' crisis is impossible to deny.
 
 ### The Ashward Ridge (Highland Country)
 
@@ -242,7 +242,7 @@ Other nations exist. They're experiencing the same decline — magic is planetar
 - Some are collapsing as magical infrastructure fails without replacement
 - Trade and diplomacy continue, but the shared crisis creates both solidarity and competition
 
-**For the trilogy's purposes, we stay focused on Solathis and its surrounding region.** The broader world provides context — news from the coast, trade disruptions, rumors of how others are coping — but the story is local. The protagonist's choices matter because they happen in a specific place with specific people, not because he's saving the world.
+**For the trilogy's purposes, we stay focused on Solathis and its surrounding region.** The broader world provides context — news from the coast, trade disruptions, rumors of how others are coping — but the story is local. Ash's choices matter because they happen in a specific place with specific people, not because he's saving the world.
 
 ### Geographic Summary
 
@@ -297,7 +297,7 @@ This is the tradition the mentor's worldview aligns with, though he'd never fram
 **The Cycle theory (academic, minority):**
 Some scholars argue magic is cyclical — that the planetary reservoir has filled and emptied before, over timescales longer than recorded history. If true, the decline is a low point, not an end. This theory is comforting but unfalsifiable, and its main political function is to justify inaction: *why restructure society for a temporary dip?*
 
-The protagonist's journey implicitly settles the question for the reader (the Loan tradition is closest to truth), but the narrative never states this outright. The world doesn't get a definitive answer. People have to act without one.
+Ash's journey implicitly settles the question for the reader (the Loan tradition is closest to truth), but the narrative never states this outright. The world doesn't get a definitive answer. People have to act without one.
 
 ### The Ancient Generation and the Ruins
 
@@ -310,7 +310,7 @@ The oldest structures in the world — the mountain roads, the carved peaks of t
 No one maintains them now. The roads are cracking. The carved halls are dark and cold. The arches hold — stone is patient — but the smaller works, the ones that needed regular channeling to stay intact, have been crumbling for generations.
 
 **Do people visit them?** Yes. The ruins draw three kinds of visitors:
-- **Scholars and archivists** who study Ancient techniques, looking for efficiency insights. Some of the efficiency techniques that survive (including the foundations of what the protagonist learns in Book Two) were reverse-engineered from Ancient construction methods.
+- **Scholars and archivists** who study Ancient techniques, looking for efficiency insights. Some of the efficiency techniques that survive (including the foundations of what Ash learns in Book Two) were reverse-engineered from Ancient construction methods.
 - **Pilgrims and mourners** who visit to feel the scale of what's been lost. For some, the ruins are a temple. For others, a graveyard. The emotional valence depends on whether you think the golden age is coming back.
 - **Salvagers** who strip usable materials and intact mechanisms from abandoned sites. This is technically illegal in Solathis's jurisdiction but widely practiced in the Ashward, where Ancient-era stone and metalwork are too valuable to leave rotting in the mountains.
 
@@ -330,11 +330,11 @@ The world doesn't have a single calendar era. Dates are reckoned from local foun
 
 ### Prophecy and the Wellspring
 
-**There are no Wellspring prophecies.** This is important. In a genre full of Chosen One narratives, this world has no framework for what the protagonist becomes. No ancient texts predict him. No seers foresaw him. No mythology includes a figure like him.
+**There are no Wellspring prophecies.** This is important. In a genre full of Chosen One narratives, this world has no framework for what Ash becomes. No ancient texts predict him. No seers foresaw him. No mythology includes a figure like him.
 
 The Wellspring is genuinely unprecedented — and the world's reaction reflects that. When he activates, the institutional response isn't "the prophecy is fulfilled" but "what the hell is this?" Scholars scramble to explain it. Religious figures try to claim it. Politicians try to use it. Nobody has a playbook.
 
-Some people *will* retroactively construct prophecies — reinterpreting old texts, claiming ancient poets foresaw the Wellspring. This is historically accurate (people always find prophecies after the fact) and narratively useful: it shows how mythology gets manufactured in real time. The protagonist watches people build a mythology around him that has nothing to do with who he actually is.
+Some people *will* retroactively construct prophecies — reinterpreting old texts, claiming ancient poets foresaw the Wellspring. This is historically accurate (people always find prophecies after the fact) and narratively useful: it shows how mythology gets manufactured in real time. Ash watches people build a mythology around him that has nothing to do with who he actually is.
 
 **What prophecy-like traditions do exist:** There are old sayings, folk wisdom, and poetic traditions about the decline. "The last light burns brightest" is the kind of proverb that circulates — not a prophecy, just the fatalistic poetry of people watching something end. These sayings get weaponized after the Wellspring activates. "See? The old poets knew." They didn't. They were just sad.
 
@@ -379,7 +379,7 @@ Physical currency exists — coins, trade notes — backed by institutional auth
 
 The elder generation dominates all three. They have the money (accumulated over longer, more productive careers), the trickle (born stronger), and the access (they built the institutions). This triple advantage is the economic engine of generational inequality — and it's the material basis for the Levelers' arguments in Book Two.
 
-**Debt and dependency:** People without adequate trickles for their district's maintenance obligations sometimes pay others to cover their share — creating a class of trickle-debtors, disproportionately young, who owe a portion of their already-thin daily budget to more powerful neighbors. This is one of the quiet cruelties the protagonist experienced before activation.
+**Debt and dependency:** People without adequate trickles for their district's maintenance obligations sometimes pay others to cover their share — creating a class of trickle-debtors, disproportionately young, who owe a portion of their already-thin daily budget to more powerful neighbors. This is one of the quiet cruelties Ash experienced before activation.
 
 ## Political Structure
 
@@ -399,7 +399,7 @@ Solathis is governed by a **City Council** — a body of directors, each oversee
 
 - **Elder wardens are effective.** They have the trickle to restrain, pursue, and overpower.
 - **Young wardens are outmatched.** A young warden with 1,000 kJ/day trying to apprehend an elder criminal with 10,000 kJ/day is bringing a candle to a bonfire. This is not a theoretical problem — it's a daily reality in districts where elder residents refuse warden authority.
-- **The Wellspring disrupts everything.** When the protagonist activates, he is more powerful than every warden in the city combined. The question of who can hold him accountable, who can arrest him if needed, becomes an unspoken crisis. It's one of the reasons the patron moves to keep him within institutional control — outside the system, he's ungovernable.
+- **The Wellspring disrupts everything.** When Ash activates, he is more powerful than every warden in the city combined. The question of who can hold him accountable, who can arrest him if needed, becomes an unspoken crisis. It's one of the reasons the patron moves to keep him within institutional control — outside the system, he's ungovernable.
 
 **Criminal law** follows standard patterns — courts, advocates, judges — but sentencing can include channeling-based penalties: forced labor on maintenance crews, trickle-monitoring (a humiliating surveillance), or district exile. The system assumes magic makes enforcement possible. The decline is eroding that assumption.
 
@@ -411,11 +411,11 @@ The five factions introduced earlier aren't formal parties — they're tendencie
 
 **Denialists:** Strongest among elders and the established generation. Their argument: the decline is measurable but exaggerated by alarmists, and historical cycles suggest recovery. Denialists hold institutional power because the people who run institutions have the least incentive to acknowledge that the institutions are failing. The patron is not a denialist — she sees the numbers clearly — but she operates within a system full of them.
 
-**Preservationists:** The political center. Ration magic use, regulate waste, extend the timeline. Preservationist policy sounds reasonable and is often authoritarian in practice — rationing means someone decides who gets how much, and that someone is usually an elder with a comfortable trickle. The protagonist encounters preservationist logic in Book Two when the Levelers demand redistribution: the establishment's counter-argument is always "managed decline," which means managed by the people at the top.
+**Preservationists:** The political center. Ration magic use, regulate waste, extend the timeline. Preservationist policy sounds reasonable and is often authoritarian in practice — rationing means someone decides who gets how much, and that someone is usually an elder with a comfortable trickle. Ash encounters preservationist logic in Book Two when the Levelers demand redistribution: the establishment's counter-argument is always "managed decline," which means managed by the people at the top.
 
 **Accelerationists:** A small, passionate, mostly young faction. If magic is ending, spend it all — build one last great thing, live fully, don't ration beauty. Accelerationism is emotionally compelling and practically suicidal. It has cultural influence disproportionate to its political power — accelerationist art, music, and philosophy are the voice of a generation that knows it's inheriting ruins.
 
-**Technologists:** The pragmatists. Build alternatives. The mentor is a technologist in practice if not in political identity. The Verandhi Coast is the technologist heartland. In Solathis, technologists are a growing but stigmatized minority — the tinkerer community the protagonist belongs to before activation. By Book Three, the technologists' position has been vindicated by events, but "I told you so" doesn't heal the damage done by decades of delay.
+**Technologists:** The pragmatists. Build alternatives. The mentor is a technologist in practice if not in political identity. The Verandhi Coast is the technologist heartland. In Solathis, technologists are a growing but stigmatized minority — the tinkerer community Ash belongs to before activation. By Book Three, the technologists' position has been vindicated by events, but "I told you so" doesn't heal the damage done by decades of delay.
 
 **Authoritarians:** Centralize remaining magic under state control for "optimal allocation." This faction has real intellectual weight — if the resource is finite and shrinking, centralized management is a defensible position. Its adherents include well-meaning technocrats and power-hungry opportunists in roughly equal measure. The patron's institutional instincts lean authoritarian under pressure, which is part of what makes her the Book One antagonist.
 

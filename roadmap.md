@@ -7,7 +7,7 @@
 - **Core Focus:** Extreme character development; plot serves character
 - **Central Question:** What makes a person "special" — and what happens when the obvious answer is taken away?
 - **Thematic Arc:** Identity through power → Crisis of purpose → Identity beyond power
-- **Ending:** The protagonist lives an ordinary life, at peace, in the world he built
+- **Ending:** Ash lives an ordinary life, at peace, in the world he built
 
 ### Magic System ✓
 - Magic is a finite planetary resource that's been declining for generations (it was never meant to last)
@@ -15,7 +15,7 @@
 - Trickles are weakening generationally: older people are literally more powerful than younger people
 - The Wellspring is a singular, unprecedented anomaly — one individual born with an enormous finite non-renewable reservoir that was dormant since birth. There are no historical Wellsprings; this has never happened before and will never happen again
 - Using Wellspring power has no cost other than losing the power itself
-- The protagonist was born with NO magical ability (not even the trickle) before becoming a Wellspring
+- Ash was born with NO magical ability (not even the trickle) before becoming a Wellspring
 
 ### World ✓
 - Modern-equivalent civilization built on magic rather than technology
@@ -50,11 +50,11 @@
 ### The Patron ✓
 - Female, late 50s to early 60s, senior civic administrator
 - Institutional power broker — believes the city's systems are what stand between civilization and chaos
-- Took the protagonist on as an aide for reasons both sincere (moved by his situation) and strategic (political optics)
+- Took Ash on as an aide for reasons both sincere (moved by his situation) and strategic (political optics)
 - When the Wellspring activates: protective instincts merge with institutional logic into escalating need to direct his power
 - Not a villain — a competent leader whose framework (people as functions within a system) becomes the primary antagonistic force of Book One
 - Embodies the limits of institutional thinking and the control-vs-stewardship theme
-- Her trajectory across the trilogy mirrors the protagonist's: both must lose the thing they built their identity on
+- Her trajectory across the trilogy mirrors Ash's: both must lose the thing they built their identity on
 
 ### The Tinkerer Mentor ✓
 - Male, late 60s to early 70s, runs a workshop in a poorer district
@@ -62,12 +62,12 @@
 - Saw the decline coming and built a life and career on non-magical mechanisms
 - Not a purist — still uses his trickle practically — but his identity doesn't depend on it
 - Patient, dry-humored, teaches by doing, expresses care through attention and shared work
-- The protagonist's philosophical anchor and the living proof that identity beyond power is reachable
+- Ash's philosophical anchor and the living proof that identity beyond power is reachable
 - Steady presence across the trilogy, not a character who needs his own dramatic arc
 
 ### Antagonist Framework ✓
 - No central villain — the decline has no cause to fight
-- Antagonists embody wrong responses to the crisis, forming a grief progression: control (bargaining) → righteous force (anger) → despair (depression). The protagonist's arc completes the cycle with acceptance.
+- Antagonists embody wrong responses to the crisis, forming a grief progression: control (bargaining) → righteous force (anger) → despair (depression). Ash's arc completes the cycle with acceptance.
 - Book One: The Patron (control) — managerial, institutional
 - Book Two: The Levelers (righteous force) — a generational redistributionist movement. Systemic antagonism, not personal.
 - Book Three: The Movement Leader (despair) — the Levelers' leader, introduced in Book Two, breaks when the movement fails
@@ -84,7 +84,7 @@
 ## What Needs To Be Done Next
 
 ### Priority 1: Remaining Key Characters (Broad Strokes)
-Sketch the following characters at a high level — enough to understand their role, motivation, and relationship to the protagonist:
+Sketch the following characters at a high level — enough to understand their role, motivation, and relationship to Ash:
 - ~~**The Patron** — Who are they? What do they actually want? How does the relationship evolve?~~ ✓ Done
 - ~~**The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?~~ ✓ Done
 - ~~**The Childhood Friend** — The person who knew him before. What's their situation?~~ ✓ Done
@@ -92,8 +92,8 @@ Sketch the following characters at a high level — enough to understand their r
 
 ### Priority 2: Plot Development
 The character foundation and thematic structure are strong. The books now need external plot spines:
-- ~~**Book One:** What external events force the protagonist to use (and spend) his power? What is the patron's specific play? What crisis or conflict drives the action?~~ ✓ Done — Full three-act structure with the earthquake as the major set piece, the patron as Director of Infrastructure deploying his power, the math scene as emotional climax, 50% reservoir spent. See book-one/plan.md.
-- ~~**Book Two:** What does the protagonist try to change and how does it go wrong? Who opposes him? What is the temptation?~~ ✓ Done — Proof-of-concept district as building project, the Levelers emerge from post-earthquake radicalization, the efficiency technique as temptation (rejected for preservation, adopted for capability), the sibling reckoning, ~15-20% reservoir remains. See book-two/plan.md and series-outline.md.
+- ~~**Book One:** What external events force Ash to use (and spend) his power? What is the patron's specific play? What crisis or conflict drives the action?~~ ✓ Done — Full three-act structure with the earthquake as the major set piece, the patron as Director of Infrastructure deploying his power, the math scene as emotional climax, 50% reservoir spent. See book-one/plan.md.
+- ~~**Book Two:** What does Ash try to change and how does it go wrong? Who opposes him? What is the temptation?~~ ✓ Done — Proof-of-concept district as building project, the Levelers emerge from post-earthquake radicalization, the efficiency technique as temptation (rejected for preservation, adopted for capability), the sibling reckoning, ~15-20% reservoir remains. See book-two/plan.md and series-outline.md.
 - ~~**Book Three:** What is the "final expenditure"? What is he building? What does the antagonistic force of despair look like specifically?~~ ✓ Partially done — Movement leader takes a community (fails), patron gets redemption arc, mentor reveals full power, sister completes arc. The specific tipping-point project and the exact nature of the final expenditure remain open. See book-three/plan.md and series-outline.md.
 
 ### Priority 3: Worldbuilding Details ✓
@@ -118,7 +118,7 @@ The character foundation and thematic structure are strong. The books now need e
 - ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, the patron threading throughout
 - The sister's specific career
 - ~~Exact mechanism of Wellspring activation~~ **Decided:** The reservoir was always dormant inside him; extreme stress during an infrastructure crisis cracks the seal
-- ~~The patron's resolution~~ **Decided:** Redemption — she adapts in Book Three, backs the protagonist's building projects
+- ~~The patron's resolution~~ **Decided:** Redemption — she adapts in Book Three, backs Ash's building projects
 - ~~The movement leader's resolution~~ **Decided:** Remains broken. Given a community to try their model; it fails. The cost of the story.
 - ~~The temptation in Book Two~~ **Decided:** Efficiency technique — a channeling discipline that reduces cost per expenditure. Rejected as preservation, adopted as capability. Retroactively enriches the mentor's character.
 - ~~Reservoir at end of Book Two~~ **Decided:** ~15-20%
