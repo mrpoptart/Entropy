@@ -87,7 +87,7 @@ The project is organized into five phases. Each phase builds on the last — lat
 | 1.11 | Master timeline of world events | `timeline.md` | Not started |
 
 **Key questions to explore in Phase 1:**
-- What is the patron's relationship to the magic system's decline? Are they complicit, fighting it, or profiting from it?
+- What is Dorenne's relationship to the magic system's decline? Are they complicit, fighting it, or profiting from it?
 - What does the mentor know that they aren't telling Ash? What is their personal stake?
 - How does the childhood friend represent the "normal" life Ash could have had? What tension does that create?
 - Who or what is the primary antagonist — a person, an institution, a force? Is the antagonist aware of Ash, or are they a systemic threat?

@@ -47,7 +47,7 @@
 - Mother: fierce protector, defines herself by sacrificing for her son, sees his condition as her failure
 - Father: proud of his son's strength but quietly terrified about the future, fears he's failed as a father
 
-### The Patron ✓
+### Dorenne (Patron) ✓
 - Female, late 50s to early 60s, senior civic administrator
 - Institutional power broker — believes the city's systems are what stand between civilization and chaos
 - Took Ash on as an aide for reasons both sincere (moved by his situation) and strategic (political optics)
@@ -68,10 +68,10 @@
 ### Antagonist Framework ✓
 - No central villain — the decline has no cause to fight
 - Antagonists embody wrong responses to the crisis, forming a grief progression: control (bargaining) → righteous force (anger) → despair (depression). Ash's arc completes the cycle with acceptance.
-- Book One: The Patron (control) — managerial, institutional
+- Book One: Dorenne (control) — managerial, institutional
 - Book Two: The Levelers (righteous force) — a generational redistributionist movement. Systemic antagonism, not personal.
 - Book Three: The Movement Leader (despair) — the Levelers' leader, introduced in Book Two, breaks when the movement fails
-- The Patron threads through all three books, evolving in relation to each new force
+- Dorenne threads through all three books, evolving in relation to each new force
 - Hybrid structure: institution in Book Two, a specific person emerging from its failure in Book Three
 
 ### The Childhood Friend ✓
@@ -85,16 +85,16 @@
 
 ### Priority 1: Remaining Key Characters (Broad Strokes)
 Sketch the following characters at a high level — enough to understand their role, motivation, and relationship to Ash:
-- ~~**The Patron** — Who are they? What do they actually want? How does the relationship evolve?~~ ✓ Done
+- ~~**Dorenne (Patron)** — Who are they? What do they actually want? How does the relationship evolve?~~ ✓ Done
 - ~~**The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?~~ ✓ Done
 - ~~**The Childhood Friend** — The person who knew him before. What's their situation?~~ ✓ Done
 - ~~**Antagonist(s)** — At least one primary antagonist fleshed out; decide on per-book vs. recurring~~ ✓ Done
 
 ### Priority 2: Plot Development
 The character foundation and thematic structure are strong. The books now need external plot spines:
-- ~~**Book One:** What external events force Ash to use (and spend) his power? What is the patron's specific play? What crisis or conflict drives the action?~~ ✓ Done — Full three-act structure with the earthquake as the major set piece, the patron as Director of Infrastructure deploying his power, the math scene as emotional climax, 50% reservoir spent. See book-one/plan.md.
+- ~~**Book One:** What external events force Ash to use (and spend) his power? What is Dorenne's specific play? What crisis or conflict drives the action?~~ ✓ Done — Full three-act structure with the earthquake as the major set piece, Dorenne as Director of Infrastructure deploying his power, the math scene as emotional climax, 50% reservoir spent. See book-one/plan.md.
 - ~~**Book Two:** What does Ash try to change and how does it go wrong? Who opposes him? What is the temptation?~~ ✓ Done — Proof-of-concept district as building project, the Levelers emerge from post-earthquake radicalization, the efficiency technique as temptation (rejected for preservation, adopted for capability), the sibling reckoning, ~15-20% reservoir remains. See book-two/plan.md and series-outline.md.
-- ~~**Book Three:** What is the "final expenditure"? What is he building? What does the antagonistic force of despair look like specifically?~~ ✓ Partially done — Movement leader takes a community (fails), patron gets redemption arc, mentor reveals full power, sister completes arc. The specific tipping-point project and the exact nature of the final expenditure remain open. See book-three/plan.md and series-outline.md.
+- ~~**Book Three:** What is the "final expenditure"? What is he building? What does the antagonistic force of despair look like specifically?~~ ✓ Partially done — Movement leader takes a community (fails), Dorenne gets redemption arc, mentor reveals full power, sister completes arc. The specific tipping-point project and the exact nature of the final expenditure remain open. See book-three/plan.md and series-outline.md.
 
 ### Priority 3: Worldbuilding Details ✓
 - ~~Name the city~~ ✓ Done — **Solathis**, named for Edrin Solath, the quartermaster who stayed and rebuilt after the final battle.
@@ -115,10 +115,10 @@ The character foundation and thematic structure are strong. The books now need e
 ### Deferred Decisions
 - Does magic fade to zero or leave a faint ember?
 - Character names (sister, all supporting cast)
-- ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, the patron threading throughout
+- ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, Dorenne threading throughout
 - The sister's specific career
 - ~~Exact mechanism of Wellspring activation~~ **Decided:** The reservoir was always dormant inside him; extreme stress during an infrastructure crisis cracks the seal
-- ~~The patron's resolution~~ **Decided:** Redemption — she adapts in Book Three, backs Ash's building projects
+- ~~Dorenne's resolution~~ **Decided:** Redemption — she adapts in Book Three, backs Ash's building projects
 - ~~The movement leader's resolution~~ **Decided:** Remains broken. Given a community to try their model; it fails. The cost of the story.
 - ~~The temptation in Book Two~~ **Decided:** Efficiency technique — a channeling discipline that reduces cost per expenditure. Rejected as preservation, adopted as capability. Retroactively enriches the mentor's character.
 - ~~Reservoir at end of Book Two~~ **Decided:** ~15-20%

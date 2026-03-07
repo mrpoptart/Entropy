@@ -385,13 +385,13 @@ The elder generation dominates all three. They have the money (accumulated over 
 
 ### Solathis Governance
 
-Solathis is governed by a **City Council** — a body of directors, each overseeing a major institutional domain. The patron is Director of Infrastructure, one of the most powerful seats because infrastructure maintenance is the most resource-intensive function of city government.
+Solathis is governed by a **City Council** — a body of directors, each overseeing a major institutional domain. Dorenne is Director of Infrastructure, one of the most powerful seats because infrastructure maintenance is the most resource-intensive function of city government.
 
 **Council seats are not elected.** They're appointed through a process of institutional advancement — rising through the bureaucracy, earning endorsements from sitting directors, demonstrating competence within the system. In practice, this means the Council is self-perpetuating: the people who built the system select the people who will maintain it. Elders dominate because the system was designed by and for elders.
 
 **District governance** operates through neighborhood councils — more informal, locally elected or consensus-based. These have real authority over daily life (maintenance schedules, dispute resolution, resource allocation within the district) but no power over citywide policy. The gap between district-level governance (responsive, under-resourced) and city-level governance (powerful, disconnected) is a source of ongoing tension.
 
-**The patron's position** gives her control over maintenance budgets, construction priorities, and emergency response — which is to say, control over which districts function and which don't. Her power is administrative, not dramatic, which makes it all the more entrenched.
+**Dorenne's position** gives her control over maintenance budgets, construction priorities, and emergency response — which is to say, control over which districts function and which don't. Her power is administrative, not dramatic, which makes it all the more entrenched.
 
 ### Law and Order
 
@@ -399,7 +399,7 @@ Solathis is governed by a **City Council** — a body of directors, each oversee
 
 - **Elder wardens are effective.** They have the trickle to restrain, pursue, and overpower.
 - **Young wardens are outmatched.** A young warden with 1,000 kJ/day trying to apprehend an elder criminal with 10,000 kJ/day is bringing a candle to a bonfire. This is not a theoretical problem — it's a daily reality in districts where elder residents refuse warden authority.
-- **The Wellspring disrupts everything.** When Ash activates, he is more powerful than every warden in the city combined. The question of who can hold him accountable, who can arrest him if needed, becomes an unspoken crisis. It's one of the reasons the patron moves to keep him within institutional control — outside the system, he's ungovernable.
+- **The Wellspring disrupts everything.** When Ash activates, he is more powerful than every warden in the city combined. The question of who can hold him accountable, who can arrest him if needed, becomes an unspoken crisis. It's one of the reasons Dorenne moves to keep him within institutional control — outside the system, he's ungovernable.
 
 **Criminal law** follows standard patterns — courts, advocates, judges — but sentencing can include channeling-based penalties: forced labor on maintenance crews, trickle-monitoring (a humiliating surveillance), or district exile. The system assumes magic makes enforcement possible. The decline is eroding that assumption.
 
@@ -409,7 +409,7 @@ Solathis is governed by a **City Council** — a body of directors, each oversee
 
 The five factions introduced earlier aren't formal parties — they're tendencies, social currents, the way people sort themselves when arguing about the decline.
 
-**Denialists:** Strongest among elders and the established generation. Their argument: the decline is measurable but exaggerated by alarmists, and historical cycles suggest recovery. Denialists hold institutional power because the people who run institutions have the least incentive to acknowledge that the institutions are failing. The patron is not a denialist — she sees the numbers clearly — but she operates within a system full of them.
+**Denialists:** Strongest among elders and the established generation. Their argument: the decline is measurable but exaggerated by alarmists, and historical cycles suggest recovery. Denialists hold institutional power because the people who run institutions have the least incentive to acknowledge that the institutions are failing. Dorenne is not a denialist — she sees the numbers clearly — but she operates within a system full of them.
 
 **Preservationists:** The political center. Ration magic use, regulate waste, extend the timeline. Preservationist policy sounds reasonable and is often authoritarian in practice — rationing means someone decides who gets how much, and that someone is usually an elder with a comfortable trickle. Ash encounters preservationist logic in Book Two when the Levelers demand redistribution: the establishment's counter-argument is always "managed decline," which means managed by the people at the top.
 
@@ -417,7 +417,7 @@ The five factions introduced earlier aren't formal parties — they're tendencie
 
 **Technologists:** The pragmatists. Build alternatives. The mentor is a technologist in practice if not in political identity. The Verandhi Coast is the technologist heartland. In Solathis, technologists are a growing but stigmatized minority — the tinkerer community Ash belongs to before activation. By Book Three, the technologists' position has been vindicated by events, but "I told you so" doesn't heal the damage done by decades of delay.
 
-**Authoritarians:** Centralize remaining magic under state control for "optimal allocation." This faction has real intellectual weight — if the resource is finite and shrinking, centralized management is a defensible position. Its adherents include well-meaning technocrats and power-hungry opportunists in roughly equal measure. The patron's institutional instincts lean authoritarian under pressure, which is part of what makes her the Book One antagonist.
+**Authoritarians:** Centralize remaining magic under state control for "optimal allocation." This faction has real intellectual weight — if the resource is finite and shrinking, centralized management is a defensible position. Its adherents include well-meaning technocrats and power-hungry opportunists in roughly equal measure. Dorenne's institutional instincts lean authoritarian under pressure, which is part of what makes her the Book One antagonist.
 
 ## Daily Life — Vignettes by Social Stratum
 
@@ -471,9 +471,9 @@ He wakes in his parents' home. The walls are warm — his mother channels the ho
 
 He can't heat water. Can't warm his hands. Can't send a resonance message. He washes with cold water because asking his mother or sister to heat it for him would mean watching them spend their power on his inability. He's learned to dress fast.
 
-Walking to work — to the patron's office where he's an aide — he takes streets, not transit. The channeler-powered tram costs a small trickle contribution from each rider, a social courtesy he can't pay. He walks past people channeling casually: warming their cloaks, flicking small objects to their hands, greeting each other with a brief resonance touch. Every gesture is a reminder.
+Walking to work — to Dorenne's office where he's an aide — he takes streets, not transit. The channeler-powered tram costs a small trickle contribution from each rider, a social courtesy he can't pay. He walks past people channeling casually: warming their cloaks, flicking small objects to their hands, greeting each other with a brief resonance touch. Every gesture is a reminder.
 
-At the patron's office, he does work that doesn't require magic: filing, organizing, carrying, fetching. He's good at it — meticulous, strong, cheerful. The cheerfulness is both real and performative. It makes people comfortable enough to forget what they'd feel if they stopped to think about his situation.
+At Dorenne's office, he does work that doesn't require magic: filing, organizing, carrying, fetching. He's good at it — meticulous, strong, cheerful. The cheerfulness is both real and performative. It makes people comfortable enough to forget what they'd feel if they stopped to think about his situation.
 
 Lunch in the tinkerer workshop with the mentor. The one hour of his day when his inability is an irrelevance. The mentor hands him tools, not condescension. They work on a mechanical project — a water pump, a lever system, something that works because of physics, not magic. His hands are good. His mind is better. Here, he's not broken. He's just someone doing work.
 

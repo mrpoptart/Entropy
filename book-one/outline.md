@@ -3,7 +3,7 @@
 **Question:** Who are you when you're extraordinary?
 **Reservoir:** 100% → ~50%
 **Time span:** Approximately eight weeks
-**Antagonistic force:** The patron (control/bargaining)
+**Antagonistic force:** Dorenne (control/bargaining)
 
 ---
 
@@ -23,7 +23,7 @@ He can't use the transit lifts — stone platforms that rise through vertical sh
 
 A private moment — a stairwell, a quiet corridor, a pause on a landing where nobody can see him. The smile drops. Not self-pity. Exhaustion. The weight of performing okayness every single day.
 
-Then the encounter. He's in a public building — maybe the Hall of Infrastructure, running the errand, or the Council annex where permits are filed. The patron is there: a formidable woman in her late fifties, the Director of Infrastructure, moving through the building with staff in tow. Their paths cross at a transit lift — she steps onto the platform and turns to Ash, who's standing beside it, and asks him to activate it. A casual request. Anyone could do it. Channel a pulse into the interface stone and the platform rises.
+Then the encounter. He's in a public building — maybe the Hall of Infrastructure, running the errand, or the Council annex where permits are filed. Dorenne is there: a formidable woman in her late fifties, the Director of Infrastructure, moving through the building with staff in tow. Their paths cross at a transit lift — she steps onto the platform and turns to Ash, who's standing beside it, and asks him to activate it. A casual request. Anyone could do it. Channel a pulse into the interface stone and the platform rises.
 
 He can't. He stands there, hand on the interface, and nothing happens. The moment stretches. Her staff look uncomfortable. He says, with the practiced ease of someone who's done this a thousand times: "Sorry — I can't channel. At all. The stairs are that way if you'd like company on the walk."
 
@@ -39,7 +39,7 @@ He walks home fast. He's almost running. He bursts through the door and tells hi
 
 The sister is there. She's radiant, congratulatory, genuinely happy for him. She channels casually during dinner — warming a dish, sealing a crack in a cup — in the efficient, disciplined way that defines her. She had something of her own today — a success, a recognition, something she earned. She starts to mention it and the conversation swings back to Ash's news. She lets it go. She always lets it go. Nobody notices. This happens all the time.
 
-**Establish:** The city of Solathis. Ash's disability in a magical world. The family dynamic — mother as fierce protector, father as quiet worrier, sister as the overlooked competent one. The patron as a complex figure with layered motivations. The cheerfulness as performance. The private exhaustion underneath.
+**Establish:** The city of Solathis. Ash's disability in a magical world. The family dynamic — mother as fierce protector, father as quiet worrier, sister as the overlooked competent one. Dorenne as a complex figure with layered motivations. The cheerfulness as performance. The private exhaustion underneath.
 
 **Emotional beat:** Joy that cracks through the armor. For the first time in a long time, hope feels earned. And in the margin of the celebration, the sister's silence — the first thread of a pattern the reader will learn to watch for.
 
@@ -49,11 +49,11 @@ The sister is there. She's radiant, congratulatory, genuinely happy for him. She
 
 **POV:** Ash's first days on the job. Slice of life with purpose.
 
-Ash arrives at the Hall of Infrastructure before dawn — he needs extra time for the stairs, and he's not going to be late on his first day. The patron's office is a high-ceilinged chamber where the Director manages the systems that keep Solathis functioning: water, heating, transit, structural reinforcement. Charts on the walls. Reports stacked on every surface. A staff of channelers and administrators who've been running on too little for too long.
+Ash arrives at the Hall of Infrastructure before dawn — he needs extra time for the stairs, and he's not going to be late on his first day. Dorenne's office is a high-ceilinged chamber where the Director manages the systems that keep Solathis functioning: water, heating, transit, structural reinforcement. Charts on the walls. Reports stacked on every surface. A staff of channelers and administrators who've been running on too little for too long.
 
-He learns the job. It doesn't require channeling — it requires organization, memory, judgment, and the ability to make people feel heard. He carries documents, takes notes, manages the patron's schedule, sits in on briefings he doesn't fully understand yet. He watches and listens with the attentiveness of someone who's spent his whole life reading rooms because he couldn't participate in them any other way.
+He learns the job. It doesn't require channeling — it requires organization, memory, judgment, and the ability to make people feel heard. He carries documents, takes notes, manages Dorenne's schedule, sits in on briefings he doesn't fully understand yet. He watches and listens with the attentiveness of someone who's spent his whole life reading rooms because he couldn't participate in them any other way.
 
-Small problems arise that show his strengths. A scheduling conflict between two district maintenance teams — he sees a solution neither team considered, reorganizing the sequence so both crews get what they need. A report that doesn't add up — his analytical mind catches the discrepancy before the senior staff do. A visiting official who's frustrated and dismissive — Ash disarms him with warmth and patience, turning a confrontation into a conversation. The patron watches this. She made a good hire. She knows it.
+Small problems arise that show his strengths. A scheduling conflict between two district maintenance teams — he sees a solution neither team considered, reorganizing the sequence so both crews get what they need. A report that doesn't add up — his analytical mind catches the discrepancy before the senior staff do. A visiting official who's frustrated and dismissive — Ash disarms him with warmth and patience, turning a confrontation into a conversation. Dorenne watches this. She made a good hire. She knows it.
 
 Foreshadowing: during a briefing, Ash overhears engineers discussing the Kharren Fault — the seismic zone beneath the city. Channeled reinforcements that have absorbed geological stress for generations are weakening faster than projected. He doesn't understand the full implications, but his mind catches on the math: the rate of decline, the gap between what's needed and what's available. He files it away. He'll think about it later.
 
@@ -63,7 +63,7 @@ And then the moment: he pays for drinks. For the first time, Ash doesn't calcula
 
 In her presence, the performance drops. He doesn't have to be cheerful — he is cheerful. The distinction matters. She's the one person who's always seen through the act, and tonight there's no act to see through. They laugh. It's a good night. The unexamined romantic dimension hums beneath the surface — impossible because magical intimacy, a normal part of relationships in this world, was always closed to him. Neither of them has ever named it. Tonight it's just warmth.
 
-**Establish:** The patron's office and the scope of her responsibilities. Ash's non-magical intelligence as genuinely valuable. The infrastructure crisis as background tension. The childhood friend as the person who sees him clearly. The feeling of finally contributing.
+**Establish:** Dorenne's office and the scope of her responsibilities. Ash's non-magical intelligence as genuinely valuable. The infrastructure crisis as background tension. The childhood friend as the person who sees him clearly. The feeling of finally contributing.
 
 **Emotional beat:** For the first time, Ash doesn't have to act happy. He *is* happy. The distinction is everything.
 
@@ -77,7 +77,7 @@ Evening, a few days into the new job. Ash walks downhill from the Hall of Infras
 
 The mentor: late sixties, patient, dry-humored. He has a strong elder-generation trickle — we see small evidence of this, casual channeling done so efficiently it's nearly invisible — but his workshop runs on mechanisms. He teaches by doing: handing tools, asking questions, letting Ash figure things out. Long silences filled with the sound of work.
 
-Ash is buzzing. He talks about the patron's office — the scale of it, the responsibility, the feeling of being useful in a way that matters. He's excited in a way the mentor hasn't seen before. New opportunities, new world, first time he doesn't feel completely useless.
+Ash is buzzing. He talks about Dorenne's office — the scale of it, the responsibility, the feeling of being useful in a way that matters. He's excited in a way the mentor hasn't seen before. New opportunities, new world, first time he doesn't feel completely useless.
 
 The mentor listens. He's happy that Ash is happy — this is visible, genuine. He doesn't dampen the mood. But there's a subtle, warm comedy in the scene: Ash says something like "For the first time I feel like I'm actually contributing something," and the mentor just looks at the mechanical water pump Ash designed last month — the one that's currently running in three homes in the district — and says nothing. Or he hands Ash a tool and says "Make yourself useful, then" the way he always has, because in this room, Ash has always been useful. Ash doesn't catch it. The reader should.
 
@@ -93,23 +93,23 @@ Ash works on a project — a small mechanical device, the kind of focused, hands
 
 ### Chapter 4 — The Best Thing He Ever Did
 
-**POV:** Ash brings the patron to his parents' building. Pride, catastrophe, activation.
+**POV:** Ash brings Dorenne to his parents' building. Pride, catastrophe, activation.
 
-Ash has been on the job a few weeks. He's seen how the patron's office works — assessments, priorities, deployment schedules. He's also seen the cracks in his parents' building getting worse every year. The heating lattice on the third floor hasn't worked in months. The stairwell walls are fracturing. The foundation groans on cold mornings.
+Ash has been on the job a few weeks. He's seen how Dorenne's office works — assessments, priorities, deployment schedules. He's also seen the cracks in his parents' building getting worse every year. The heating lattice on the third floor hasn't worked in months. The stairwell walls are fracturing. The foundation groans on cold mornings.
 
-He makes his case to the patron: not as charity, but as good infrastructure work in a neglected district. The building is old — one of the oldest residential structures in this part of the city, dating back to the early post-founding era. There's historical significance. There's political value in showing the Council that the Director of Infrastructure cares about heritage and the margins equally. He frames it the way she's taught him to think — strategic, justified, serving multiple purposes at once. The patron agrees. She sees the value. She also sees her aide learning to speak her language, and she's pleased.
+He makes his case to Dorenne: not as charity, but as good infrastructure work in a neglected district. The building is old — one of the oldest residential structures in this part of the city, dating back to the early post-founding era. There's historical significance. There's political value in showing the Council that the Director of Infrastructure cares about heritage and the margins equally. He frames it the way she's taught him to think — strategic, justified, serving multiple purposes at once. Dorenne agrees. She sees the value. She also sees her aide learning to speak her language, and she's pleased.
 
 The day arrives. Ash walks his parents through what's going to happen — a team of channelers will reinforce the foundations, restructure the load-bearing walls, restore the heating lattices. His mother is emotional. Her boy, who couldn't channel a heating stone, arranged for the Director of Infrastructure to fix their building. His father grips his shoulder. The sister is there — maybe she volunteered to help, or came to support the family. Neighbors gather to watch. This is an event.
 
-Ash is proud. Genuinely, deeply proud. For the first time in his life, his job — his position, his relationship with the patron, his usefulness — is translating into something real for the people he loves. He stands beside the patron as the channelers begin work, and he feels like he's finally giving back what his family gave him for twenty-three years.
+Ash is proud. Genuinely, deeply proud. For the first time in his life, his job — his position, his relationship with Dorenne, his usefulness — is translating into something real for the people he loves. He stands beside Dorenne as the channelers begin work, and he feels like he's finally giving back what his family gave him for twenty-three years.
 
 **The work begins.** The channelers — a team of four or five, all middle-generation — start with the foundations. They channel reinforcing force into the base stone, stabilizing, restructuring. It's skilled work. The building is older and more compromised than the initial assessment showed — the original construction used techniques from a higher-magic era, and the load-bearing structure has been quietly degrading in ways that the surface-level inspections didn't catch.
 
 **The failure.** As the channelers restructure a critical load-bearing wall, they destabilize something they didn't know was failing. The building's internal stresses — held in a fragile equilibrium for decades — shift. A deep groan runs through the stone. The channelers feel it before anyone else does: the load paths are rerouting through walls that can't handle them. They shift from construction to emergency stabilization, pouring their trickles into holding the structure. It's not enough. Their trickles dip — the work has already drained them, and the emergency demands more than they have left. The building shudders. Dust falls from the ceiling. Cracks race up the walls.
 
-The patron orders evacuation. People scramble for the exits. Most of the residents are already outside watching the work. But Ash's family — his parents, his sister — are still inside. They were in the apartment, staying out of the way of the channelers, waiting for the work to be finished.
+Dorenne orders evacuation. People scramble for the exits. Most of the residents are already outside watching the work. But Ash's family — his parents, his sister — are still inside. They were in the apartment, staying out of the way of the channelers, waiting for the work to be finished.
 
-**Ash runs in.** Against the patron shouting for him to stop. Against the channelers warning that the structure is shifting. He knows this building. He knows every stairwell — he's climbed them his entire life, every day, because the transit lift in this building stopped working years ago. He is fast — a lifetime of stairs, of manual labor, of being strong because strength was the only thing his body could offer.
+**Ash runs in.** Against Dorenne shouting for him to stop. Against the channelers warning that the structure is shifting. He knows this building. He knows every stairwell — he's climbed them his entire life, every day, because the transit lift in this building stopped working years ago. He is fast — a lifetime of stairs, of manual labor, of being strong because strength was the only thing his body could offer.
 
 He takes the stairs three at a time. He reaches the apartment. The ceiling has partially collapsed — a section of the floor above has come down. His father is pulling his sister toward the door. She's resisting — she's turned back toward the bedroom. The mother. A beam and a section of stone ceiling have come down on her. She's pinned — conscious, scared, in pain. Not crushed, but trapped. The rubble on top of her is heavy and the structure above is still shifting.
 
@@ -137,13 +137,13 @@ The building is done. Not collapsed — the channelers outside, feeling the shoc
 
 **The aftermath.** His mother is carried out. She's conscious, in pain, headed to the healers. She'll be okay — he knows this, the injuries are real but not mortal. His father is holding her hand, white-faced. His sister is staring at him. She felt the Wellspring activate — as a channeler, she felt it. The expression on her face is something he will never forget: shock, relief, confusion, and underneath all of it, something she'll never say aloud — the ground of her identity shifting in real time.
 
-The patron arrives at his side. Genuine fear in her face — she cares about him, cares about the family, this is real. But her eyes change as she processes what just happened. The scale of power she just felt. She gives orders — healers for the mother, temporary housing for the family, no reports filed yet, privacy, containment. She is protecting him. She is also, in this same breath, beginning to calculate.
+Dorenne arrives at his side. Genuine fear in her face — she cares about him, cares about the family, this is real. But her eyes change as she processes what just happened. The scale of power she just felt. She gives orders — healers for the mother, temporary housing for the family, no reports filed yet, privacy, containment. She is protecting him. She is also, in this same breath, beginning to calculate.
 
-The family will be taken care of. The patron will make sure of that — she can't have this be a negative story. New housing, compensation, public assurances. But the home is gone. The building where his parents lived for decades, where he grew up, where his mother cooked breakfast with channeled heat and his father fixed things on the weekends — it's gone. And it's gone because he suggested this project. Because he was proud. Because he wanted to give back.
+The family will be taken care of. Dorenne will make sure of that — she can't have this be a negative story. New housing, compensation, public assurances. But the home is gone. The building where his parents lived for decades, where he grew up, where his mother cooked breakfast with channeled heat and his father fixed things on the weekends — it's gone. And it's gone because he suggested this project. Because he was proud. Because he wanted to give back.
 
 His first act of power: saving his mother's life and destroying his family's home. The guilt and the gratitude, inseparable.
 
-**Establish:** The Wellspring as unprecedented — nobody has a framework, no mythology, no playbook. The activation triggered by the most personal possible stakes. The chaotic first burst as both salvation and destruction — the cost-of-power theme planted in the very first moment. The patron's dual response: genuine care and immediate institutional calculation. Ash's guilt: he brought the danger to his family's door.
+**Establish:** The Wellspring as unprecedented — nobody has a framework, no mythology, no playbook. The activation triggered by the most personal possible stakes. The chaotic first burst as both salvation and destruction — the cost-of-power theme planted in the very first moment. Dorenne's dual response: genuine care and immediate institutional calculation. Ash's guilt: he brought the danger to his family's door.
 
 **Emotional beat:** Not triumph. Relief — enormous, shaking, tearful relief that his mother is alive. And underneath it, the double wound: the guilt of having caused this, and the overwhelming strangeness of power flooding a body that has never channeled. Something broke inside him, and what came through the crack is enormous and unknown and already cost him something he can never get back.
 
@@ -179,13 +179,13 @@ He hears "vastly larger" and stops hearing "fixed." The ocean doesn't need a bot
 
 ### Chapter 6 — The Stage
 
-**POV:** The patron introduces the Wellspring to the city. Ash becomes public.
+**POV:** Dorenne introduces the Wellspring to the city. Ash becomes public.
 
-The patron can't contain the information — and strategically, she doesn't want to. Word is already spreading through the scholars who tested him, the workers who witnessed the activation, the political networks that feed on novelty. She decides to control the narrative rather than chase it.
+Dorenne can't contain the information — and strategically, she doesn't want to. Word is already spreading through the scholars who tested him, the workers who witnessed the activation, the political networks that feed on novelty. She decides to control the narrative rather than chase it.
 
-A press event at the Hall of Infrastructure. The patron speaks first — framing the Wellspring as a resource for the city, a gift of timing, a validation of her office's investment in infrastructure and personnel. She is brilliant at this. She positions herself as the guardian and manager of something extraordinary, which is accurate, and as the person who discovered and developed it, which is less accurate but politically essential.
+A press event at the Hall of Infrastructure. Dorenne speaks first — framing the Wellspring as a resource for the city, a gift of timing, a validation of her office's investment in infrastructure and personnel. She is brilliant at this. She positions herself as the guardian and manager of something extraordinary, which is accurate, and as the person who discovered and developed it, which is less accurate but politically essential.
 
-Ash is displayed. Not cruelly — the patron genuinely wants to protect him, and she coaches him carefully on what to say and what not to say. But the dynamic is clear: she speaks, he stands beside her. She contextualizes, he demonstrates. A controlled channeling display — nothing wild, just enough to show the scale. The audience gasps. The patron's staff manages the questions.
+Ash is displayed. Not cruelly — Dorenne genuinely wants to protect him, and she coaches him carefully on what to say and what not to say. But the dynamic is clear: she speaks, he stands beside her. She contextualizes, he demonstrates. A controlled channeling display — nothing wild, just enough to show the scale. The audience gasps. Dorenne's staff manages the questions.
 
 The public reaction is layered: wonder, fear, hope, suspicion. The Council demands formal briefings. Political factions begin calculating — the Preservationists see validation of cautious resource management, the Accelerationists see proof that the old guard's monopoly on power is cracking, the Authoritarians see a weapon that needs to be controlled. Everyone sees a lever. Nobody sees a person.
 
@@ -193,7 +193,7 @@ Ash's family watches. The mother is terrified — not of the power, but of the w
 
 The childhood friend comes to see him afterward. She's glad. She says so simply: "I'm glad." She doesn't perform awe. She asks if he's sleeping, if he's eaten, if he's talked to the mentor. She treats the Wellspring as something that happened to him, not as who he is. He appreciates this and also, faintly, resents it.
 
-**Establish:** The political landscape of Solathis — factions, council dynamics, the patron's institutional power — as it begins to orbit around the Wellspring. The patron's instinct to manage and position, already operating before anyone questions it.
+**Establish:** The political landscape of Solathis — factions, council dynamics, Dorenne's institutional power — as it begins to orbit around the Wellspring. Dorenne's instinct to manage and position, already operating before anyone questions it.
 
 **Emotional beat:** The first hint that being extraordinary comes with a gravity that pulls everything toward it. And Ash's first taste of being wanted — not for who he is, but for what he can do. He can't tell the difference yet. It feels the same.
 
@@ -203,7 +203,7 @@ The childhood friend comes to see him afterward. She's glad. She says so simply:
 
 **POV:** The family relocates. Ash's new life begins reshaping the old one.
 
-The patron arranges new housing for the family — their building is destroyed, and this is genuine necessity, not manipulation. The new residence is in a better district, closer to the Hall of Infrastructure, nicer than anything they've had. Ash is relieved and proud: his family is safe, comfortable, better off. This is what he wanted. This is what the power is for.
+Dorenne arranges new housing for the family — their building is destroyed, and this is genuine necessity, not manipulation. The new residence is in a better district, closer to the Hall of Infrastructure, nicer than anything they've had. Ash is relieved and proud: his family is safe, comfortable, better off. This is what he wanted. This is what the power is for.
 
 The move is complicated in ways he doesn't register. His mother packs the old apartment — what's salvageable from the damage — and the act of sorting through broken things is its own grief. She keeps objects that make no practical sense: a cracked bowl, the dented kettle, a singed curtain. Ash notices and doesn't understand. They have new things now. Better things.
 
@@ -279,19 +279,19 @@ And he's so happy. He's laughing and covered in dust and his eyes are bright and
 
 ### Chapter 10 — Useful at Last
 
-**POV:** The patron begins directing the Wellspring toward the city's needs. The first deployments.
+**POV:** Dorenne begins directing the Wellspring toward the city's needs. The first deployments.
 
-The patron makes her case: the city's infrastructure is failing. Maintenance crews can't keep up. Districts are going without heated water, stable foundations, functional transit. The Wellspring can help — not as spectacle, but as targeted reinforcement. She starts with a genuine crisis: the eastern district's heating grid, failing for months. Real people, real cold, real need.
+Dorenne makes her case: the city's infrastructure is failing. Maintenance crews can't keep up. Districts are going without heated water, stable foundations, functional transit. The Wellspring can help — not as spectacle, but as targeted reinforcement. She starts with a genuine crisis: the eastern district's heating grid, failing for months. Real people, real cold, real need.
 
 Ash goes. He channels raw force into the heating lattices — crude, inefficient, but overwhelmingly powerful. The grid blazes to life. Warm air flows through homes that have been cold for months. People come out of their doors. A child laughs. An old woman cries.
 
 He walks through the district afterward. The lights work. The walls are warm. Because of him. After twenty-three years of being the person who couldn't contribute, he fixed a neighborhood in an afternoon. The feeling is beyond intoxication — it's redemption.
 
-The patron schedules the next deployment. And the next. Water systems in the southern quarter. Structural reinforcement in a crumbling residential tower. A transit shaft that hasn't functioned in two years. Each one is a genuine crisis, a real community helped. Each one deepens the pattern: the patron identifies the need, Ash fills it, the city benefits, and the patron's political position strengthens.
+Dorenne schedules the next deployment. And the next. Water systems in the southern quarter. Structural reinforcement in a crumbling residential tower. A transit shaft that hasn't functioned in two years. Each one is a genuine crisis, a real community helped. Each one deepens the pattern: Dorenne identifies the need, Ash fills it, the city benefits, and Dorenne's political position strengthens.
 
 He begins to channel better — not with the mentor's precision, but with raw practice. He wastes less. Still enormously inefficient by any trained standard, but improving. The reservoir feels oceanic, infinite. He doesn't count. He doesn't need to count. There's always more.
 
-**Establish:** The seductive logic of the patron's framework — every deployment is justified, every use of power helps real people. Ash can't argue against it because she's not wrong. The pattern: need → deployment → gratitude → next need. The machine beginning to run.
+**Establish:** The seductive logic of Dorenne's framework — every deployment is justified, every use of power helps real people. Ash can't argue against it because she's not wrong. The pattern: need → deployment → gratitude → next need. The machine beginning to run.
 
 **Emotional beat:** The deep, bone-level satisfaction of being useful. The thing he has wanted his entire life. For the first time, his existence isn't a net cost. He'd do anything to keep this feeling.
 
@@ -301,7 +301,7 @@ He begins to channel better — not with the mentor's precision, but with raw pr
 
 **POV:** The family dynamic reconfigures. Everyone adjusts to the new reality except Ash, who doesn't see there's anything to adjust to.
 
-The mother struggles. Her son doesn't need her fierce protection anymore — he's the most powerful person in the city. She still makes his meals, still worries, still tries to shield him from the patron's demands. But her movements have an uncertain quality, as though she's performing a role whose script was taken away. She picks fights about small things — his schedule, his eating, whether he's sleeping enough — because the big thing (his safety, his future) is no longer hers to manage. A scene where she tries to intervene between him and the patron, and the patron politely makes clear that Ash is no longer a child to be protected. The mother's face. Ash, caught between them, choosing the patron.
+The mother struggles. Her son doesn't need her fierce protection anymore — he's the most powerful person in the city. She still makes his meals, still worries, still tries to shield him from Dorenne's demands. But her movements have an uncertain quality, as though she's performing a role whose script was taken away. She picks fights about small things — his schedule, his eating, whether he's sleeping enough — because the big thing (his safety, his future) is no longer hers to manage. A scene where she tries to intervene between him and Dorenne, and Dorenne politely makes clear that Ash is no longer a child to be protected. The mother's face. Ash, caught between them, choosing Dorenne.
 
 The father adapts more quietly. His pride is genuine — enormous, visible, the kind that makes his eyes bright at dinner. But there's a question underneath that he can't quite ask: did you know I loved you before this? Did you know I was proud of you before? He expresses it sideways — mentions old accomplishments, things Ash built with his hands, as though trying to remind both of them that the boy before the Wellspring was worth something too. Ash, high on power, misses the point entirely.
 
@@ -317,37 +317,37 @@ The sister is working harder than ever. Her trickle — already at the weak end 
 
 **POV:** Ash's life reorganizes around power and purpose. The old life falls away.
 
-He's been deployed to four districts in two weeks. The patron has given him quarters closer to her office — practical, she says, and she's right; the commute from the family's new home wastes time. He moves some of his things. The room is nicer than anything he's ever had. He tells himself he'll visit home often.
+He's been deployed to four districts in two weeks. Dorenne has given him quarters closer to her office — practical, she says, and she's right; the commute from the family's new home wastes time. He moves some of his things. The room is nicer than anything he's ever had. He tells himself he'll visit home often.
 
 He misses a session at the workshop. Then another. The mentor sends no message. The workbench stays clear, tools arranged where Ash left them. The pump project continues without him — other tinkerers filling in, the community carrying the work forward. The mentor's system doesn't depend on any one person. That's the design. Ash doesn't notice the lesson.
 
-He cancels plans with the childhood friend. "The patron needs me in the northern quarter — the retaining walls." She says she understands. He cancels again. She stops asking.
+He cancels plans with the childhood friend. "Dorenne needs me in the northern quarter — the retaining walls." She says she understands. He cancels again. She stops asking.
 
 The deployments feel good. Each one is a community saved, a system restored, a crowd of grateful faces. He is learning to channel with more control — still wildly inefficient by any trained standard, but improving. The power feels like an extension of himself. He thinks in terms of what he can do. He has never been able to think this way before.
 
 Background details he walks past without seeing: a protest by young channelers outside the Council hall — their signs read "Our trickles, our future." A district meeting where residents argue about whether the Wellspring's help is a gift or a dependency. A tinkerer pamphlet about mechanical alternatives that someone has left on a wall. The seeds of the Levelers, planted in footnotes he doesn't read.
 
-**Establish:** The slow, incremental nature of the drift. No single dramatic break — just a series of small choices, each reasonable, that add up to abandonment. The pump project progressing without him as quiet counterpoint — the mentor's philosophy continuing to build while Ash chases the patron's.
+**Establish:** The slow, incremental nature of the drift. No single dramatic break — just a series of small choices, each reasonable, that add up to abandonment. The pump project progressing without him as quiet counterpoint — the mentor's philosophy continuing to build while Ash chases Dorenne's.
 
 **Emotional beat:** He's not doing anything wrong. Every choice makes sense. That's what makes the drift so insidious.
 
 ---
 
-### Chapter 13 — The Patron's Architecture
+### Chapter 13 — Dorenne's Architecture
 
-**POV:** The relationship between Ash and the patron deepens. We see it from inside.
+**POV:** The relationship between Ash and Dorenne deepens. We see it from inside.
 
-The patron gives him more access — to strategy meetings, to her inner circle, to the real conversations about the city's future. He sits in on a Council session where she argues for emergency infrastructure funding. He sees her fight for the city with brilliance and ferocity. He admires her. He's learning from her.
+Dorenne gives him more access — to strategy meetings, to her inner circle, to the real conversations about the city's future. He sits in on a Council session where she argues for emergency infrastructure funding. He sees her fight for the city with brilliance and ferocity. He admires her. He's learning from her.
 
 She begins tracking his expenditures — not crudely, but as part of the infrastructure planning. Charts on her wall showing which districts received Wellspring reinforcement, which are next in line, projected timelines. She presents this as partnership: "We should be strategic about this. Your power is significant, but the city's needs are enormous. If we allocate wisely, we can stabilize the most critical systems first."
 
 He agrees. It makes sense.
 
-A moment of friction: he spends power on something unplanned. Maybe he passes a failing structure on his way home and reinforces it — a small building, a few families. The patron's reaction the next morning is subtle: "I heard you reinforced a building on Threadneedle Lane. That was generous. The eastern aqueduct serves forty thousand people." Not angry. Disappointed. The calculus of allocation delivered as gentle correction.
+A moment of friction: he spends power on something unplanned. Maybe he passes a failing structure on his way home and reinforces it — a small building, a few families. Dorenne's reaction the next morning is subtle: "I heard you reinforced a building on Threadneedle Lane. That was generous. The eastern aqueduct serves forty thousand people." Not angry. Disappointed. The calculus of allocation delivered as gentle correction.
 
 He visits the workshop. The pump system is further along — other tinkerers have advanced the work in his absence. The mentor is fitting a valve junction, a whisper of channeling guiding the piece into place so precisely it looks like luck. Ash watches and feels the distance between where he started and where he is now. Everything in this room is small and slow and collaborative. Everything in his life now is enormous and fast and singular. He doesn't stay long. The mentor walks him to the door and says: "The bench is here when you want it."
 
-**Establish:** The patron's framework becoming Ash's framework. The shift from "she's directing me" to "we're partners" to "I think in her categories now." The ledger underneath the generosity — invisible to both of them.
+**Establish:** Dorenne's framework becoming Ash's framework. The shift from "she's directing me" to "we're partners" to "I think in her categories now." The ledger underneath the generosity — invisible to both of them.
 
 **Emotional beat:** The first time Ash thinks of himself as a resource instead of a person, and doesn't notice.
 
@@ -357,7 +357,7 @@ He visits the workshop. The pump system is further along — other tinkerers hav
 
 **POV:** The relationships that grounded him are now at arm's length.
 
-A scene with the childhood friend — maybe they cross paths in the city, or she comes to find him. The conversation is warm but strained. She's heard about his work — everyone has. She asks how he's doing, not what he's doing. He talks about the deployments, the districts he's helped, the patron's plans. She listens. Then she says something honest: "You talk about yourself differently now. Everything is about what you can do."
+A scene with the childhood friend — maybe they cross paths in the city, or she comes to find him. The conversation is warm but strained. She's heard about his work — everyone has. She asks how he's doing, not what he's doing. He talks about the deployments, the districts he's helped, Dorenne's plans. She listens. Then she says something honest: "You talk about yourself differently now. Everything is about what you can do."
 
 He bristles. She's wrong. She doesn't understand what it's like — she's had magic her whole life, she can't know what it means to finally not be broken. She's the one person who should be happy for him, and instead she's picking at it.
 
@@ -379,7 +379,7 @@ He leaves early. Important work tomorrow.
 
 **POV:** The earthquake strikes Solathis.
 
-It comes without warning — or rather, with warnings that were filed in the patron's office and categorized as "manageable." The Kharren Fault, held stable by generations of channeled reinforcement, releases centuries of accumulated geological stress in a single catastrophic event.
+It comes without warning — or rather, with warnings that were filed in Dorenne's office and categorized as "manageable." The Kharren Fault, held stable by generations of channeled reinforcement, releases centuries of accumulated geological stress in a single catastrophic event.
 
 The earthquake's impact is stratified like the city itself. The elder districts — where strong-trickled residents maintain their buildings daily, where the architecture is reinforced by the most powerful generation alive — sustain damage but hold. Stone cracks but doesn't fall. Bridges sway but don't break. The residents channel repairs before the dust settles.
 
@@ -399,7 +399,7 @@ Ash sees the stratification of the city laid bare in rubble. The earthquake did 
 
 **POV:** Ash is deployed at a scale no one has ever seen.
 
-He works. For days, he works. The patron manages the response — coordinating rescue teams, directing resources, briefing the Council, managing public communication. She is genuinely brilliant at this. Ash provides the force.
+He works. For days, he works. Dorenne manages the response — coordinating rescue teams, directing resources, briefing the Council, managing public communication. She is genuinely brilliant at this. Ash provides the force.
 
 He stabilizes collapsing structures — holding up residential blocks with nothing but channeled power while rescue teams pull families from the wreckage. He seals a rupture in the water system that would have flooded an entire district. He reinforces bridges that carry evacuation routes. He clears rubble from streets where people are trapped. He does things that would take a hundred channelers working together, and he does them alone.
 
@@ -407,7 +407,7 @@ Scene: a residential building in a poor district. Three floors have pancaked. Th
 
 Scene: a young channeler — a woman his age — is trying to hold a cracked dam in the lower aqueduct. Her trickle is failing. The water pressure is enormous. She's going to lose it, and the district behind her will flood. He arrives and adds his power to hers, and the dam holds, and she stares at him with an expression that is part gratitude and part something closer to grief — because she has been trying to do this with everything she has, and it wasn't enough, and he did it like breathing.
 
-The patron stands beside him at public briefings. Her strategy, his power. The perfect machine. She looks competent and indispensable. The city sees a crisis managed, a Director who had the foresight to invest in the Wellspring, a system that works. She is not performing — she genuinely managed the crisis well. The partnership is real. It is also a political instrument.
+Dorenne stands beside him at public briefings. Her strategy, his power. The perfect machine. She looks competent and indispensable. The city sees a crisis managed, a Director who had the foresight to invest in the Wellspring, a system that works. She is not performing — she genuinely managed the crisis well. The partnership is real. It is also a political instrument.
 
 **Establish:** Unambiguous heroism. No asterisk, no "but." He saved people. He did good. He was magnificent. The reader should feel the power fantasy at its apex.
 
@@ -419,9 +419,9 @@ The patron stands beside him at public briefings. Her strategy, his power. The p
 
 **POV:** The aftermath of the earthquake. The city's response to Ash.
 
-The city loves him. His name is spoken in every district. People he's never met tell stories about what he did. Children reenact his rescues in the streets. The patron's political position is unassailable — she managed the crisis and she has the Wellspring.
+The city loves him. His name is spoken in every district. People he's never met tell stories about what he did. Children reenact his rescues in the streets. Dorenne's political position is unassailable — she managed the crisis and she has the Wellspring.
 
-Reconstruction begins under the patron's direction. She presents Ash's deployment plan to the Council: a systematic allocation of Wellspring power to reinforce the city's core infrastructure. Transit networks, water systems, structural foundations — everything that almost failed. The plan is rational, comprehensive, necessary. The Council approves it overwhelmingly.
+Reconstruction begins under Dorenne's direction. She presents Ash's deployment plan to the Council: a systematic allocation of Wellspring power to reinforce the city's core infrastructure. Transit networks, water systems, structural foundations — everything that almost failed. The plan is rational, comprehensive, necessary. The Council approves it overwhelmingly.
 
 Ash accepts. He's high on purpose. The plan feels like partnership. The work feels meaningful. He tours the rebuilt districts and sees his power made concrete — walls standing, water flowing, lights burning. His work.
 
@@ -443,15 +443,15 @@ He pushes the feeling away. There's too much work to do.
 
 **POV:** Ash begins to sense the limits of the reservoir.
 
-Weeks after the earthquake. The reconstruction continues. The patron's deployment schedule is rigorous — three or four districts per week, each one receiving targeted Wellspring reinforcement. Ash works. The work is good. But the reservoir feels different every day now. Not empty — still vast. But he can feel its edges the way you can feel the walls of a room in the dark.
+Weeks after the earthquake. The reconstruction continues. Dorenne's deployment schedule is rigorous — three or four districts per week, each one receiving targeted Wellspring reinforcement. Ash works. The work is good. But the reservoir feels different every day now. Not empty — still vast. But he can feel its edges the way you can feel the walls of a room in the dark.
 
-He pushes back — small, not dramatic. He uses power on something the patron didn't plan. A neighbor's home. A workshop in the tinkerer district where a wall is cracking. Something personal and unstrategic. The patron's response: "You could have reinforced the eastern retaining wall with what that cost. That wall protects four thousand people." She's not wrong. That's what makes it unbearable.
+He pushes back — small, not dramatic. He uses power on something Dorenne didn't plan. A neighbor's home. A workshop in the tinkerer district where a wall is cracking. Something personal and unstrategic. Dorenne's response: "You could have reinforced the eastern retaining wall with what that cost. That wall protects four thousand people." She's not wrong. That's what makes it unbearable.
 
-He starts paying attention to the expenditure reports on the patron's wall — the charts she uses to track his deployments. He's never looked at them carefully before. Now he sees the pattern: each deployment marked with an estimated energy cost. The numbers are approximate — the patron's staff are guessing, since nobody has ever measured a Wellspring before — but they're in the right range. And there are a lot of them.
+He starts paying attention to the expenditure reports on Dorenne's wall — the charts she uses to track his deployments. He's never looked at them carefully before. Now he sees the pattern: each deployment marked with an estimated energy cost. The numbers are approximate — Dorenne's staff are guessing, since nobody has ever measured a Wellspring before — but they're in the right range. And there are a lot of them.
 
 A nagging feeling. The analytical mind that was always his real weapon begins to engage with a problem he's been avoiding.
 
-**Establish:** The shift from unconscious spending to uneasy awareness. The patron's tracking system as a mirror — she's been counting what he hasn't.
+**Establish:** The shift from unconscious spending to uneasy awareness. Dorenne's tracking system as a mirror — she's been counting what he hasn't.
 
 **Emotional beat:** The first cold thread of fear. Not panic — not yet. Just the recognition that the ocean has a floor.
 
@@ -461,17 +461,17 @@ A nagging feeling. The analytical mind that was always his real weapon begins to
 
 **POV:** The emotional climax of the book. Ash does the calculation.
 
-He sits down — alone, at night, in the quarters the patron gave him — and gets precise. He has been keeping track loosely, the way you track spending when you think you're rich: vaguely, without concern. Now he uses the analytical brilliance that was always his real weapon.
+He sits down — alone, at night, in the quarters Dorenne gave him — and gets precise. He has been keeping track loosely, the way you track spending when you think you're rich: vaguely, without concern. Now he uses the analytical brilliance that was always his real weapon.
 
-He reconstructs his usage from memory and from the patron's records. The early experiments — wildly inefficient, joyful, costing ten or twenty times what they should have. The training period. The first deployments — district heating grids, water systems, structural work. Each one a genuine act of good, each one a withdrawal from a finite account.
+He reconstructs his usage from memory and from Dorenne's records. The early experiments — wildly inefficient, joyful, costing ten or twenty times what they should have. The training period. The first deployments — district heating grids, water systems, structural work. Each one a genuine act of good, each one a withdrawal from a finite account.
 
 Then the earthquake. Days of continuous, maximum-output channeling. Holding up buildings. Sealing ruptures. Moving rubble. The most heroic thing he has ever done. The most expensive.
 
-He adds it up. He projects forward. He accounts for improving efficiency — he channels better now than he did in the first week — and for the patron's planned deployments.
+He adds it up. He projects forward. He accounts for improving efficiency — he channels better now than he did in the first week — and for Dorenne's planned deployments.
 
 The number is not infinite. It's not even comfortable. He has burned through roughly half of everything he will ever have — in eight weeks. And the early waste, the inefficiency of a novice with an ocean of power, accounts for a devastating fraction of the loss.
 
-The projection forward is terrifying: at the patron's current deployment rate, the reservoir empties in a definable, countable period of time. Not someday. Not eventually. *Then.*
+The projection forward is terrifying: at Dorenne's current deployment rate, the reservoir empties in a definable, countable period of time. Not someday. Not eventually. *Then.*
 
 He sits with the number. His greatest triumph — the earthquake, the heroism, the days of holding up a city — was also his greatest expenditure. The thing that made him a hero burned through power he will never get back. Every building he held, every life he saved, cost him a piece of his finite self. He doesn't regret the spending. He'd do it again. But the reservoir felt bottomless because he never bothered to check. Now he's checked, and he can see the bottom.
 
@@ -487,7 +487,7 @@ And one more calculation, because his mind won't stop: the world's trickles are 
 
 **POV:** Ash goes to the mentor.
 
-Not the patron. Not his family. The mentor. The person who asked "how much did that cost you?" on day one and let the question sit unanswered.
+Not Dorenne. Not his family. The mentor. The person who asked "how much did that cost you?" on day one and let the question sit unanswered.
 
 He walks downhill to the workshop in the poor district. It's late. The mentor is there — he's always there. The workshop has changed and hasn't. His workbench is clear, his tools arranged precisely where he placed them before the Wellspring, before the earthquake, before any of it. The mentor kept them ready. Not as a rebuke. As a statement of faith: you'll come back. This will still be here. But the pump system — the community project he abandoned weeks ago — is finished. Installed. Working. Water flows in the district. The mentor and the other tinkerers completed it without him. It runs on physics and tiny contributions from anyone willing to help. It doesn't need a Wellspring. It never did.
 
@@ -509,7 +509,7 @@ Ash doesn't have an answer. But the question reframes everything. The Wellspring
 
 ### Chapter 21 — The Break
 
-**POV:** Ash tells the patron the reservoir is finite. The relationship fractures.
+**POV:** Ash tells Dorenne the reservoir is finite. The relationship fractures.
 
 He goes to her office. He tells her what he's found. The numbers. The projection. The finitude.
 
@@ -519,13 +519,13 @@ Her mind goes immediately to allocation: how to ration the remaining power most 
 
 He listens. She's not wrong. From her framework — the framework of a Director of Infrastructure managing a critical and now constrained resource — this is the only responsible response. She is doing exactly what a competent public servant should do when she learns that a key resource is limited.
 
-But Ash hears what it means: he's a budget line. A resource to be managed until depletion. The patron who gave him dignity when he had none, who saw a person when everyone else saw a charity case, who sat beside him in the transit hub when the world was collapsing — she sees a balance sheet with a diminishing total. She still cares about him. He can see it in the moments between the calculations — a flicker of something softer, quickly subsumed by the institutional reflex. She also cannot stop optimizing him. Both things are completely true and completely irreconcilable.
+But Ash hears what it means: he's a budget line. A resource to be managed until depletion. Dorenne who gave him dignity when he had none, who saw a person when everyone else saw a charity case, who sat beside him in the transit hub when the world was collapsing — she sees a balance sheet with a diminishing total. She still cares about him. He can see it in the moments between the calculations — a flicker of something softer, quickly subsumed by the institutional reflex. She also cannot stop optimizing him. Both things are completely true and completely irreconcilable.
 
 He doesn't storm out. He doesn't make a speech. The break isn't dramatic — it's the quiet closing of a door. He tells her he needs time to think. She gives it, because she's not a monster, and because she's calculating that giving him space is the optimal play. She might even be right.
 
-He walks out of the office. The patron sits alone with her charts and her diminishing projections, and for a brief moment — before the institutional mind reasserts itself — she looks like a woman who just lost something she didn't know she valued until it was walking away.
+He walks out of the office. Dorenne sits alone with her charts and her diminishing projections, and for a brief moment — before the institutional mind reasserts itself — she looks like a woman who just lost something she didn't know she valued until it was walking away.
 
-**Establish:** The patron as tragic figure, not villain. Her framework is her prison — the same institutional logic that made her effective makes her incapable of seeing Ash as anything other than a function. The break is devastating because both people are right and both people are wrong.
+**Establish:** Dorenne as tragic figure, not villain. Her framework is her prison — the same institutional logic that made her effective makes her incapable of seeing Ash as anything other than a function. The break is devastating because both people are right and both people are wrong.
 
 **Emotional beat:** Quiet devastation. The loss of the first person outside his family who believed in him — or rather, the realization that what she believed in was his usefulness.
 
@@ -537,7 +537,7 @@ He walks out of the office. The patron sits alone with her charts and her dimini
 
 He walks the long way. Through the districts he saved — rebuilt walls, flowing water, warm lights. His work. Every warm building a piece of himself he'll never get back. He doesn't regret it. He'd do it again. But the knowledge changes the view.
 
-Past the patron's office — lit from within, the Director still at her desk, still managing. She'll manage without him. That's what she does.
+Past Dorenne's office — lit from within, the Director still at her desk, still managing. She'll manage without him. That's what she does.
 
 Through the middle districts where things work but barely — the maintenance crews running on fading trickles, the cracks that get repaired and reappear, the transit shafts that run half as often as they used to. The slow decline that the earthquake made sudden and visible.
 
@@ -574,7 +574,7 @@ He doesn't know yet. But he's in the right place to start.
 | Character | Arc in Book One | Status at Close |
 |---|---|---|
 | **Ash** | Helpless → euphoric → intoxicated → awakened | Knows the truth; doesn't know what to do with it |
-| **The Patron** | Protector → partner → optimizer | Fractured relationship; still in power, still managing |
+| **Dorenne** | Protector → partner → optimizer | Fractured relationship; still in power, still managing |
 | **The Mentor** | Steady presence → teacher → abandoned → returned to | Demonstrated the philosophy that will save the city; asked the question that reframes everything |
 | **The Sister** | Competent sibling → destabilized | Surface intact, ground shifting underneath |
 | **The Mother** | Fierce protector → purposeless | Identity crisis; son doesn't need saving anymore |
@@ -589,5 +589,5 @@ He doesn't know yet. But he's in the right place to start.
 - The proof-of-concept: the tinkerer workshop and its mechanical-plus-micro-channeling alternatives are established as working systems; they haven't yet become a building program
 - The childhood friend: shut out, not gone — the reconnection is owed
 - The sister's trickle: already weakening, not yet a crisis
-- The patron: fractured, not finished — she remains Director, still powerful, still managing the city
+- Dorenne: fractured, not finished — she remains Director, still powerful, still managing the city
 - Rural decline: mentioned in background reports Ash ignored — the wider world's crisis awaits

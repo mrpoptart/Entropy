@@ -9,7 +9,7 @@ A young man born without magic in a magical world becomes the most powerful chan
 **The Series Clock:** Ash's reservoir drains across three books — 100% → ~50% (Book One) → ~15-20% (Book Two) → 0% (Book Three). The world's magic declines on a generational timescale, but accelerates visibly across the trilogy.
 
 **The Grief Progression:** The antagonists embody stages of grief in response to the decline:
-- Book One: **Control/Bargaining** (the patron) — "I can manage this."
+- Book One: **Control/Bargaining** (Dorenne) — "I can manage this."
 - Book Two: **Righteous Force/Anger** (the Levelers) — "Someone must pay."
 - Book Three: **Despair/Depression** (the movement leader, broken) — "Nothing matters."
 - Ash's arc: **Acceptance** — building knowing it will be imperfect, choosing ordinary life.
@@ -21,15 +21,15 @@ A young man born without magic in a magical world becomes the most powerful chan
 **Question:** Who are you when you're extraordinary?
 **Reservoir:** 100% → ~50%
 **Time span:** Weeks to months
-**Antagonistic force:** The patron (control)
+**Antagonistic force:** Dorenne (control)
 
 ### Act One — The Ordinary World & Activation
 
-Ash's daily life without magic: small humiliations, cheerful performance, the careful dance of being pleasant enough to justify the trouble he causes. We see the patron's office where he's an aide who can't do the actual work. The tinkerer workshop — the one place where lacking magic isn't a disability. Home — the mother's fierce protectiveness, the father's careful pride, the sister's graceful competence and unspoken guilt. The childhood friend — warm, slightly drifted.
+Ash's daily life without magic: small humiliations, cheerful performance, the careful dance of being pleasant enough to justify the trouble he causes. We see Dorenne's office where he's an aide who can't do the actual work. The tinkerer workshop — the one place where lacking magic isn't a disability. Home — the mother's fierce protectiveness, the father's careful pride, the sister's graceful competence and unspoken guilt. The childhood friend — warm, slightly drifted.
 
-The patron is Director of Infrastructure, managing the city's magically-maintained systems that are quietly failing. She takes Ash on an inspection of a failing structure. During the inspection, cascading structural failure begins with people in danger.
+Dorenne is Director of Infrastructure, managing the city's magically-maintained systems that are quietly failing. She takes Ash on an inspection of a failing structure. During the inspection, cascading structural failure begins with people in danger.
 
-**The Wellspring activates.** Under extreme stress, the dormant reservoir cracks open. His first act of power is instinctive — bracing a collapsing structure, saving lives. Raw, uncontrolled, terrifying. The patron's reaction is the first sign: genuine concern layered immediately with institutional recalculation. She shields him while positioning the Wellspring as her resource.
+**The Wellspring activates.** Under extreme stress, the dormant reservoir cracks open. His first act of power is instinctive — bracing a collapsing structure, saving lives. Raw, uncontrolled, terrifying. Dorenne's reaction is the first sign: genuine concern layered immediately with institutional recalculation. She shields him while positioning the Wellspring as her resource.
 
 ### Act Two — The Ascent
 
@@ -37,19 +37,19 @@ The patron is Director of Infrastructure, managing the city's magically-maintain
 
 Family reactions: the mother's complicated loss of purpose, the father's genuine pride carrying a quiet ache, the sister's surface celebration masking the loss of her role as the competent sibling.
 
-The patron begins directing him — genuine needs in struggling districts. The feeling is intoxicating: not just power, but usefulness. After a lifetime as a burden, he's the solution.
+Dorenne begins directing him — genuine needs in struggling districts. The feeling is intoxicating: not just power, but usefulness. After a lifetime as a burden, he's the solution.
 
 The childhood friend doesn't perform awe. She asks practical questions, treats the Wellspring as something that happened to him rather than who he is. He reads this as her not understanding. She's the only one who's right.
 
-**The Drift:** The patron's requests escalate to political deployments. He stops visiting the workshop. Stops visiting the childhood friend. Background details Ash ignores: declining trickles in farming regions, protests by younger channelers, the first seeds of the Levelers movement.
+**The Drift:** Dorenne's requests escalate to political deployments. He stops visiting the workshop. Stops visiting the childhood friend. Background details Ash ignores: declining trickles in farming regions, protests by younger channelers, the first seeds of the Levelers movement.
 
 ### The Set Piece — The Earthquake
 
 A major earthquake strikes — partly natural, partly the consequence of weakened magical reinforcements. Impact is democratic but unequal: elder districts hold, young and poor districts collapse. The city's stratification is laid bare in rubble.
 
-Ash is deployed on a scale no one has ever seen. He works for days — stabilizing structures, holding bridges, sealing ruptures. His finest hour. Unambiguously heroic. The patron manages the response around him — her strategy, his power. A perfect machine. They save thousands of lives.
+Ash is deployed on a scale no one has ever seen. He works for days — stabilizing structures, holding bridges, sealing ruptures. His finest hour. Unambiguously heroic. Dorenne manages the response around him — her strategy, his power. A perfect machine. They save thousands of lives.
 
-The aftermath: the city loves him. The patron's position is unassailable. Ash feels, for the first time, like he was meant for something. **This is the peak of the power fantasy.** The reader should feel the seduction. The deconstruction lands harder because the thing being deconstructed was real.
+The aftermath: the city loves him. Dorenne's position is unassailable. Ash feels, for the first time, like he was meant for something. **This is the peak of the power fantasy.** The reader should feel the seduction. The deconstruction lands harder because the thing being deconstructed was real.
 
 ### Act Three — The Reckoning
 
@@ -57,13 +57,13 @@ The aftermath: the city loves him. The patron's position is unassailable. Ash fe
 
 **The mentor scene:** He goes to the workshop. The mentor makes tea by hand and asks the question that reframes everything: *"So. How much is left, and what do you want to build with it?"*
 
-**The break with the patron:** Quiet, devastating. He tells her the reservoir is finite. She immediately starts recalculating allocation — rationing, prioritizing, optimizing. She's not wrong. She's also revealed what he is to her: a budget line. Both people are right. Both are irreconcilable.
+**The break with Dorenne:** Quiet, devastating. He tells her the reservoir is finite. She immediately starts recalculating allocation — rationing, prioritizing, optimizing. She's not wrong. She's also revealed what he is to her: a budget line. Both people are right. Both are irreconcilable.
 
-**The ending:** Ash walks through the city — past the districts he saved, past the patron's office — and arrives at the tinkerer workshop. The question has shifted from "who am I when I'm extraordinary?" to "what should I build with what's left?"
+**The ending:** Ash walks through the city — past the districts he saved, past Dorenne's office — and arrives at the tinkerer workshop. The question has shifted from "who am I when I'm extraordinary?" to "what should I build with what's left?"
 
 ### What Book One Carries Forward
 - Half the reservoir spent; the clock is loud
-- The patron relationship fractured but not severed
+- Dorenne relationship fractured but not severed
 - The earthquake exposed the city's stratification — seeds of the Levelers' argument
 - The tinkerer community established as the philosophical alternative
 - The childhood friend shut out
@@ -83,9 +83,9 @@ The aftermath: the city loves him. The patron's position is unassailable. Ash fe
 
 **Ash returns to the workshop.** He's learned from Book One that spectacle wastes power. He wants to be strategic. He and the mentor design a plan: retrofit a failing district — one of the young/poor neighborhoods devastated by the earthquake — into a proof-of-concept for post-magic life. Mechanical water systems. Non-magical heating. Cooperative maintenance that doesn't depend on individual trickle strength.
 
-The key insight from the mentor: use Wellspring power not to maintain (the patron's model) but to BUILD — permanent infrastructure that works without him. Catalytic expenditure, not ongoing subsidy.
+The key insight from the mentor: use Wellspring power not to maintain (Dorenne's model) but to BUILD — permanent infrastructure that works without him. Catalytic expenditure, not ongoing subsidy.
 
-**The patron wants him back.** She's managing post-earthquake reconstruction — resource allocation, political fallout. The Wellspring under her direction remains her strongest play. She offers a formal partnership: his power, her systems. He turns it down but can't avoid her entirely — he needs institutional access for permits, materials, workforce coordination. She gives him the failing district as a project because it costs her little and lets her claim credit if it works.
+**Dorenne wants him back.** She's managing post-earthquake reconstruction — resource allocation, political fallout. The Wellspring under her direction remains her strongest play. She offers a formal partnership: his power, her systems. He turns it down but can't avoid her entirely — he needs institutional access for permits, materials, workforce coordination. She gives him the failing district as a project because it costs her little and lets her claim credit if it works.
 
 **The proof-of-concept district takes shape.** He pours himself into it. Uses Wellspring power catalytically — building foundations, powering initial construction, creating conditions for mechanical systems to take over. The mentor's decades of tinkering become blueprints. District workers are trained. For the first time, Ash is building rather than maintaining or performing. It starts working.
 
@@ -103,7 +103,7 @@ The key insight from the mentor: use Wellspring power not to maintain (the patro
 
 **The sister's crisis deepens.** Her trickle drops noticeably. She can't maintain her professional standards. She doubles down — works longer, pushes harder, burns herself out trying to do with effort what she used to do with ease. She snaps at Ash during a family dinner — something small that reveals something huge. The first crack in the competence shell.
 
-**The Levelers escalate.** Social pressure campaigns against "hoarders." Elder channelers publicly shamed. Institutions disrupted. The movement gains genuine political power — council seats, public support, moral authority. Ash is caught in the middle: he agrees with their goals, he can see their methods won't build anything lasting. The patron wants him to oppose them publicly. He refuses.
+**The Levelers escalate.** Social pressure campaigns against "hoarders." Elder channelers publicly shamed. Institutions disrupted. The movement gains genuine political power — council seats, public support, moral authority. Ash is caught in the middle: he agrees with their goals, he can see their methods won't build anything lasting. Dorenne wants him to oppose them publicly. He refuses.
 
 **The break with the movement leader.** A specific incident: the Levelers coerce an elder channeler into a forced public expenditure — spending their trickle on a communal project until they collapse from exhaustion. It's presented as justice. Ash confronts the leader. The leader's response: *"What did you expect? You have an ocean of power. She had a cup. She can refill it tomorrow. You're asking the drowning to be patient while you decide which lifeboat to build."*
 
@@ -129,7 +129,7 @@ This reframing also retroactively illuminates the mentor: the old man who seems 
 
 **The unspoken conversation with the sister.** The devastating, freeing reckoning with what it was like growing up on opposite sides of the gap. She admits the guilt — overachieving as apology, competence as penance for having what he didn't. He admits the grief — the private weight of every cheerful smile. They cry. Nothing external changes. Everything between them does.
 
-**End of Book Two.** The Levelers have peaked and begun fragmenting — redistribution happened in some places and didn't stop the decline. The movement leader is cracking. The patron's institutional framework is under severe strain. The proof-of-concept district works imperfectly but humanly — without Ash at its center. He's shifted from "I must fix this" to "I must build something that works without me." He's begun teaching, delegating, trusting imperfect implementation. The rural communities and the tinkerers were always ahead of him.
+**End of Book Two.** The Levelers have peaked and begun fragmenting — redistribution happened in some places and didn't stop the decline. The movement leader is cracking. Dorenne's institutional framework is under severe strain. The proof-of-concept district works imperfectly but humanly — without Ash at its center. He's shifted from "I must fix this" to "I must build something that works without me." He's begun teaching, delegating, trusting imperfect implementation. The rural communities and the tinkerers were always ahead of him.
 
 ~15-20% of the reservoir remains. The efficiency technique makes each remaining expenditure count for more, but the countdown continues.
 
@@ -138,7 +138,7 @@ This reframing also retroactively illuminates the mentor: the old man who seems 
 - The efficiency technique as ongoing capability (not preservation)
 - The movement leader breaking — despair arc loading
 - The sister has begun her reckoning but hasn't finished
-- The patron is cornered — the world is outgrowing her framework
+- Dorenne is cornered — the world is outgrowing her framework
 - The mentor's networks (rural, tinkerer) becoming the backbone of the transition
 - The childhood friend is back — grounding him, seeing him clearly
 - The reservoir critically low — every expenditure is a choice with visible consequences
@@ -162,7 +162,7 @@ This reframing also retroactively illuminates the mentor: the old man who seems 
 
 They begin speaking publicly. Not ranting — articulating. *"Be honest. Ash's mechanical systems break. His trained workers make mistakes. The transition will be brutal. Most of what he's building won't last. Stop lying to people about a future that isn't coming."*
 
-**The patron at a crossroads.** The institutions she built her life on are transforming or dissolving. The city's political structure is fracturing as the decline makes centralized management impossible. She faces what Ash already learned: control is not stewardship.
+**Dorenne at a crossroads.** The institutions she built her life on are transforming or dissolving. The city's political structure is fracturing as the decline makes centralized management impossible. She faces what Ash already learned: control is not stewardship.
 
 ### Act Two — The Hardest Work
 
@@ -176,7 +176,7 @@ Ash can't argue them down with logic. The leader's logic is sound. The plans ARE
 
 **The movement leader takes a community.** The leader, still organizing, still charismatic, gathers followers — people who believe in the communistic sharing of remaining resources rather than building for a post-magic future. They take a small district or settlement and run it their way: mandatory pooling of trickles, collective distribution, even convincing a few elder channelers to join and contribute their stronger power. It's the Levelers' philosophy in miniature, a sincere attempt to prove their model works.
 
-Ash has to let them try. This is stewardship's hardest test — letting people choose a path you believe will fail, because the alternative is becoming the patron. Controlling them would be the Book One answer. He lets them go.
+Ash has to let them try. This is stewardship's hardest test — letting people choose a path you believe will fail, because the alternative is becoming Dorenne. Controlling them would be the Book One answer. He lets them go.
 
 **The mentor's revelation.** A crisis forces the mentor to channel at full capacity. The old man who's been lighting lamps with casual flicks reveals what he's actually been carrying: an elder-generation trickle of staggering power, refined through decades of practicing the same efficiency technique Ash learned in Book Two. The mentor didn't just choose to stop relying on magic — he mastered it so thoroughly that his restraint was the most disciplined channeling in the city.
 
@@ -200,7 +200,7 @@ The moment he empties: the power is gone. Not diminished. Gone. The same nothing
 
 Ash does not gloat. He helps. Now ordinary and powerless, he offers what he can — mechanical knowledge, organizational skill, connections to the building networks. The leader's people are welcomed into the broader transition framework. The leader watches the person who was right — who is now powerless, ordinary, exactly the person the leader fears becoming — extend a hand without conditions.
 
-**The patron's redemption.** Facing the reality that her institutional framework is crumbling, the patron makes the hardest choice of her life: she lets go. She sees Ash's building projects gaining traction, sees the proof-of-concept district working, sees the rural networks spreading. She throws her institutional weight behind his ideas — not as director, not as controller, but as ally. Her organizational skill, her political connections, her understanding of systems — all of it redirected from managing decline to enabling transition. She adapts because she's always been brilliant, and brilliance, when it finally lets go of the wrong framework, can do extraordinary things. The world is better for her change.
+**Dorenne's redemption.** Facing the reality that her institutional framework is crumbling, Dorenne makes the hardest choice of her life: she lets go. She sees Ash's building projects gaining traction, sees the proof-of-concept district working, sees the rural networks spreading. She throws her institutional weight behind his ideas — not as director, not as controller, but as ally. Her organizational skill, her political connections, her understanding of systems — all of it redirected from managing decline to enabling transition. She adapts because she's always been brilliant, and brilliance, when it finally lets go of the wrong framework, can do extraordinary things. The world is better for her change.
 
 **The confrontation with the movement leader.** Ash — now powerless, ordinary — finds the leader. He can't argue. He can't demonstrate. He can only be present as proof: a person who had everything, spent it all, and is still here. Still choosing to build. Still finding it worth doing.
 
@@ -227,7 +227,7 @@ Introduced as temptation in Book Two, adopted as capability, it threads through 
 ### The Proof-of-Concept District
 Born from the earthquake's destruction in Book One, built in Book Two, functioning independently in Book Three. The district is the physical embodiment of the trilogy's argument: building is harder than heroism, and imperfect systems maintained by ordinary people are more durable than perfect ones maintained by extraordinary individuals.
 
-### The Patron's Evolution
+### Dorenne's Evolution
 Book One: antagonist (control). Book Two: uneasy collaborator, diminished as direct threat but still powerful. Book Three: redeemed — she adapts, throws institutional weight behind the transition. Her arc mirrors Ash's in miniature: both must lose the thing they built their identity on, both must choose what to build next.
 
 ### The Movement Leader's Trajectory

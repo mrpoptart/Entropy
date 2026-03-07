@@ -7,10 +7,10 @@ Each wrong response is a mirror of something Ash fears or has felt himself. The 
 
 ## The Three Wrong Responses
 
-### Book One — Control (The Patron)
+### Book One — Control (Dorenne)
 *"If I manage this correctly, the system holds."*
 
-The patron believes the decline can be managed through institutional optimization — the right resources in the right places, directed by the right people. Her response to existential crisis is to tighten her grip on the levers she knows.
+Dorenne believes the decline can be managed through institutional optimization — the right resources in the right places, directed by the right people. Her response to existential crisis is to tighten her grip on the levers she knows.
 
 **Why it's sympathetic:** Her framework has worked for decades. She IS competent. The systems she protects ARE important.
 
@@ -57,9 +57,9 @@ The Book Three antagonist is not a new threat. It's a person the reader already 
 
 *(Full character details: movement-leader.md)*
 
-## The Patron Across the Trilogy
+## Dorenne Across the Trilogy
 
-The patron threads through all three books, evolving in relation to the other antagonistic forces:
+Dorenne threads through all three books, evolving in relation to the other antagonistic forces:
 
 **Book One:** Primary antagonist. Control as response to decline.
 
@@ -89,7 +89,7 @@ The movement crystallizes around a simple, powerful argument: *the decline is no
 - The powerful should be compelled to spend their magic for public good — infrastructure, essential services, communal channeling
 - Elder channelers should be taxed (forced to contribute a portion of their daily trickle to public works)
 - The Wellspring's reservoir should be under collective direction, not individual control
-- Institutions that concentrate magical resources (including the patron's administration) should be dismantled and rebuilt with equal representation
+- Institutions that concentrate magical resources (including Dorenne's administration) should be dismantled and rebuilt with equal representation
 
 ### How They Operate
 The movement starts disciplined and principled — organized protests, political advocacy, public demonstrations of inequality. They're effective. They gain followers. They make real points that the political establishment can't easily dismiss.

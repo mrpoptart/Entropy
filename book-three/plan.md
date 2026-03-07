@@ -48,7 +48,7 @@ The mentor's networks come alive — quiet connections to rural communities, ind
 
 The movement leader's descent: the Levelers have fragmented. Most members adapt or join Ash's efforts. The leader doesn't pivot. They begin speaking publicly — calm, evidence-armed despair. *"Stop lying to people about a future that isn't coming."*
 
-The patron at a crossroads: her institutions are transforming or dissolving. She faces what Ash already learned — control is not stewardship.
+Dorenne at a crossroads: her institutions are transforming or dissolving. She faces what Ash already learned — control is not stewardship.
 
 ### ACT TWO — The Hardest Work
 
@@ -76,7 +76,7 @@ The moment he empties: quiet. The power is gone. The same nothing he woke up wit
 
 The movement leader's community fails. The pooled trickles keep weakening, the shared resource shrinks. The leader's model distributed the decline equally rather than building past it. Ash — now ordinary and powerless — helps. He offers mechanical knowledge, organizational skill, connections. The leader watches the person who was right extend a hand without conditions.
 
-The patron's redemption. She lets go. She sees the building projects gaining traction, the proof-of-concept working, the networks spreading. She throws her institutional weight behind Ash's ideas — not as controller but as ally. Her organizational skill, political connections, and understanding of systems redirected from managing decline to enabling transition. The world is better for her change.
+Dorenne's redemption. She lets go. She sees the building projects gaining traction, the proof-of-concept working, the networks spreading. She throws her institutional weight behind Ash's ideas — not as controller but as ally. Her organizational skill, political connections, and understanding of systems redirected from managing decline to enabling transition. The world is better for her change.
 
 The confrontation with the movement leader. Ash — now powerless — finds the leader. He can only be present as proof: a person who had everything, spent it all, and is still here. Still building. The leader remains broken. They cannot make the leap to ordinary life. Their unresolved despair is the honest cost of the story.
 
@@ -102,11 +102,11 @@ The primary antagonistic force is **the movement leader from Book Two**, now bro
 
 *(Full details: characters/antagonists.md, characters/movement-leader.md)*
 
-## The Patron's Redemption
-The patron adapts. She recognizes that her institutional framework is ending, and when Ash's building projects prove viable, she throws her weight behind them. Her organizational brilliance redirected from control to enabling transition. She becomes an ally — not by changing who she is, but by finally letting go of the wrong framework.
+## Dorenne's Redemption
+Dorenne adapts. She recognizes that her institutional framework is ending, and when Ash's building projects prove viable, she throws her weight behind them. Her organizational brilliance redirected from control to enabling transition. She becomes an ally — not by changing who she is, but by finally letting go of the wrong framework.
 
 ## Decided Questions
-- **The patron's resolution:** Redemption — she adapts, backs Ash's projects ✓
+- **Dorenne's resolution:** Redemption — she adapts, backs Ash's projects ✓
 - **The movement leader's resolution:** Remains broken; given a community that fails; the cost of the story ✓
 - **The mentor's reveal:** Full-power channeling in a crisis, recontextualizing his lifelong choice and the efficiency technique ✓
 - **The sister's resolution:** Ash helps her through the transition using his pre-Wellspring wisdom ✓

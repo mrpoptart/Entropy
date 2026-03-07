@@ -40,7 +40,7 @@ The primary antagonistic force is **the Levelers** — a generational movement o
 - Their diagnosis is correct (inequality is real, the powerful are hoarding) but their prescription fails (redistribution of a finite, declining resource doesn't build anything that works after magic is gone)
 - Led by **the movement leader** — a peer of Ash's age, from a weaker-trickle background, brilliant and charismatic. Someone Ash meets, genuinely respects, and ultimately breaks with.
 - Ash's relationship with the movement: initial sympathy → growing discomfort → painful public break when methods escalate
-- The patron represents the establishment position against the Levelers' populist energy — Ash is caught between institutional control and revolutionary force, rejecting both
+- Dorenne represents the establishment position against the Levelers' populist energy — Ash is caught between institutional control and revolutionary force, rejecting both
 - Political and social upheaval as the decline accelerates and the movement gains power
 - Ash being viewed as a hypocrite — the most powerful person alive, asking the powerless to be patient
 
@@ -52,7 +52,7 @@ The primary antagonistic force is **the Levelers** — a generational movement o
 
 Ash returns to the workshop. He's learned from Book One that spectacle wastes power. He and the mentor design a plan: retrofit a failing district — one of the young/poor neighborhoods devastated by the earthquake — into a proof-of-concept for post-magic life. Mechanical water systems. Non-magical heating. Cooperative maintenance that doesn't depend on individual trickle strength. Wellspring power used to BUILD, not to maintain.
 
-The patron wants him back — managing post-earthquake reconstruction, she offers a formal partnership. He turns it down but needs her institutional access. She gives him the failing district because it costs her little and lets her claim credit.
+Dorenne wants him back — managing post-earthquake reconstruction, she offers a formal partnership. He turns it down but needs her institutional access. She gives him the failing district because it costs her little and lets her claim credit.
 
 The proof-of-concept takes shape. District workers are trained. The mentor's decades of tinkering become blueprints. Ash is building rather than maintaining or performing for the first time. It starts working.
 
@@ -68,7 +68,7 @@ The proof-of-concept starts failing. Not dramatically — grindingly. Mechanical
 
 The sister's trickle drops noticeably. She can't maintain her professional standards. She snaps at Ash during a family dinner — the first crack in the competence shell.
 
-The Levelers gain genuine political power. Ash is caught between agreement with their goals and recognition that their methods won't build anything lasting. The patron wants him to oppose them. He refuses.
+The Levelers gain genuine political power. Ash is caught between agreement with their goals and recognition that their methods won't build anything lasting. Dorenne wants him to oppose them. He refuses.
 
 The break with the movement leader: the Levelers coerce an elder channeler into forced public expenditure until they collapse. Ash confronts the leader. The leader's response: *"You have an ocean of power. She had a cup. You're asking the drowning to be patient while you decide which lifeboat to build."*
 

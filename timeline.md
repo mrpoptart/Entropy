@@ -39,7 +39,7 @@ The Ancients die. The current Elder generation inherits systems built for people
 - The generational power gap becomes a public political issue rather than a private grievance
 
 ### ~1-3 years before Book One
-- The patron (Director of Infrastructure) takes Ash on as an aide
+- Dorenne (Director of Infrastructure) takes Ash on as an aide
 - Infrastructure maintenance crises accelerate — more buildings on the waiting list, fewer crews to service them
 - Kharren Fault reinforcement teams are smaller, weaker, stretched thinner
 - Food prices in Solathis begin rising noticeably
@@ -49,13 +49,13 @@ The Ancients die. The current Elder generation inherits systems built for people
 
 **Reservoir: 100% → ~50%**
 
-- Ash working as patron's aide, living without magic
+- Ash working as Dorenne's aide, living without magic
 - Infrastructure inspection → cascading structural failure → Wellspring activates
 - Rapid, inefficient learning period (wild expenditure)
-- Patron directs him toward struggling districts
+- Dorenne directs him toward struggling districts
 - **The Earthquake** — major seismic event, partly natural, partly weakened reinforcements. Ash's finest and most expensive hour.
 - **The Math Scene** — he measures what's left. ~50% gone in weeks.
-- Break with the patron. Returns to the tinkerer workshop.
+- Break with Dorenne. Returns to the tinkerer workshop.
 
 ## Book Two Timeline
 *Roughly one year. See book-two/plan.md for detailed plot beats.*
@@ -82,7 +82,7 @@ The Ancients die. The current Elder generation inherits systems built for people
 - Scaling the building model — connecting districts and communities
 - Mentor's networks become the circulatory system of transition
 - Movement leader's descent into articulate despair
-- Patron at a crossroads as institutions crumble
+- Dorenne at a crossroads as institutions crumble
 - Letting go of control — watching imperfect implementation
 - Movement leader takes a community; Ash lets them try
 - Mentor's revelation — full elder-generation power, decades of mastered efficiency
@@ -90,5 +90,5 @@ The Ancients die. The current Elder generation inherits systems built for people
 - The tipping-point project (specific nature TBD)
 - The final expenditure — reservoir reaches 0
 - Movement leader's community fails; Ash helps, now ordinary
-- Patron's redemption — throws institutional weight behind transition
+- Dorenne's redemption — throws institutional weight behind transition
 - Epilogue: ordinary life, at peace, in the world he built

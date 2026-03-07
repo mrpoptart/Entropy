@@ -34,7 +34,7 @@ He still uses his trickle. He's not a purist or an ascetic. He heats his worksho
 ### The Altruism Underneath
 What makes the mentor's choice more than pragmatic foresight is what he did with his *position*. He didn't just stop relying on magic — he walked away from the power and influence his trickle would have given him. In a world where magical strength is literally political capital, he is one of the wealthiest people in the room and he lives like a pauper. Not out of self-denial, but out of a genuine belief that the world needs people building the future more than it needs another powerful person maintaining the present.
 
-He set up his workshop in a poor district, not a comfortable elder neighborhood. He teaches anyone who shows up. He shares what he's learned freely. He could be sitting on a council, managing budgets, directing labor — the patron's world. Instead he's elbow-deep in grease, showing a teenager how a lever works.
+He set up his workshop in a poor district, not a comfortable elder neighborhood. He teaches anyone who shows up. He shares what he's learned freely. He could be sitting on a council, managing budgets, directing labor — Dorenne's world. Instead he's elbow-deep in grease, showing a teenager how a lever works.
 
 This is not humility — he's too self-aware for that. It's a moral conviction so deeply held that it doesn't need to announce itself. He believes that hoarding capability — magical or otherwise — in a declining world is a form of cruelty. That the people with the most should be building ladders, not walls. He would never say any of this out loud. He just lives it.
 
@@ -83,7 +83,7 @@ He doesn't celebrate. He doesn't mourn. He asks Ash how it feels and then asks h
 
 **He is the first person to treat the Wellspring as what it actually is: a resource management problem.** Not a miracle, not a curse, not an identity — a finite reservoir that requires strategy. This is jarring for Ash, who wants someone to share the wonder with, and grounding, because it's the first honest response he gets.
 
-As Ash drifts from the workshop — intoxicated by power, pulled into the patron's orbit, busy being extraordinary — the mentor doesn't chase him. He doesn't lecture or guilt-trip. He keeps the workbench clear. He continues the work. He is there when Ash comes back, and he treats the return as unremarkable, because to him it was inevitable.
+As Ash drifts from the workshop — intoxicated by power, pulled into Dorenne's orbit, busy being extraordinary — the mentor doesn't chase him. He doesn't lecture or guilt-trip. He keeps the workbench clear. He continues the work. He is there when Ash comes back, and he treats the return as unremarkable, because to him it was inevitable.
 
 When Ash finally does the math and realizes the reservoir is finite, the mentor is the person he goes to. Not because the mentor has answers about magic — he doesn't — but because the mentor is the person who has spent thirty years thinking about what you do when the resource runs out.
 
@@ -112,7 +112,7 @@ He represents **stewardship over heroism** — he didn't save anyone dramaticall
 
 He is the **courage of ordinary life** made flesh. He chose to be ordinary when he could have been powerful, and he's at peace with that choice. Ash's entire journey is, in a sense, a journey toward becoming the kind of person the mentor already is.
 
-He is the **thematic opposite of the patron.** Both are powerful, both care about the city's future. The patron uses her power to maintain systems from the top. The mentor gave up his position to build alternatives from the bottom. The patron sees people as functions; the mentor sees people as people. They represent two fundamentally different answers to the question: *What do you owe the world when you have more than others?*
+He is the **thematic opposite of Dorenne.** Both are powerful, both care about the city's future. Dorenne uses her power to maintain systems from the top. The mentor gave up his position to build alternatives from the bottom. Dorenne sees people as functions; the mentor sees people as people. They represent two fundamentally different answers to the question: *What do you owe the world when you have more than others?*
 
 He also embodies the **technologist** political faction — but without the ideological fervor. He's not anti-magic. He's pro-survival. He uses magic when it's practical and builds alternatives because he knows it won't always be there.
 
@@ -136,7 +136,7 @@ He also embodies the **technologist** political faction — but without the ideo
 - Does he live through the entire trilogy, or does he die before the end?
 - What is the specific formative experience that shaped his choice?
 - Does he have a personal connection to a historical Wellspring — institutional memory, family stories, old records?
-- How does he relate to the patron? Do they know each other? Are they foils? (They should be — they represent opposite answers to the same question about power and obligation.)
+- How does he relate to Dorenne? Do they know each other? Are they foils? (They should be — they represent opposite answers to the same question about power and obligation.)
 - What is his relationship to Ash's family? Do the parents know him? Trust him?
 - What is his workshop's role in Book Three — does it become a hub, a school, a symbol?
 - **When is the Yoda moment?** Where in the trilogy does he reveal the full scope of his channeling ability? What forces his hand? How does Ash react — and how does it change Ash's understanding of the choices the mentor made?

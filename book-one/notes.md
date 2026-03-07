@@ -8,7 +8,7 @@ The mentor's question — "How much did that cost you? Do you know?" — needs a
 
 ### Chapter 6 — Needs its own emotional texture
 
-Chapters 5 and 6 risk feeling too procedural back-to-back — two institutional scenes (testing room → press conference) where Ash stands in a room while institutions process him. Ch 5 works because the comedy of breaking instruments gives it personality. Ch 6 needs a stronger internal beat beyond the friend's visit at the end. Consider: the moment Ash realizes the patron is speaking *about* him in third person while he's standing right there. The feeling of being translated into a resource before he's even learned what he is. That gives Ch 6 its own texture — clinical (5) vs. political/dehumanizing (6) — instead of just being "Ch 5 but public."
+Chapters 5 and 6 risk feeling too procedural back-to-back — two institutional scenes (testing room → press conference) where Ash stands in a room while institutions process him. Ch 5 works because the comedy of breaking instruments gives it personality. Ch 6 needs a stronger internal beat beyond the friend's visit at the end. Consider: the moment Ash realizes Dorenne is speaking *about* him in third person while he's standing right there. The feeling of being translated into a resource before he's even learned what he is. That gives Ch 6 its own texture — clinical (5) vs. political/dehumanizing (6) — instead of just being "Ch 5 but public."
 
 ### Overall Chapter 5–12 Tonal Sequence (confirmed working)
 

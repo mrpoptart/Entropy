@@ -58,7 +58,7 @@ When Ash becomes a Wellspring, her reaction moves through distinct phases:
 ## Her Arc Across the Trilogy
 
 ### Book One
-The patron is the gravitational center of the external conflict. Not through dramatic confrontation, but through the slow tightening of expectations. She creates opportunities for Ash to use his power — opportunities that are genuinely useful, that help real people, and that also happen to serve her institutional agenda and political position.
+Dorenne is the gravitational center of the external conflict. Not through dramatic confrontation, but through the slow tightening of expectations. She creates opportunities for Ash to use his power — opportunities that are genuinely useful, that help real people, and that also happen to serve her institutional agenda and political position.
 
 Ash is grateful at first. She's helping him make a difference. She understands the systems he doesn't. It feels like partnership.
 

@@ -58,7 +58,7 @@ For Ash — especially in Book One, when he's drunk on the Wellspring — she's 
 This is, of course, exactly wrong. Her world is the world he'll return to. Her life is the kind of life he'll need to learn to want again. She was always the destination — he just couldn't see it while he was flying.
 
 ### The Truth-Teller
-She knew him before. She knew the boy who flinched when someone channeled near him, the teenager who made jokes to cover the hurt, the young man who was so grateful for the patron's attention that he couldn't see the strings. She has a version of him stored in her memory that the Wellspring can't overwrite, and she's not going to pretend it doesn't exist.
+She knew him before. She knew the boy who flinched when someone channeled near him, the teenager who made jokes to cover the hurt, the young man who was so grateful for Dorenne's attention that he couldn't see the strings. She has a version of him stored in her memory that the Wellspring can't overwrite, and she's not going to pretend it doesn't exist.
 
 When he starts defining himself by the power — when he starts talking about what he *can do* instead of who he *is* — she's the person who says, plainly and without cruelty: *That's not you. I know you. That's the Wellspring talking.*
 
@@ -73,7 +73,7 @@ She's present in the early chapters — part of the texture of Ash's life before
 
 After the Wellspring activates, she's one of the first people he wants to tell, and the conversation is the first sign that something is wrong. She's glad for him, but she doesn't perform the awe he's getting from everyone else. She asks practical questions. She's concerned. He reads this as her not understanding, not sharing his joy. The gap between them — which used to be about magic — becomes about perspective.
 
-As he's drawn into the patron's orbit and the intoxication of power, she fades from the narrative. Not dramatically — he just stops visiting. Stops answering messages. The friendship that required effort now requires effort he's not willing to give when the whole world is offering him easier connections.
+As he's drawn into Dorenne's orbit and the intoxication of power, she fades from the narrative. Not dramatically — he just stops visiting. Stops answering messages. The friendship that required effort now requires effort he's not willing to give when the whole world is offering him easier connections.
 
 She appears late in Book One, if at all, as a brief, uncomfortable encounter — they run into each other, or he seeks her out in a rare moment of doubt. The conversation is stilted. They both feel the distance and neither knows how to close it.
 
@@ -82,7 +82,7 @@ The reconnection. Ash, humbled by failed attempts at forced change and increasin
 
 The reconnection is not easy. She's had time to be hurt, time to build walls, time to get used to his absence. She doesn't fold back into warmth immediately. She's wary. She tests whether this is real or whether he's just having a bad week and will disappear again when the power makes him feel important.
 
-But she's also the person who can tell him the truth. The world is fracturing around the decline, and everyone is lying to him — the patron about what she wants, the public about what they expect, the political factions about what they need. The childhood friend doesn't lie. She tells him what his transformation looked like from the outside: *You became someone else. I watched you leave. I didn't know if you were coming back.*
+But she's also the person who can tell him the truth. The world is fracturing around the decline, and everyone is lying to him — Dorenne about what she wants, the public about what they expect, the political factions about what they need. The childhood friend doesn't lie. She tells him what his transformation looked like from the outside: *You became someone else. I watched you leave. I didn't know if you were coming back.*
 
 This conversation is one of the emotional anchors of Book Two. It forces Ash to confront what the power cost him — not in reservoir, but in relationships. In the ordinary human connections that he spent his whole pre-Wellspring life building and his Wellspring life discarding.
 
@@ -109,7 +109,7 @@ She embodies **the dignity of ordinary life** — the central destination of the
 
 She represents **the cost of power** — not the cost to the powerful, but the cost to the people around them. Ash's transformation doesn't just change him. It changes every relationship he has. She is the clearest measure of that collateral damage because she had the least to gain and the most to lose.
 
-She is **the anti-patron.** The patron sees Ash as a function, a resource, a political asset wrapped in a person. The childhood friend sees Ash as a person — specifically, the *same person* he was before the power. The patron wants to direct the Wellspring. The friend wants her friend back. These two forces pull Ash in opposite directions throughout the story.
+She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a political asset wrapped in a person. The childhood friend sees Ash as a person — specifically, the *same person* he was before the power. Dorenne wants to direct the Wellspring. The friend wants her friend back. These two forces pull Ash in opposite directions throughout the story.
 
 ## Contradictions to Preserve
 - She's practical and unsentimental, AND she kept his friendship alive for years when it would have been easier to let it go
