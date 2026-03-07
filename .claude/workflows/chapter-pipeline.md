@@ -38,7 +38,7 @@ Once the author selects a direction:
 
 ### 3. Run Review Agents
 
-Run all 6 review agents on the chosen draft. Each agent reads the draft and the relevant source files, then produces feedback.
+Run all 7 review agents on the chosen draft. Each agent reads the draft and the relevant source files, then produces feedback.
 
 Invoke in this order (each is independent):
 
@@ -46,8 +46,9 @@ Invoke in this order (each is independent):
 2. **✍️ Voice Editor** — Style guide compliance
 3. **🌍 World Keeper** — Worldbuilding and magic accuracy
 4. **🏗️ Story Architect** — Structure and pacing
-5. **💡 Thematic Compass** — Thematic resonance
-6. **🔗 Continuity Tracker** — Facts and cross-chapter consistency
+5. **⏳ Pace Keeper** — Growth realism and show-vs-tell
+6. **💡 Thematic Compass** — Thematic resonance
+7. **🔗 Continuity Tracker** — Facts and cross-chapter consistency
 
 ### 4. Compile Feedback
 

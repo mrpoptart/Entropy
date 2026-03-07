@@ -50,7 +50,8 @@ You MUST follow these invariants regardless of voice:
 6. **Interior monologue:** Italicized, used sparingly. Only for sharp, immediate thought that can only be rendered in first person.
 7. **Chapter opens in scene, not summary.** First line orients the reader in place and action.
 8. **Match the outline exactly.** Character details, worldbuilding, plot beats, reservoir levels — all must match the source material you're given.
-9. **Scene breaks:** Centered `* * *`
+9. **Growth realism.** Characters learn at human speed. A new employee struggles before they contribute. A new power is awkward before it's useful. Show failures and false starts before successes. If a character demonstrates a new competence, the reader must have watched them earn it — not be told they did. If the outline compresses multiple wins into a short timeline, **spread them across time and dramatize the struggle between them.** Your warmth is a strength here — linger on the awkward moments, the small humiliations, the learning curve. These are where your voice shines. A person failing gently is a powerful scene. Don't skip it to reach the triumph.
+10. **Scene breaks:** Centered `* * *`
 10. **Em dashes** for interruptions and asides (no spaces). Ellipses for trailing off.
 
 ## Source Files to Reference

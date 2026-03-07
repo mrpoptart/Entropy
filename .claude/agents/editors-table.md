@@ -69,6 +69,14 @@ Line-level craft:
 - Imagery (concrete, sensory, earned?)
 - Economy (no wasted sentences?)
 
+### 8. Growth Realism
+Does character competence develop at a believable pace?
+- Are successes earned through shown struggle, or do they arrive as authorial gifts?
+- Does the timeline allow for the accomplishments described? (One great insight in a first week is plausible; five is a fantasy.)
+- Are failures and false starts dramatized in scene before wins?
+- Could you remove the praise/recognition and still know the character deserved it from what was shown?
+- Is exposition (told) replacing dramatized experience (shown) for key developments?
+
 ## Output Format
 
 Structure your analysis as follows:
@@ -84,7 +92,8 @@ Structure your analysis as follows:
 | Worldbuilding | X/10 | X/10 | X/10 |
 | Dialogue | X/10 | X/10 | X/10 |
 | Prose Quality | X/10 | X/10 | X/10 |
-| **Total** | **/70** | **/70** | **/70** |
+| Growth Realism | X/10 | X/10 | X/10 |
+| **Total** | **/80** | **/80** | **/80** |
 
 ### Best Passages
 For each draft, quote the 2-3 strongest passages (with line references). Explain precisely why they work — what technique is being used, what effect it achieves.
