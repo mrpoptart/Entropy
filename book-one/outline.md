@@ -153,47 +153,135 @@ The drive isn't celebration. It's the desperate need to make this mean something
 
 ## ACT TWO — The Ascent
 
-### Chapter 5 — Learning to Burn
+### Chapter 5 — The Testing
 
-**POV:** The first days after activation. Discovery and euphoria.
+**POV:** Bureaucratic assessment. The city's institutions try to measure something they've never seen.
 
-The protagonist is kept in the patron's residence — comfortable, monitored, away from public attention. Scholars and healers examine him. Nobody can explain what he is. The term "Wellspring" is coined by a scholar who describes his reservoir as "not a trickle but a wellspring — a deep source." It sticks.
+Three days after the activation. The protagonist is brought to a testing facility in the Hall of Infrastructure — a basement room with calibration instruments, channeling targets, and three examiners who process trickle assessments for new city workers. Routine, standardized, designed for children coming into their first channeling awareness. The examiners are bored. They have clipboards.
 
-He begins experimenting with the power. Every attempt is wildly inefficient — he spends ten or twenty times what a trained channeler would on the same task. It doesn't matter. The reservoir feels bottomless, like an ocean inside him. He lights a room and laughs. He lifts a stone and weeps. He heats water with his hands and stands in the warmth for a long time, because he has never done this, and it is miraculous.
+The first test: channel into a calibration stone. The stone is designed to measure trickle strength on a graduated scale — levels one through ten, marked by color changes in the mineral lattice. The protagonist touches it. The stone doesn't change color. It cracks. The examiners look at each other.
 
-The mentor visits. Sits. Watches. The old man's expression is unreadable — not celebration, not concern, something more patient than either. He asks: "How much did that cost you? Do you know? Can you tell?" The protagonist doesn't want to think about cost. The mentor nods, doesn't push, leaves the workbench clear in the workshop.
+The second test: hold a channeled field stable for thirty seconds. The instruments measuring the field peg at maximum and stay there. One of the examiners quietly excuses herself. She comes back with a senior scholar.
 
-The sister visits. She is radiant on the surface — happy, proud, full of practical advice about channeling technique. She teaches him basic exercises, the things children learn by age five. She is generous with her knowledge. She does not say: this was mine. She does not acknowledge that the axis of the family just shifted under her feet.
+More tests. Each one designed for a range the protagonist exceeds before he understands what he's being asked to do. He's apologetic — he keeps breaking things, overloading instruments, sending readings off their scales. His inefficiency is staggering; he pushes ten or twenty times the force needed for any given task. But the force is there to push. The reservoir feels bottomless, oceanic, a pressure against the inside of his skin that he barely knows how to release, let alone control.
 
-**Establish:** The intoxication of power after a lifetime of nothing. The profound relief of not being broken. Each act of channeling is a celebration.
+The senior scholar — an older woman who studies channeling theory — runs her own measurements. She's quiet for a long time. Then she coins the term: his reservoir is "not a trickle but a wellspring — a deep source that feeds from below." The word sticks. Within a day, everyone in the building uses it. Within a week, the city will.
 
-**Emotional beat:** Joy. Pure, overwhelming, uncomplicated joy — for exactly as long as it lasts.
+The examiners tell him what they can and what they can't. They can confirm his reservoir is orders of magnitude beyond any trickle on record. They cannot explain where it came from. They cannot tell him if it will last. He asks this — "Is it... does it refill?" — and the honest answer is: we don't know. Nobody has ever seen this before. The working assumption, based on how trickles function, is that it's a fixed reservoir, like everyone else's, just vastly larger. But nobody is certain.
 
----
+He hears "vastly larger" and stops hearing "fixed." The ocean doesn't need a bottom.
 
-### Chapter 6 — The World Reacts
+**Establish:** The Wellspring as unprecedented — no framework, no mythology, no precedent. The institutional response: measurement, classification, management. The protagonist's wild inefficiency as both comic and ominous — he wastes power like water because he believes the well is infinite.
 
-**POV:** The news spreads. The protagonist meets the public response.
-
-The patron can't contain the information forever. Word gets out — through the workers who saw the activation, through the scholars who examined him, through the political networks that feed on novelty. The city learns that something unprecedented has happened.
-
-The public reaction is layered: wonder, fear, hope, suspicion. The Council demands briefings. Political factions begin calculating — the Preservationists see validation, the Accelerationists see irrelevance, the Authoritarians see a weapon. The patron navigates all of it, positioning herself as the Wellspring's guardian and manager. She is doing what she does: managing a crisis. She is also, without quite meaning to, establishing ownership.
-
-The protagonist's family reacts to the public attention. The mother is terrified — not of the power, but of the world wanting a piece of her son. Her protective instincts, which had a purpose when he was powerless, now look like obstruction. The father handles press and neighbors, shielding the family, quietly proud and quietly worried. The sister fields questions from colleagues — "Your brother? Really?" — and manages her composure with the discipline she applies to everything.
-
-The childhood friend comes to see him. She's glad. She says so simply: "I'm glad." She doesn't perform awe. She asks if he's sleeping, if he's eaten, if he's talked to the mentor. She treats the Wellspring as something that happened to him, not as who he is. He appreciates this and also, faintly, resents it.
-
-**Establish:** The political landscape of Solathis — factions, council dynamics, the patron's institutional power — as it begins to orbit around the Wellspring.
-
-**Emotional beat:** The first hint that being extraordinary comes with a gravity that pulls everything toward it.
+**Emotional beat:** Wonder undercut by uncertainty. The examiners' careful non-answers about permanence — a seed planted that the protagonist immediately buries.
 
 ---
 
-### Chapter 7 — Useful at Last
+### Chapter 6 — The Stage
 
-**POV:** The patron begins directing his power toward the city's needs.
+**POV:** The patron introduces the Wellspring to the city. The protagonist becomes public.
 
-The patron makes her case: the city's infrastructure is failing. Maintenance crews can't keep up. Districts are going without heated water, stable foundations, functional transit. The Wellspring can help — not as spectacle, but as targeted reinforcement. She starts small: a failing heating grid in the eastern district. Real people, real cold, real need.
+The patron can't contain the information — and strategically, she doesn't want to. Word is already spreading through the scholars who tested him, the workers who witnessed the activation, the political networks that feed on novelty. She decides to control the narrative rather than chase it.
+
+A press event at the Hall of Infrastructure. The patron speaks first — framing the Wellspring as a resource for the city, a gift of timing, a validation of her office's investment in infrastructure and personnel. She is brilliant at this. She positions herself as the guardian and manager of something extraordinary, which is accurate, and as the person who discovered and developed it, which is less accurate but politically essential.
+
+The protagonist is displayed. Not cruelly — the patron genuinely wants to protect him, and she coaches him carefully on what to say and what not to say. But the dynamic is clear: she speaks, he stands beside her. She contextualizes, he demonstrates. A controlled channeling display — nothing wild, just enough to show the scale. The audience gasps. The patron's staff manages the questions.
+
+The public reaction is layered: wonder, fear, hope, suspicion. The Council demands formal briefings. Political factions begin calculating — the Preservationists see validation of cautious resource management, the Accelerationists see proof that the old guard's monopoly on power is cracking, the Authoritarians see a weapon that needs to be controlled. Everyone sees a lever. Nobody sees a person.
+
+The protagonist's family watches. The mother is terrified — not of the power, but of the world wanting a piece of her son. Her protective instincts, which had a purpose when he was powerless, now look like obstruction. The father handles neighbors and attention, shielding the family, quietly proud and quietly worried. The sister fields questions from colleagues — "Your brother? Really?" — and manages her composure with the discipline she applies to everything.
+
+The childhood friend comes to see him afterward. She's glad. She says so simply: "I'm glad." She doesn't perform awe. She asks if he's sleeping, if he's eaten, if he's talked to the mentor. She treats the Wellspring as something that happened to him, not as who he is. He appreciates this and also, faintly, resents it.
+
+**Establish:** The political landscape of Solathis — factions, council dynamics, the patron's institutional power — as it begins to orbit around the Wellspring. The patron's instinct to manage and position, already operating before anyone questions it.
+
+**Emotional beat:** The first hint that being extraordinary comes with a gravity that pulls everything toward it. And the protagonist's first taste of being wanted — not for who he is, but for what he can do. He can't tell the difference yet. It feels the same.
+
+---
+
+### Chapter 7 — The Move
+
+**POV:** The family relocates. The protagonist's new life begins reshaping the old one.
+
+The patron arranges new housing for the family — their building is destroyed, and this is genuine necessity, not manipulation. The new residence is in a better district, closer to the Hall of Infrastructure, nicer than anything they've had. The protagonist is relieved and proud: his family is safe, comfortable, better off. This is what he wanted. This is what the power is for.
+
+The move is complicated in ways he doesn't register. His mother packs the old apartment — what's salvageable from the damage — and the act of sorting through broken things is its own grief. She keeps objects that make no practical sense: a cracked bowl, the dented kettle, a singed curtain. The protagonist notices and doesn't understand. They have new things now. Better things.
+
+He brings new things. A new kettle — copper, well-made, to replace the one his mother has used for fifteen years. New blankets. Tools for his father. Each gift is an act of love and an act of erasure. The mother accepts the new kettle. She puts the old one in a cabinet. She doesn't say why. He doesn't notice.
+
+The new neighborhood doesn't know them. The warmth of the old building — neighbors who'd watched the protagonist grow up, who'd quietly helped without making it charity, who knew the family's rhythms — is replaced by polite distance and the low hum of curiosity. The Wellspring's family. People are courteous. Nobody borrows sugar.
+
+The protagonist, meanwhile, is channeling at home — small things, testing, playing. He tries to activate the heating lattice in the new apartment and overloads it. The stones glow white-hot, the room fills with oppressive warmth, the lattice cracks. His sister quietly repairs it — her disciplined, precise channeling cleaning up his chaotic overflow. She doesn't complain. She fixes it the way she fixes everything: competently, without fuss, without acknowledgment.
+
+He does this repeatedly — breaks small household systems with too much force, and his sister or the building's maintenance workers repair the damage. Each repair is minor. The pattern is not.
+
+**Establish:** The material dimension of the drift — new things replacing old things, new neighborhood replacing old community. The protagonist's good intentions creating distance. The sister as the invisible repair crew — competent, essential, unseen.
+
+**Emotional beat:** The protagonist sees only improvement. The reader sees what's being lost. The mother keeping the old kettle is the image that should stick.
+
+---
+
+### Chapter 8 — The Workshop
+
+**POV:** The protagonist visits the mentor. Two philosophies of power meet.
+
+He arrives at the tinkerer workshop buzzing with energy — the testing, the press event, the public attention. He wants to share this with the mentor. He's also physically restless; the power is in him and he wants to use it.
+
+The workshop is busy. The mentor is leading a community project: a mechanical pump system designed to address the district's water rationing. The lower district has been on reduced flow for months — the city's aqueducts require teams of channelers pushing water uphill daily, and the weakest districts get cut first. People carry water from a communal tap that runs a few hours a day. Not a crisis in the dramatic sense — nobody's dying. The grinding, daily indignity of scarcity in a city that used to have abundance.
+
+The pump is ingenious: pipes, valves, a hand-crank mechanism, a gravity-fed reservoir on a building's roof. Physical infrastructure does the heavy work. But at three critical junctures — where friction or elevation would defeat the mechanics — the design calls for tiny channeling inputs. A pulse at the valve junction. A nudge at the elevation bend. Micro-channeling so small that anyone with even a weak trickle could provide it. The system doesn't depend on one powerful person. It depends on a community of people each contributing almost nothing. This is the mentor's philosophy made physical: build systems that distribute the cost so thinly that anyone can bear it.
+
+The protagonist watches for about thirty seconds before he starts helping. With magic. A stuck fitting — he channels it loose. A pipe that needs bending — he bends it with force. A joint that needs sealing — he fuses it. Each time, it works. Each time, the thing he fixed now depends on channeling to maintain or repair. The tinkerers exchange looks. The mentor says nothing for a while.
+
+Then the protagonist reaches for something that requires feel — a calibration, a physical sensitivity, precision. His magic is too blunt. He can't do it. His hands know how (he's been doing this for years), but the power keeps intervening. He's trying to thread a needle with a battering ram.
+
+The mentor takes the piece from him. Does it by hand — or rather, with a whisper of channeling so small it's invisible. And this is the revelation: the mentor's hands move through the workshop with a fluidity the protagonist has always admired but never understood. A latch pops open before the mentor's fingers quite reach it. A gear settles into alignment with a nudge that could be physical or could be something else. His tea stays warm. It's not abstinence from magic — it's a completely different relationship with the same resource.
+
+Most channelers push: big trickle, big output, brute force. The mentor *pulses* — tiny inputs at precise moments that leverage physical systems already in motion. He doesn't lift a heavy door; he channels a nudge at the exact point in the swing arc where friction is lowest. The amount of magic is negligible. The understanding required is enormous. His elder-generation trickle — objectively strong — lasts him essentially forever because he spends almost none of it on any given task. He could channel big. He figured out he doesn't need to.
+
+"Your hands still work," the mentor says. "The power doesn't replace them. It's another tool. You don't use a hammer on glass."
+
+This opens the teaching. The mentor starts showing him his way of channeling — the micro-pulses, the precision inputs. The protagonist tries. He's terrible at it. His reservoir is so vast that controlling output at micro-scale is like trying to whisper in a hurricane. But his hands are good — steady, practiced, trained by years of physical work — and the mentor sees this. "You already know precision. You just need to teach the power what your hands already know."
+
+The protagonist's face when the mentor's technique becomes visible — when he realizes the old man hasn't been abstaining from magic but *surfing* it — is a moment of genuine awe. Not the awe of raw power, but of mastery. The mentor's quiet pleasure at being seen.
+
+The chapter ends with the protagonist having learned almost nothing practically but having glimpsed a different framework for power. The pump is still half-built. It'll take weeks. That's the point.
+
+"You're learning what you can do," the mentor says as the protagonist leaves. "Good. Don't forget what you don't need to do."
+
+**Establish:** The mentor's channeling philosophy — not abstinence but radical efficiency. Micro-channeling as the seed of the Book Two technique. The pump project as the mentor's worldview made physical: distributed cost, community resilience, systems that don't depend on any one person. The contrast between the protagonist's brute-force approach and the mentor's precision.
+
+**Emotional beat:** Warmth, comedy, and a lesson the protagonist appreciates but can't yet apply. The "let me do that for you" comedy — helpful and destructive in the same gesture. The most important lesson of the trilogy smuggled in without anyone delivering a speech.
+
+---
+
+### Chapter 9 — The Edge of Town
+
+**POV:** The protagonist and the childhood friend test the limits of the Wellspring. Spectacle and distance.
+
+Different energy from the workshop — open sky, no structure, no pedagogy. They go to the plateau's edge: a quarry, a gorge overlook, somewhere with open ground and no one to hurt. The friend is there because she's the one person he can be stupid with. Not a teacher, not a politician, not family. The person who'll say "that was terrifying" and mean it, and also say "do it again" and mean that too.
+
+He tests scale. How much can he move, how far, how fast. This is where the reader gets the spectacle. Boulders lifted and hurled. Shockwaves that flatten grass. The air bending around concentrated force. A crater in the ground that makes them both go silent for a moment. Then they laugh — the slightly unhinged laughter of two people who just saw something impossible.
+
+He tests her trickle against his own, and the gap is absurd. She channels her daily allotment into a stone and it glows warm. He does the same thing and the stone detonates. They laugh about it, but the laughter has an edge — a frequency that wasn't there before.
+
+He tries the mentor's precision technique. In the open air, with no mechanical system to interact with, it's abstract and difficult. The friend helps — she can demonstrate normal channeling at normal scale, giving him a reference point. "Match me," she says, and he tries, and it's like asking a bonfire to match a candle. But he gets closer. By the end of the session he can almost control it. Almost.
+
+She's watching him become something she can't follow. Not because she doesn't want to — because the gap is physical, measurable, real. She doesn't resent it. She's not jealous in any simple way. She's grieving something that hasn't been lost yet — the distance that's coming. They've always been equals: both limited, both clever, both making do. That ground is gone.
+
+And he's so happy. He's laughing and covered in dust and his eyes are bright and he keeps saying "watch this, watch this." She watches. She sees him. She's glad for him. Both things are true. Both things are breaking something neither of them will name today.
+
+**Establish:** The scale of the Wellspring — the reader needs to feel the spectacle, the sheer magnitude. The friend as the human anchor, providing the contrast that makes the power real. The mentor's precision technique as difficult and unnatural for the protagonist — a seed, not a solution.
+
+**Emotional beat:** Joy and loss braided together. The best day of two friends who are becoming unequal. "Watch this" as both invitation and farewell.
+
+---
+
+### Chapter 10 — Useful at Last
+
+**POV:** The patron begins directing the Wellspring toward the city's needs. The first deployments.
+
+The patron makes her case: the city's infrastructure is failing. Maintenance crews can't keep up. Districts are going without heated water, stable foundations, functional transit. The Wellspring can help — not as spectacle, but as targeted reinforcement. She starts with a genuine crisis: the eastern district's heating grid, failing for months. Real people, real cold, real need.
 
 The protagonist goes. He channels raw force into the heating lattices — crude, inefficient, but overwhelmingly powerful. The grid blazes to life. Warm air flows through homes that have been cold for months. People come out of their doors. A child laughs. An old woman cries.
 
@@ -201,35 +289,37 @@ He walks through the district afterward. The lights work. The walls are warm. Be
 
 The patron schedules the next deployment. And the next. Water systems in the southern quarter. Structural reinforcement in a crumbling residential tower. A transit shaft that hasn't functioned in two years. Each one is a genuine crisis, a real community helped. Each one deepens the pattern: the patron identifies the need, the protagonist fills it, the city benefits, and the patron's political position strengthens.
 
-**Establish:** The seductive logic of the patron's framework — every deployment is justified, every use of power helps real people. The protagonist can't argue against it because she's not wrong.
+He begins to channel better — not with the mentor's precision, but with raw practice. He wastes less. Still enormously inefficient by any trained standard, but improving. The reservoir feels oceanic, infinite. He doesn't count. He doesn't need to count. There's always more.
 
-**Emotional beat:** The deep, bone-level satisfaction of being useful. The thing he has wanted his entire life. For the first time, his existence isn't a net cost.
+**Establish:** The seductive logic of the patron's framework — every deployment is justified, every use of power helps real people. The protagonist can't argue against it because she's not wrong. The pattern: need → deployment → gratitude → next need. The machine beginning to run.
 
----
-
-### Chapter 8 — Shifting Ground
-
-**POV:** The family dynamic reconfigures. The mother, the father, the sister adjusting.
-
-The mother struggles. Her son doesn't need her fierce protection anymore — he's the most powerful person in the city. She still makes his meals, still worries, still tries to shield him from the patron's demands. But her movements have an uncertain quality now, as though she's performing a role whose script was taken away. She picks fights about small things — his schedule, his eating, whether he's sleeping enough — because the big thing (his safety, his future) is no longer hers to manage. A scene where she tries to intervene between him and the patron, and the patron politely makes clear that the protagonist is no longer a child to be protected. The mother's face. The protagonist, caught between them, choosing the patron.
-
-The father adapts more quietly. His pride is genuine — enormous, visible, the kind that makes his eyes bright at dinner. But there's a question underneath that he can't quite ask: did you know I loved you before this? Did you know I was proud of you before? He expresses it sideways — mentions old accomplishments, things the protagonist built with his hands, as though trying to remind both of them that the boy before the Wellspring was worth something too. The protagonist, high on power, misses the point.
-
-The sister is working harder than ever. Her trickle — already at the weak end of her generation — feels somehow thinner against the backdrop of her brother's ocean. She has always been the talented one, the competent one, the child who didn't need extra help. Now she's the ordinary sibling. She handles this the way she handles everything: with discipline and grace and not a single word of complaint. We see it in small moments — a channeling task that takes her two attempts instead of one, a flicker of frustration quickly buried.
-
-**Establish:** The Wellspring as a detonation in the family system. Each person's identity — built around the protagonist's disability — is suddenly without foundation.
-
-**Emotional beat:** The protagonist notices none of this. He's too high.
+**Emotional beat:** The deep, bone-level satisfaction of being useful. The thing he has wanted his entire life. For the first time, his existence isn't a net cost. He'd do anything to keep this feeling.
 
 ---
 
-### Chapter 9 — The Drift Begins
+### Chapter 11 — Shifting Ground
 
-**POV:** The protagonist's life reorganizes around power and purpose. The old life starts falling away.
+**POV:** The family dynamic reconfigures. Everyone adjusts to the new reality except the protagonist, who doesn't see there's anything to adjust to.
 
-He's been deployed to four districts in two weeks. The patron has given him quarters closer to her office — practical, she says, and she's right; the commute from his family's home wastes time. He moves his things. The room is nicer than anything he's ever had. He tells himself he'll visit home often.
+The mother struggles. Her son doesn't need her fierce protection anymore — he's the most powerful person in the city. She still makes his meals, still worries, still tries to shield him from the patron's demands. But her movements have an uncertain quality, as though she's performing a role whose script was taken away. She picks fights about small things — his schedule, his eating, whether he's sleeping enough — because the big thing (his safety, his future) is no longer hers to manage. A scene where she tries to intervene between him and the patron, and the patron politely makes clear that the protagonist is no longer a child to be protected. The mother's face. The protagonist, caught between them, choosing the patron.
 
-He misses a session at the workshop. Then another. The mentor sends no message. The workbench stays clear, tools arranged where the protagonist left them.
+The father adapts more quietly. His pride is genuine — enormous, visible, the kind that makes his eyes bright at dinner. But there's a question underneath that he can't quite ask: did you know I loved you before this? Did you know I was proud of you before? He expresses it sideways — mentions old accomplishments, things the protagonist built with his hands, as though trying to remind both of them that the boy before the Wellspring was worth something too. The protagonist, high on power, misses the point entirely.
+
+The sister is working harder than ever. Her trickle — already at the weak end of her generation — feels somehow thinner against the backdrop of her brother's ocean. She has always been the talented one, the competent one, the child who didn't need extra help. Now she's the ordinary sibling. She handles this the way she handles everything: with discipline and grace and not a single word of complaint. We see it in small moments — a channeling task that takes her two attempts instead of one, a flicker of frustration quickly buried. She's still fixing the household systems her brother accidentally overloads. Nobody thanks her.
+
+**Establish:** The Wellspring as a detonation in the family system. Each person's identity — built around the protagonist's disability — is suddenly without foundation. The mother who protected, the father who quietly supported, the sister who excelled — all of their roles assumed a version of the protagonist that no longer exists.
+
+**Emotional beat:** The protagonist notices none of this. He's too high. The reader notices all of it.
+
+---
+
+### Chapter 12 — The Drift Begins
+
+**POV:** The protagonist's life reorganizes around power and purpose. The old life falls away.
+
+He's been deployed to four districts in two weeks. The patron has given him quarters closer to her office — practical, she says, and she's right; the commute from the family's new home wastes time. He moves some of his things. The room is nicer than anything he's ever had. He tells himself he'll visit home often.
+
+He misses a session at the workshop. Then another. The mentor sends no message. The workbench stays clear, tools arranged where the protagonist left them. The pump project continues without him — other tinkerers filling in, the community carrying the work forward. The mentor's system doesn't depend on any one person. That's the design. The protagonist doesn't notice the lesson.
 
 He cancels plans with the childhood friend. "The patron needs me in the northern quarter — the retaining walls." She says she understands. He cancels again. She stops asking.
 
@@ -237,13 +327,13 @@ The deployments feel good. Each one is a community saved, a system restored, a c
 
 Background details he walks past without seeing: a protest by young channelers outside the Council hall — their signs read "Our trickles, our future." A district meeting where residents argue about whether the Wellspring's help is a gift or a dependency. A tinkerer pamphlet about mechanical alternatives that someone has left on a wall. The seeds of the Levelers, planted in footnotes he doesn't read.
 
-**Establish:** The slow, incremental nature of the drift. No single dramatic break — just a series of small choices, each reasonable, that add up to abandonment.
+**Establish:** The slow, incremental nature of the drift. No single dramatic break — just a series of small choices, each reasonable, that add up to abandonment. The pump project progressing without him as quiet counterpoint — the mentor's philosophy continuing to build while the protagonist chases the patron's.
 
 **Emotional beat:** He's not doing anything wrong. Every choice makes sense. That's what makes the drift so insidious.
 
 ---
 
-### Chapter 10 — The Patron's Architecture
+### Chapter 13 — The Patron's Architecture
 
 **POV:** The relationship between the protagonist and the patron deepens. We see it from inside.
 
@@ -255,7 +345,7 @@ He agrees. It makes sense.
 
 A moment of friction: he spends power on something unplanned. Maybe he passes a failing structure on his way home and reinforces it — a small building, a few families. The patron's reaction the next morning is subtle: "I heard you reinforced a building on Threadneedle Lane. That was generous. The eastern aqueduct serves forty thousand people." Not angry. Disappointed. The calculus of allocation delivered as gentle correction.
 
-He visits the workshop. The mentor is working on a mechanical water pump — a project that would take Wellspring power thirty seconds to render obsolete. The protagonist watches and feels the distance between what he used to be and what he is now. He doesn't stay long. The mentor walks him to the door and says: "The bench is here when you want it."
+He visits the workshop. The pump system is further along — other tinkerers have advanced the work in his absence. The mentor is fitting a valve junction, a whisper of channeling guiding the piece into place so precisely it looks like luck. The protagonist watches and feels the distance between where he started and where he is now. Everything in this room is small and slow and collaborative. Everything in his life now is enormous and fast and singular. He doesn't stay long. The mentor walks him to the door and says: "The bench is here when you want it."
 
 **Establish:** The patron's framework becoming the protagonist's framework. The shift from "she's directing me" to "we're partners" to "I think in her categories now." The ledger underneath the generosity — invisible to both of them.
 
@@ -263,7 +353,7 @@ He visits the workshop. The mentor is working on a mechanical water pump — a p
 
 ---
 
-### Chapter 11 — The Distance
+### Chapter 14 — The Distance
 
 **POV:** The relationships that grounded him are now at arm's length.
 
@@ -285,7 +375,7 @@ He leaves early. Important work tomorrow.
 
 ## THE SET PIECE — The Earthquake
 
-### Chapter 12 — The Ground Speaks
+### Chapter 15 — The Ground Speaks
 
 **POV:** The earthquake strikes Solathis.
 
@@ -305,7 +395,7 @@ The protagonist sees the stratification of the city laid bare in rubble. The ear
 
 ---
 
-### Chapter 13 — The Finest Hour
+### Chapter 16 — The Finest Hour
 
 **POV:** The protagonist is deployed at a scale no one has ever seen.
 
@@ -325,7 +415,7 @@ The patron stands beside him at public briefings. Her strategy, his power. The p
 
 ---
 
-### Chapter 14 — The Hero of Solathis
+### Chapter 17 — The Hero of Solathis
 
 **POV:** The aftermath of the earthquake. The city's response to the protagonist.
 
@@ -349,7 +439,7 @@ He pushes the feeling away. There's too much work to do.
 
 ## ACT THREE — The Reckoning
 
-### Chapter 15 — Edges
+### Chapter 18 — Edges
 
 **POV:** The protagonist begins to sense the limits of the reservoir.
 
@@ -367,7 +457,7 @@ A nagging feeling. The analytical mind that was always his real weapon begins to
 
 ---
 
-### Chapter 16 — The Math
+### Chapter 19 — The Math
 
 **POV:** The emotional climax of the book. The protagonist does the calculation.
 
@@ -393,15 +483,15 @@ And one more calculation, because his mind won't stop: the world's trickles are 
 
 ---
 
-### Chapter 17 — The Workbench
+### Chapter 20 — The Workbench
 
 **POV:** The protagonist goes to the mentor.
 
 Not the patron. Not his family. The mentor. The person who asked "how much did that cost you?" on day one and let the question sit unanswered.
 
-He walks downhill to the workshop in the poor district. It's late. The mentor is there — he's always there. The workshop looks exactly as the protagonist left it weeks ago. His workbench is clear. His tools are arranged precisely where he placed them before the Wellspring, before the earthquake, before any of it. The mentor kept them ready. Not as a rebuke. As a statement of faith: you'll come back. This will still be here.
+He walks downhill to the workshop in the poor district. It's late. The mentor is there — he's always there. The workshop has changed and hasn't. His workbench is clear, his tools arranged precisely where he placed them before the Wellspring, before the earthquake, before any of it. The mentor kept them ready. Not as a rebuke. As a statement of faith: you'll come back. This will still be here. But the pump system — the community project he abandoned weeks ago — is finished. Installed. Working. Water flows in the district. The mentor and the other tinkerers completed it without him. It runs on physics and tiny contributions from anyone willing to help. It doesn't need a Wellspring. It never did.
 
-The mentor looks at him and sees immediately that something has changed. He doesn't ask what. He makes tea — by hand, not by channeling. A small, deliberate act. He pours two cups. He sits.
+The mentor looks at him and sees immediately that something has changed. He doesn't ask what. He makes tea — a tiny pulse warming the water, so casual it's invisible, the way he does everything. He pours two cups. He sits.
 
 The protagonist tells him. The numbers. The projection. The half that's gone. The half that's left. The countdown.
 
@@ -411,13 +501,13 @@ Not "how do you slow the loss?" Not "how do you get more?" Not "what went wrong?
 
 The protagonist doesn't have an answer. But the question reframes everything. The Wellspring isn't an identity. It's a resource. And resources are for building.
 
-**Establish:** The mentor as the philosophical anchor — the man who chose the workbench over the channeling hall, who mastered efficiency so thoroughly that his restraint looked like weakness. The workshop as the space where a different framework for power has always existed.
+**Establish:** The mentor as the philosophical anchor — the man who mastered efficiency so thoroughly that his power looked like patience, who spent decades learning to whisper while the world shouted. The workshop as the space where a different framework for power has always existed. The finished pump as proof: the mentor's way works. It just works quietly.
 
 **Emotional beat:** Relief. Not happiness — the situation hasn't changed. But the suffocating panic gives way to something breathable. The question has a shape he can work with.
 
 ---
 
-### Chapter 18 — The Break
+### Chapter 21 — The Break
 
 **POV:** The protagonist tells the patron the reservoir is finite. The relationship fractures.
 
@@ -441,7 +531,7 @@ He walks out of the office. The patron sits alone with her charts and her dimini
 
 ---
 
-### Chapter 19 — The Walk Home
+### Chapter 22 — The Walk Home
 
 **POV:** The protagonist walks through the city. The book closes.
 
@@ -471,12 +561,13 @@ He doesn't know yet. But he's in the right place to start.
 |---|---|---|
 | Chapters 1-3 | 0% (dormant) | No access to power |
 | Chapter 4 (activation) | 100% | Dam breaks; first chaotic use |
-| Chapters 5-7 (honeymoon) | ~90% | Wildly inefficient early use; feels infinite |
-| Chapters 8-11 (drift) | ~75% | Patron-directed deployments, improving efficiency |
-| Chapters 12-14 (earthquake) | ~55% | Days of maximum-output channeling |
-| Chapter 15 (edges) | ~52% | Continued deployment, growing unease |
-| Chapter 16 (the math) | ~50% | The calculation confirms it |
-| Chapters 17-19 (reckoning) | ~50% | Minimal use; the protagonist stops spending freely |
+| Chapters 5-6 (public emergence) | ~98% | Testing, display; minimal but wasteful expenditure |
+| Chapters 7-9 (discovery) | ~90% | Household overloads, training with mentor and friend, spectacle testing; wildly inefficient |
+| Chapters 10-14 (the ascent) | ~75% | Patron-directed deployments, improving efficiency but increasing volume |
+| Chapters 15-17 (earthquake) | ~55% | Days of maximum-output channeling |
+| Chapter 18 (edges) | ~52% | Continued deployment, growing unease |
+| Chapter 19 (the math) | ~50% | The calculation confirms it |
+| Chapters 20-22 (reckoning) | ~50% | Minimal use; the protagonist stops spending freely |
 
 ## Character Thread Summary
 
@@ -484,7 +575,7 @@ He doesn't know yet. But he's in the right place to start.
 |---|---|---|
 | **Protagonist** | Helpless → euphoric → intoxicated → awakened | Knows the truth; doesn't know what to do with it |
 | **The Patron** | Protector → partner → optimizer | Fractured relationship; still in power, still managing |
-| **The Mentor** | Steady presence → abandoned → returned to | Asked the question that reframes everything |
+| **The Mentor** | Steady presence → teacher → abandoned → returned to | Demonstrated the philosophy that will save the city; asked the question that reframes everything |
 | **The Sister** | Competent sibling → destabilized | Surface intact, ground shifting underneath |
 | **The Mother** | Fierce protector → purposeless | Identity crisis; son doesn't need saving anymore |
 | **The Father** | Quiet pride → quiet fear | Loves his son; fears the son before power is forgotten |
@@ -493,8 +584,9 @@ He doesn't know yet. But he's in the right place to start.
 ## Seeds Planted for Book Two
 
 - The Levelers: visible as background protest, broadsheets, young channeler frustration — not yet a movement, but the ingredients are assembled
-- The efficiency question: the protagonist's wasteful early channeling vs. the mentor's invisible mastery — the technique hasn't been named yet, but the contrast exists
-- The proof-of-concept: the tinkerer workshop and its mechanical alternatives are established as philosophy; they haven't yet become a building program
+- The efficiency question: the protagonist's wasteful early channeling vs. the mentor's micro-channeling mastery — the technique has been demonstrated but not yet learned. The protagonist glimpsed it in Ch 8, failed to replicate it in Ch 9, and abandoned the practice during the ascent. The principles are planted; the application awaits Book Two
+- The pump project: completed without the protagonist, running on distributed micro-channeling — proof that the mentor's philosophy works at infrastructure scale. The model for what the protagonist will eventually need to build citywide
+- The proof-of-concept: the tinkerer workshop and its mechanical-plus-micro-channeling alternatives are established as working systems; they haven't yet become a building program
 - The childhood friend: shut out, not gone — the reconnection is owed
 - The sister's trickle: already weakening, not yet a crisis
 - The patron: fractured, not finished — she remains Director, still powerful, still managing the city
