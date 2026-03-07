@@ -82,7 +82,7 @@ The reconnection. Ash, humbled by failed attempts at forced change and increasin
 
 The reconnection is not easy. She's had time to be hurt, time to build walls, time to get used to his absence. She doesn't fold back into warmth immediately. She's wary. She tests whether this is real or whether he's just having a bad week and will disappear again when the power makes him feel important.
 
-But she's also the person who can tell him the truth. The world is fracturing around the decline, and everyone is lying to him — Dorenne about what she wants, the public about what they expect, the political factions about what they need. The childhood friend doesn't lie. She tells him what his transformation looked like from the outside: *You became someone else. I watched you leave. I didn't know if you were coming back.*
+But she's also the person who can tell him the truth. The world is fracturing around the decline, and everyone is lying to him — Dorenne about what she wants, the public about what they expect, the political factions about what they need. Ryn doesn't lie. She tells him what his transformation looked like from the outside: *You became someone else. I watched you leave. I didn't know if you were coming back.*
 
 This conversation is one of the emotional anchors of Book Two. It forces Ash to confront what the power cost him — not in reservoir, but in relationships. In the ordinary human connections that he spent his whole pre-Wellspring life building and his Wellspring life discarding.
 
@@ -105,11 +105,11 @@ Or maybe it doesn't surface. Maybe the most honest thing is that the moment for 
 - **She is not impressed by power.** Not because she's above it, but because she's practical. Power is a tool. She's more interested in what you do with it than how much of it you have. This is the quality that makes her invaluable to Ash and infuriating to him in equal measure.
 
 ## Relationship to Themes
-She embodies **the dignity of ordinary life** — the central destination of the entire trilogy. Ash's journey is, in the largest sense, a journey toward valuing the kind of life she already lives. She's not aspirational in the way the mentor is aspirational (wise, principled, philosophically resolved). She's aspirational in a quieter way: she has a life that works, built on things that don't run out.
+She embodies **the dignity of ordinary life** — the central destination of the entire trilogy. Ash's journey is, in the largest sense, a journey toward valuing the kind of life she already lives. She's not aspirational in the way Haran is aspirational (wise, principled, philosophically resolved). She's aspirational in a quieter way: she has a life that works, built on things that don't run out.
 
 She represents **the cost of power** — not the cost to the powerful, but the cost to the people around them. Ash's transformation doesn't just change him. It changes every relationship he has. She is the clearest measure of that collateral damage because she had the least to gain and the most to lose.
 
-She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a political asset wrapped in a person. The childhood friend sees Ash as a person — specifically, the *same person* he was before the power. Dorenne wants to direct the Wellspring. The friend wants her friend back. These two forces pull Ash in opposite directions throughout the story.
+She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a political asset wrapped in a person. Ryn sees Ash as a person — specifically, the *same person* he was before the power. Dorenne wants to direct the Wellspring. The friend wants her friend back. These two forces pull Ash in opposite directions throughout the story.
 
 ## Contradictions to Preserve
 - She's practical and unsentimental, AND she kept his friendship alive for years when it would have been easier to let it go
@@ -122,7 +122,7 @@ She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a politi
 ## Open Questions
 - What is her specific trade or job? It should be something practical and physical — something that uses channeling as a tool, not as an identity.
 - Does she have other close relationships — a partner, a friend group, a community? Her life shouldn't orbit Ash. She needs her own world.
-- How does she relate to the tinkerer community? Does she know the mentor? Is she adjacent to that world, or separate from it?
-- Does she have a relationship with Ash's family? His sister? There could be interesting dynamics there — the sister and the friend as two women who care about Ash and process his transformation very differently.
+- How does she relate to the tinkerer community? Does she know Haran? Is she adjacent to that world, or separate from it?
+- Does she have a relationship with Ash's family? His sister? There could be interesting dynamics there — Maren and the friend as two women who care about Ash and process his transformation very differently.
 - What does the magical decline mean for her specifically? How is her work, her daily life, her future affected? This grounds the macro crisis in personal stakes.
 - If romance is on the table: is it mutual, or one-sided? Was it always there, or did it develop? Does it resolve, or does it remain unspoken? The answer should serve the story's themes, not the genre's expectations.

@@ -26,7 +26,7 @@ But through his intellect, he begins to see what others wouldn't: the math doesn
 
 ### ACT ONE — The Ordinary World & Activation
 
-**Ash's daily life.** We open in the texture of a magicless existence in a magical city. The small humiliations — transit he can't power, maintenance shifts he can't contribute to, social rituals built around shared channeling that exclude him by default. His cheerful performance, the careful dance of being pleasant enough to justify the trouble he causes. We see Dorenne's office where he's useful but peripheral — an aide who can carry things and take notes but can't do the actual work. We see the tinkerer workshop — the mentor, the community of misfits building mechanical alternatives, the one place where not having magic isn't a disability. We see home — the mother's fierce protectiveness, the father's careful pride, the sister's graceful competence and the unspoken guilt underneath it. We see the childhood friend — warm, slightly drifted, the ease of someone who knew him before any of this mattered.
+**Ash's daily life.** We open in the texture of a magicless existence in a magical city. The small humiliations — transit he can't power, maintenance shifts he can't contribute to, social rituals built around shared channeling that exclude him by default. His cheerful performance, the careful dance of being pleasant enough to justify the trouble he causes. We see Dorenne's office where he's useful but peripheral — an aide who can carry things and take notes but can't do the actual work. We see the tinkerer workshop — Haran, the community of misfits building mechanical alternatives, the one place where not having magic isn't a disability. We see home — the mother's fierce protectiveness, the father's careful pride, Maren's graceful competence and the unspoken guilt underneath it. We see Ryn — warm, slightly drifted, the ease of someone who knew him before any of this mattered.
 
 **Dorenne's world.** She is the Director of Infrastructure — the elected official responsible for maintaining the city's magically-built systems: transit networks, structural integrity of buildings, water systems, heating grids. All of it requires ongoing channeling by teams of workers whose trickles are measurably weaker than the generation that built these systems. She's managing a slow-motion crisis. Ash, as her aide, sees the stress — the reports she reads with tightening expression, the meetings where she fights for resources that aren't enough. He doesn't fully understand the scale of the problem, but he senses something is wrong.
 
@@ -44,21 +44,21 @@ This act has two movements: the honeymoon and the drift.
 
 **Learning to channel.** He is the most powerful person alive and the least experienced. He has never channeled before — not even the basic trickle that children learn to manage by age five. His early attempts are wildly inefficient. He does things the wrong way, spending ten or twenty times what a trained channeler would on the same task. It doesn't matter — the reservoir feels bottomless, like an ocean. He can afford to be sloppy, and the sloppiness is part of the joy. He's *doing magic*. After a lifetime of nothing, every act of channeling is a miracle.
 
-The mentor's early advice matters here. The old man visits, watches, asks quiet questions: "How much did that cost you? Do you know? Can you tell?" Ash doesn't want to think about cost. The mentor doesn't push. The workbench stays clear.
+Haran's early advice matters here. The old man visits, watches, asks quiet questions: "How much did that cost you? Do you know? Can you tell?" Ash doesn't want to think about cost. Haran doesn't push. The workbench stays clear.
 
-**The family reacts.** The mother's complicated loss of purpose — for decades, her identity was built on sacrificing for her disabled son. Now he doesn't need her protection. She should feel relieved. Instead she feels erased. The father's pride is genuine and enormous — his boy isn't broken anymore — but it carries a quiet ache, because his love was never conditional on the magic, and now he wonders if his son knows that. The sister's surface is graceful, celebratory, supportive. Underneath, the ground is shifting — her identity as the competent sibling, the one who carried the family's magical pride, has just been rendered irrelevant. She is happy for him. She is also losing something she built her whole self on.
+**The family reacts.** The mother's complicated loss of purpose — for decades, her identity was built on sacrificing for her disabled son. Now he doesn't need her protection. She should feel relieved. Instead she feels erased. The father's pride is genuine and enormous — his boy isn't broken anymore — but it carries a quiet ache, because his love was never conditional on the magic, and now he wonders if his son knows that. Maren's surface is graceful, celebratory, supportive. Underneath, the ground is shifting — her identity as the competent sibling, the one who carried the family's magical pride, has just been rendered irrelevant. She is happy for him. She is also losing something she built her whole self on.
 
 **Dorenne begins directing.** Small things first. "While you're developing your abilities, there's a maintenance project in the eastern district that needs channeling support. The workforce is stretched thin and people are going without heated water. You'd be helping real people." These are genuine needs. He genuinely helps. The feeling is intoxicating — not just the power, but the *usefulness*. After a lifetime of being a burden, he's the solution. He walks through a district where the lights work and the walls are warm because of something *he* did.
 
-**The childhood friend's reaction.** She's happy for him. But she doesn't perform awe. She asks practical questions — how does it feel, is he sleeping okay, has he talked to the mentor lately? She treats the Wellspring as something that happened to him, not as who he is. He reads this as her not understanding. She's the only one who's right, and he can't see it. First wedge.
+**Ryn's reaction.** She's happy for him. But she doesn't perform awe. She asks practical questions — how does it feel, is he sleeping okay, has he talked to Haran lately? She treats the Wellspring as something that happened to him, not as who he is. He reads this as her not understanding. She's the only one who's right, and he can't see it. First wedge.
 
 #### The Drift
 
 **Dorenne's requests escalate.** Infrastructure repairs across multiple districts. Public demonstrations of capacity at civic events — he stabilizes a building in front of a crowd, and the crowd cheers, and Dorenne stands beside him looking competent and indispensable. Political meetings where his presence is a statement about her leadership. She begins scheduling his deployments. She tracks his expenditures — not just amounts, but direction. When he acts independently — helps someone she didn't plan for, uses power on something small and personal — her disappointment is subtle but unmistakable. "That was generous of you. But the eastern aqueduct serves forty thousand people."
 
-**He stops visiting the workshop.** Why tinker with gears when you can reshape reality? The mechanical projects he used to care about seem quaint. The mentor doesn't chase him. Doesn't guilt him. The workbench stays clear, tools arranged exactly where he left them.
+**He stops visiting the workshop.** Why tinker with gears when you can reshape reality? The mechanical projects he used to care about seem quaint. Haran doesn't chase him. Doesn't guilt him. The workbench stays clear, tools arranged exactly where he left them.
 
-**He stops visiting the childhood friend.** His schedule is full. Dorenne needs him. The city needs him. He's important now. He cancels plans, then stops making them. She doesn't complain. She does stop reaching out. The silence grows.
+**He stops visiting Ryn.** His schedule is full. Dorenne needs him. The city needs him. He's important now. He cancels plans, then stops making them. She doesn't complain. She does stop reaching out. The silence grows.
 
 **Background world-building Ash ignores:** Reports about declining trickles in outlying farming regions. Political arguments in the council about rationing. A protest by younger channelers who can't maintain the standards their parents set. The first hints of the generational resentment that will become the Levelers in Book Two. The reader sees the bigger picture forming while Ash is focused on his own transformation.
 
@@ -92,7 +92,7 @@ The number is not infinite. It's not even comfortable. He has burned through rou
 
 The realization: his greatest triumph — the earthquake, the heroism, the days of holding up a city — was also his greatest expenditure. Every spectacular act of salvation burned through power he will never get back. The reservoir felt bottomless because he never bothered to check. Now he's checked, and he can see the bottom.
 
-**He goes to the mentor.** Not Dorenne, not his family. The mentor. The old man who didn't celebrate, who asked "how much did that cost you?" on day one and let the question sit unanswered. The tinkerer workshop is exactly as he left it. The mentor doesn't say I told you so. He makes tea (by hand, not by channeling — a small, deliberate act). He listens. And then he asks: *"So. How much is left, and what do you want to build with it?"*
+**He goes to Haran.** Not Dorenne, not his family. Haran. The old man who didn't celebrate, who asked "how much did that cost you?" on day one and let the question sit unanswered. The tinkerer workshop is exactly as he left it. Haran doesn't say I told you so. He makes tea (by hand, not by channeling — a small, deliberate act). He listens. And then he asks: *"So. How much is left, and what do you want to build with it?"*
 
 This is the question that reframes everything. Not "how do you slow the loss?" Not "how do you get more?" Build. What do you want to *build*?
 
@@ -106,7 +106,7 @@ He doesn't storm out. He doesn't make a speech. He tells her he needs time, and 
 
 He looks at the city — the rebuilt districts, the reinforced infrastructure, the fraying edges the earthquake didn't reach. He sees the stratification, the generational divide, the declining trickles everywhere. And for the first time, he sees his own situation as a compressed version of the world's. The world's magic is doing exactly what his reservoir is doing: going down. He's going where everyone is eventually headed. The difference is that he'll get there first.
 
-The book closes with Ash walking through the city — past the districts he saved, past Dorenne's office, through the middle districts where things work but barely — and arriving at the tinkerer workshop. The mentor's workbench. The mechanical projects he abandoned. The place where not having magic was never the point.
+The book closes with Ash walking through the city — past the districts he saved, past Dorenne's office, through the middle districts where things work but barely — and arriving at the tinkerer workshop. Haran's workbench. The mechanical projects he abandoned. The place where not having magic was never the point.
 
 He doesn't know what to do yet. The question has shifted from "who am I when I'm extraordinary?" to "what should I build with what's left?" He doesn't have an answer. But he's in the right place to start looking.
 
@@ -116,12 +116,12 @@ He doesn't know what to do yet. The question has shifted from "who am I when I'm
 1. Ash's daily life before the Wellspring — the cheerful performance, the family dynamic, Dorenne position that feels like hope
 2. The Wellspring activation during the infrastructure crisis — instinctive, heroic, terrifying, unprecedented
 3. Early uses of power — the reader needs to feel the seduction, to understand why he falls in love with this
-4. The family reaction — the mother's complicated loss of purpose, the father's pride, the sister's shifting ground
+4. The family reaction — the mother's complicated loss of purpose, the father's pride, Maren's shifting ground
 5. Dorenne's escalating direction — genuine help becoming strategic deployment
-6. The drift from old life — the workshop abandoned, the childhood friend silenced
+6. The drift from old life — the workshop abandoned, Ryn silenced
 7. The earthquake — the triumphant set piece, unambiguously heroic, the peak of the power fantasy
 8. The math scene — the gut-punch, the countdown revealed
-9. The mentor scene — the question reframed: what do you want to *build*?
+9. Haran scene — the question reframed: what do you want to *build*?
 10. The break with Dorenne — quiet, devastating, both people right and both people wrong
 11. The return to the workshop — the question shifts, the book closes
 
@@ -130,7 +130,7 @@ He doesn't know what to do yet. The question has shifted from "who am I when I'm
 - Half the reservoir is spent — the clock is loud going into Book Two
 - The world's decline is established as background moving toward foreground — the earthquake as preview of systemic failure
 - Dorenne relationship has fractured but not ended — she remains a force in Books Two and Three
-- The tinkerer community and the childhood friend are established as anchors he drifted from and must return to
+- The tinkerer community and Ryn are established as anchors he drifted from and must return to
 - The generational resentment (Levelers) is seeded as background detail
 - The reader has fallen in love with the power fantasy so its deconstruction lands harder
 
@@ -147,6 +147,6 @@ He doesn't know what to do yet. The question has shifted from "who am I when I'm
 - How much time passes in Book One? (Weeks? Months? The pacing of the escalation matters.)
 - When does the public learn what a Wellspring is? How does the information spread?
 - Are there secondary characters introduced in the earthquake sequence who carry into later books?
-- Does the sister have specific scenes in Act Two, or is her arc mostly observed through family dynamics?
+- Does Maren have specific scenes in Act Two, or is her arc mostly observed through family dynamics?
 - What is Ash's daily life like during the "drift" phase — where does he live, who does he spend time with?
-- How does the childhood friend react to being shut out? Does she confront him, or just go quiet?
+- How does Ryn react to being shut out? Does she confront him, or just go quiet?

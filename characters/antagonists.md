@@ -42,10 +42,10 @@ The antagonism in Book Two is **systemic, not personal**. Ash isn't fighting one
 
 *(Full movement details below. Leader details: movement-leader.md)*
 
-### Book Three — Despair (The Movement Leader, Broken)
+### Book Three — Despair (Davan, Broken)
 *"We fought for justice and it didn't matter. The magic is still dying. Nothing we build will last."*
 
-When the Levelers' campaign fails — because redistribution can't stop the decline — the movement fractures. Most members adapt, grieve, move on. But the leader, who poured everything into the cause, who believed hardest and sacrificed most, breaks.
+When the Levelers' campaign fails — because redistribution can't stop the decline — the movement fractures. Most members adapt, grieve, move on. But Davan, who poured everything into the cause, who believed hardest and sacrificed most, breaks.
 
 The Book Three antagonist is not a new threat. It's a person the reader already knows, whose trajectory they watched through Book Two, who arrives at the logical endpoint of fighting a battle that cannot be won: exhaustion, grief, and the conviction that the future isn't worth the pain of building it.
 
@@ -53,7 +53,7 @@ The Book Three antagonist is not a new threat. It's a person the reader already 
 
 **Why it's dangerous:** Despair is contagious. In a world already frightened and grieving, someone who articulates "there's no point" with intelligence and earned authority can paralyze the people Ash needs most. You can't argue someone out of despair with logic — they've already run the logic and come up empty.
 
-**Ash's version of this fear:** This is his deepest fear given a voice. The terror that he'll spend everything he has and it won't matter. That the ordinary life waiting for him on the other side isn't livable. The movement leader is who Ash becomes if he can't find meaning beyond power.
+**Ash's version of this fear:** This is his deepest fear given a voice. The terror that he'll spend everything he has and it won't matter. That the ordinary life waiting for him on the other side isn't livable. Davan is who Ash becomes if he can't find meaning beyond power.
 
 *(Full character details: movement-leader.md)*
 
@@ -108,7 +108,7 @@ They call themselves **the Levelers** — evoking equality, flattening of hierar
 ### Relationship to Ash
 Ash's relationship with the Levelers moves through distinct phases in Book Two:
 
-**Initial sympathy.** He agrees with their core argument. The powerful ARE hoarding. The decline IS unjust. He's been saying this himself. He engages with the movement, attends gatherings, has real conversations with the leadership. He respects their anger and their analysis.
+**Initial sympathy.** He agrees with their core argument. The powerful ARE hoarding. The decline IS unjust. He's been saying this himself. He engages with the movement, attends gatherings, has real conversations with Davanship. He respects their anger and their analysis.
 
 **Growing discomfort.** He begins to see the gap between their diagnosis (correct) and their prescription (flawed). Forced redistribution of a finite resource doesn't build anything — it just ensures a shared collapse. Their framework still treats magic as the answer. He starts pushing back, gently.
 

@@ -88,8 +88,8 @@ The project is organized into five phases. Each phase builds on the last — lat
 
 **Key questions to explore in Phase 1:**
 - What is Dorenne's relationship to the magic system's decline? Are they complicit, fighting it, or profiting from it?
-- What does the mentor know that they aren't telling Ash? What is their personal stake?
-- How does the childhood friend represent the "normal" life Ash could have had? What tension does that create?
+- What does Haran know that they aren't telling Ash? What is their personal stake?
+- How does Ryn represent the "normal" life Ash could have had? What tension does that create?
 - Who or what is the primary antagonist — a person, an institution, a force? Is the antagonist aware of Ash, or are they a systemic threat?
 - How do the antagonist's goals connect to the central theme of what it means to be "special"?
 - What is the full chronology of the magic system's decline? When did it start, what are the key milestones, and where is it now?
@@ -176,7 +176,7 @@ These are bigger-picture questions that don't fit neatly into a single phase —
 ### Character & Theme
 - What does "special" mean in this world? Is it about magical ability, lineage, destiny, or something Ash constructs for himself?
 - Is Ash actually special, or does he just believe he is (or need to be)?
-- How does the sister's relationship to "specialness" mirror or contrast Ash's?
+- How does Maren's relationship to "specialness" mirror or contrast Ash's?
 - What is the emotional core of the trilogy — is it ultimately about acceptance, transformation, grief, or something else?
 
 ### Structure & Craft

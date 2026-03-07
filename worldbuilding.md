@@ -210,7 +210,7 @@ North and northeast of Solathis, the river valleys give way to hill country and 
 
 These communities look "backwards" from Solathis. They are, in fact, the prototype for the future.
 
-**The mentor's networks run through here.** His connections to tinkerers, independent builders, and pragmatic survivors in the Ashward are what looked like a crank's hobby in Book One and become the circulatory system of the transition in Book Three.
+**Haran's networks run through here.** His connections to tinkerers, independent builders, and pragmatic survivors in the Ashward are what looked like a crank's hobby in Book One and become the circulatory system of the transition in Book Three.
 
 ### The Verandhi Coast (Southern Seaboard)
 
@@ -292,7 +292,7 @@ The Gift tradition is comforting to elders. It's increasingly hollow to the youn
 **The Loan tradition (older, rural, gaining traction):**
 Magic was never given — it was lent. The world accumulated magical energy over geological timescales, and humanity learned to draw on it, but the reservoir was always finite and always being spent down. The Loan tradition treats the decline not as a catastrophe but as the natural end of a temporary condition. It's less a religion than a philosophical stance: *we were guests at a table, and the meal is ending.*
 
-This is the tradition the mentor's worldview aligns with, though he'd never frame it in these terms. The Ashward Ridge communities and the Verandhi Coast tend toward Loan thinking — partly because they've been adapting longer, partly because the Gift tradition offers them nothing.
+This is the tradition Haran's worldview aligns with, though he'd never frame it in these terms. The Ashward Ridge communities and the Verandhi Coast tend toward Loan thinking — partly because they've been adapting longer, partly because the Gift tradition offers them nothing.
 
 **The Cycle theory (academic, minority):**
 Some scholars argue magic is cyclical — that the planetary reservoir has filled and emptied before, over timescales longer than recorded history. If true, the decline is a low point, not an end. This theory is comforting but unfalsifiable, and its main political function is to justify inaction: *why restructure society for a temporary dip?*
@@ -361,7 +361,7 @@ Solathis imports nearly all its food from the Hearthlands. Agricultural channeli
 River barges powered by channeler teams move goods between Solathis, the Hearthlands, and the Verandhi Coast. Overland transport uses channeler-assisted carts on magic-fused roadways. Both are degrading — barge crews are smaller and weaker, roads are cracking, journey times are lengthening. The Verandhi Coast has the most robust trade networks because maritime commerce never fully depended on channeling (you can't channel the wind reliably — sails and seamanship always mattered).
 
 **Tinkering and Mechanical Engineering:**
-A small, stigmatized, rapidly growing industry. Non-magical tools, mechanical systems, chemical processes — invented by necessity in the Ashward and on the Verandhi Coast, slowly creeping into Solathis. In Solathis, tinkering is still seen as a hobby for eccentrics or a crutch for the magically weak. The mentor's workshop is socially marginal. This changes across the trilogy as the decline makes tinkering's value undeniable.
+A small, stigmatized, rapidly growing industry. Non-magical tools, mechanical systems, chemical processes — invented by necessity in the Ashward and on the Verandhi Coast, slowly creeping into Solathis. In Solathis, tinkering is still seen as a hobby for eccentrics or a crutch for the magically weak. Haran's workshop is socially marginal. This changes across the trilogy as the decline makes tinkering's value undeniable.
 
 **Mining (Ashward Ridge):**
 Mineral extraction — metals, stone, coal — using channeling for shaft reinforcement, rock-breaking, and ventilation. As trickles weaken, mines become unsafe. Cave-ins increase. Ventilation fails. The Ashward's mining communities are among the first to face the choice between adapting and dying. Some shift to timber-framed mechanical mining. Many just close.
@@ -415,7 +415,7 @@ The five factions introduced earlier aren't formal parties — they're tendencie
 
 **Accelerationists:** A small, passionate, mostly young faction. If magic is ending, spend it all — build one last great thing, live fully, don't ration beauty. Accelerationism is emotionally compelling and practically suicidal. It has cultural influence disproportionate to its political power — accelerationist art, music, and philosophy are the voice of a generation that knows it's inheriting ruins.
 
-**Technologists:** The pragmatists. Build alternatives. The mentor is a technologist in practice if not in political identity. The Verandhi Coast is the technologist heartland. In Solathis, technologists are a growing but stigmatized minority — the tinkerer community Ash belongs to before activation. By Book Three, the technologists' position has been vindicated by events, but "I told you so" doesn't heal the damage done by decades of delay.
+**Technologists:** The pragmatists. Build alternatives. Haran is a technologist in practice if not in political identity. The Verandhi Coast is the technologist heartland. In Solathis, technologists are a growing but stigmatized minority — the tinkerer community Ash belongs to before activation. By Book Three, the technologists' position has been vindicated by events, but "I told you so" doesn't heal the damage done by decades of delay.
 
 **Authoritarians:** Centralize remaining magic under state control for "optimal allocation." This faction has real intellectual weight — if the resource is finite and shrinking, centralized management is a defensible position. Its adherents include well-meaning technocrats and power-hungry opportunists in roughly equal measure. Dorenne's institutional instincts lean authoritarian under pressure, which is part of what makes her the Book One antagonist.
 
@@ -475,7 +475,7 @@ Walking to work — to Dorenne's office where he's an aide — he takes streets,
 
 At Dorenne's office, he does work that doesn't require magic: filing, organizing, carrying, fetching. He's good at it — meticulous, strong, cheerful. The cheerfulness is both real and performative. It makes people comfortable enough to forget what they'd feel if they stopped to think about his situation.
 
-Lunch in the tinkerer workshop with the mentor. The one hour of his day when his inability is an irrelevance. The mentor hands him tools, not condescension. They work on a mechanical project — a water pump, a lever system, something that works because of physics, not magic. His hands are good. His mind is better. Here, he's not broken. He's just someone doing work.
+Lunch in the tinkerer workshop with Haran. The one hour of his day when his inability is an irrelevance. Haran hands him tools, not condescension. They work on a mechanical project — a water pump, a lever system, something that works because of physics, not magic. His hands are good. His mind is better. Here, he's not broken. He's just someone doing work.
 
 Evening at home. The family sits together. His sister lights the room with a casual channeling gesture — a warmth that costs her 50 kJ and reminds him, even in the act of love, of the gap. His mother has made dinner, heating the stove with her hands. His father tells a story and squeezes his shoulder. Everything in this house is built on the quiet labor of people spending their power to include him in a world that isn't built for him.
 

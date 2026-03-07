@@ -37,11 +37,11 @@ She offers him a position. His face — the real emotion breaking through the pe
 
 He walks home fast. He's almost running. He bursts through the door and tells his family. His mother cries — fierce, proud, relieved tears. His father grips his shoulder and holds on too long. The celebration is real: dinner is elaborate, his mother channels the stove to full heat, his father opens something they've been saving.
 
-The sister is there. She's radiant, congratulatory, genuinely happy for him. She channels casually during dinner — warming a dish, sealing a crack in a cup — in the efficient, disciplined way that defines her. She had something of her own today — a success, a recognition, something she earned. She starts to mention it and the conversation swings back to Ash's news. She lets it go. She always lets it go. Nobody notices. This happens all the time.
+Maren is there. She's radiant, congratulatory, genuinely happy for him. She channels casually during dinner — warming a dish, sealing a crack in a cup — in the efficient, disciplined way that defines her. She had something of her own today — a success, a recognition, something she earned. She starts to mention it and the conversation swings back to Ash's news. She lets it go. She always lets it go. Nobody notices. This happens all the time.
 
 **Establish:** The city of Solathis. Ash's disability in a magical world. The family dynamic — mother as fierce protector, father as quiet worrier, sister as the overlooked competent one. Dorenne as a complex figure with layered motivations. The cheerfulness as performance. The private exhaustion underneath.
 
-**Emotional beat:** Joy that cracks through the armor. For the first time in a long time, hope feels earned. And in the margin of the celebration, the sister's silence — the first thread of a pattern the reader will learn to watch for.
+**Emotional beat:** Joy that cracks through the armor. For the first time in a long time, hope feels earned. And in the margin of the celebration, Maren's silence — the first thread of a pattern the reader will learn to watch for.
 
 ---
 
@@ -57,13 +57,13 @@ Small problems arise that show his strengths. A scheduling conflict between two 
 
 Foreshadowing: during a briefing, Ash overhears engineers discussing the Kharren Fault — the seismic zone beneath the city. Channeled reinforcements that have absorbed geological stress for generations are weakening faster than projected. He doesn't understand the full implications, but his mind catches on the math: the rate of decline, the gap between what's needed and what's available. He files it away. He'll think about it later.
 
-At the end of the day, he meets the childhood friend. They sit somewhere familiar — a wall above the gorge, a bench in a district they grew up in, somewhere that belongs to the time before. He tells her about the job. She's happy for him — really happy. Not performing it, not qualifying it. Just glad.
+At the end of the day, he meets Ryn. They sit somewhere familiar — a wall above the gorge, a bench in a district they grew up in, somewhere that belongs to the time before. He tells her about the job. She's happy for him — really happy. Not performing it, not qualifying it. Just glad.
 
 And then the moment: he pays for drinks. For the first time, Ash doesn't calculate what this costs against tomorrow's budget. He doesn't do the mental accounting of whether he can afford to be a person who buys a round. He just orders. The friend notices. She doesn't say anything about it. She doesn't have to.
 
 In her presence, the performance drops. He doesn't have to be cheerful — he is cheerful. The distinction matters. She's the one person who's always seen through the act, and tonight there's no act to see through. They laugh. It's a good night. The unexamined romantic dimension hums beneath the surface — impossible because magical intimacy, a normal part of relationships in this world, was always closed to him. Neither of them has ever named it. Tonight it's just warmth.
 
-**Establish:** Dorenne's office and the scope of her responsibilities. Ash's non-magical intelligence as genuinely valuable. The infrastructure crisis as background tension. The childhood friend as the person who sees him clearly. The feeling of finally contributing.
+**Establish:** Dorenne's office and the scope of her responsibilities. Ash's non-magical intelligence as genuinely valuable. The infrastructure crisis as background tension. Ryn as the person who sees him clearly. The feeling of finally contributing.
 
 **Emotional beat:** For the first time, Ash doesn't have to act happy. He *is* happy. The distinction is everything.
 
@@ -71,23 +71,23 @@ In her presence, the performance drops. He doesn't have to be cheerful — he is
 
 ### Chapter 3 — The Workshop
 
-**POV:** Ash visits the tinkerer workshop. The mentor meets his new optimism.
+**POV:** Ash visits the tinkerer workshop. Haran meets his new optimism.
 
-Evening, a few days into the new job. Ash walks downhill from the Hall of Infrastructure into a poorer district where the mentor runs a cluttered, warm workshop. This is the tinkerer community — a handful of eccentrics who build mechanical alternatives to channeled solutions. Gears, levers, springs, hydraulics. Crude, unreliable, stigmatized, and the only technology in the city that works without magic.
+Evening, a few days into the new job. Ash walks downhill from the Hall of Infrastructure into a poorer district where Haran runs a cluttered, warm workshop. This is the tinkerer community — a handful of eccentrics who build mechanical alternatives to channeled solutions. Gears, levers, springs, hydraulics. Crude, unreliable, stigmatized, and the only technology in the city that works without magic.
 
-The mentor: late sixties, patient, dry-humored. He has a strong elder-generation trickle — we see small evidence of this, casual channeling done so efficiently it's nearly invisible — but his workshop runs on mechanisms. He teaches by doing: handing tools, asking questions, letting Ash figure things out. Long silences filled with the sound of work.
+Haran: late sixties, patient, dry-humored. He has a strong elder-generation trickle — we see small evidence of this, casual channeling done so efficiently it's nearly invisible — but his workshop runs on mechanisms. He teaches by doing: handing tools, asking questions, letting Ash figure things out. Long silences filled with the sound of work.
 
-Ash is buzzing. He talks about Dorenne's office — the scale of it, the responsibility, the feeling of being useful in a way that matters. He's excited in a way the mentor hasn't seen before. New opportunities, new world, first time he doesn't feel completely useless.
+Ash is buzzing. He talks about Dorenne's office — the scale of it, the responsibility, the feeling of being useful in a way that matters. He's excited in a way Haran hasn't seen before. New opportunities, new world, first time he doesn't feel completely useless.
 
-The mentor listens. He's happy that Ash is happy — this is visible, genuine. He doesn't dampen the mood. But there's a subtle, warm comedy in the scene: Ash says something like "For the first time I feel like I'm actually contributing something," and the mentor just looks at the mechanical water pump Ash designed last month — the one that's currently running in three homes in the district — and says nothing. Or he hands Ash a tool and says "Make yourself useful, then" the way he always has, because in this room, Ash has always been useful. Ash doesn't catch it. The reader should.
+Haran listens. He's happy that Ash is happy — this is visible, genuine. He doesn't dampen the mood. But there's a subtle, warm comedy in the scene: Ash says something like "For the first time I feel like I'm actually contributing something," and Haran just looks at the mechanical water pump Ash designed last month — the one that's currently running in three homes in the district — and says nothing. Or he hands Ash a tool and says "Make yourself useful, then" the way he always has, because in this room, Ash has always been useful. Ash doesn't catch it. The reader should.
 
 Other tinkerers drift through: a young woman whose trickle is too weak for her maintenance job, an older man who likes the puzzles, a teenager who thinks mechanisms are the future. A small community of people who, for various reasons, have stepped outside the magical economy. Ash fits here. He has always fit here. The difference is that now he has something *else* too — and the something else is already pulling his attention.
 
 Ash works on a project — a small mechanical device, the kind of focused, hands-on problem-solving that engages his mind completely. His hands are confident. The smile is real. This is who he is when nobody needs him to perform.
 
-**Establish:** The workshop as Ash's real home — the one place where his condition has never been a disability. The mentor as steady presence who expresses care through attention and shared work. The tinkerer philosophy: build things that work without you. The subtle irony that Ash can't see: he was never useless. He just couldn't see his value because the world measured worth in channeling.
+**Establish:** The workshop as Ash's real home — the one place where his condition has never been a disability. Haran as steady presence who expresses care through attention and shared work. The tinkerer philosophy: build things that work without you. The subtle irony that Ash can't see: he was never useless. He just couldn't see his value because the world measured worth in channeling.
 
-**Emotional beat:** The mentor's quiet amusement — not at Ash's expense, but at the beautiful blindness of someone who has been valuable all along and is only now learning to believe it, for the wrong reasons.
+**Emotional beat:** Haran's quiet amusement — not at Ash's expense, but at the beautiful blindness of someone who has been valuable all along and is only now learning to believe it, for the wrong reasons.
 
 ---
 
@@ -99,7 +99,7 @@ Ash has been on the job a few weeks. He's seen how Dorenne's office works — as
 
 He makes his case to Dorenne: not as charity, but as good infrastructure work in a neglected district. The building is old — one of the oldest residential structures in this part of the city, dating back to the early post-founding era. There's historical significance. There's political value in showing the Council that the Director of Infrastructure cares about heritage and the margins equally. He frames it the way she's taught him to think — strategic, justified, serving multiple purposes at once. Dorenne agrees. She sees the value. She also sees her aide learning to speak her language, and she's pleased.
 
-The day arrives. Ash walks his parents through what's going to happen — a team of channelers will reinforce the foundations, restructure the load-bearing walls, restore the heating lattices. His mother is emotional. Her boy, who couldn't channel a heating stone, arranged for the Director of Infrastructure to fix their building. His father grips his shoulder. The sister is there — maybe she volunteered to help, or came to support the family. Neighbors gather to watch. This is an event.
+The day arrives. Ash walks his parents through what's going to happen — a team of channelers will reinforce the foundations, restructure the load-bearing walls, restore the heating lattices. His mother is emotional. Her boy, who couldn't channel a heating stone, arranged for the Director of Infrastructure to fix their building. His father grips his shoulder. Maren is there — maybe she volunteered to help, or came to support the family. Neighbors gather to watch. This is an event.
 
 Ash is proud. Genuinely, deeply proud. For the first time in his life, his job — his position, his relationship with Dorenne, his usefulness — is translating into something real for the people he loves. He stands beside Dorenne as the channelers begin work, and he feels like he's finally giving back what his family gave him for twenty-three years.
 
@@ -113,13 +113,13 @@ Dorenne orders evacuation. People scramble for the exits. Most of the residents 
 
 He takes the stairs three at a time. He reaches the apartment. The ceiling has partially collapsed — a section of the floor above has come down. His father is pulling his sister toward the door. She's resisting — she's turned back toward the bedroom. The mother. A beam and a section of stone ceiling have come down on her. She's pinned — conscious, scared, in pain. Not crushed, but trapped. The rubble on top of her is heavy and the structure above is still shifting.
 
-**The sister.** She's channeling. Everything she has — focused, disciplined, precise. She's trying to lift the beam, or stabilize the rubble, or shift the weight enough to pull their mother free. Her hands are shaking. Her trickle is draining — she's already at the weak end of her generation, and the effort is enormous. She's the most skilled channeler her age and it's not enough. The beam barely moves. The rubble shifts and resettles. More dust falls from above.
+**Maren.** She's channeling. Everything she has — focused, disciplined, precise. She's trying to lift the beam, or stabilize the rubble, or shift the weight enough to pull their mother free. Her hands are shaking. Her trickle is draining — she's already at the weak end of her generation, and the effort is enormous. She's the most skilled channeler her age and it's not enough. The beam barely moves. The rubble shifts and resettles. More dust falls from above.
 
 Ash gets his hands under the rubble. He lifts. Physically. With his body. The way he has solved every problem his entire life. His muscles strain. The stone is too heavy. He repositions, finds a better angle, braces his legs and pulls. It moves — barely. Not enough.
 
 His mother is looking at him. His sister is looking at him. The building groans again and more of the ceiling cracks. They are running out of time.
 
-The sister's eyes meet his. Not blame. Not pity. The raw honesty of someone who has run out of options. She knows what he is in this moment. He knows what he is. He is exactly what he has always been — the person who can't help when it matters most.
+Maren's eyes meet his. Not blame. Not pity. The raw honesty of someone who has run out of options. She knows what he is in this moment. He knows what he is. He is exactly what he has always been — the person who can't help when it matters most.
 
 His hands are on the stone. His muscles are failing. His mother is underneath. His sister is watching.
 
@@ -189,9 +189,9 @@ Ash is displayed. Not cruelly — Dorenne genuinely wants to protect him, and sh
 
 The public reaction is layered: wonder, fear, hope, suspicion. The Council demands formal briefings. Political factions begin calculating — the Preservationists see validation of cautious resource management, the Accelerationists see proof that the old guard's monopoly on power is cracking, the Authoritarians see a weapon that needs to be controlled. Everyone sees a lever. Nobody sees a person.
 
-Ash's family watches. The mother is terrified — not of the power, but of the world wanting a piece of her son. Her protective instincts, which had a purpose when he was powerless, now look like obstruction. The father handles neighbors and attention, shielding the family, quietly proud and quietly worried. The sister fields questions from colleagues — "Your brother? Really?" — and manages her composure with the discipline she applies to everything.
+Ash's family watches. The mother is terrified — not of the power, but of the world wanting a piece of her son. Her protective instincts, which had a purpose when he was powerless, now look like obstruction. The father handles neighbors and attention, shielding the family, quietly proud and quietly worried. Maren fields questions from colleagues — "Your brother? Really?" — and manages her composure with the discipline she applies to everything.
 
-The childhood friend comes to see him afterward. She's glad. She says so simply: "I'm glad." She doesn't perform awe. She asks if he's sleeping, if he's eaten, if he's talked to the mentor. She treats the Wellspring as something that happened to him, not as who he is. He appreciates this and also, faintly, resents it.
+Ryn comes to see him afterward. She's glad. She says so simply: "I'm glad." She doesn't perform awe. She asks if he's sleeping, if he's eaten, if he's talked to Haran. She treats the Wellspring as something that happened to him, not as who he is. He appreciates this and also, faintly, resents it.
 
 **Establish:** The political landscape of Solathis — factions, council dynamics, Dorenne's institutional power — as it begins to orbit around the Wellspring. Dorenne's instinct to manage and position, already operating before anyone questions it.
 
@@ -215,7 +215,7 @@ Ash, meanwhile, is channeling at home — small things, testing, playing. He tri
 
 He does this repeatedly — breaks small household systems with too much force, and his sister or the building's maintenance workers repair the damage. Each repair is minor. The pattern is not.
 
-**Establish:** The material dimension of the drift — new things replacing old things, new neighborhood replacing old community. Ash's good intentions creating distance. The sister as the invisible repair crew — competent, essential, unseen.
+**Establish:** The material dimension of the drift — new things replacing old things, new neighborhood replacing old community. Ash's good intentions creating distance. Maren as the invisible repair crew — competent, essential, unseen.
 
 **Emotional beat:** Ash sees only improvement. The reader sees what's being lost. The mother keeping the old kettle is the image that should stick.
 
@@ -223,33 +223,33 @@ He does this repeatedly — breaks small household systems with too much force, 
 
 ### Chapter 8 — The Workshop
 
-**POV:** Ash visits the mentor. Two philosophies of power meet.
+**POV:** Ash visits Haran. Two philosophies of power meet.
 
-He arrives at the tinkerer workshop buzzing with energy — the testing, the press event, the public attention. He wants to share this with the mentor. He's also physically restless; the power is in him and he wants to use it.
+He arrives at the tinkerer workshop buzzing with energy — the testing, the press event, the public attention. He wants to share this with Haran. He's also physically restless; the power is in him and he wants to use it.
 
-The workshop is busy. The mentor is leading a community project: a mechanical pump system designed to address the district's water rationing. The lower district has been on reduced flow for months — the city's aqueducts require teams of channelers pushing water uphill daily, and the weakest districts get cut first. People carry water from a communal tap that runs a few hours a day. Not a crisis in the dramatic sense — nobody's dying. The grinding, daily indignity of scarcity in a city that used to have abundance.
+The workshop is busy. Haran is leading a community project: a mechanical pump system designed to address the district's water rationing. The lower district has been on reduced flow for months — the city's aqueducts require teams of channelers pushing water uphill daily, and the weakest districts get cut first. People carry water from a communal tap that runs a few hours a day. Not a crisis in the dramatic sense — nobody's dying. The grinding, daily indignity of scarcity in a city that used to have abundance.
 
-The pump is ingenious: pipes, valves, a hand-crank mechanism, a gravity-fed reservoir on a building's roof. Physical infrastructure does the heavy work. But at three critical junctures — where friction or elevation would defeat the mechanics — the design calls for tiny channeling inputs. A pulse at the valve junction. A nudge at the elevation bend. Micro-channeling so small that anyone with even a weak trickle could provide it. The system doesn't depend on one powerful person. It depends on a community of people each contributing almost nothing. This is the mentor's philosophy made physical: build systems that distribute the cost so thinly that anyone can bear it.
+The pump is ingenious: pipes, valves, a hand-crank mechanism, a gravity-fed reservoir on a building's roof. Physical infrastructure does the heavy work. But at three critical junctures — where friction or elevation would defeat the mechanics — the design calls for tiny channeling inputs. A pulse at the valve junction. A nudge at the elevation bend. Micro-channeling so small that anyone with even a weak trickle could provide it. The system doesn't depend on one powerful person. It depends on a community of people each contributing almost nothing. This is Haran's philosophy made physical: build systems that distribute the cost so thinly that anyone can bear it.
 
-Ash watches for about thirty seconds before he starts helping. With magic. A stuck fitting — he channels it loose. A pipe that needs bending — he bends it with force. A joint that needs sealing — he fuses it. Each time, it works. Each time, the thing he fixed now depends on channeling to maintain or repair. The tinkerers exchange looks. The mentor says nothing for a while.
+Ash watches for about thirty seconds before he starts helping. With magic. A stuck fitting — he channels it loose. A pipe that needs bending — he bends it with force. A joint that needs sealing — he fuses it. Each time, it works. Each time, the thing he fixed now depends on channeling to maintain or repair. The tinkerers exchange looks. Haran says nothing for a while.
 
 Then Ash reaches for something that requires feel — a calibration, a physical sensitivity, precision. His magic is too blunt. He can't do it. His hands know how (he's been doing this for years), but the power keeps intervening. He's trying to thread a needle with a battering ram.
 
-The mentor takes the piece from him. Does it by hand — or rather, with a whisper of channeling so small it's invisible. And this is the revelation: the mentor's hands move through the workshop with a fluidity Ash has always admired but never understood. A latch pops open before the mentor's fingers quite reach it. A gear settles into alignment with a nudge that could be physical or could be something else. His tea stays warm. It's not abstinence from magic — it's a completely different relationship with the same resource.
+Haran takes the piece from him. Does it by hand — or rather, with a whisper of channeling so small it's invisible. And this is the revelation: Haran's hands move through the workshop with a fluidity Ash has always admired but never understood. A latch pops open before Haran's fingers quite reach it. A gear settles into alignment with a nudge that could be physical or could be something else. His tea stays warm. It's not abstinence from magic — it's a completely different relationship with the same resource.
 
-Most channelers push: big trickle, big output, brute force. The mentor *pulses* — tiny inputs at precise moments that leverage physical systems already in motion. He doesn't lift a heavy door; he channels a nudge at the exact point in the swing arc where friction is lowest. The amount of magic is negligible. The understanding required is enormous. His elder-generation trickle — objectively strong — lasts him essentially forever because he spends almost none of it on any given task. He could channel big. He figured out he doesn't need to.
+Most channelers push: big trickle, big output, brute force. Haran *pulses* — tiny inputs at precise moments that leverage physical systems already in motion. He doesn't lift a heavy door; he channels a nudge at the exact point in the swing arc where friction is lowest. The amount of magic is negligible. The understanding required is enormous. His elder-generation trickle — objectively strong — lasts him essentially forever because he spends almost none of it on any given task. He could channel big. He figured out he doesn't need to.
 
-"Your hands still work," the mentor says. "The power doesn't replace them. It's another tool. You don't use a hammer on glass."
+"Your hands still work," Haran says. "The power doesn't replace them. It's another tool. You don't use a hammer on glass."
 
-This opens the teaching. The mentor starts showing him his way of channeling — the micro-pulses, the precision inputs. Ash tries. He's terrible at it. His reservoir is so vast that controlling output at micro-scale is like trying to whisper in a hurricane. But his hands are good — steady, practiced, trained by years of physical work — and the mentor sees this. "You already know precision. You just need to teach the power what your hands already know."
+This opens the teaching. Haran starts showing him his way of channeling — the micro-pulses, the precision inputs. Ash tries. He's terrible at it. His reservoir is so vast that controlling output at micro-scale is like trying to whisper in a hurricane. But his hands are good — steady, practiced, trained by years of physical work — and Haran sees this. "You already know precision. You just need to teach the power what your hands already know."
 
-Ash's face when the mentor's technique becomes visible — when he realizes the old man hasn't been abstaining from magic but *surfing* it — is a moment of genuine awe. Not the awe of raw power, but of mastery. The mentor's quiet pleasure at being seen.
+Ash's face when Haran's technique becomes visible — when he realizes the old man hasn't been abstaining from magic but *surfing* it — is a moment of genuine awe. Not the awe of raw power, but of mastery. Haran's quiet pleasure at being seen.
 
 The chapter ends with Ash having learned almost nothing practically but having glimpsed a different framework for power. The pump is still half-built. It'll take weeks. That's the point.
 
-"You're learning what you can do," the mentor says as Ash leaves. "Good. Don't forget what you don't need to do."
+"You're learning what you can do," Haran says as Ash leaves. "Good. Don't forget what you don't need to do."
 
-**Establish:** The mentor's channeling philosophy — not abstinence but radical efficiency. Micro-channeling as the seed of the Book Two technique. The pump project as the mentor's worldview made physical: distributed cost, community resilience, systems that don't depend on any one person. The contrast between Ash's brute-force approach and the mentor's precision.
+**Establish:** Haran's channeling philosophy — not abstinence but radical efficiency. Micro-channeling as the seed of the Book Two technique. The pump project as Haran's worldview made physical: distributed cost, community resilience, systems that don't depend on any one person. The contrast between Ash's brute-force approach and Haran's precision.
 
 **Emotional beat:** Warmth, comedy, and a lesson Ash appreciates but can't yet apply. The "let me do that for you" comedy — helpful and destructive in the same gesture. The most important lesson of the trilogy smuggled in without anyone delivering a speech.
 
@@ -257,7 +257,7 @@ The chapter ends with Ash having learned almost nothing practically but having g
 
 ### Chapter 9 — The Edge of Town
 
-**POV:** Ash and the childhood friend test the limits of the Wellspring. Spectacle and distance.
+**POV:** Ash and Ryn test the limits of the Wellspring. Spectacle and distance.
 
 Different energy from the workshop — open sky, no structure, no pedagogy. They go to the plateau's edge: a quarry, a gorge overlook, somewhere with open ground and no one to hurt. The friend is there because she's the one person he can be stupid with. Not a teacher, not a politician, not family. The person who'll say "that was terrifying" and mean it, and also say "do it again" and mean that too.
 
@@ -265,13 +265,13 @@ He tests scale. How much can he move, how far, how fast. This is where the reade
 
 He tests her trickle against his own, and the gap is absurd. She channels her daily allotment into a stone and it glows warm. He does the same thing and the stone detonates. They laugh about it, but the laughter has an edge — a frequency that wasn't there before.
 
-He tries the mentor's precision technique. In the open air, with no mechanical system to interact with, it's abstract and difficult. The friend helps — she can demonstrate normal channeling at normal scale, giving him a reference point. "Match me," she says, and he tries, and it's like asking a bonfire to match a candle. But he gets closer. By the end of the session he can almost control it. Almost.
+He tries Haran's precision technique. In the open air, with no mechanical system to interact with, it's abstract and difficult. The friend helps — she can demonstrate normal channeling at normal scale, giving him a reference point. "Match me," she says, and he tries, and it's like asking a bonfire to match a candle. But he gets closer. By the end of the session he can almost control it. Almost.
 
 She's watching him become something she can't follow. Not because she doesn't want to — because the gap is physical, measurable, real. She doesn't resent it. She's not jealous in any simple way. She's grieving something that hasn't been lost yet — the distance that's coming. They've always been equals: both limited, both clever, both making do. That ground is gone.
 
 And he's so happy. He's laughing and covered in dust and his eyes are bright and he keeps saying "watch this, watch this." She watches. She sees him. She's glad for him. Both things are true. Both things are breaking something neither of them will name today.
 
-**Establish:** The scale of the Wellspring — the reader needs to feel the spectacle, the sheer magnitude. The friend as the human anchor, providing the contrast that makes the power real. The mentor's precision technique as difficult and unnatural for Ash — a seed, not a solution.
+**Establish:** The scale of the Wellspring — the reader needs to feel the spectacle, the sheer magnitude. The friend as the human anchor, providing the contrast that makes the power real. Haran's precision technique as difficult and unnatural for Ash — a seed, not a solution.
 
 **Emotional beat:** Joy and loss braided together. The best day of two friends who are becoming unequal. "Watch this" as both invitation and farewell.
 
@@ -289,7 +289,7 @@ He walks through the district afterward. The lights work. The walls are warm. Be
 
 Dorenne schedules the next deployment. And the next. Water systems in the southern quarter. Structural reinforcement in a crumbling residential tower. A transit shaft that hasn't functioned in two years. Each one is a genuine crisis, a real community helped. Each one deepens the pattern: Dorenne identifies the need, Ash fills it, the city benefits, and Dorenne's political position strengthens.
 
-He begins to channel better — not with the mentor's precision, but with raw practice. He wastes less. Still enormously inefficient by any trained standard, but improving. The reservoir feels oceanic, infinite. He doesn't count. He doesn't need to count. There's always more.
+He begins to channel better — not with Haran's precision, but with raw practice. He wastes less. Still enormously inefficient by any trained standard, but improving. The reservoir feels oceanic, infinite. He doesn't count. He doesn't need to count. There's always more.
 
 **Establish:** The seductive logic of Dorenne's framework — every deployment is justified, every use of power helps real people. Ash can't argue against it because she's not wrong. The pattern: need → deployment → gratitude → next need. The machine beginning to run.
 
@@ -305,9 +305,9 @@ The mother struggles. Her son doesn't need her fierce protection anymore — he'
 
 The father adapts more quietly. His pride is genuine — enormous, visible, the kind that makes his eyes bright at dinner. But there's a question underneath that he can't quite ask: did you know I loved you before this? Did you know I was proud of you before? He expresses it sideways — mentions old accomplishments, things Ash built with his hands, as though trying to remind both of them that the boy before the Wellspring was worth something too. Ash, high on power, misses the point entirely.
 
-The sister is working harder than ever. Her trickle — already at the weak end of her generation — feels somehow thinner against the backdrop of her brother's ocean. She has always been the talented one, the competent one, the child who didn't need extra help. Now she's the ordinary sibling. She handles this the way she handles everything: with discipline and grace and not a single word of complaint. We see it in small moments — a channeling task that takes her two attempts instead of one, a flicker of frustration quickly buried. She's still fixing the household systems her brother accidentally overloads. Nobody thanks her.
+Maren is working harder than ever. Her trickle — already at the weak end of her generation — feels somehow thinner against the backdrop of her brother's ocean. She has always been the talented one, the competent one, the child who didn't need extra help. Now she's the ordinary sibling. She handles this the way she handles everything: with discipline and grace and not a single word of complaint. We see it in small moments — a channeling task that takes her two attempts instead of one, a flicker of frustration quickly buried. She's still fixing the household systems her brother accidentally overloads. Nobody thanks her.
 
-**Establish:** The Wellspring as a detonation in the family system. Each person's identity — built around Ash's disability — is suddenly without foundation. The mother who protected, the father who quietly supported, the sister who excelled — all of their roles assumed a version of Ash that no longer exists.
+**Establish:** The Wellspring as a detonation in the family system. Each person's identity — built around Ash's disability — is suddenly without foundation. The mother who protected, the father who quietly supported, Maren who excelled — all of their roles assumed a version of Ash that no longer exists.
 
 **Emotional beat:** Ash notices none of this. He's too high. The reader notices all of it.
 
@@ -319,15 +319,15 @@ The sister is working harder than ever. Her trickle — already at the weak end 
 
 He's been deployed to four districts in two weeks. Dorenne has given him quarters closer to her office — practical, she says, and she's right; the commute from the family's new home wastes time. He moves some of his things. The room is nicer than anything he's ever had. He tells himself he'll visit home often.
 
-He misses a session at the workshop. Then another. The mentor sends no message. The workbench stays clear, tools arranged where Ash left them. The pump project continues without him — other tinkerers filling in, the community carrying the work forward. The mentor's system doesn't depend on any one person. That's the design. Ash doesn't notice the lesson.
+He misses a session at the workshop. Then another. Haran sends no message. The workbench stays clear, tools arranged where Ash left them. The pump project continues without him — other tinkerers filling in, the community carrying the work forward. Haran's system doesn't depend on any one person. That's the design. Ash doesn't notice the lesson.
 
-He cancels plans with the childhood friend. "Dorenne needs me in the northern quarter — the retaining walls." She says she understands. He cancels again. She stops asking.
+He cancels plans with Ryn. "Dorenne needs me in the northern quarter — the retaining walls." She says she understands. He cancels again. She stops asking.
 
 The deployments feel good. Each one is a community saved, a system restored, a crowd of grateful faces. He is learning to channel with more control — still wildly inefficient by any trained standard, but improving. The power feels like an extension of himself. He thinks in terms of what he can do. He has never been able to think this way before.
 
 Background details he walks past without seeing: a protest by young channelers outside the Council hall — their signs read "Our trickles, our future." A district meeting where residents argue about whether the Wellspring's help is a gift or a dependency. A tinkerer pamphlet about mechanical alternatives that someone has left on a wall. The seeds of the Levelers, planted in footnotes he doesn't read.
 
-**Establish:** The slow, incremental nature of the drift. No single dramatic break — just a series of small choices, each reasonable, that add up to abandonment. The pump project progressing without him as quiet counterpoint — the mentor's philosophy continuing to build while Ash chases Dorenne's.
+**Establish:** The slow, incremental nature of the drift. No single dramatic break — just a series of small choices, each reasonable, that add up to abandonment. The pump project progressing without him as quiet counterpoint — Haran's philosophy continuing to build while Ash chases Dorenne's.
 
 **Emotional beat:** He's not doing anything wrong. Every choice makes sense. That's what makes the drift so insidious.
 
@@ -345,7 +345,7 @@ He agrees. It makes sense.
 
 A moment of friction: he spends power on something unplanned. Maybe he passes a failing structure on his way home and reinforces it — a small building, a few families. Dorenne's reaction the next morning is subtle: "I heard you reinforced a building on Threadneedle Lane. That was generous. The eastern aqueduct serves forty thousand people." Not angry. Disappointed. The calculus of allocation delivered as gentle correction.
 
-He visits the workshop. The pump system is further along — other tinkerers have advanced the work in his absence. The mentor is fitting a valve junction, a whisper of channeling guiding the piece into place so precisely it looks like luck. Ash watches and feels the distance between where he started and where he is now. Everything in this room is small and slow and collaborative. Everything in his life now is enormous and fast and singular. He doesn't stay long. The mentor walks him to the door and says: "The bench is here when you want it."
+He visits the workshop. The pump system is further along — other tinkerers have advanced the work in his absence. Haran is fitting a valve junction, a whisper of channeling guiding the piece into place so precisely it looks like luck. Ash watches and feels the distance between where he started and where he is now. Everything in this room is small and slow and collaborative. Everything in his life now is enormous and fast and singular. He doesn't stay long. Haran walks him to the door and says: "The bench is here when you want it."
 
 **Establish:** Dorenne's framework becoming Ash's framework. The shift from "she's directing me" to "we're partners" to "I think in her categories now." The ledger underneath the generosity — invisible to both of them.
 
@@ -357,13 +357,13 @@ He visits the workshop. The pump system is further along — other tinkerers hav
 
 **POV:** The relationships that grounded him are now at arm's length.
 
-A scene with the childhood friend — maybe they cross paths in the city, or she comes to find him. The conversation is warm but strained. She's heard about his work — everyone has. She asks how he's doing, not what he's doing. He talks about the deployments, the districts he's helped, Dorenne's plans. She listens. Then she says something honest: "You talk about yourself differently now. Everything is about what you can do."
+A scene with Ryn — maybe they cross paths in the city, or she comes to find him. The conversation is warm but strained. She's heard about his work — everyone has. She asks how he's doing, not what he's doing. He talks about the deployments, the districts he's helped, Dorenne's plans. She listens. Then she says something honest: "You talk about yourself differently now. Everything is about what you can do."
 
 He bristles. She's wrong. She doesn't understand what it's like — she's had magic her whole life, she can't know what it means to finally not be broken. She's the one person who should be happy for him, and instead she's picking at it.
 
 She doesn't fight. She says: "I am happy for you." And then she's quiet. The silence is the first wedge driven deep enough to stick.
 
-A scene at home: Ash visits for dinner. The mother has prepared everything — his favorite meal, the house warm, the table set. But the conversation doesn't land. He's distracted, thinking about tomorrow's deployment. The sister asks about his channeling technique and he explains, and for a moment they're connected — two people talking about magic, which used to be her territory. Then his description of the scale of power he's working with makes her go quiet. The father fills the silence with gentle questions. The mother watches her son with an expression that's harder to read now — pride, loss, fear, love, all of it at once.
+A scene at home: Ash visits for dinner. The mother has prepared everything — his favorite meal, the house warm, the table set. But the conversation doesn't land. He's distracted, thinking about tomorrow's deployment. Maren asks about his channeling technique and he explains, and for a moment they're connected — two people talking about magic, which used to be her territory. Then his description of the scale of power he's working with makes her go quiet. The father fills the silence with gentle questions. The mother watches her son with an expression that's harder to read now — pride, loss, fear, love, all of it at once.
 
 He leaves early. Important work tomorrow.
 
@@ -485,23 +485,23 @@ And one more calculation, because his mind won't stop: the world's trickles are 
 
 ### Chapter 20 — The Workbench
 
-**POV:** Ash goes to the mentor.
+**POV:** Ash goes to Haran.
 
-Not Dorenne. Not his family. The mentor. The person who asked "how much did that cost you?" on day one and let the question sit unanswered.
+Not Dorenne. Not his family. Haran. The person who asked "how much did that cost you?" on day one and let the question sit unanswered.
 
-He walks downhill to the workshop in the poor district. It's late. The mentor is there — he's always there. The workshop has changed and hasn't. His workbench is clear, his tools arranged precisely where he placed them before the Wellspring, before the earthquake, before any of it. The mentor kept them ready. Not as a rebuke. As a statement of faith: you'll come back. This will still be here. But the pump system — the community project he abandoned weeks ago — is finished. Installed. Working. Water flows in the district. The mentor and the other tinkerers completed it without him. It runs on physics and tiny contributions from anyone willing to help. It doesn't need a Wellspring. It never did.
+He walks downhill to the workshop in the poor district. It's late. Haran is there — he's always there. The workshop has changed and hasn't. His workbench is clear, his tools arranged precisely where he placed them before the Wellspring, before the earthquake, before any of it. Haran kept them ready. Not as a rebuke. As a statement of faith: you'll come back. This will still be here. But the pump system — the community project he abandoned weeks ago — is finished. Installed. Working. Water flows in the district. Haran and the other tinkerers completed it without him. It runs on physics and tiny contributions from anyone willing to help. It doesn't need a Wellspring. It never did.
 
-The mentor looks at him and sees immediately that something has changed. He doesn't ask what. He makes tea — a tiny pulse warming the water, so casual it's invisible, the way he does everything. He pours two cups. He sits.
+Haran looks at him and sees immediately that something has changed. He doesn't ask what. He makes tea — a tiny pulse warming the water, so casual it's invisible, the way he does everything. He pours two cups. He sits.
 
 Ash tells him. The numbers. The projection. The half that's gone. The half that's left. The countdown.
 
-The mentor listens without expression. When Ash finishes, the old man is quiet for a long time. Then he asks: *"So. How much is left, and what do you want to build with it?"*
+Haran listens without expression. When Ash finishes, the old man is quiet for a long time. Then he asks: *"So. How much is left, and what do you want to build with it?"*
 
 Not "how do you slow the loss?" Not "how do you get more?" Not "what went wrong?" Build. What do you want to *build*?
 
 Ash doesn't have an answer. But the question reframes everything. The Wellspring isn't an identity. It's a resource. And resources are for building.
 
-**Establish:** The mentor as the philosophical anchor — the man who mastered efficiency so thoroughly that his power looked like patience, who spent decades learning to whisper while the world shouted. The workshop as the space where a different framework for power has always existed. The finished pump as proof: the mentor's way works. It just works quietly.
+**Establish:** Haran as the philosophical anchor — the man who mastered efficiency so thoroughly that his power looked like patience, who spent decades learning to whisper while the world shouted. The workshop as the space where a different framework for power has always existed. The finished pump as proof: Haran's way works. It just works quietly.
 
 **Emotional beat:** Relief. Not happiness — the situation hasn't changed. But the suffocating panic gives way to something breathable. The question has a shape he can work with.
 
@@ -543,11 +543,11 @@ Through the middle districts where things work but barely — the maintenance cr
 
 He passes a wall where someone has posted a broadsheet — young channelers calling for redistribution, for accountability from the elder generation, for someone to answer for the fact that their trickles buy less than their parents' did. He reads it and sees, for the first time, his own story in theirs. The world's magic is draining. His reservoir is draining. He's living at high speed what the world is going through in slow motion.
 
-He arrives at the tinkerer workshop. Late now — past midnight. The mentor has gone home. The workshop is dark and quiet. Ash lets himself in with the key the mentor gave him years ago.
+He arrives at the tinkerer workshop. Late now — past midnight. Haran has gone home. The workshop is dark and quiet. Ash lets himself in with the key Haran gave him years ago.
 
 His workbench. His tools. The mechanical devices he was building before any of this happened — the self-winding lamp, the spring-loaded pump, the geared mechanism he never quite finished. Projects that work without magic. Projects that will still work when the magic is gone.
 
-He sits down. He picks up a tool. He doesn't channel. He doesn't have an answer to the mentor's question yet — *what do you want to build?* But his hands remember the work. The work was always real.
+He sits down. He picks up a tool. He doesn't channel. He doesn't have an answer to Haran's question yet — *what do you want to build?* But his hands remember the work. The work was always real.
 
 The question that drove Book One — *who are you when you're extraordinary?* — has cracked open to reveal the question underneath: *what should you build with what's left?*
 
@@ -575,8 +575,8 @@ He doesn't know yet. But he's in the right place to start.
 |---|---|---|
 | **Ash** | Helpless → euphoric → intoxicated → awakened | Knows the truth; doesn't know what to do with it |
 | **Dorenne** | Protector → partner → optimizer | Fractured relationship; still in power, still managing |
-| **The Mentor** | Steady presence → teacher → abandoned → returned to | Demonstrated the philosophy that will save the city; asked the question that reframes everything |
-| **The Sister** | Competent sibling → destabilized | Surface intact, ground shifting underneath |
+| **Haran** | Steady presence → teacher → abandoned → returned to | Demonstrated the philosophy that will save the city; asked the question that reframes everything |
+| **Maren** | Competent sibling → destabilized | Surface intact, ground shifting underneath |
 | **The Mother** | Fierce protector → purposeless | Identity crisis; son doesn't need saving anymore |
 | **The Father** | Quiet pride → quiet fear | Loves his son; fears the son before power is forgotten |
 | **Childhood Friend** | Warm → honest → shut out | The distance is real and unresolved |
@@ -584,10 +584,10 @@ He doesn't know yet. But he's in the right place to start.
 ## Seeds Planted for Book Two
 
 - The Levelers: visible as background protest, broadsheets, young channeler frustration — not yet a movement, but the ingredients are assembled
-- The efficiency question: Ash's wasteful early channeling vs. the mentor's micro-channeling mastery — the technique has been demonstrated but not yet learned. Ash glimpsed it in Ch 8, failed to replicate it in Ch 9, and abandoned the practice during the ascent. The principles are planted; the application awaits Book Two
-- The pump project: completed without Ash, running on distributed micro-channeling — proof that the mentor's philosophy works at infrastructure scale. The model for what Ash will eventually need to build citywide
+- The efficiency question: Ash's wasteful early channeling vs. Haran's micro-channeling mastery — the technique has been demonstrated but not yet learned. Ash glimpsed it in Ch 8, failed to replicate it in Ch 9, and abandoned the practice during the ascent. The principles are planted; the application awaits Book Two
+- The pump project: completed without Ash, running on distributed micro-channeling — proof that Haran's philosophy works at infrastructure scale. The model for what Ash will eventually need to build citywide
 - The proof-of-concept: the tinkerer workshop and its mechanical-plus-micro-channeling alternatives are established as working systems; they haven't yet become a building program
-- The childhood friend: shut out, not gone — the reconnection is owed
-- The sister's trickle: already weakening, not yet a crisis
+- Ryn: shut out, not gone — the reconnection is owed
+- Maren's trickle: already weakening, not yet a crisis
 - Dorenne: fractured, not finished — she remains Director, still powerful, still managing the city
 - Rural decline: mentioned in background reports Ash ignored — the wider world's crisis awaits

@@ -32,16 +32,16 @@ Not dramatically — he didn't make a declaration or join a movement. He just st
 He still uses his trickle. He's not a purist or an ascetic. He heats his workshop with channeling on cold days. He's practical, not ideological. But the foundation of his life — his work, his identity, his sense of purpose — doesn't depend on magic. He built it that way on purpose, decades before most people admitted the decline was real.
 
 ### The Altruism Underneath
-What makes the mentor's choice more than pragmatic foresight is what he did with his *position*. He didn't just stop relying on magic — he walked away from the power and influence his trickle would have given him. In a world where magical strength is literally political capital, he is one of the wealthiest people in the room and he lives like a pauper. Not out of self-denial, but out of a genuine belief that the world needs people building the future more than it needs another powerful person maintaining the present.
+What makes Haran's choice more than pragmatic foresight is what he did with his *position*. He didn't just stop relying on magic — he walked away from the power and influence his trickle would have given him. In a world where magical strength is literally political capital, he is one of the wealthiest people in the room and he lives like a pauper. Not out of self-denial, but out of a genuine belief that the world needs people building the future more than it needs another powerful person maintaining the present.
 
 He set up his workshop in a poor district, not a comfortable elder neighborhood. He teaches anyone who shows up. He shares what he's learned freely. He could be sitting on a council, managing budgets, directing labor — Dorenne's world. Instead he's elbow-deep in grease, showing a teenager how a lever works.
 
 This is not humility — he's too self-aware for that. It's a moral conviction so deeply held that it doesn't need to announce itself. He believes that hoarding capability — magical or otherwise — in a declining world is a form of cruelty. That the people with the most should be building ladders, not walls. He would never say any of this out loud. He just lives it.
 
-**Ash doesn't understand the full scope of this choice until later.** Early on, the mentor is just the old man at the workshop — wise, kind, a little eccentric. The revelation of how much power the mentor actually has, and has always had, reframes everything Ash thought he knew about him.
+**Ash doesn't understand the full scope of this choice until later.** Early on, Haran is just the old man at the workshop — wise, kind, a little eccentric. The revelation of how much power Haran actually has, and has always had, reframes everything Ash thought he knew about him.
 
 ### The Yoda Moment
-At some point in the story — ideally when stakes are real and Ash or someone in the workshop is in genuine danger — the mentor *shows* what he can do. Not to prove a point. Not as a lesson. Because the situation demands it and he's not the kind of person who lets people get hurt to preserve his own mystique.
+At some point in the story — ideally when stakes are real and Ash or someone in the workshop is in genuine danger — Haran *shows* what he can do. Not to prove a point. Not as a lesson. Because the situation demands it and he's not the kind of person who lets people get hurt to preserve his own mystique.
 
 The effect should be staggering. He's had a strong trickle his entire life and *decades* of channeling training from a generation where the training was better and the power was stronger. He just hasn't been using it. What comes out, when he finally does, should make it clear that this man could have been one of the most influential channelers in the city — and chose a workbench instead.
 
@@ -68,41 +68,41 @@ This moment should also land differently depending on where it falls in the stor
 ### Before the Wellspring
 Ash found the workshop the way most tinkerers do — drawn by curiosity and the need for a place where his condition wasn't the most interesting thing about him. In the workshop, what matters is whether you can solve the problem in front of you. Ash can. He's been solving physical problems with his hands and his mind his entire life.
 
-The mentor recognized something in Ash immediately: a mind that works the way his does. Someone who understands systems, who thinks about *why* before *how*, who sees the elegant solution hiding inside the obvious one. Ash's lack of magic, which the rest of the world treats as a disability, is invisible in the workshop. What's visible is the intelligence and the work ethic.
+Haran recognized something in Ash immediately: a mind that works the way his does. Someone who understands systems, who thinks about *why* before *how*, who sees the elegant solution hiding inside the obvious one. Ash's lack of magic, which the rest of the world treats as a disability, is invisible in the workshop. What's visible is the intelligence and the work ethic.
 
-Their relationship is built on shared work. They don't have emotional heart-to-hearts — they have long afternoons of building things together, punctuated by the mentor's sideways observations about how the world works. Ash absorbs the mentor's way of thinking without realizing it's happening: resource management, long-term planning, building systems that don't depend on any single person, designing for failure.
+Their relationship is built on shared work. They don't have emotional heart-to-hearts — they have long afternoons of building things together, punctuated by Haran's sideways observations about how the world works. Ash absorbs Haran's way of thinking without realizing it's happening: resource management, long-term planning, building systems that don't depend on any single person, designing for failure.
 
-The mentor cares deeply about Ash but expresses it through attention and time, not words. He gives Ash harder problems. He trusts him with better tools. He makes space at the workbench without being asked. In a world that treats Ash as a burden, the mentor treats him as a colleague.
+Haran cares deeply about Ash but expresses it through attention and time, not words. He gives Ash harder problems. He trusts him with better tools. He makes space at the workbench without being asked. In a world that treats Ash as a burden, Haran treats him as a colleague.
 
 ### After the Wellspring
-The mentor's reaction to the Wellspring is unlike anyone else's.
+Haran's reaction to the Wellspring is unlike anyone else's.
 
-Everyone else sees transformation — the powerless becoming powerful, the broken becoming whole. The mentor sees a young man he knows well being handed something enormous and finite, and he recognizes the pattern immediately. A resource. A large one. A non-renewable one. He's spent his life thinking about exactly this kind of problem.
+Everyone else sees transformation — the powerless becoming powerful, the broken becoming whole. Haran sees a young man he knows well being handed something enormous and finite, and he recognizes the pattern immediately. A resource. A large one. A non-renewable one. He's spent his life thinking about exactly this kind of problem.
 
 He doesn't celebrate. He doesn't mourn. He asks Ash how it feels and then asks how much there is.
 
 **He is the first person to treat the Wellspring as what it actually is: a resource management problem.** Not a miracle, not a curse, not an identity — a finite reservoir that requires strategy. This is jarring for Ash, who wants someone to share the wonder with, and grounding, because it's the first honest response he gets.
 
-As Ash drifts from the workshop — intoxicated by power, pulled into Dorenne's orbit, busy being extraordinary — the mentor doesn't chase him. He doesn't lecture or guilt-trip. He keeps the workbench clear. He continues the work. He is there when Ash comes back, and he treats the return as unremarkable, because to him it was inevitable.
+As Ash drifts from the workshop — intoxicated by power, pulled into Dorenne's orbit, busy being extraordinary — Haran doesn't chase him. He doesn't lecture or guilt-trip. He keeps the workbench clear. He continues the work. He is there when Ash comes back, and he treats the return as unremarkable, because to him it was inevitable.
 
-When Ash finally does the math and realizes the reservoir is finite, the mentor is the person he goes to. Not because the mentor has answers about magic — he doesn't — but because the mentor is the person who has spent thirty years thinking about what you do when the resource runs out.
+When Ash finally does the math and realizes the reservoir is finite, Haran is the person he goes to. Not because Haran has answers about magic — he doesn't — but because Haran is the person who has spent thirty years thinking about what you do when the resource runs out.
 
 ## His Role Across the Trilogy
 
 ### Book One
-A warm, grounding presence in the first act — the workshop scenes establish him and the tinkerer community as Ash's real home. When the Wellspring activates, he provides the first honest perspective. As Ash drifts away, the mentor's absence from the narrative mirrors Ash's drift from his own foundations.
+A warm, grounding presence in the first act — the workshop scenes establish him and the tinkerer community as Ash's real home. When the Wellspring activates, he provides the first honest perspective. As Ash drifts away, Haran's absence from the narrative mirrors Ash's drift from his own foundations.
 
-He returns to importance late in the book, when Ash confronts the reservoir's finitude. The mentor doesn't say "I told you so." He says something like: *"So. How much is left, and what do you want to build with it?"*
+He returns to importance late in the book, when Ash confronts the reservoir's finitude. Haran doesn't say "I told you so." He says something like: *"So. How much is left, and what do you want to build with it?"*
 
 ### Book Two
-The tinkerer community and the mentor become more relevant as the world's decline accelerates. Ash, having learned that raw power can't force lasting change, begins to see what the mentor has been building all along — not just machines, but a *framework* for living without magic. The workshop isn't a hobby. It's a prototype for the future.
+The tinkerer community and Haran become more relevant as the world's decline accelerates. Ash, having learned that raw power can't force lasting change, begins to see what Haran has been building all along — not just machines, but a *framework* for living without magic. The workshop isn't a hobby. It's a prototype for the future.
 
-The mentor may serve as a bridge between Ash and the emerging technologist movement — the people building non-magical alternatives out of necessity in the poorer districts and rural communities. He's been quietly connected to these networks for decades.
+Haran may serve as a bridge between Ash and the emerging technologist movement — the people building non-magical alternatives out of necessity in the poorer districts and rural communities. He's been quietly connected to these networks for decades.
 
 ### Book Three
-The mentor's decades of preparation bear fruit. The systems and knowledge he's been building become part of the foundation Ash is trying to create for the post-magic world. The mentor is vindicated — not triumphantly, but quietly. The world is finally arriving at the conclusion he reached thirty years ago.
+Haran's decades of preparation bear fruit. The systems and knowledge he's been building become part of the foundation Ash is trying to create for the post-magic world. Haran is vindicated — not triumphantly, but quietly. The world is finally arriving at the conclusion he reached thirty years ago.
 
-Whether the mentor lives to see the full transition or passes before it's complete is an open question. If he dies, it should be unremarkable — old age, a life fully lived, the work continuing without him. If he lives, the epilogue might show Ash working beside him again, at the same workbench, building something with their hands.
+Whether Haran lives to see the full transition or passes before it's complete is an open question. If he dies, it should be unremarkable — old age, a life fully lived, the work continuing without him. If he lives, the epilogue might show Ash working beside him again, at the same workbench, building something with their hands.
 
 ## Relationship to Themes
 
@@ -110,9 +110,9 @@ He is the **living answer** to the trilogy's central question. What makes a pers
 
 He represents **stewardship over heroism** — he didn't save anyone dramatically. He built things. He taught people. He prepared.
 
-He is the **courage of ordinary life** made flesh. He chose to be ordinary when he could have been powerful, and he's at peace with that choice. Ash's entire journey is, in a sense, a journey toward becoming the kind of person the mentor already is.
+He is the **courage of ordinary life** made flesh. He chose to be ordinary when he could have been powerful, and he's at peace with that choice. Ash's entire journey is, in a sense, a journey toward becoming the kind of person Haran already is.
 
-He is the **thematic opposite of Dorenne.** Both are powerful, both care about the city's future. Dorenne uses her power to maintain systems from the top. The mentor gave up his position to build alternatives from the bottom. Dorenne sees people as functions; the mentor sees people as people. They represent two fundamentally different answers to the question: *What do you owe the world when you have more than others?*
+He is the **thematic opposite of Dorenne.** Both are powerful, both care about the city's future. Dorenne uses her power to maintain systems from the top. Haran gave up his position to build alternatives from the bottom. Dorenne sees people as functions; Haran sees people as people. They represent two fundamentally different answers to the question: *What do you owe the world when you have more than others?*
 
 He also embodies the **technologist** political faction — but without the ideological fervor. He's not anti-magic. He's pro-survival. He uses magic when it's practical and builds alternatives because he knows it won't always be there.
 
@@ -139,4 +139,4 @@ He also embodies the **technologist** political faction — but without the ideo
 - How does he relate to Dorenne? Do they know each other? Are they foils? (They should be — they represent opposite answers to the same question about power and obligation.)
 - What is his relationship to Ash's family? Do the parents know him? Trust him?
 - What is his workshop's role in Book Three — does it become a hub, a school, a symbol?
-- **When is the Yoda moment?** Where in the trilogy does he reveal the full scope of his channeling ability? What forces his hand? How does Ash react — and how does it change Ash's understanding of the choices the mentor made?
+- **When is the Yoda moment?** Where in the trilogy does he reveal the full scope of his channeling ability? What forces his hand? How does Ash react — and how does it change Ash's understanding of the choices Haran made?

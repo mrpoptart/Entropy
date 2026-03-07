@@ -34,7 +34,7 @@ The Ancients die. The current Elder generation inherits systems built for people
 - His sister is born ~2 years later with a normal trickle
 
 ### ~10-15 years before Book One
-- The mentor establishes his workshop in a poorer district of Solathis
+- Haran establishes his workshop in a poorer district of Solathis
 - Ash discovers the tinkerer community — the first place his lack of magic isn't a disability
 - The generational power gap becomes a public political issue rather than a private grievance
 
@@ -62,13 +62,13 @@ The Ancients die. The current Elder generation inherits systems built for people
 
 **Reservoir: ~50% → ~15-20%**
 
-- Proof-of-concept district retrofit with the mentor
+- Proof-of-concept district retrofit with Haran
 - Levelers emerge from post-earthquake radicalization
 - Proof-of-concept struggles — dependency on him rather than self-sufficiency
 - Sister's trickle weakening faster than expected
 - Levelers escalate — forced expenditures, political confrontation
-- Break with the movement leader
-- Reconnection with the childhood friend
+- Break with Davan
+- Reconnection with Ryn
 - Efficiency technique discovered — rejected as preservation, adopted as capability
 - Ashward community "goes dark" — first community to lose functional magic
 - The unspoken sibling conversation

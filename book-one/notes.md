@@ -4,7 +4,7 @@
 
 ### Chapter 8 — The "how much did that cost you?" moment
 
-The mentor's question — "How much did that cost you? Do you know?" — needs a home in this chapter. It was in the old outline's post-activation mentor visit (old Ch 5) and is the seed that pays off in Ch 20 when Ash returns. Place it after Ash's first burst of "helpful" channeling on the pump. The mentor watches, then asks quietly. Ash doesn't want to think about cost. The mentor nods, doesn't push. Then the teaching begins. This preserves the callback without making it a lecture. The closing line — "Don't forget what you don't need to do" — still works as the chapter's exit beat.
+Haran's question — "How much did that cost you? Do you know?" — needs a home in this chapter. It was in the old outline's post-activation mentor visit (old Ch 5) and is the seed that pays off in Ch 20 when Ash returns. Place it after Ash's first burst of "helpful" channeling on the pump. Haran watches, then asks quietly. Ash doesn't want to think about cost. Haran nods, doesn't push. Then the teaching begins. This preserves the callback without making it a lecture. The closing line — "Don't forget what you don't need to do" — still works as the chapter's exit beat.
 
 ### Chapter 6 — Needs its own emotional texture
 

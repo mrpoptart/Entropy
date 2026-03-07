@@ -6,7 +6,7 @@
 - **Age:** Early-to-mid 20s — roughly Ash's peer
 - **Gender:** Male
 - **Background:** Grew up in the city's working districts with a weak trickle. Not magicless like Ash was, but close enough to feel the sting — enough power to know what channeling should feel like, not enough to do much with it.
-- **Role in the Story:** Introduced in Book Two as the leader of the Levelers. Ash's foil, mirror, and eventual antagonist. Becomes the embodiment of despair in Book Three after the movement's failure.
+- **Role in the Story:** Introduced in Book Two as Davan of the Levelers. Ash's foil, mirror, and eventual antagonist. Becomes the embodiment of despair in Book Three after the movement's failure.
 
 ## Who He Is
 
@@ -63,7 +63,7 @@ Davan doesn't pivot. He doesn't adapt. He doesn't join Ash's building efforts. H
 ### What Despair Looks Like
 Davan doesn't become a ranting nihilist. That would be easy to dismiss. Instead, he becomes the most dangerous kind of despairing person: articulate, calm, and armed with evidence.
 
-He's run the numbers. He fought for redistribution and it didn't work. Ash is building post-magic systems, but those systems are fragile, imperfect, and won't be ready in time. The mentor's tinkering philosophy is charming but doesn't scale. Dorenne's institutions are crumbling. Every path forward is flawed, and Davan has the rhetorical skill to demonstrate exactly how each one will fail.
+He's run the numbers. He fought for redistribution and it didn't work. Ash is building post-magic systems, but those systems are fragile, imperfect, and won't be ready in time. Haran's tinkering philosophy is charming but doesn't scale. Dorenne's institutions are crumbling. Every path forward is flawed, and Davan has the rhetorical skill to demonstrate exactly how each one will fail.
 
 His argument isn't "give up." It's worse: "Be honest. Admit this doesn't work. Stop lying to people about a future that isn't coming." He wants Ash to confess — publicly — that his building project is a long shot, that most of what he's constructing will break, that the transition will be brutal and many people won't make it.
 
@@ -123,5 +123,5 @@ Not every wound heals. Not every grief reaches acceptance. Davan's unresolved de
 - What is his specific background? (District, family, what he did before organizing)
 - Does he have a personal relationship beyond the political one with Ash? (Friendship? Something more complicated?)
 - Where is the community he takes? How many people? How long before it fails?
-- How does he relate to the mentor? (The mentor chose to live without magic decades ago. Davan can't make that choice. There's a conversation there.)
-- How does he relate to the childhood friend? (The friend represents ordinary life embraced. Davan represents ordinary life refused.)
+- How does he relate to Haran? (Haran chose to live without magic decades ago. Davan can't make that choice. There's a conversation there.)
+- How does he relate to Ryn? (The friend represents ordinary life embraced. Davan represents ordinary life refused.)

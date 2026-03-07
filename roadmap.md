@@ -36,7 +36,7 @@
 - Wants to stop being a burden and prove he belongs
 - Deep connections: family (parents + younger sister), childhood friend, tinkerer mentor
 
-### The Sister ✓
+### Maren ✓
 - ~2 years younger, lives in the same city
 - Normal trickle, highly skilled channeler
 - Overachiever driven by unspoken guilt over having the magic her brother didn't get
@@ -70,11 +70,11 @@
 - Antagonists embody wrong responses to the crisis, forming a grief progression: control (bargaining) → righteous force (anger) → despair (depression). Ash's arc completes the cycle with acceptance.
 - Book One: Dorenne (control) — managerial, institutional
 - Book Two: The Levelers (righteous force) — a generational redistributionist movement. Systemic antagonism, not personal.
-- Book Three: The Movement Leader (despair) — the Levelers' leader, introduced in Book Two, breaks when the movement fails
+- Book Three: Davan (despair) — the Levelers' leader, introduced in Book Two, breaks when the movement fails
 - Dorenne threads through all three books, evolving in relation to each new force
 - Hybrid structure: institution in Book Two, a specific person emerging from its failure in Book Three
 
-### The Childhood Friend ✓
+### Ryn ✓
 - Female, same age as Ash, grew up on the same street
 - Normal trickle, competent channeler — not exceptional, not struggling
 - The only person who refuses to treat the Wellspring as the most interesting thing about him
@@ -87,7 +87,7 @@
 Sketch the following characters at a high level — enough to understand their role, motivation, and relationship to Ash:
 - ~~**Dorenne (Patron)** — Who are they? What do they actually want? How does the relationship evolve?~~ ✓ Done
 - ~~**The Tinkerer Mentor** — The wise-sage figure. Who are they and what's their story?~~ ✓ Done
-- ~~**The Childhood Friend** — The person who knew him before. What's their situation?~~ ✓ Done
+- ~~**Ryn** — The person who knew him before. What's their situation?~~ ✓ Done
 - ~~**Antagonist(s)** — At least one primary antagonist fleshed out; decide on per-book vs. recurring~~ ✓ Done
 
 ### Priority 2: Plot Development
@@ -115,12 +115,12 @@ The character foundation and thematic structure are strong. The books now need e
 ### Deferred Decisions
 - Does magic fade to zero or leave a faint ember?
 - Character names (sister, all supporting cast)
-- ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (the movement leader) in Book Three, Dorenne threading throughout
-- The sister's specific career
+- ~~Antagonist structure (per-book or recurring)~~ **Decided:** Hybrid — systemic (the Levelers) in Book Two, personal (Davan) in Book Three, Dorenne threading throughout
+- Maren's specific career
 - ~~Exact mechanism of Wellspring activation~~ **Decided:** The reservoir was always dormant inside him; extreme stress during an infrastructure crisis cracks the seal
 - ~~Dorenne's resolution~~ **Decided:** Redemption — she adapts in Book Three, backs Ash's building projects
-- ~~The movement leader's resolution~~ **Decided:** Remains broken. Given a community to try their model; it fails. The cost of the story.
-- ~~The temptation in Book Two~~ **Decided:** Efficiency technique — a channeling discipline that reduces cost per expenditure. Rejected as preservation, adopted as capability. Retroactively enriches the mentor's character.
+- ~~Davan's resolution~~ **Decided:** Remains broken. Given a community to try their model; it fails. The cost of the story.
+- ~~The temptation in Book Two~~ **Decided:** Efficiency technique — a channeling discipline that reduces cost per expenditure. Rejected as preservation, adopted as capability. Retroactively enriches Haran's character.
 - ~~Reservoir at end of Book Two~~ **Decided:** ~15-20%
 - ~~The unspoken sibling conversation~~ **Decided:** Late Book Two
 - The final expenditure — quiet and deliberate, or deliberate and spectacular? Exact nature TBD.
