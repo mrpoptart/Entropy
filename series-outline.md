@@ -208,7 +208,7 @@ Davan remains broken. They cannot make the leap to ordinary life. They cannot fi
 
 ### The Epilogue
 
-Ash lives in the world he built. Not at its center — in it. He works with his hands (he always was good with his hands). He lives near the workshop, or in the district he rebuilt, somewhere modest and warm. Ryn is there — whether as partner, closest friend, or simply the person who was always the destination. Maren has found her own post-magic identity. The family is together without the complication of burden and sacrifice.
+Ash lives in the world he built. Not at its center — in it. He works with his hands (he always was good with his hands). He lives near the workshop, or in the district he rebuilt, somewhere modest and warm. Ryn is there — as partner, or becoming one. The romance surfaces here because this is the first time Ash believes he's worthy of it. Not worthy because of what he did — worthy because he finally sees himself the way she always did. She didn't wait for him, but she left the door open, and he walks through it. Quietly, without performance, the way ordinary people fall into love. Maren has found her own post-magic identity. The family is together without the complication of burden and sacrifice.
 
 He is nobody special. He is proof that the other side is livable. The world he built works: imperfectly, humanly, maintained by ordinary people doing ordinary work.
 
@@ -237,7 +237,7 @@ Absent from Book One (the Levelers exist only as seeds). Book Two: introduced as
 Runs quietly through all three books. Book One: surface competence, unspoken guilt. Book Two: trickle weakening, competence shell cracking, the unspoken conversation. Book Three: finds her own post-magic identity with Ash's help. Her arc is the intimate version of the world's arc.
 
 ### Ryn as Anchor
-Book One: shut out during the drift. Book Two: reconnected, truth-teller, grounds Ash in ordinary experience. Book Three: present, steady, the destination he was always heading toward. She represents what Ash is fighting to get back to: a life where ordinary connection matters more than extraordinary ability.
+Book One: shut out during the drift. Book Two: reconnected, truth-teller, grounds Ash in ordinary experience. Book Three: present, steady, the destination he was always heading toward. The romance emerges at the end — not because she changed, but because he finally believes he deserves it. She always saw him as whole; he's the one who had to catch up. She represents what Ash is fighting to get back to: a life where ordinary connection matters more than extraordinary ability.
 
 ### Haran as Philosophical Spine
 Steady presence throughout, never needing a dramatic arc of his own. Book One: asks the right question ("what do you want to build?"). Book Two: provides blueprints, networks, and the efficiency technique. Book Three: reveals the full scope of his power, recontextualizing his lifelong choice as the trilogy's answer made flesh.
