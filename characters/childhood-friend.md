@@ -93,9 +93,13 @@ She becomes part of the world Ash is building toward. Not as a follower or a pro
 
 Their friendship settles into something new. Not the old choreography of small magical helps. Not the Wellspring-era distance. Something built on shared purpose and mutual respect, with the full weight of their history acknowledged rather than danced around.
 
-If there's a romantic dimension, it surfaces here — not as a dramatic revelation, but as a quiet recognition of something that was always there and is finally possible because neither of them is performing anymore. He's not performing cheerfulness to earn his place. She's not performing ease with his condition. They're just two people who've known each other their whole lives, finally standing on level ground.
+The romantic dimension surfaces here — not as a dramatic revelation, but as a quiet recognition of something that was always there. The key: it only becomes possible when Ash finally believes he's worthy of it. Not worthy because of the Wellspring, not worthy because he saved the city or built the transition — worthy because he's *him*. The boy from the same street who was always enough and never knew it.
 
-Or maybe it doesn't surface. Maybe the most honest thing is that the moment for it passed, and what they have — this deep, tested, complicated friendship — is its own kind of love. Either works. What matters is that the relationship is *resolved*, not necessarily consummated.
+This is the final inversion. His whole life he believed he wasn't enough without power. The Wellspring gave him a different reason to feel worthy — one that was just as conditional. Only after spending everything, after becoming ordinary again and discovering that ordinary is survivable, does he arrive at genuine self-worth. And Ryn — who always saw him clearly, who never needed him to be extraordinary — is standing right where she always was.
+
+She didn't wait for him. She lived her life. But she left the door open, and he finally walks through it — not because he's powerful, not because he's proven something, but because he's stopped performing. The romance is quiet, possibly ambiguous — a held gaze, a conversation that doesn't need finishing, a door that's been open for years and is finally walked through. It could be the last scene or close to it. Either way, it's the ending's emotional resolution: Ash finds love not as a reward for his journey but as a consequence of finally believing he deserves an ordinary life.
+
+What matters is that this reads as *arrival*, not reward. He doesn't earn Ryn by emptying the reservoir. He earns himself.
 
 ## What She Is Not
 
@@ -125,4 +129,4 @@ She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a politi
 - How does she relate to the tinkerer community? Does she know Haran? Is she adjacent to that world, or separate from it?
 - Does she have a relationship with Ash's family? His sister? There could be interesting dynamics there — Maren and the friend as two women who care about Ash and process his transformation very differently.
 - What does the magical decline mean for her specifically? How is her work, her daily life, her future affected? This grounds the macro crisis in personal stakes.
-- If romance is on the table: is it mutual, or one-sided? Was it always there, or did it develop? Does it resolve, or does it remain unspoken? The answer should serve the story's themes, not the genre's expectations.
+- ~~If romance is on the table: is it mutual, or one-sided? Was it always there, or did it develop? Does it resolve, or does it remain unspoken? The answer should serve the story's themes, not the genre's expectations.~~ **Resolved:** Romance is on the table. It was always there, mutual but unexamined. It resolves subtly in the final pages — Ash can only see it (and accept it) once he believes he's worthy as an ordinary person. The romance serves the theme: worthiness was never about power.
