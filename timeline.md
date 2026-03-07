@@ -29,17 +29,17 @@ The Ancients die. The current Elder generation inherits systems built for people
 ## Recent Backstory (years before Book One)
 
 ### ~20-25 years before Book One
-- The protagonist is born without any magical ability — no trickle at all
+- Ash is born without any magical ability — no trickle at all
 - His dormant Wellspring reservoir (50 GJ) expresses as apparent magical disability
 - His sister is born ~2 years later with a normal trickle
 
 ### ~10-15 years before Book One
-- The mentor establishes his workshop in a poorer district of Solathis
-- The protagonist discovers the tinkerer community — the first place his lack of magic isn't a disability
+- Haran establishes his workshop in a poorer district of Solathis
+- Ash discovers the tinkerer community — the first place his lack of magic isn't a disability
 - The generational power gap becomes a public political issue rather than a private grievance
 
 ### ~1-3 years before Book One
-- The patron (Director of Infrastructure) takes the protagonist on as an aide
+- Dorenne (Director of Infrastructure) takes Ash on as an aide
 - Infrastructure maintenance crises accelerate — more buildings on the waiting list, fewer crews to service them
 - Kharren Fault reinforcement teams are smaller, weaker, stretched thinner
 - Food prices in Solathis begin rising noticeably
@@ -49,26 +49,26 @@ The Ancients die. The current Elder generation inherits systems built for people
 
 **Reservoir: 100% → ~50%**
 
-- Protagonist working as patron's aide, living without magic
+- Ash working as Dorenne's aide, living without magic
 - Infrastructure inspection → cascading structural failure → Wellspring activates
 - Rapid, inefficient learning period (wild expenditure)
-- Patron directs him toward struggling districts
-- **The Earthquake** — major seismic event, partly natural, partly weakened reinforcements. The protagonist's finest and most expensive hour.
+- Dorenne directs him toward struggling districts
+- **The Earthquake** — major seismic event, partly natural, partly weakened reinforcements. Ash's finest and most expensive hour.
 - **The Math Scene** — he measures what's left. ~50% gone in weeks.
-- Break with the patron. Returns to the tinkerer workshop.
+- Break with Dorenne. Returns to the tinkerer workshop.
 
 ## Book Two Timeline
 *Roughly one year. See book-two/plan.md for detailed plot beats.*
 
 **Reservoir: ~50% → ~15-20%**
 
-- Proof-of-concept district retrofit with the mentor
+- Proof-of-concept district retrofit with Haran
 - Levelers emerge from post-earthquake radicalization
 - Proof-of-concept struggles — dependency on him rather than self-sufficiency
 - Sister's trickle weakening faster than expected
 - Levelers escalate — forced expenditures, political confrontation
-- Break with the movement leader
-- Reconnection with the childhood friend
+- Break with Davan
+- Reconnection with Ryn
 - Efficiency technique discovered — rejected as preservation, adopted as capability
 - Ashward community "goes dark" — first community to lose functional magic
 - The unspoken sibling conversation
@@ -82,13 +82,13 @@ The Ancients die. The current Elder generation inherits systems built for people
 - Scaling the building model — connecting districts and communities
 - Mentor's networks become the circulatory system of transition
 - Movement leader's descent into articulate despair
-- Patron at a crossroads as institutions crumble
+- Dorenne at a crossroads as institutions crumble
 - Letting go of control — watching imperfect implementation
-- Movement leader takes a community; protagonist lets them try
+- Movement leader takes a community; Ash lets them try
 - Mentor's revelation — full elder-generation power, decades of mastered efficiency
-- Sister completes her arc with protagonist's help
+- Sister completes her arc with Ash's help
 - The tipping-point project (specific nature TBD)
 - The final expenditure — reservoir reaches 0
-- Movement leader's community fails; protagonist helps, now ordinary
-- Patron's redemption — throws institutional weight behind transition
+- Movement leader's community fails; Ash helps, now ordinary
+- Dorenne's redemption — throws institutional weight behind transition
 - Epilogue: ordinary life, at peace, in the world he built

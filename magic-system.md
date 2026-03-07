@@ -177,7 +177,7 @@ All costs listed are **output energy** — multiply by (1/efficiency) for actual
 
 ## The Wellspring — Scale Comparison
 
-The protagonist's Wellspring reservoir at activation: **~50,000,000 kJ (50 GJ)**
+Ash's Wellspring reservoir at activation: **~50,000,000 kJ (50 GJ)**
 
 For context:
 | Comparison | Value |
@@ -188,7 +188,7 @@ For context:
 | Elder-equivalent days | ~5,000 days (~14 years) |
 | Elder-equivalent at reckless use | Could burn through it in months |
 
-This is why it *seems* infinite at first. Even extravagant use — heating entire buildings, spectacular feats of force, healing dozens of people per day — barely dents 50 GJ. The protagonist has no frame of reference for "running low" because at his scale, the numbers don't feel real.
+This is why it *seems* infinite at first. Even extravagant use — heating entire buildings, spectacular feats of force, healing dozens of people per day — barely dents 50 GJ. Ash has no frame of reference for "running low" because at his scale, the numbers don't feel real.
 
 **But extraordinary feats eat it fast:**
 
@@ -196,7 +196,7 @@ This is why it *seems* infinite at first. Even extravagant use — heating entir
 
 A magnitude 4 earthquake releases ~63,000,000 kJ (63 GJ). You can't match that. But you don't need to.
 
-**Counter-vibration approach:** Like noise-canceling headphones. You don't match the total energy of the sound — you produce a precisely timed counter-wave that cancels it locally. The protagonist channels into the ground through direct physical contact (hands, feet, full body pressed to earth) and produces counter-vibrations that dampen the seismic wave in a localized area.
+**Counter-vibration approach:** Like noise-canceling headphones. You don't match the total energy of the sound — you produce a precisely timed counter-wave that cancels it locally. Ash channels into the ground through direct physical contact (hands, feet, full body pressed to earth) and produces counter-vibrations that dampen the seismic wave in a localized area.
 
 | Earthquake Intervention | Estimated Cost | Notes |
 |------------------------|---------------|-------|
@@ -253,7 +253,7 @@ People in this world don't say "kilojoules." They might use terms like:
 - **Clean channeling** — efficient, precise technique
 - **Flooding** — dumping too much energy into a task (brute force approach)
 - **The hum** — what it feels like when your trickle is full and ready
-- **Dead weight** — a person who can't channel (what the protagonist was called before activation)
+- **Dead weight** — a person who can't channel (what Ash was called before activation)
 
 ---
 

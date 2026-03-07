@@ -1,13 +1,13 @@
 # The Sister
 
-*(Name TBD)*
+**Maren**
 
 ## Basics
-- **Age:** Approximately two years younger than the protagonist
+- **Age:** Approximately two years younger than Ash
 - **Gender:** Female
-- **Location:** The city — same city as the protagonist
+- **Location:** The city — same city as Ash
 - **Magical Status:** Normal trickle (though on the weaker end of her generation, consistent with the decline). Highly skilled channeler — gets more out of her trickle than most through sheer discipline and practice.
-- **Role in the Story:** Major supporting character. The protagonist's closest mirror and thematic parallel. Has a full arc across all three books.
+- **Role in the Story:** Major supporting character. Ash's closest mirror and thematic parallel. Has a full arc across all three books.
 
 ## Who She Is
 
@@ -35,7 +35,7 @@ They have never had a real conversation about what it was like growing up on eit
 ## Her Arc Across the Trilogy
 
 ### Book One
-The protagonist becomes a Wellspring. For the first time, the family axis shifts. He doesn't need anyone's help. Her mother's sacrifice is no longer required. Her father's worry evaporates.
+Ash becomes a Wellspring. For the first time, the family axis shifts. He doesn't need anyone's help. Her mother's sacrifice is no longer required. Her father's worry evaporates.
 
 And she — the one who built her entire identity on being the competent one, the reliable one, the one who didn't need anything — is suddenly not the most impressive person in the family. Not even close.
 
@@ -49,12 +49,12 @@ She is, for the first time in her life, heading toward the experience her brothe
 This is where her arc gets painful. The competence shell starts cracking. She may resist, double down, push harder. She may resent her brother for having had the "advantage" of learning to live without magic first — an irrational feeling that she knows is irrational and can't stop feeling.
 
 ### Book Three
-She has to learn what her brother learned — that identity can't be built on capability. That being ordinary isn't the same as being worthless. The protagonist can help her through this, not with Wellspring power but with the wisdom he earned in twenty years of powerlessness. This is one of the moments where his pre-Wellspring life turns out to be the real gift.
+She has to learn what her brother learned — that identity can't be built on capability. That being ordinary isn't the same as being worthless. Ash can help her through this, not with Wellspring power but with the wisdom he earned in twenty years of powerlessness. This is one of the moments where his pre-Wellspring life turns out to be the real gift.
 
 By the end, she has found a new foundation — probably connected to the emerging non-magical world, probably using her discipline and intelligence in ways that don't depend on channeling. She and her brother are finally equals, not because their magical status matches, but because they've both been through the same fundamental reckoning with identity.
 
 ## Relationship to Themes
-She is the protagonist's thematic parallel at a different scale. He defined himself by the Wellspring. She defined herself by her channeling excellence. Both of them have to learn who they are when the thing they built on disappears. Her journey proves that the protagonist's experience isn't unique — it's universal. Everyone is going to go through some version of this as magic fades.
+She is Ash's thematic parallel at a different scale. He defined himself by the Wellspring. She defined herself by her channeling excellence. Both of them have to learn who they are when the thing they built on disappears. Her journey proves that Ash's experience isn't unique — it's universal. Everyone is going to go through some version of this as magic fades.
 
 ## Contradictions to Preserve
 - She's competent and strong, AND she's terrified of failure because she's never practiced it
@@ -66,5 +66,5 @@ She is the protagonist's thematic parallel at a different scale. He defined hims
 ## Open Questions
 - What specifically is her career? (Healer, infrastructure, civic role?)
 - Does she have her own relationships outside the family — friends, a partner?
-- When does the "unspoken conversation" with the protagonist finally happen?
+- When does the "unspoken conversation" with Ash finally happen?
 - How does she relate to the emerging technology movement?
