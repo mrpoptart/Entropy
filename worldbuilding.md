@@ -139,10 +139,18 @@ The rural communities — the Hearthlands, the coast, even the struggling Ashwar
 
 This is the deep structural problem of Book Three: the transition isn't just "learn to live without magic." For Solathis, it's "learn to live without magic in a place that only exists because of magic." The answer might be painful — dispersal, relocation, a city that shrinks to fit what the terrain can actually support. Ash can't magic his way around geography. Nobody can.
 
+**The Terrace System:**
+Solathis is built in descending terraces carved into the plateau. The upper terraces were channeled level by Ancient-era builders; the lower ones follow the natural rock more closely. Terraces are numbered from the top down — the First Terrace holds the Council chambers and the oldest elder residences; the Hall of Infrastructure sits near the Second. By the Fifth Terrace, the stone is rougher, the paving cracked and shifted, and the buildings wear their age without polish. Below the Seventh, the city frays into the gorge approaches — steep ramps, retaining walls losing their channeled reinforcement, and neighborhoods that feel more like settlements clinging to rock than parts of a grand city.
+
+Ramps and stairways connect the terraces. Channeled transit lifts serve the upper levels but are increasingly unreliable lower down, where maintenance crews are stretched thin.
+
 **Stratification by generational power:**
-- *Elder districts:* Maintained by residents with strong trickles. Buildings gleam. Infrastructure works. Life feels normal. The powerful live here and see no crisis.
-- *Middle districts:* Things work, but with effort. Daily channeling leaves residents more tired than it used to. Maintenance is falling behind.
-- *Young/poor districts:* Fraying edges. Infrastructure failing. Buildings cracking. Quiet experimentation with mechanical alternatives. Resentment toward the elder districts.
+- *Elder districts (First through Third Terraces):* Maintained by residents with strong trickles. Buildings gleam. Infrastructure works. Life feels normal. The powerful live here and see no crisis.
+- *Middle districts (Third through Fifth Terraces):* Things work, but with effort. Daily channeling leaves residents more tired than it used to. Maintenance is falling behind.
+- *Young/poor districts (Fifth Terrace and below):* Fraying edges. Infrastructure failing. Buildings cracking. Quiet experimentation with mechanical alternatives. Resentment toward the elder districts.
+
+**The Splits:**
+The workshop district on the Fifth Terrace, where the city's slope steepens and the smooth channeled paving gives way to cracked stone and natural rock. Named for the visible fractures in the terrain — seams where the Ancient-era leveling ended and the plateau's raw geology reasserts itself. The Splits is where tinkerers, low-trickle workers, and people who can't afford upper-terrace rents settle. Buildings are smaller, older, and maintained by hand rather than by channeling. Haran's workshop is here. The district carries a mild social stigma — living in the Splits marks you as either poor, eccentric, or both — but its residents tend toward practical solidarity rather than resentment. It is the quietest site of the mechanical revolution that nobody in the upper terraces is paying attention to.
 
 **Ash's experience of the city (before the Wellspring):** A person without magic in a city that runs on it. Can't use channeler-powered transit. Can't contribute to maintenance shifts. Can't do most jobs. Can't participate in basic social rituals that involve sharing magic. A person without electricity in a city built on the grid.
 
