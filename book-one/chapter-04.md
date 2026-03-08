@@ -92,7 +92,7 @@ The report reached Dorenne's desk the following day. Ash was in the office when 
 
 He waited.
 
-"The original construction is high-era work. The load-bearing walls were channeled into place by someone with a trickle that doesn't exist anymore—the internal reinforcement is failing because nobody alive can replicate the technique that created it. The building has been redistributing its stress loads for decades. The foundation is holding, but the margins are narrower than the surface condition suggests." She turned a page. "The assessors also flagged proximity to the Kharren Fault line. Low probability, but the building has no seismic tolerance left." She looked at him over the report. "Your parents live in this building."
+"The original construction is high-era work. The load-bearing walls were channeled into place by someone with a pool that doesn't exist anymore—the internal reinforcement is failing because nobody alive can replicate the technique that created it. The building has been redistributing its stress loads for decades. The foundation is holding, but the margins are narrower than the surface condition suggests." She turned a page. "The assessors also flagged proximity to the Kharren Fault line. Low probability, but the building has no seismic tolerance left." She looked at him over the report. "Your parents live in this building."
 
 "Yes."
 
@@ -110,7 +110,7 @@ He left the office and walked down the ramp and kept his pace steady and his fac
 
 * * *
 
-He told his parents on a Thirdday evening. The three of them at the kitchen table, the iron stove warm behind him, the smell of his mother's cooking in the air—onions and something with cumin, the kind of meal she made when the budget was tight and her trickle was low and she needed to stretch both.
+He told his parents on a Thirdday evening. The three of them at the kitchen table, the iron stove warm behind him, the smell of his mother's cooking in the air—onions and something with cumin, the kind of meal she made when the budget was tight and her pool was low and she needed to stretch both.
 
 "A structural team," his mother said. She was standing at the stove, her back to him, but her hands had stopped moving. "From the Hall."
 
@@ -136,7 +136,7 @@ His mother stepped back and wiped her eyes with the heel of her hand and turned 
 
 "The building's going to be warm."
 
-She didn't answer. She stirred the onions and the steam rose and the heating lattice beside the stove hummed faintly under her palm—her own channeling, steady and familiar, the warmth she'd been pouring into these walls for as long as Ash could remember. Every morning. Every evening. A woman warming her home the only way she could, one day's trickle at a time, holding back the cold that crept in through every crack her son had been measuring with his thumb.
+She didn't answer. She stirred the onions and the steam rose and the heating lattice beside the stove hummed faintly under her palm—her own channeling, steady and familiar, the warmth she'd been pouring into these walls for as long as Ash could remember. Every morning. Every evening. A woman warming her home the only way she could, one day's pool at a time, holding back the cold that crept in through every crack her son had been measuring with his thumb.
 
 * * *
 
@@ -168,7 +168,7 @@ She looked at the channelers. Sorren had her palms flat against the foundation s
 
 "It's our home."
 
-The morning passed. Sorren's team worked in pairs, swapping every twenty minutes when the lead's trickle started to thin. They read each other without speaking—the slight hesitation in a gesture, the deeper breathing, the moment when the warmth bleeding off a channeler's hands shifted from focused precision to the diffuse heat of someone running inefficient. Sweat darkened their collars despite the cold. The air near the foundation stone shimmered faintly, heat rolling off the worked surfaces.
+The morning passed. Sorren's team worked in pairs, swapping every twenty minutes when the lead's pool started to thin. They read each other without speaking—the slight hesitation in a gesture, the deeper breathing, the moment when the warmth bleeding off a channeler's hands shifted from focused precision to the diffuse heat of someone running inefficient. Sweat darkened their collars despite the cold. The air near the foundation stone shimmered faintly, heat rolling off the worked surfaces.
 
 Ash brought water. He carried a heavy ceramic jug up from the street tap and filled cups and handed them to channelers who took them without looking up. Sorren drank with one hand still pressed to the stone, her fingers warm enough that Ash felt it when their hands brushed around the cup.
 
@@ -184,7 +184,7 @@ She left at midmorning. Her carriage came—a channeler in the municipal service
 
 The trouble started after lunch.
 
-The team had moved from foundations to the load-bearing walls—the interior columns and crossbeams that carried the building's weight from roof to ground. This was the delicate work. The original construction had woven the load paths into the stone with a sophistication that the assessment team had noted but not fully mapped. High-era work. Built by channelers whose trickles dwarfed anything the current team could produce.
+The team had moved from foundations to the load-bearing walls—the interior columns and crossbeams that carried the building's weight from roof to ground. This was the delicate work. The original construction had woven the load paths into the stone with a sophistication that the assessment team had noted but not fully mapped. High-era work. Built by channelers whose pools dwarfed anything the current team could produce.
 
 Sorren was on the second floor, her palms against a column that ran from the ceiling to the floor below. Two of her team flanked her, channeling in coordination—a practiced technique, pooling their efforts through shared contact with the stone. The fourth member worked the adjacent wall, reading the stress distribution.
 
@@ -216,7 +216,7 @@ The bedroom ceiling had come down. Not all of it—a section, a beam and the sto
 
 "Ash." His father's voice. "Get her out."
 
-He was already there. He dropped to his knees beside her, his hands finding the edge of the beam where it rested on the rubble. His mother looked up at him and her eyes were wide and bright and steady—not panicking, not surrendering, the eyes of a woman who had spent her life solving problems one trickle at a time and who expected her son to solve this one too.
+He was already there. He dropped to his knees beside her, his hands finding the edge of the beam where it rested on the rubble. His mother looked up at him and her eyes were wide and bright and steady—not panicking, not surrendering, the eyes of a woman who had spent her life solving problems one pool at a time and who expected her son to solve this one too.
 
 "I'm here, Mum."
 
@@ -366,7 +366,7 @@ His hands were still warm. The heat sat in his palms like something held—not f
 
 He didn't know what that meant yet. He didn't know what the pressure was, or how it worked, or what it could do beyond tearing through stone and blowing out walls. He only knew that his family's home was gone because of him and his mother was alive because of him and the two debts were written on the same line and the only way to balance them was forward.
 
-Someone—a staff member, one of Dorenne's—touched his elbow and guided him somewhere. Temporary housing. A room he'd never seen. A bed with a blanket someone had warmed with their trickle, the fabric still holding the heat of a stranger's hands.
+Someone—a staff member, one of Dorenne's—touched his elbow and guided him somewhere. Temporary housing. A room he'd never seen. A bed with a blanket someone had warmed with their pool, the fabric still holding the heat of a stranger's hands.
 
 He lay in the dark and felt the power humming in his blood and listened to it the way you listen to rain on a roof when you don't know yet whether it's the kind that waters the garden or the kind that brings the flood.
 

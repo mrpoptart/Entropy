@@ -20,7 +20,7 @@ Ch4 line 21 says Dorenne's office is on the fourth floor; Ch5 line 349 says the 
 **Source:** Voice Editor, Story Architect, Arc Guardian, Thematic Compass
 The final pages tell the reader what the chapter already showed. Specific cuts:
 - **Lines 352–353:** "underneath the truth, something she would not say and he would not hear" — names the subtext, undermining it. Cut; end on "She said it the way she said things that were true."
-- **Lines 372–373:** The Dorenne/Sorren comparison chain is over-constructed. Keep only the mother comparison: "the way his mother had fixed the cold… one trickle at a time for twenty-three years."
+- **Lines 372–373:** The Dorenne/Sorren comparison chain is over-constructed. Keep only the mother comparison: "the way his mother had fixed the cold… one pool at a time for twenty-three years."
 - **Lines 101–102:** "his mother believed a growing boy needed more and a mother needed less" — end the sentence at "the last scraping always offered to Ash."
 
 ### 4. "Ambient Bleed" Arrives Unearned

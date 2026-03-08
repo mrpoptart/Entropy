@@ -10,7 +10,7 @@ The evening light caught the upper districts behind him, the grand facades still
 
 He passed a woman on the stairs between the third and fourth terraces. She was leaning against the wall, eyes closed, one hand pressed flat to the stone. Channeling — he could tell by the slight tightening around her mouth, the focused stillness. She was warming the wall. Not much. Enough for the apartments behind it to hold a little heat through the night. When she opened her eyes and saw him, she nodded, flexed her fingers, and kept going. The lines around her mouth stayed tight even after she stopped.
 
-In the upper districts, nobody stopped to warm a wall. They didn't need to — the maintenance teams handled it, the buildings held their heat, the system worked. Down here, a woman leaned against stone on her way home from work and spent part of what she had left to keep her neighbors warm. Ash thought about what that cost her — the calculations had been running in his head for two weeks now, the schedules and allocations that Dorenne's office tracked with colored overlays and daily briefs. What her trickle could sustain. What it couldn't. A fraction of a fraction, spent against a wall that would be cold again by morning.
+In the upper districts, nobody stopped to warm a wall. They didn't need to — the maintenance teams handled it, the buildings held their heat, the system worked. Down here, a woman leaned against stone on her way home from work and spent part of what she had left to keep her neighbors warm. Ash thought about what that cost her — the calculations had been running in his head for two weeks now, the schedules and allocations that Dorenne's office tracked with colored overlays and daily briefs. What her pool could sustain. What it couldn't. A fraction of a fraction, spent against a wall that would be cold again by morning.
 
 He trailed his hand along the stone as he passed. Still warm where she'd pressed. It would fade.
 
@@ -24,7 +24,7 @@ The door was open. It was always open.
 
 * * *
 
-The workshop was warm. Not channeled-warm — not the even, diffused heat of a stone room maintained by someone pouring their trickle into the walls. This was a different warmth: a small iron stove in the corner, wood-burning, the flue running up through a hole in the ceiling that Haran had cut himself. The heat collected in the low space and mixed with the smell of the work — metal, wood, the sharp tang of cut copper, the softer sweetness of beeswax and linseed oil. The warmth of the wall outside — the woman's contribution — was already a memory. This warmth would last until the wood ran out, and then someone would add more wood.
+The workshop was warm. Not channeled-warm — not the even, diffused heat of a stone room maintained by someone pouring their pool into the walls. This was a different warmth: a small iron stove in the corner, wood-burning, the flue running up through a hole in the ceiling that Haran had cut himself. The heat collected in the low space and mixed with the smell of the work — metal, wood, the sharp tang of cut copper, the softer sweetness of beeswax and linseed oil. The warmth of the wall outside — the woman's contribution — was already a memory. This warmth would last until the wood ran out, and then someone would add more wood.
 
 The tools were everywhere: hung on pegboards, standing in jars, laid across benches in arrangements that looked random until you watched Haran work and realized every piece was exactly where his hand expected it to be.
 
@@ -80,7 +80,7 @@ He waited for something. He wasn't sure what. Haran filed.
 
 Haran's hand paused. The file rested on the brass fitting. His eyes moved — not to Ash, but to the wall behind the second bench, where a shelf held a row of mechanical devices in various stages of completion. In the center of the row, mounted on a square of wood with a small tin plate beneath it to catch drips, sat a water pump.
 
-It was compact. Elegant, in the way that working things are elegant — no wasted material, no decorative flourish, every component shaped to its function. The brass had gone to a dull gold from kitchen steam. The crank was worn smooth where palms had gripped it. Ash had designed it over the course of a month, testing three different valve configurations before settling on the one that gave the best draw with the least effort. It ran without channeling. It ran without anyone's trickle. It drew water from a cistern to a basin with nothing more than a person's hand on the crank.
+It was compact. Elegant, in the way that working things are elegant — no wasted material, no decorative flourish, every component shaped to its function. The brass had gone to a dull gold from kitchen steam. The crank was worn smooth where palms had gripped it. Ash had designed it over the course of a month, testing three different valve configurations before settling on the one that gave the best draw with the least effort. It ran without channeling. It ran without anyone's pool. It drew water from a cistern to a basin with nothing more than a person's hand on the crank.
 
 Three of them were currently installed in homes in this district, in kitchens where the channeled water lift had stopped working and nobody had the reserves to restart it.
 
@@ -116,7 +116,7 @@ The workshop filled slowly, the way it always did in the evenings. Nobody announ
 
 Lenne came first. She ducked under the doorframe — a habit, not a necessity; she wasn't that tall — and crossed straight to the third bench, where a spring-loaded assembly sat waiting on a wooden block. She picked it up, examined it, frowned at the catch plate, and reached for a file before she'd taken off her coat.
 
-Her coat was damp at the shoulders. Full shift on the district maintenance crew, channeling seals and patches that her trickle could barely sustain. Her hands, when they wrapped around the file, were steadier than they'd been when she walked in.
+Her coat was damp at the shoulders. Full shift on the district maintenance crew, channeling seals and patches that her pool could barely sustain. Her hands, when they wrapped around the file, were steadier than they'd been when she walked in.
 
 "Haran," she said, not looking up. "The spring's too stiff."
 
@@ -212,7 +212,7 @@ He'd been working on it for a month. The idea had been in his head since last wi
 
 "You can't fix a system by asking people to use less," Haran had said. "People are people. Fix the system."
 
-So Ash was fixing the system. The timer would sit in the main distribution line and portion the flow — enough for everyone, all the time, without anyone needing to think about it. Without anyone needing to channel. A mechanism that managed a resource because the mechanism didn't get tired, didn't run low, didn't decide to spend its trickle on something more urgent.
+So Ash was fixing the system. The timer would sit in the main distribution line and portion the flow — enough for everyone, all the time, without anyone needing to think about it. Without anyone needing to channel. A mechanism that managed a resource because the mechanism didn't get tired, didn't run low, didn't decide to spend its pool on something more urgent.
 
 He picked up the escapement wheel and turned it between his fingers. Brass, hand-cut, the teeth filed to a precision that would have been trivial for a channeler shaping metal with their mind and was painstaking by hand. Each tooth had taken him twenty minutes. There were thirty-two teeth. He didn't let himself calculate the hours.
 
@@ -240,7 +240,7 @@ He didn't say anything for a long time. He just listened to the ticking — coun
 
 "That's clean work."
 
-Ash's chest expanded. Something that lived in the muscles of his hands and the ache in his back and the knowledge that this thing existed because he'd made it exist. Nobody channeled it into being. Nobody poured their trickle into shaping the metal or cutting the teeth. He'd done it with a file and a flame and nine years of learning how things fit together.
+Ash's chest expanded. Something that lived in the muscles of his hands and the ache in his back and the knowledge that this thing existed because he'd made it exist. Nobody channeled it into being. Nobody poured their pool into shaping the metal or cutting the teeth. He'd done it with a file and a flame and nine years of learning how things fit together.
 
 "Still need to calibrate it," he said. "Different for each installation."
 
@@ -294,7 +294,7 @@ As Haran straightened, the stove's iron door swung shut. Not pushed. Not touched
 
 Haran did these things the way a person breathed — without deciding to, without effort, without spending what Ash imagined a person spent when they channeled. As if the cost were so low, the control so refined, that the difference between doing it and not doing it was negligible.
 
-Ash had never asked about it. The workshop ran on an unspoken agreement: what Haran did with his trickle was his business. What mattered here was what your hands could do.
+Ash had never asked about it. The workshop ran on an unspoken agreement: what Haran did with his pool was his business. What mattered here was what your hands could do.
 
 "More tea?" Haran asked.
 
@@ -384,7 +384,7 @@ Behind him, below him, the workshop's light leaked into the alley — warm and u
 
 He wasn't aware of a choice being made, the way a person didn't notice a current when the river was only ankle-deep.
 
-On the shelf inside, the water pump sat where it always sat — the one running in three homes, the one that carried water uphill while people slept, the one he'd designed with his own hands and his own mind, the one that worked without channeling, without fuel, without anyone's trickle or anyone's table.
+On the shelf inside, the water pump sat where it always sat — the one running in three homes, the one that carried water uphill while people slept, the one he'd designed with his own hands and his own mind, the one that worked without channeling, without fuel, without anyone's pool or anyone's table.
 
 It worked in the dark. It worked alone.
 

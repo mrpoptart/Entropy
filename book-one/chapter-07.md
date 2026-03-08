@@ -74,7 +74,7 @@ The water heated. The kettle made a sound—not quite the same, the new stove's 
 
 She made tea. Three cups. She carried two of them to the table—slowly, the cane hooked over her forearm, refusing to spill even when her body was arguing with her about walking. His father took his cup and sat. Ash took his and stayed standing, watching her move, watching the cost of each step register in the tightness around her eyes and the set of her jaw.
 
-She sat down. She wrapped both hands around her cup—the way she'd always held a cup when the warmth mattered, when the heat coming through the ceramic was the heat she'd put there herself, her own trickle, her own effort, her own daily act of making a home warm.
+She sat down. She wrapped both hands around her cup—the way she'd always held a cup when the warmth mattered, when the heat coming through the ceramic was the heat she'd put there herself, her own pool, her own effort, her own daily act of making a home warm.
 
 "It's a good apartment," his father said.
 
@@ -106,7 +106,7 @@ She wrapped it in the singed curtain and set it back in the crate.
 
 "I know what the new place has."
 
-She reached deeper into the pile and pulled out the kettle. The iron one with the wooden handle wrapped in cord. The side was dented. The spout was bent. The base was warped from fifteen years of sitting on the channeling interface, her trickle flowing through the stone and into the metal every morning, warming the water with steady patience.
+She reached deeper into the pile and pulled out the kettle. The iron one with the wooden handle wrapped in cord. The side was dented. The spout was bent. The base was warped from fifteen years of sitting on the channeling interface, her pool flowing through the stone and into the metal every morning, warming the water with steady patience.
 
 She held it in both hands. Her thumbs moved across the dented surface, finding the familiar topography. She didn't say anything. She held it and her face was still and her eyes were bright and the morning light came through the stairwell window and fell across her hands and the kettle and the salvage of twenty-three years.
 
@@ -160,7 +160,7 @@ His father looked at him. The look held pride—enormous, genuine, the kind that
 
 Ash's mother served dinner. The new dishes, the new table—Dorenne's furnishing allocation, standard for relocated families, but nicer than standard because the Wellspring's family got the version of standard that came with attention. His mother ladled soup from the old pot, the one she'd carried down from the fifth floor herself, the one with the handle she'd re-riveted twice. She could have used the new pot. She used the old one.
 
-They ate. The food was the same. The kitchen was different. The windows let in the last of the evening light, and the heating lattice in the wall hummed at a steady, comfortable warmth that nobody in the family had provided—it came from the building's shared channeling system, maintained by the district's infrastructure crew. His mother's hands rested on the table between bites. They weren't channeling. They didn't need to be. Someone else's trickle was keeping the walls warm.
+They ate. The food was the same. The kitchen was different. The windows let in the last of the evening light, and the heating lattice in the wall hummed at a steady, comfortable warmth that nobody in the family had provided—it came from the building's shared channeling system, maintained by the district's infrastructure crew. His mother's hands rested on the table between bites. They weren't channeling. They didn't need to be. Someone else's pool was keeping the walls warm.
 
 * * *
 
@@ -192,7 +192,7 @@ His mother felt it first. Or she showed it first—Ash couldn't tell the differe
 
 "It's nice," Ash said.
 
-She didn't answer. She turned from the window and went to make tea, and she reached for the old kettle before she remembered it was in the cabinet, and she used the new copper one instead. The water boiled fast—the stove's channeling interface was well-maintained, responsive, nothing like the temperamental lattice in the old kitchen that his mother had nursed with her own trickle for years, learning its moods, compensating for its dead spots with the patient precision of a woman who knew that the only warmth her family could count on was the warmth she provided.
+She didn't answer. She turned from the window and went to make tea, and she reached for the old kettle before she remembered it was in the cabinet, and she used the new copper one instead. The water boiled fast—the stove's channeling interface was well-maintained, responsive, nothing like the temperamental lattice in the old kitchen that his mother had nursed with her own pool for years, learning its moods, compensating for its dead spots with the patient precision of a woman who knew that the only warmth her family could count on was the warmth she provided.
 
 The copper kettle whistled. She poured. She sat at the table with her tea and her cane propped against the chair and the quiet of the Third Terrace settling around her like something that was almost, but not quite, peace.
 
@@ -222,7 +222,7 @@ Her channeling was invisible. No glow, no surge, no dramatic display. Just the s
 
 She held her hands there for a long time. The cracks in the stone didn't heal—she couldn't undo structural damage—but the lattice stabilized. The temperature dropped from searing to warm to comfortable. The air cleared.
 
-Maren pulled her hands away. She flexed her fingers. The wince was small—a brief compression of her lips, the kind of expression that appeared and vanished in the same breath. She'd spent a significant portion of her daily trickle on the repair. More than she'd planned to spend.
+Maren pulled her hands away. She flexed her fingers. The wince was small—a brief compression of her lips, the kind of expression that appeared and vanished in the same breath. She'd spent a significant portion of her daily pool on the repair. More than she'd planned to spend.
 
 "Sorry," Ash said.
 
@@ -232,7 +232,7 @@ Maren pulled her hands away. She flexed her fingers. The wince was small—a bri
 
 "I know." She looked at the cracks in the wall. "I'll ask the building's maintenance crew about the stone. The lattice itself should be fine now."
 
-She left. Her footsteps in the hallway were even, unhurried, the steps of a person who had somewhere else to be and was already recalculating her day around the trickle she'd just spent. She didn't close the door harder than necessary. She didn't sigh. She didn't look back.
+She left. Her footsteps in the hallway were even, unhurried, the steps of a person who had somewhere else to be and was already recalculating her day around the pool she'd just spent. She didn't close the door harder than necessary. She didn't sigh. She didn't look back.
 
 Ash stood in the back room. The walls were warm. The cracks in the stone ran from the interface disc to the ceiling in thin, branching lines—a map of his excess, his overflow, the distance between what he intended and what his hands delivered. The room smelled like hot stone and ozone.
 
@@ -316,7 +316,7 @@ She opened the door. The hallway beyond was wide and smooth and quiet.
 
 She paused. Half-turned.
 
-He wanted to say something about the repairs. About her trickle, spent each evening on his mistakes. About the work she did that nobody mentioned over dinner, that their parents didn't see or chose not to comment on, that he recognized only in the aggregate—the apartment functioning, the systems holding, the cracks not spreading. He wanted to say he saw it. That he knew what it cost her.
+He wanted to say something about the repairs. About her pool, spent each evening on his mistakes. About the work she did that nobody mentioned over dinner, that their parents didn't see or chose not to comment on, that he recognized only in the aggregate—the apartment functioning, the systems holding, the cracks not spreading. He wanted to say he saw it. That he knew what it cost her.
 
 "See you tomorrow?"
 
@@ -364,13 +364,13 @@ Ash sat at the table. The apartment was quiet. The walls were warm. Everything i
 
 From the back room, the sound of the old chisel on wood. His father, still working. Still using the dented tools from the salvage crate.
 
-He didn't notice the pattern. He noticed the improvement. The working lattices, the reliable transit lift, the thick walls that held warmth without his mother spending her trickle each morning and evening to keep the cold out. The kitchen that smelled like dinner instead of twenty years of dinners. The windows with both panes intact.
+He didn't notice the pattern. He noticed the improvement. The working lattices, the reliable transit lift, the thick walls that held warmth without his mother spending her pool each morning and evening to keep the cold out. The kitchen that smelled like dinner instead of twenty years of dinners. The windows with both panes intact.
 
 This was what he'd wanted. A home that worked. A family that was safe. A life where the things that had been broken were replaced with things that weren't.
 
 He placed his palm flat on the table. The wood was cool and smooth under his hand. The reservoir behind his ribs pulsed—steady, vast, unchanged by a week of overloaded lattices and cracked stone and flooded kitchens. Unchanged by anything. The ocean inside him, patient and full, waiting for him to learn to use it.
 
-He would learn. He would get better. He would stop breaking things and start fixing them, the way his mother had fixed the cold in the old apartment one trickle at a time for twenty-three years. Except he wouldn't need twenty-three years.
+He would learn. He would get better. He would stop breaking things and start fixing them, the way his mother had fixed the cold in the old apartment one pool at a time for twenty-three years. Except he wouldn't need twenty-three years.
 
 He lifted his hand from the table. The wood held no mark, no warmth, no trace of the power that pressed against his palms. The apartment hummed around him—the lattice, the lighting, the water system, the building's quiet mechanical life—and he sat in the center of it and felt, for the first time since the activation, something close to home.
 

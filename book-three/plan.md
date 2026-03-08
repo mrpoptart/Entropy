@@ -15,7 +15,7 @@ Ash's personal journey and the world's journey converge: he experienced the loss
 - **Begins:** Clear-eyed, strategic, but grieving. He knows what needs to happen and what it will cost him personally. The fear of returning to zero — to the person he was before the Wellspring — is still present but he's learned to act despite it.
 - **Middle:** The work of building. Teaching, delegating, trusting. The hardest part: letting other people be imperfect at things he could do perfectly. Watching his power dwindle while the work isn't done yet.
 - **The Final Choice:** Spending the last of the reservoir on the work rather than on himself. Not a dramatic sacrifice — a deliberate, considered, deeply personal choice.
-- **After:** Ordinary life. No trickle, no reservoir, nothing. The same person he was before the Wellspring — except he's not the same at all. He has the relationships, the knowledge, the wisdom, and the hard-won peace.
+- **After:** Ordinary life. No pool, no reservoir, nothing. The same person he was before the Wellspring — except he's not the same at all. He has the relationships, the knowledge, the wisdom, and the hard-won peace.
 
 ## Key Emotional Beats
 - Letting someone else handle something he could do better — and it goes imperfectly, and that has to be okay
@@ -27,7 +27,7 @@ Ash's personal journey and the world's journey converge: he experienced the loss
 - The epilogue: ordinary life. Small joys. Nobody special. At peace.
 
 ## The Ending
-Ash is not celebrated, not martyred. He lives. He is ordinary — not even the normal trickle, but the same nothing he started with. The world he built works: imperfectly, humanly, but it works. And he is part of it, not above it.
+Ash is not celebrated, not martyred. He lives. He is ordinary — not even the normal pool, but the same nothing he started with. The world he built works: imperfectly, humanly, but it works. And he is part of it, not above it.
 
 The final image should be small, warm, and quiet. He is proof that the other side is livable.
 
@@ -56,13 +56,13 @@ Letting go of control. Ash watches people do things imperfectly that he could do
 
 Davan's despair spreads — people Ash needs pull back. Their credibility makes the despair contagious. Ash can't argue them down with logic; Davan's logic is sound.
 
-Davan takes a community. Still organizing, still charismatic, Davan gathers followers who believe in communistic sharing of remaining resources. They take a small area and run it their way: mandatory pooling of trickles, collective distribution, even a few elder channelers contributing their stronger power. It's the Levelers' philosophy in miniature.
+Davan takes a community. Still organizing, still charismatic, Davan gathers followers who believe in communistic sharing of remaining resources. They take a small area and run it their way: mandatory pooling of pools, collective distribution, even a few elder channelers contributing their stronger power. It's the Levelers' philosophy in miniature.
 
 Ash has to let them try. This is stewardship's hardest test — letting people choose a path you believe will fail. Controlling them would be the Book One answer.
 
-Haran's revelation. A crisis forces Haran to channel at full capacity. The old man reveals what he's been carrying: an elder-generation trickle of staggering power, refined through decades of the same efficiency technique Ash learned in Book Two. Haran didn't just choose restraint — he mastered power so thoroughly that his restraint was the most disciplined channeling in the city. This recontextualizes everything: the workbench wasn't retreat. It was the answer.
+Haran's revelation. A crisis forces Haran to channel at full capacity. The old man reveals what he's been carrying: an elder-generation pool of staggering power, refined through decades of the same efficiency technique Ash learned in Book Two. Haran didn't just choose restraint — he mastered power so thoroughly that his restraint was the most disciplined channeling in the city. This recontextualizes everything: the workbench wasn't retreat. It was the answer.
 
-Maren completes her arc. Her trickle continues weakening. Ash helps her not with Wellspring power but with the wisdom of twenty years of powerlessness. He teaches her how to live without the thing you built yourself on. His pre-Wellspring life — the thing he grieved — turns out to be the real gift.
+Maren completes her arc. Her pool continues weakening. Ash helps her not with Wellspring power but with the wisdom of twenty years of powerlessness. He teaches her how to live without the thing you built yourself on. His pre-Wellspring life — the thing he grieved — turns out to be the real gift.
 
 The reservoir enters critical range. Every expenditure is visibly noticeable. Each choice is a small death — a possible future he's choosing not to build.
 
@@ -74,7 +74,7 @@ The final expenditure: *(The exact nature is an open question — quiet and deli
 
 The moment he empties: quiet. The power is gone. The same nothing he woke up with every day for twenty years. The fear arrives. And it's survivable.
 
-Davan's community fails. The pooled trickles keep weakening, the shared resource shrinks. Davan's model distributed the decline equally rather than building past it. Ash — now ordinary and powerless — helps. He offers mechanical knowledge, organizational skill, connections. Davan watches the person who was right extend a hand without conditions.
+Davan's community fails. The pooled pools keep weakening, the shared resource shrinks. Davan's model distributed the decline equally rather than building past it. Ash — now ordinary and powerless — helps. He offers mechanical knowledge, organizational skill, connections. Davan watches the person who was right extend a hand without conditions.
 
 Dorenne's redemption. She lets go. She sees the building projects gaining traction, the proof-of-concept working, the networks spreading. She throws her institutional weight behind Ash's ideas — not as controller but as ally. Her organizational skill, political connections, and understanding of systems redirected from managing decline to enabling transition. The world is better for her change.
 

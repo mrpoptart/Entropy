@@ -23,7 +23,7 @@ Dorenne believes the decline can be managed through institutional optimization �
 ### Book Two — Righteous Force (The Levelers)
 *"The powerful are hoarding while the rest of us starve. Take it back."*
 
-A generational movement of younger channelers whose trickles are measurably weaker than their parents'. They argue — correctly — that the decline hits the powerless hardest, that the elder generation's stronger trickles represent an unjust advantage, and that the powerful (including and especially Ash) should be compelled to spend their magic for the common good.
+A generational movement of younger channelers whose pools are measurably weaker than their parents'. They argue — correctly — that the decline hits the powerless hardest, that the elder generation's stronger pools represent an unjust advantage, and that the powerful (including and especially Ash) should be compelled to spend their magic for the common good.
 
 The antagonism in Book Two is **systemic, not personal**. Ash isn't fighting one person — he's fighting the wrong answer at scale.
 
@@ -81,13 +81,13 @@ Ash's arc is the completion of that grief cycle: **acceptance** — not passive 
 ## The Movement: The Levelers
 
 ### Origin
-A generational coalition of younger channelers. Their generation's trickles are measurably weaker than their parents' — not by a little, but dramatically. They grew up being told to work harder, channel more efficiently, do more with less. They watched their parents' generation enjoy capabilities they would never have. The decline wasn't theoretical to them. It was the water they swam in.
+A generational coalition of younger channelers. Their generation's pools are measurably weaker than their parents' — not by a little, but dramatically. They grew up being told to work harder, channel more efficiently, do more with less. They watched their parents' generation enjoy capabilities they would never have. The decline wasn't theoretical to them. It was the water they swam in.
 
-The movement crystallizes around a simple, powerful argument: *the decline is not falling equally, and that's a choice the powerful are making.* Elder channelers with strong trickles are maintaining their quality of life while younger people struggle. The Wellspring — Ash — has more concentrated power than anyone in living memory. The system is hoarding, and the people at the bottom are paying for it.
+The movement crystallizes around a simple, powerful argument: *the decline is not falling equally, and that's a choice the powerful are making.* Elder channelers with strong pools are maintaining their quality of life while younger people struggle. The Wellspring — Ash — has more concentrated power than anyone in living memory. The system is hoarding, and the people at the bottom are paying for it.
 
 ### What They Want
 - The powerful should be compelled to spend their magic for public good — infrastructure, essential services, communal channeling
-- Elder channelers should be taxed (forced to contribute a portion of their daily trickle to public works)
+- Elder channelers should be taxed (forced to contribute a portion of their daily pool to public works)
 - The Wellspring's reservoir should be under collective direction, not individual control
 - Institutions that concentrate magical resources (including Dorenne's administration) should be dismantled and rebuilt with equal representation
 

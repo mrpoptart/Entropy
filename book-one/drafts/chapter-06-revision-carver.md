@@ -68,7 +68,7 @@ The room was already filling. Ash entered through a side door behind the platfor
 
 He watched the room fill.
 
-Council members in the front row. He recognized two: a heavy-set man with the silver chain of office who leaned toward the woman beside him and spoke behind his hand, and an older woman—elder generation, her trickle visible in the unconscious way she warmed the arms of her chair, the wood grain glowing faintly where her palms rested. Behind them, mid-level officials, institutional staff, faces he half-recognized from the Hall's corridors. The second row: press, or what passed for press in Solathis—correspondents from the broadsheet offices, their notebooks already open, their eyes already measuring.
+Council members in the front row. He recognized two: a heavy-set man with the silver chain of office who leaned toward the woman beside him and spoke behind his hand, and an older woman—elder generation, her pool visible in the unconscious way she warmed the arms of her chair, the wood grain glowing faintly where her palms rested. Behind them, mid-level officials, institutional staff, faces he half-recognized from the Hall's corridors. The second row: press, or what passed for press in Solathis—correspondents from the broadsheet offices, their notebooks already open, their eyes already measuring.
 
 Third row. His family.
 
@@ -290,7 +290,7 @@ The temporary housing was six blocks from the Hall, in a district Ash's family h
 
 His mother called it the new place the way she might call a borrowed coat warm—accurately, without ownership.
 
-Ash sat at the kitchen table while his father made tea. The kitchen was twice the size of the old one. The stove was channeling-operated, the kind that responded to a palm's touch, and his father used it without comment—his trickle, his father's daily budget, spent on heating water for his son. A small act. The kind that mattered.
+Ash sat at the kitchen table while his father made tea. The kitchen was twice the size of the old one. The stove was channeling-operated, the kind that responded to a palm's touch, and his father used it without comment—his pool, his father's daily budget, spent on heating water for his son. A small act. The kind that mattered.
 
 His father set a cup in front of him and sat across from him. He wrapped his hands around his own cup and looked at the steam. The kitchen's channeling strips hummed faintly—a sound Ash had never lived with, the background frequency of a home that worked properly. In the old apartment, silence had been actual silence. Here, even the quiet was powered.
 
@@ -312,13 +312,13 @@ The words landed in the kitchen like heat into stone.
 
 Ash sat with them. He didn't argue. He didn't reassure. He let his father's worry exist in the room beside his own, and for a moment the two of them sat in the temporary kitchen of the temporary home and held something they couldn't name.
 
-Ash drank. The tea was too hot and he let it burn his tongue rather than cool it with a thought. He could do that now—a pulse of cold, a thermal adjustment so small it would barely register on his reservoir. He didn't. The heat was his father's trickle. It would have felt like taking something.
+Ash drank. The tea was too hot and he let it burn his tongue rather than cool it with a thought. He could do that now—a pulse of cold, a thermal adjustment so small it would barely register on his reservoir. He didn't. The heat was his father's pool. It would have felt like taking something.
 
 "More tea?" his father asked.
 
 "Please."
 
-His father heated the water with his palm on the kettle. The small, deliberate expenditure of a man's daily trickle, offered without ceremony. Ash watched his father's hand on the metal and felt, for the first time, the precise shape of the distance between them—not the distance of magic and its absence, which was old and familiar, but a new distance, the kind that came from having too much of what someone you loved could barely afford.
+His father heated the water with his palm on the kettle. The small, deliberate expenditure of a man's daily pool, offered without ceremony. Ash watched his father's hand on the metal and felt, for the first time, the precise shape of the distance between them—not the distance of magic and its absence, which was old and familiar, but a new distance, the kind that came from having too much of what someone you loved could barely afford.
 
 * * *
 
@@ -400,7 +400,7 @@ She studied his face. She saw something—he could tell, because she always coul
 
 "Maren fixed it."
 
-"Maren didn't fix it well enough." She stood and crossed to him and straightened the collar with two quick pulls. Her fingers against his neck were cool from the evening air. She smelled like metal and the sharp tang of channeling—the residue of a day's work, her trickle spent on whatever her trade demanded, the ordinary expenditure of an ordinary life.
+"Maren didn't fix it well enough." She stood and crossed to him and straightened the collar with two quick pulls. Her fingers against his neck were cool from the evening air. She smelled like metal and the sharp tang of channeling—the residue of a day's work, her pool spent on whatever her trade demanded, the ordinary expenditure of an ordinary life.
 
 She stepped back. "Better. Still ridiculous."
 

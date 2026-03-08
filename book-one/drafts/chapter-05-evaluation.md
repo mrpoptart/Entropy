@@ -122,7 +122,7 @@ The most Ash line in any draft. Comic, endearing, the reflex of someone who's sp
 
 ### Carver
 - Cold open: drops us into the basement with no transition from the three-day gap. Needs 3-5 sentences of context (the Hearthkeeper and Lyricist both handle this better).
-- Vasra's explanation runs slightly long — the explanation of trickle mechanics could lose 2-3 sentences without losing clarity.
+- Vasra's explanation runs slightly long — the explanation of pool mechanics could lose 2-3 sentences without losing clarity.
 
 ### Hearthkeeper
 - Tessaril's name is too close to Tessaly from Chapter 2 — will create confusion.

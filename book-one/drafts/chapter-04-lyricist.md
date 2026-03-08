@@ -10,7 +10,7 @@ Three weeks in Dorenne's office had given him a vocabulary for what he was seein
 
 He took the stairs up. Fourth floor. Fifth. Past the Kerenyi apartment, where Mrs. Kerenyi was warming the hallway wall with her palm pressed flat, eyes half-closed, the habitual evening channeling that kept the corridor bearable through the cold nights. She nodded at him without opening her eyes. He nodded back, though she couldn't see it.
 
-The heating lattice on the third floor had been dead for four months. He'd watched his father test it twice — pressing his broad palm to the interface stone, channeling a careful pulse, getting nothing back. The lattice was supposed to distribute heat through the walls of the entire floor, a system laid down by builders whose trickles could have powered the whole building without noticing the expense. Now it sat in the walls like a fossil, intricate and inert.
+The heating lattice on the third floor had been dead for four months. He'd watched his father test it twice — pressing his broad palm to the interface stone, channeling a careful pulse, getting nothing back. The lattice was supposed to distribute heat through the walls of the entire floor, a system laid down by builders whose pools could have powered the whole building without noticing the expense. Now it sat in the walls like a fossil, intricate and inert.
 
 His parents' apartment was warm. His mother had been channeling the stove since she got home — the heat had spread into the kitchen and pushed tentatively into the sitting room, where his father sat in his chair with a mug of tea balanced on his knee. The familiar smell of the place: cooked grain, the mineral tang of heated stone, the faint sweetness of the wood polish his mother used on the table every week, which didn't require channeling and therefore fell to no one and everyone.
 
@@ -60,7 +60,7 @@ Dorenne arrived in a hired carriage, which she stepped out of with the efficient
 
 "You should write that up for the post-project report." She glanced at him. A brief warmth moved behind her eyes — not the strategic warmth she deployed in meetings, but something less managed. "You've done well with this, Ash."
 
-The channelers came next. Four of them — three men and a woman, all in their thirties and forties, with the compact efficiency of people who did structural work for a living. They carried no tools. Their tools were their hands and whatever was left in their trickles after the morning's commute and the day's accumulated expenditures of living. The team leader was a thick-armed man named Garren who assessed the building with one palm pressed flat to the cornerstone, eyes closed, the focused stillness of someone reading stress patterns through direct contact.
+The channelers came next. Four of them — three men and a woman, all in their thirties and forties, with the compact efficiency of people who did structural work for a living. They carried no tools. Their tools were their hands and whatever was left in their pools after the morning's commute and the day's accumulated expenditures of living. The team leader was a thick-armed man named Garren who assessed the building with one palm pressed flat to the cornerstone, eyes closed, the focused stillness of someone reading stress patterns through direct contact.
 
 "Foundation's worse than the filing says," he called up. "There's a shear line running north-south about three meters down. Original construction — someone fused this to the bedrock with technique we can't replicate anymore."
 
@@ -88,7 +88,7 @@ Ash stood beside Dorenne. The morning sun finally reached the street, and the bu
 
 The work was slow and physical in a way that made Ash think of his father.
 
-Not the channeling itself — that was invisible, internal, a matter of energy flowing through contact into stone. But the effort of it. The cost. Garren's team worked in pairs, one channeler reinforcing while the other monitored stress paths, swapping every twenty minutes when the lead's trickle started to thin. They didn't announce the swaps. They read each other — the slight hesitation in a gesture, the deeper breathing, the moment when the warmth bleeding off a channeler's hands shifted from focused precision to the diffuse heat of someone running inefficient.
+Not the channeling itself — that was invisible, internal, a matter of energy flowing through contact into stone. But the effort of it. The cost. Garren's team worked in pairs, one channeler reinforcing while the other monitored stress paths, swapping every twenty minutes when the lead's pool started to thin. They didn't announce the swaps. They read each other — the slight hesitation in a gesture, the deeper breathing, the moment when the warmth bleeding off a channeler's hands shifted from focused precision to the diffuse heat of someone running inefficient.
 
 Ash watched from the street, learning the language of structural channeling the way he'd learned everything — by observation, from the outside, through the glass wall of his own inability.
 
@@ -118,7 +118,7 @@ His father was at the window, looking down at the street where Dorenne's staff w
 
 "The lattice is next," Ash said. "Garren says they'll start on three this afternoon and work up to five by evening."
 
-His mother's eyes were bright. "The lattice," she said, and the word carried the weight of four months of cold hallways and extra blankets and her own trickle spent warming walls that should have warmed themselves.
+His mother's eyes were bright. "The lattice," she said, and the word carried the weight of four months of cold hallways and extra blankets and her own pool spent warming walls that should have warmed themselves.
 
 Ash went back downstairs. The pride was a physical thing — a fullness in his chest, a lightness in his step. For the first time, his position, his relationship with Dorenne, the weeks of schedules and deployment briefs and color-coded maps — all of it had translated into something he could see and touch. Warm stone under his hand. A sealed crack. His mother's face.
 
@@ -154,7 +154,7 @@ Dorenne was beside him. She'd moved without him noticing — fast, decisive, her
 
 A pause. The pause was the answer.
 
-"We're trying," Garren said. "But we've burned through most of our trickles on the reinforcement work. What we've got left — it's not enough to hold the full load path while we rebuild the balance. We need more hands. Or more time. We don't have either."
+"We're trying," Garren said. "But we've burned through most of our pools on the reinforcement work. What we've got left — it's not enough to hold the full load path while we rebuild the balance. We need more hands. Or more time. We don't have either."
 
 The building shuddered. Not the groan this time — a shudder, a full-body tremor that ran from foundation to roofline and knocked dust from every joint. A crack split the hallway ceiling, racing from the stairwell wall to the outer face in the time it took Ash to exhale.
 
@@ -182,7 +182,7 @@ He was already gone.
 
 He knew these stairs.
 
-Every step. Every landing. The place where the third-floor banister was loose, where you gripped the wall instead. The spot on four where the treads narrowed and you had to angle your feet. The way the stairwell darkened between three and four because the light lattice had failed last winter and nobody had the trickle to restart it.
+Every step. Every landing. The place where the third-floor banister was loose, where you gripped the wall instead. The spot on four where the treads narrowed and you had to angle your feet. The way the stairwell darkened between three and four because the light lattice had failed last winter and nobody had the pool to restart it.
 
 He took them three at a time. His legs drove him upward with the strength of a body that had climbed these stairs every day for twenty-three years — forty flights to the market district, forty back, every morning, every evening, because the transit lift didn't work for a man who couldn't channel. The building groaned around him and he climbed through the sound the way he'd climbed through everything in his life — physically, directly, because his body was the only tool he'd ever had.
 
@@ -216,7 +216,7 @@ Maren was kneeling beside their mother. Her hands were on the beam.
 
 She was channeling.
 
-Ash could see it in the way he'd learned to see it — not the energy itself, which was invisible, but the effort. The tension in her jaw. The slight tremor in her fingers. The heat coming off her hands — focused, directed, the controlled application of everything she had. She was trying to lift the beam. Not with her arms. With her trickle. Her palms pressed flat against the rough wood, her eyes closed, her lips moving slightly the way his mother's moved when she warmed the stove, that unconscious murmur of focus.
+Ash could see it in the way he'd learned to see it — not the energy itself, which was invisible, but the effort. The tension in her jaw. The slight tremor in her fingers. The heat coming off her hands — focused, directed, the controlled application of everything she had. She was trying to lift the beam. Not with her arms. With her pool. Her palms pressed flat against the rough wood, her eyes closed, her lips moving slightly the way his mother's moved when she warmed the stove, that unconscious murmur of focus.
 
 The beam shifted. A fraction of an inch. The stone above it scraped and resettled, and the beam dropped back to where it had been.
 
@@ -224,9 +224,9 @@ Maren opened her eyes. She channeled again. Harder. The heat coming off her hand
 
 The beam settled back.
 
-Her eyes opened. She looked at the beam, at their mother underneath it, at her own shaking hands. She channeled a third time. The heat was worse now — the air around her palms shimmered with it, the bleed-off of a trickle being driven to its floor. The beam moved — barely, a tremor, less than before. Her channeling was guttering. She was running out.
+Her eyes opened. She looked at the beam, at their mother underneath it, at her own shaking hands. She channeled a third time. The heat was worse now — the air around her palms shimmered with it, the bleed-off of a pool being driven to its floor. The beam moved — barely, a tremor, less than before. Her channeling was guttering. She was running out.
 
-She was the most skilled channeler her age. She'd scored highest in her cohort. She maximized every fraction of her trickle through discipline and precision and years of practice.
+She was the most skilled channeler her age. She'd scored highest in her cohort. She maximized every fraction of her pool through discipline and precision and years of practice.
 
 It wasn't enough.
 
@@ -254,7 +254,7 @@ Not enough. Not close.
 
 He pulled again. Every muscle in his body committed to the single act of lifting this piece of wood off his mother. His fingers were white on the grain. His vision narrowed to the point where his hands met the beam, the grain of the wood, the splinter that was digging into the heel of his right palm.
 
-He could feel his father behind him, wanting to help, held back by the angle of the space and the knowledge that two people couldn't fit where one was already failing. He could feel Maren beside him, her trickle spent, her hands still pressed uselessly to the beam because she couldn't bring herself to take them away.
+He could feel his father behind him, wanting to help, held back by the angle of the space and the knowledge that two people couldn't fit where one was already failing. He could feel Maren beside him, her pool spent, her hands still pressed uselessly to the beam because she couldn't bring herself to take them away.
 
 His mother was looking at him. He could see her face between his braced arms — the dust, the pain she wouldn't name, the fierce clarity of her eyes. She was watching her son try to save her with his body. The way he'd always done everything. The only way he could.
 
@@ -304,7 +304,7 @@ The bedroom wall cracked from floor to ceiling — a single, clean split that op
 
 The sound. He would remember the sound. Not the explosion — the aftermath. The low, sustained groan of a structure that had lost too many of its load paths and was searching, desperately, for a new way to stand. The building trying to hold itself together the way a wounded animal tries to hold itself upright — instinctive, failing, the effort itself accelerating the collapse.
 
-Then — a push. From outside. From below. The channelers on the second floor — Garren and Tessand and whoever else had stayed — poured everything they had left into the main structure. Ash felt it, or felt something, a counter-pressure that shored up the load paths his eruption had shattered. The building steadied. Not healed. Not stable. But standing. Held by the last dregs of four middle-generation trickles burning themselves dry to keep the walls from coming down on the families still inside.
+Then — a push. From outside. From below. The channelers on the second floor — Garren and Tessand and whoever else had stayed — poured everything they had left into the main structure. Ash felt it, or felt something, a counter-pressure that shored up the load paths his eruption had shattered. The building steadied. Not healed. Not stable. But standing. Held by the last dregs of four middle-generation pools burning themselves dry to keep the walls from coming down on the families still inside.
 
 The apartment was gutted.
 
@@ -330,9 +330,9 @@ He didn't know if he could. His arms felt strange — hot, tingling, as if the p
 
 Maren was at the door. She'd moved there — he didn't know when — and she was holding the frame, and her face was something he would carry for the rest of his life.
 
-Shock. Relief. The wild disorientation of someone whose brother — whose magicless, trickle-absent, dead-weight brother — had just detonated an apartment with more raw power than she'd produce in a year of channeling. Confusion that went deeper than the surface, that reached down into the bedrock of who she'd understood herself and her brother and their family to be, and found that bedrock split.
+Shock. Relief. The wild disorientation of someone whose brother — whose magicless, pool-absent, dead-weight brother — had just detonated an apartment with more raw power than she'd produce in a year of channeling. Confusion that went deeper than the surface, that reached down into the bedrock of who she'd understood herself and her brother and their family to be, and found that bedrock split.
 
-She'd felt it. As a channeler, she'd felt the Wellspring activate. Felt the scale of it — the pressure wave of energy that had passed through the building's stone like a shout through still air. Her hands were still shaking, and the shaking wasn't from her spent trickle. It was from what she'd felt in someone else.
+She'd felt it. As a channeler, she'd felt the Wellspring activate. Felt the scale of it — the pressure wave of energy that had passed through the building's stone like a shout through still air. Her hands were still shaking, and the shaking wasn't from her spent pool. It was from what she'd felt in someone else.
 
 "This way," she said. Her voice was level. Of course it was. She was Maren. She held together. She would hold together now and she would hold together later and at some point, when no one was watching, she would sit alone and try to understand what had happened to the architecture of her life, and Ash would not be there for that moment, and the not-being-there would be another thing he carried.
 
@@ -350,7 +350,7 @@ The building was finished.
 
 The street was chaos and order at once.
 
-Dorenne's staff had cleared the crowd back thirty paces. Neighbors stood in clusters, faces turned upward at the hole in the building's eastern face — the ragged wound where the apartment wall had been, through which they could see the fractured ceiling and the gray afternoon sky beyond. The channelers were on the ground. Garren was sitting against the building across the street, his head between his knees, his arms hanging loose at his sides. Empty. Spent to the floor. The others were in similar states — Tessand with her back against a lamp post, eyes closed, breathing the heavy, deliberate rhythm of someone who'd burned through their trickle and was feeling the absence in every cell.
+Dorenne's staff had cleared the crowd back thirty paces. Neighbors stood in clusters, faces turned upward at the hole in the building's eastern face — the ragged wound where the apartment wall had been, through which they could see the fractured ceiling and the gray afternoon sky beyond. The channelers were on the ground. Garren was sitting against the building across the street, his head between his knees, his arms hanging loose at his sides. Empty. Spent to the floor. The others were in similar states — Tessand with her back against a lamp post, eyes closed, breathing the heavy, deliberate rhythm of someone who'd burned through their pool and was feeling the absence in every cell.
 
 Ash came through the building's front entrance with his mother in his arms, and the street went quiet.
 
@@ -402,7 +402,7 @@ She was calculating.
 
 "Dorenne—"
 
-"I'll talk to Garren. His team will be compensated for the additional work and the injury risk. Their trickles will need a full day to recover. That's on my office."
+"I'll talk to Garren. His team will be compensated for the additional work and the injury risk. Their pools will need a full day to recover. That's on my office."
 
 She was protecting him. The orders — the housing, the compensation, the controlled narrative — were genuine care made operational. She was doing what she always did: translating concern into systems, turning emotion into logistics, solving the problem by managing the information. She was good at this. She was genuinely, deeply good at this, and the help was real.
 
@@ -468,7 +468,7 @@ He had to make it count.
 
 He didn't know yet what that meant. He didn't know what the power was or how it worked or what it would demand or where it ended. He only knew that his family's home was gone because of him and his mother was alive because of him and the two debts were written on the same line and the only way to balance them was forward.
 
-He stood in the street until someone — a staff member, one of Dorenne's — touched his elbow and guided him somewhere. Temporary housing. A bed in a room he'd never seen. A blanket someone had warmed with their trickle, the fabric still holding the heat of a stranger's hands.
+He stood in the street until someone — a staff member, one of Dorenne's — touched his elbow and guided him somewhere. Temporary housing. A bed in a room he'd never seen. A blanket someone had warmed with their pool, the fabric still holding the heat of a stranger's hands.
 
 He lay in the dark and felt the power humming in his blood and listened to it the way you listen to rain on a roof when you don't know yet whether it's the kind that waters the garden or the kind that brings the flood.
 

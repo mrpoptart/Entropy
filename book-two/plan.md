@@ -19,7 +19,7 @@ Ash knows his power is finite. The world's magic is visibly declining — no lon
 - An early attempt at sweeping change that seems to work — then collapses, warps, or creates dependency
 - Ash's power visibly failing or falling short — something he could have done easily in Book One now strains him
 - The world's decline becoming a public crisis — political factions emerging, social fractures, fear
-- Maren's arc intensifying — her trickle weakening, her competence shell beginning to crack
+- Maren's arc intensifying — her pool weakening, her competence shell beginning to crack
 - Conflict with people who don't want to be saved, or who want the Wellspring's power for their own ends
 - A relationship that forces Ash to see his own arrogance or savior complex
 - The temptation scene — genuinely difficult, not a simple moral test
@@ -34,11 +34,11 @@ Ash knows his power is finite. The world's magic is visibly declining — no lon
 - Maren's parallel arc is in motion
 
 ## External Conflict: The Levelers
-The primary antagonistic force is **the Levelers** — a generational movement of younger channelers whose trickles are measurably weaker than their parents'. They demand the powerful be compelled to spend their magic for the common good, and they view Ash's reservoir as the ultimate symbol of hoarding.
+The primary antagonistic force is **the Levelers** — a generational movement of younger channelers whose pools are measurably weaker than their parents'. They demand the powerful be compelled to spend their magic for the common good, and they view Ash's reservoir as the ultimate symbol of hoarding.
 
 - The movement is systemic, not personal — Ash fights the wrong answer at scale
 - Their diagnosis is correct (inequality is real, the powerful are hoarding) but their prescription fails (redistribution of a finite, declining resource doesn't build anything that works after magic is gone)
-- Led by **Davan** — a peer of Ash's age, from a weaker-trickle background, brilliant and charismatic. Someone Ash meets, genuinely respects, and ultimately breaks with.
+- Led by **Davan** — a peer of Ash's age, from a weaker-pool background, brilliant and charismatic. Someone Ash meets, genuinely respects, and ultimately breaks with.
 - Ash's relationship with the movement: initial sympathy → growing discomfort → painful public break when methods escalate
 - Dorenne represents the establishment position against the Levelers' populist energy — Ash is caught between institutional control and revolutionary force, rejecting both
 - Political and social upheaval as the decline accelerates and the movement gains power
@@ -50,23 +50,23 @@ The primary antagonistic force is **the Levelers** — a generational movement o
 
 ### ACT ONE — The Builder's Hubris
 
-Ash returns to the workshop. He's learned from Book One that spectacle wastes power. He and Haran design a plan: retrofit a failing district — one of the young/poor neighborhoods devastated by the earthquake — into a proof-of-concept for post-magic life. Mechanical water systems. Non-magical heating. Cooperative maintenance that doesn't depend on individual trickle strength. Wellspring power used to BUILD, not to maintain.
+Ash returns to the workshop. He's learned from Book One that spectacle wastes power. He and Haran design a plan: retrofit a failing district — one of the young/poor neighborhoods devastated by the earthquake — into a proof-of-concept for post-magic life. Mechanical water systems. Non-magical heating. Cooperative maintenance that doesn't depend on individual pool strength. Wellspring power used to BUILD, not to maintain.
 
 Dorenne wants him back — managing post-earthquake reconstruction, she offers a formal partnership. He turns it down but needs her institutional access. She gives him the failing district because it costs her little and lets her claim credit.
 
 The proof-of-concept takes shape. District workers are trained. Haran's decades of tinkering become blueprints. Ash is building rather than maintaining or performing for the first time. It starts working.
 
-Maren visits, proud of him — but visibly more tired than she should be. Her trickle is weakening faster than expected. She doesn't mention it.
+Maren visits, proud of him — but visibly more tired than she should be. Her pool is weakening faster than expected. She doesn't mention it.
 
 ### ACT TWO — The Collision
 
-The Levelers emerge from the earthquake's radicalization. Davan crystallizes the argument: the decline isn't falling equally. They want mandatory redistribution — elder trickles taxed, the Wellspring under collective direction.
+The Levelers emerge from the earthquake's radicalization. Davan crystallizes the argument: the decline isn't falling equally. They want mandatory redistribution — elder pools taxed, the Wellspring under collective direction.
 
 Ash meets Davan. Electric conversations — near-total agreement on diagnosis. For a stretch, they're allies in spirit.
 
 The proof-of-concept starts failing. Not dramatically — grindingly. Mechanical systems need maintenance skills people don't have yet. Ash reverts to fixing things himself, draining the reservoir faster than planned. The core lesson: he built the systems, but not the people. He's replaced one dependency with another.
 
-Maren's trickle drops noticeably. She can't maintain her professional standards. She snaps at Ash during a family dinner — the first crack in the competence shell.
+Maren's pool drops noticeably. She can't maintain her professional standards. She snaps at Ash during a family dinner — the first crack in the competence shell.
 
 The Levelers gain genuine political power. Ash is caught between agreement with their goals and recognition that their methods won't build anything lasting. Dorenne wants him to oppose them. He refuses.
 
@@ -105,7 +105,7 @@ End of Book Two: the Levelers have peaked and begun fragmenting. Davan is cracki
 ## Open Questions
 - How much time passes between Book One and Book Two? (Continuous or time gap?)
 - When does the public learn about the reservoir being finite?
-- What is Maren's specific career that's being threatened by her declining trickle?
+- What is Maren's specific career that's being threatened by her declining pool?
 - How does Ash's relationship with his parents evolve through Book Two?
 - Does Ash visit the rural community firsthand or receive reports?
 - What specific secondary characters emerge in the proof-of-concept district?

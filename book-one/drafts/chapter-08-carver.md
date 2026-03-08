@@ -142,7 +142,7 @@ He tried. The reservoir rose—immediately, abundantly, the way it always did wh
 
 "No." Haran's hand pressed slightly. "Less."
 
-Less was not a concept that translated. Less was like asking a river to be a trickle. He clenched the output down mentally and pushed—
+Less was not a concept that translated. Less was like asking a river to be a pool. He clenched the output down mentally and pushed—
 
 The pipe was warm under his hand. The wire on the spool smoked.
 
@@ -198,7 +198,7 @@ He went back to the pump. The cylinder head was fitted now; he was working the i
 
 Ash watched his hands.
 
-He'd been watching Haran work for years—every afternoon in this workshop, hundreds of hours of shared silence over problems and pipe and metal shavings. He'd seen Haran heat the workshop on cold days, light the third lamp with a wave, warm a cup of tea without reaching for the kettle. He'd always read those moments as utility—a man with a small trickle using it efficiently for small tasks.
+He'd been watching Haran work for years—every afternoon in this workshop, hundreds of hours of shared silence over problems and pipe and metal shavings. He'd seen Haran heat the workshop on cold days, light the third lamp with a wave, warm a cup of tea without reaching for the kettle. He'd always read those moments as utility—a man with a small pool using it efficiently for small tasks.
 
 He looked again.
 
@@ -210,7 +210,7 @@ He watched Haran pick up a lamp and light it with a gesture.
 
 The flame appeared at the wick and nowhere else. No surrounding warmth, no spread. Just the wick, lit, from a distance of half a meter.
 
-*That's not a small trickle*, Ash thought. *That can't be.*
+*That's not a small pool*, Ash thought. *That can't be.*
 
 He watched Haran work the manifold fitting. The old man's hands moved with the certainty of someone who didn't need to think about the motion—decades of the same work, the knowledge distributed through his body. But the channeling was happening alongside it, woven into it, not replacing it but augmenting at specific moments—warmth to loosen, a thread of force to hold alignment while both hands moved, a pulse of energy so small it barely registered.
 
@@ -220,9 +220,9 @@ Ash thought about the day Haran had told him the workshop heated itself on cold 
 
 He looked at the lamp. The clean flame. The zero waste.
 
-He thought: *How old is Haran? Late sixties. Maybe seventy. Elder generation. What does an elder's trickle look like?*
+He thought: *How old is Haran? Late sixties. Maybe seventy. Elder generation. What does an elder's pool look like?*
 
-The numbers arrived without effort. He'd learned to do math quickly since the activation—the Wellspring's scale had made quantities vivid in a way they hadn't been before. An elder with a strong trickle. Decades of formal training. Efficiency at master level.
+The numbers arrived without effort. He'd learned to do math quickly since the activation—the Wellspring's scale had made quantities vivid in a way they hadn't been before. An elder with a strong pool. Decades of formal training. Efficiency at master level.
 
 *He could have maintained a district.*
 
@@ -348,11 +348,11 @@ The lamp at the corner threw its circle of light. Enough to see by. Not more tha
 
 He started walking.
 
-The evening was cool. The Third Terrace was uphill and north, its transit lift already humming, its heating lattices already warming rooms against the night. His apartment would be warm when he got there. Maren had calibrated the lattice last week—a careful adjustment, a fraction of her daily trickle spent on precision—and it had held. It would still be holding.
+The evening was cool. The Third Terrace was uphill and north, its transit lift already humming, its heating lattices already warming rooms against the night. His apartment would be warm when he got there. Maren had calibrated the lattice last week—a careful adjustment, a fraction of her daily pool spent on precision—and it had held. It would still be holding.
 
 He thought about the pump. Still half-built. Still weeks from done.
 
-He thought about Haran's hands on the valve assembly—the small adjustments, the patience, the accumulated knowledge of ten thousand valves. He thought about the lamp lit cleanly from half a meter. The workshop warm without waste. The forty years of a strong trickle deployed in pulses too small to register as individual acts, adding up across decades into something that looked like restraint and was actually—
+He thought about Haran's hands on the valve assembly—the small adjustments, the patience, the accumulated knowledge of ten thousand valves. He thought about the lamp lit cleanly from half a meter. The workshop warm without waste. The forty years of a strong pool deployed in pulses too small to register as individual acts, adding up across decades into something that looked like restraint and was actually—
 
 He tried to find the right word for it.
 
@@ -378,7 +378,7 @@ Not for any reason he could have named. The stairs were there and his legs worke
 
 The reservoir was still full when he reached the landing.
 
-He stood for a moment in the hallway. The lattice hummed—even, steady, holding the warmth Maren had set it to. The lighting strips burned at their calibrated glow. Everything was working, the way everything in the Third Terrace worked: smoothly, reliably, maintained by people whose daily trickles went into systems too large for any one of them to see.
+He stood for a moment in the hallway. The lattice hummed—even, steady, holding the warmth Maren had set it to. The lighting strips burned at their calibrated glow. Everything was working, the way everything in the Third Terrace worked: smoothly, reliably, maintained by people whose daily pools went into systems too large for any one of them to see.
 
 He walked to the kitchen. The copper kettle was where he'd left it.
 

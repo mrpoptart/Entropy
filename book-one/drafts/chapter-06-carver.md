@@ -66,7 +66,7 @@ The room was already filling. Ash entered through a side door behind the platfor
 
 He watched the room fill.
 
-Council members in the front row. He recognized two: a heavy-set man with the silver chain of office who leaned toward the woman beside him and spoke behind his hand, and an older woman—elder generation, her trickle visible in the unconscious way she warmed the arms of her chair, the wood grain glowing faintly where her palms rested. Behind them, mid-level officials, institutional staff, faces he half-recognized from the Hall's corridors. The second row: press, or what passed for press in Solathis—correspondents from the broadsheet offices, their notebooks already open, their eyes already measuring.
+Council members in the front row. He recognized two: a heavy-set man with the silver chain of office who leaned toward the woman beside him and spoke behind his hand, and an older woman—elder generation, her pool visible in the unconscious way she warmed the arms of her chair, the wood grain glowing faintly where her palms rested. Behind them, mid-level officials, institutional staff, faces he half-recognized from the Hall's corridors. The second row: press, or what passed for press in Solathis—correspondents from the broadsheet offices, their notebooks already open, their eyes already measuring.
 
 Third row. His family.
 
@@ -122,7 +122,7 @@ He placed his palm on the stone.
 
 He pushed.
 
-The stone lit. Not the gradual progression of the calibration test—the yellow-orange-red crawl that meant a normal trickle finding its expression. This was immediate. The mineral turned white from the point of contact outward, the light spreading through its crystalline structure in a single pulse that reached the base of the brass cradle and radiated beyond it. The brass glowed. The table beneath the cradle glowed. The light was not the harsh, breaking intensity of his first test—he'd learned that much, at least—but it was enough. More than enough. The room filled with it. Not blinding, but present everywhere, a sourceless illumination that erased the shadows between the window bars and made the channeling strips in the walls look dim by comparison.
+The stone lit. Not the gradual progression of the calibration test—the yellow-orange-red crawl that meant a normal pool finding its expression. This was immediate. The mineral turned white from the point of contact outward, the light spreading through its crystalline structure in a single pulse that reached the base of the brass cradle and radiated beyond it. The brass glowed. The table beneath the cradle glowed. The light was not the harsh, breaking intensity of his first test—he'd learned that much, at least—but it was enough. More than enough. The room filled with it. Not blinding, but present everywhere, a sourceless illumination that erased the shadows between the window bars and made the channeling strips in the walls look dim by comparison.
 
 Heat followed. The waste—the energy that bled through his untrained channeling into the air instead of the stone—raised the temperature of the gallery in a single breath. Not uncomfortable. But noticeable. Every channeler in the room would feel it: the ambient shift, the thermal signature of power applied at a scale that had no reference point in their experience.
 
@@ -306,7 +306,7 @@ The temporary housing was six blocks from the Hall, in a district Ash's family h
 
 His mother called it the new place the way she might call a borrowed coat warm—accurately, without ownership.
 
-Ash sat at the kitchen table while his father made tea. The kitchen was twice the size of the old one. The stove was channeling-operated, the kind that responded to a palm's touch, and his father used it without comment—his trickle, his father's daily budget, spent on heating water for his son. A small act. The kind that mattered.
+Ash sat at the kitchen table while his father made tea. The kitchen was twice the size of the old one. The stove was channeling-operated, the kind that responded to a palm's touch, and his father used it without comment—his pool, his father's daily budget, spent on heating water for his son. A small act. The kind that mattered.
 
 "The neighbors have been coming by," his father said. He set a cup in front of Ash. "Not the old neighbors. The new ones. Introducing themselves."
 
@@ -314,7 +314,7 @@ Ash sat at the kitchen table while his father made tea. The kitchen was twice th
 
 "Mm." His father sat across from him. He wrapped his hands around his own cup and looked at the steam. "They're not introducing themselves. They're satisfying their curiosity. There's a difference, and they think I can't tell."
 
-Ash drank. The tea was too hot and he let it burn his tongue rather than cool it with a thought. He could do that now—a pulse of cold, a thermal adjustment so small it would barely register on his reservoir. He didn't. The heat was his father's trickle. It would have felt like taking something.
+Ash drank. The tea was too hot and he let it burn his tongue rather than cool it with a thought. He could do that now—a pulse of cold, a thermal adjustment so small it would barely register on his reservoir. He didn't. The heat was his father's pool. It would have felt like taking something.
 
 "Maren called this morning," his father said. "Three colleagues asked her about you before she reached her desk."
 
@@ -348,7 +348,7 @@ The words settled into the kitchen like heat into stone. Ash sat with them. He d
 
 "Please."
 
-His father heated the water with his palm on the kettle. The small, deliberate expenditure of a man's daily trickle, offered without ceremony. Ash watched his father's hand on the metal and felt, for the first time, the precise shape of the distance between them—not the distance of magic and its absence, which was old and familiar, but a new distance, the kind that came from having too much of what someone you loved could barely afford.
+His father heated the water with his palm on the kettle. The small, deliberate expenditure of a man's daily pool, offered without ceremony. Ash watched his father's hand on the metal and felt, for the first time, the precise shape of the distance between them—not the distance of magic and its absence, which was old and familiar, but a new distance, the kind that came from having too much of what someone you loved could barely afford.
 
 * * *
 
@@ -432,7 +432,7 @@ She studied his face. She saw something—he could tell, because she always coul
 
 "Maren fixed it."
 
-"Maren didn't fix it well enough." She stood and crossed to him and straightened the collar with two quick pulls. Her fingers against his neck were cool from the evening air. She smelled like metal and the sharp tang of channeling—the residue of a day's work, her trickle spent on whatever her trade demanded, the ordinary expenditure of an ordinary life.
+"Maren didn't fix it well enough." She stood and crossed to him and straightened the collar with two quick pulls. Her fingers against his neck were cool from the evening air. She smelled like metal and the sharp tang of channeling—the residue of a day's work, her pool spent on whatever her trade demanded, the ordinary expenditure of an ordinary life.
 
 She stepped back. "Better. Still ridiculous."
 

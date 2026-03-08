@@ -66,7 +66,7 @@ The Carver already has both Maren adjusting the collar and Ryn straightening it 
 
 - **The suit/collar motif** — borrowed authority, the collar as physical constraint, adjusted by three different women (Dorenne, Maren, Ryn) with three different meanings
 - **"It feels like a lot"** — Ash's most human moment in the chapter
-- **The father's tea** — choosing not to cool it because the heat was his father's trickle
+- **The father's tea** — choosing not to cool it because the heat was his father's pool
 - **"Everything. They'll want everything."** — the mother's defining line
 - **"Twenty-three years, and there were none"** — Maren's devastating backward look
 - **"Don't thank me for coming. Thank me for not asking you to glow"** — best Ryn line

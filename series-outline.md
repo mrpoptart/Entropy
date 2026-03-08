@@ -41,7 +41,7 @@ Dorenne begins directing him — genuine needs in struggling districts. The feel
 
 Ryn doesn't perform awe. She asks practical questions, treats the Wellspring as something that happened to him rather than who he is. He reads this as her not understanding. She's the only one who's right.
 
-**The Drift:** Dorenne's requests escalate to political deployments. He stops visiting the workshop. Stops visiting Ryn. Background details Ash ignores: declining trickles in farming regions, protests by younger channelers, the first seeds of the Levelers movement.
+**The Drift:** Dorenne's requests escalate to political deployments. He stops visiting the workshop. Stops visiting Ryn. Background details Ash ignores: declining pools in farming regions, protests by younger channelers, the first seeds of the Levelers movement.
 
 ### The Set Piece — The Earthquake
 
@@ -81,7 +81,7 @@ The aftermath: the city loves him. Dorenne's position is unassailable. Ash feels
 
 ### Act One — The Builder's Hubris
 
-**Ash returns to the workshop.** He's learned from Book One that spectacle wastes power. He wants to be strategic. He and Haran design a plan: retrofit a failing district — one of the young/poor neighborhoods devastated by the earthquake — into a proof-of-concept for post-magic life. Mechanical water systems. Non-magical heating. Cooperative maintenance that doesn't depend on individual trickle strength.
+**Ash returns to the workshop.** He's learned from Book One that spectacle wastes power. He wants to be strategic. He and Haran design a plan: retrofit a failing district — one of the young/poor neighborhoods devastated by the earthquake — into a proof-of-concept for post-magic life. Mechanical water systems. Non-magical heating. Cooperative maintenance that doesn't depend on individual pool strength.
 
 The key insight from Haran: use Wellspring power not to maintain (Dorenne's model) but to BUILD — permanent infrastructure that works without him. Catalytic expenditure, not ongoing subsidy.
 
@@ -89,11 +89,11 @@ The key insight from Haran: use Wellspring power not to maintain (Dorenne's mode
 
 **The proof-of-concept district takes shape.** He pours himself into it. Uses Wellspring power catalytically — building foundations, powering initial construction, creating conditions for mechanical systems to take over. Haran's decades of tinkering become blueprints. District workers are trained. For the first time, Ash is building rather than maintaining or performing. It starts working.
 
-**Maren, early signs.** She visits the project, proud of him. She's also visibly more tired than she should be — her trickle weakening faster than expected. Her career is becoming harder. She compensates with skill and effort, the way she always has. She doesn't mention it.
+**Maren, early signs.** She visits the project, proud of him. She's also visibly more tired than she should be — her pool weakening faster than expected. Her career is becoming harder. She compensates with skill and effort, the way she always has. She doesn't mention it.
 
 ### Act Two — The Collision
 
-**The Levelers emerge.** The earthquake's aftermath radicalized a generation. Young channelers who watched their districts collapse while elder neighborhoods held are organizing. Davan crystallizes their argument: the decline isn't falling equally, and the powerful — including Ash — are choosing who suffers. They want mandatory redistribution: elder trickles taxed for public works, the Wellspring's reservoir under collective direction.
+**The Levelers emerge.** The earthquake's aftermath radicalized a generation. Young channelers who watched their districts collapse while elder neighborhoods held are organizing. Davan crystallizes their argument: the decline isn't falling equally, and the powerful — including Ash — are choosing who suffers. They want mandatory redistribution: elder pools taxed for public works, the Wellspring's reservoir under collective direction.
 
 **Ash meets Davan.** Electric conversations. They agree on nearly everything — the inequality, the injustice, the establishment's denial. Two people of roughly equal intelligence from radically different experiences of the same broken world. Ash respects their brilliance, their organizing skill, their genuine selflessness. Davan respects Ash's lived experience of powerlessness. For a stretch, they're allies in spirit if not in method.
 
@@ -101,11 +101,11 @@ The key insight from Haran: use Wellspring power not to maintain (Dorenne's mode
 
 **The core lesson:** He built the systems, but he didn't build the people. The district depends on him the way it used to depend on channelers. He's replaced one form of dependency with another.
 
-**Maren's crisis deepens.** Her trickle drops noticeably. She can't maintain her professional standards. She doubles down — works longer, pushes harder, burns herself out trying to do with effort what she used to do with ease. She snaps at Ash during a family dinner — something small that reveals something huge. The first crack in the competence shell.
+**Maren's crisis deepens.** Her pool drops noticeably. She can't maintain her professional standards. She doubles down — works longer, pushes harder, burns herself out trying to do with effort what she used to do with ease. She snaps at Ash during a family dinner — something small that reveals something huge. The first crack in the competence shell.
 
 **The Levelers escalate.** Social pressure campaigns against "hoarders." Elder channelers publicly shamed. Institutions disrupted. The movement gains genuine political power — council seats, public support, moral authority. Ash is caught in the middle: he agrees with their goals, he can see their methods won't build anything lasting. Dorenne wants him to oppose them publicly. He refuses.
 
-**The break with Davan.** A specific incident: the Levelers coerce an elder channeler into a forced public expenditure — spending their trickle on a communal project until they collapse from exhaustion. It's presented as justice. Ash confronts Davan. Davan's response: *"What did you expect? You have an ocean of power. She had a cup. She can refill it tomorrow. You're asking the drowning to be patient while you decide which lifeboat to build."*
+**The break with Davan.** A specific incident: the Levelers coerce an elder channeler into a forced public expenditure — spending their pool on a communal project until they collapse from exhaustion. It's presented as justice. Ash confronts Davan. Davan's response: *"What did you expect? You have an ocean of power. She had a cup. She can refill it tomorrow. You're asking the drowning to be patient while you decide which lifeboat to build."*
 
 Ash walks away. The most powerful person alive, lecturing the powerless about patience. He can't adequately defend his position without sounding like every comfortable person who ever told the suffering to wait.
 
@@ -119,13 +119,13 @@ This isn't offered by a villain. It's a real, rational option. Haran may be the 
 
 **The temptation is genuine:** use the technique for preservation — slow the drain, hold the power, never go back to being that person. Not hoarding for selfishness; hoarding from terror of returning to nothing.
 
-**A rural community goes dark.** Word comes from outside the city: a farming region has crossed the threshold. Trickles so weak they can't sustain daily life. Crops failing. Healing impossible. The first community to fully lose magic. It's the preview of everyone's future.
+**A rural community goes dark.** Word comes from outside the city: a farming region has crossed the threshold. Pools so weak they can't sustain daily life. Crops failing. Healing impossible. The first community to fully lose magic. It's the preview of everyone's future.
 
 **The rural revelation:** The communities that survive are the ones that already adapted — tinkerer philosophy at community scale. Mechanical tools, cooperative labor. Crude, struggling, imperfect. Alive. The future isn't theoretical anymore.
 
 **The temptation is rejected — and reframed.** Not a dramatic speech. A quiet decision. He keeps building. He keeps spending. But he doesn't discard the efficiency technique — he applies it to his building work. Not preservation but capability. The technique lets him do more with each expenditure, stretch the remaining reservoir further, accomplish more per act of channeling. It transforms the temptation into a tool. The same discipline that could have extended his power indefinitely instead makes his remaining power more effective.
 
-This reframing also retroactively illuminates Haran: the old man who seems to use a fraction of his trickle isn't weak — he's mastered efficiency to an extraordinary degree. His decades of discipline with the technique are part of why he chose the workbench over the channeling hall. He wasn't running from power. He was refining it.
+This reframing also retroactively illuminates Haran: the old man who seems to use a fraction of his pool isn't weak — he's mastered efficiency to an extraordinary degree. His decades of discipline with the technique are part of why he chose the workbench over the channeling hall. He wasn't running from power. He was refining it.
 
 **The unspoken conversation with Maren.** The devastating, freeing reckoning with what it was like growing up on opposite sides of the gap. She admits the guilt — overachieving as apology, competence as penance for having what he didn't. He admits the grief — the private weight of every cheerful smile. They cry. Nothing external changes. Everything between them does.
 
@@ -174,15 +174,15 @@ This is harder than the earthquake. Harder than rejecting the temptation. Watchi
 
 Ash can't argue them down with logic. Davan's logic is sound. The plans ARE imperfect. His only counter is harder to articulate: that building in the face of uncertainty is itself the point. That an imperfect future is worth more than a perfect surrender.
 
-**Davan takes a community.** Davan, still organizing, still charismatic, gathers followers — people who believe in the communistic sharing of remaining resources rather than building for a post-magic future. They take a small district or settlement and run it their way: mandatory pooling of trickles, collective distribution, even convincing a few elder channelers to join and contribute their stronger power. It's the Levelers' philosophy in miniature, a sincere attempt to prove their model works.
+**Davan takes a community.** Davan, still organizing, still charismatic, gathers followers — people who believe in the communistic sharing of remaining resources rather than building for a post-magic future. They take a small district or settlement and run it their way: mandatory pooling of pools, collective distribution, even convincing a few elder channelers to join and contribute their stronger power. It's the Levelers' philosophy in miniature, a sincere attempt to prove their model works.
 
 Ash has to let them try. This is stewardship's hardest test — letting people choose a path you believe will fail, because the alternative is becoming Dorenne. Controlling them would be the Book One answer. He lets them go.
 
-**Haran's revelation.** A crisis forces Haran to channel at full capacity. The old man who's been lighting lamps with casual flicks reveals what he's actually been carrying: an elder-generation trickle of staggering power, refined through decades of practicing the same efficiency technique Ash learned in Book Two. Haran didn't just choose to stop relying on magic — he mastered it so thoroughly that his restraint was the most disciplined channeling in the city.
+**Haran's revelation.** A crisis forces Haran to channel at full capacity. The old man who's been lighting lamps with casual flicks reveals what he's actually been carrying: an elder-generation pool of staggering power, refined through decades of practicing the same efficiency technique Ash learned in Book Two. Haran didn't just choose to stop relying on magic — he mastered it so thoroughly that his restraint was the most disciplined channeling in the city.
 
 Ash stares at the man who had every option and picked the one that helped other people the most. Haran's choice — eccentric in Book One, principled in Book Two — now looks like the answer to every question Ash has been asking. This is what power looks like when it's not the point.
 
-**Maren completes her arc.** Her trickle continues weakening. The career she built, the identity she constructed — all failing. Ash helps her, not with Wellspring power but with the wisdom he earned in twenty years of powerlessness. He teaches her what no one else can: how to live without the thing you built yourself on. How to discover that you were always more than what you could do.
+**Maren completes her arc.** Her pool continues weakening. The career she built, the identity she constructed — all failing. Ash helps her, not with Wellspring power but with the wisdom he earned in twenty years of powerlessness. He teaches her what no one else can: how to live without the thing you built yourself on. How to discover that you were always more than what you could do.
 
 This is where his pre-Wellspring life — the thing he grieved, the thing he was ashamed of — turns out to be the real gift. Twenty years of powerlessness gave him exactly what the world now needs: someone who knows how to live on the other side.
 
@@ -196,7 +196,7 @@ This is where his pre-Wellspring life — the thing he grieved, the thing he was
 
 The moment he empties: the power is gone. Not diminished. Gone. The same nothing he woke up with every day for twenty years. The fear he's carried since Book One — the terror of being that person again — arrives. And it's survivable. It's painful, and it's survivable.
 
-**Davan's community fails.** The communistic model runs out of ground — the pooled trickles keep weakening, the elder contributors decline, the shared resource shrinks until there's nothing left to share. Davan's model did exactly what Ash predicted: it distributed the decline equally rather than building past it.
+**Davan's community fails.** The communistic model runs out of ground — the pooled pools keep weakening, the elder contributors decline, the shared resource shrinks until there's nothing left to share. Davan's model did exactly what Ash predicted: it distributed the decline equally rather than building past it.
 
 Ash does not gloat. He helps. Now ordinary and powerless, he offers what he can — mechanical knowledge, organizational skill, connections to the building networks. Davan's people are welcomed into the broader transition framework. Davan watches the person who was right — who is now powerless, ordinary, exactly the person Davan fears becoming — extend a hand without conditions.
 
@@ -234,7 +234,7 @@ Book One: antagonist (control). Book Two: uneasy collaborator, diminished as dir
 Absent from Book One (the Levelers exist only as seeds). Book Two: introduced as Ash's intellectual equal and spiritual ally, then adversary. Book Three: broken by failure, embodying despair, given a community to test their model, watches it fail, remains unresolved. The cost of the story.
 
 ### Maren's Parallel Arc
-Runs quietly through all three books. Book One: surface competence, unspoken guilt. Book Two: trickle weakening, competence shell cracking, the unspoken conversation. Book Three: finds her own post-magic identity with Ash's help. Her arc is the intimate version of the world's arc.
+Runs quietly through all three books. Book One: surface competence, unspoken guilt. Book Two: pool weakening, competence shell cracking, the unspoken conversation. Book Three: finds her own post-magic identity with Ash's help. Her arc is the intimate version of the world's arc.
 
 ### Ryn as Anchor
 Book One: shut out during the drift. Book Two: reconnected, truth-teller, grounds Ash in ordinary experience. Book Three: present, steady, the destination he was always heading toward. The romance emerges at the end — not because she changed, but because he finally believes he deserves it. She always saw him as whole; he's the one who had to catch up. She represents what Ash is fighting to get back to: a life where ordinary connection matters more than extraordinary ability.

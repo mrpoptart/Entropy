@@ -11,17 +11,17 @@
 
 ### Magic System ✓
 - Magic is a finite planetary resource that's been declining for generations (it was never meant to last)
-- Everyone draws a small renewable daily "trickle" from the planetary reservoir — channeled through hands, voice, intent
-- Trickles are weakening generationally: older people are literally more powerful than younger people
+- Everyone draws a small renewable daily "pool" from the planetary reservoir — channeled through hands, voice, intent
+- Pools are weakening generationally: older people are literally more powerful than younger people
 - The Wellspring is a singular, unprecedented anomaly — one individual born with an enormous finite non-renewable reservoir that was dormant since birth. There are no historical Wellsprings; this has never happened before and will never happen again
 - Using Wellspring power has no cost other than losing the power itself
-- Ash was born with NO magical ability (not even the trickle) before becoming a Wellspring
+- Ash was born with NO magical ability (not even the pool) before becoming a Wellspring
 
 ### World ✓
 - Modern-equivalent civilization built on magic rather than technology
 - Magic is personal and bodily — no automated magical infrastructure, everything requires active channeling
 - The decline parallels climate change: uneven impact, political factions (denialists, preservationists, accelerationists, technologists, authoritarians), generational conflict, institutional failure
-- The generational power gap IS generational wealth made physical — older people have stronger trickles and have built systems that benefit them
+- The generational power gap IS generational wealth made physical — older people have stronger pools and have built systems that benefit them
 - Non-magical technology is emerging as a response to the decline, carrying social stigma
 - Primary setting: **Solathis** — a grand city named for its reluctant founder, stratified by generational magical power, fraying at the edges
 - Rural communities are hit hardest but are also inventing the future through necessity
@@ -38,7 +38,7 @@
 
 ### Maren ✓
 - ~2 years younger, lives in the same city
-- Normal trickle, highly skilled channeler
+- Normal pool, highly skilled channeler
 - Overachiever driven by unspoken guilt over having the magic her brother didn't get
 - Built her identity on competence; has never permitted herself to struggle
 - Full parallel arc across the trilogy: faces her own version of losing the thing she built on
@@ -58,9 +58,9 @@
 
 ### The Tinkerer Mentor ✓
 - Male, late 60s to early 70s, runs a workshop in a poorer district
-- Has a strong elder-generation trickle but chose decades ago to stop relying on magic
+- Has a strong elder-generation pool but chose decades ago to stop relying on magic
 - Saw the decline coming and built a life and career on non-magical mechanisms
-- Not a purist — still uses his trickle practically — but his identity doesn't depend on it
+- Not a purist — still uses his pool practically — but his identity doesn't depend on it
 - Patient, dry-humored, teaches by doing, expresses care through attention and shared work
 - Ash's philosophical anchor and the living proof that identity beyond power is reachable
 - Steady presence across the trilogy, not a character who needs his own dramatic arc
@@ -76,7 +76,7 @@
 
 ### Ryn ✓
 - Female, same age as Ash, grew up on the same street
-- Normal trickle, competent channeler — not exceptional, not struggling
+- Normal pool, competent channeler — not exceptional, not struggling
 - The only person who refuses to treat the Wellspring as the most interesting thing about him
 - Represents the road not taken (ordinary life) and serves as the truth-teller
 - Their friendship is strained by his drift into power and tested by reconnection
@@ -100,7 +100,7 @@ The character foundation and thematic structure are strong. The books now need e
 - ~~Name the city~~ ✓ Done — **Solathis**, named for Edrin Solath, the quartermaster who stayed and rebuilt after the final battle.
 - ~~Sketch the geography~~ ✓ Done — Kharren Fault, Hearthlands, Ashward Ridge, Verandhi Coast, Verenthi Range. Full geographic summary with distances and travel.
 - ~~Develop history and mythology~~ ✓ Done — Gift/Loan/Cycle origin traditions, Ancient generation and ruins, recorded history (High Age → Transition → Long Diminishment → Present), no Wellspring prophecies (unprecedented).
-- ~~Detail the economy and political structures~~ ✓ Done — Trickle-based economy, seven major industries, currency/wealth dimensions, City Council governance, warden-based law enforcement, expanded political factions.
+- ~~Detail the economy and political structures~~ ✓ Done — Pool-based economy, seven major industries, currency/wealth dimensions, City Council governance, warden-based law enforcement, expanded political factions.
 - ~~Flesh out daily life vignettes~~ ✓ Done — Four vignettes: elder in upper districts, middle-generation worker, young adult in lower districts, person without magic (pre-Wellspring Ash). All in worldbuilding.md.
 
 ### Priority 4: Book One Outline ✓

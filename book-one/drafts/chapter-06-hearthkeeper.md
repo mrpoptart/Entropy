@@ -24,7 +24,7 @@ She was standing behind him, assessing. Not the jacket—him. The way he held hi
 
 He waited.
 
-"They're going to want to touch you. Handshakes, shoulder-clasps, the resonance greeting. People will reach for your hand and try to feel your trickle—it's instinct, it's how they calibrate someone new. You cannot reciprocate. If you push even a thread of what you carry into a casual handshake, you'll—"
+"They're going to want to touch you. Handshakes, shoulder-clasps, the resonance greeting. People will reach for your hand and try to feel your pool—it's instinct, it's how they calibrate someone new. You cannot reciprocate. If you push even a thread of what you carry into a casual handshake, you'll—"
 
 "Burn someone's hand off."
 
@@ -88,7 +88,7 @@ A pause. The room settled.
 
 Ash listened from behind the curtain. Her voice was precise and unhurried. She described the building assessment—not the full truth, not the near-collapse and the rubble and his mother's blood, but a version that was accurate in its outlines and strategic in its emphasis. An infrastructure team working on a residential building. A member of her staff present at the site. An activation event of extraordinary magnitude.
 
-"The individual in question has been assessed by our examination team and by Scholar Vasra, who has studied channeling theory for forty years. Their findings are consistent: we are dealing with a channeling reservoir of a scale that has no precedent in recorded measurement. Scholar Vasra has used the term 'Wellspring'—a deep source, not a standard trickle. The metaphor is apt."
+"The individual in question has been assessed by our examination team and by Scholar Vasra, who has studied channeling theory for forty years. Their findings are consistent: we are dealing with a channeling reservoir of a scale that has no precedent in recorded measurement. Scholar Vasra has used the term 'Wellspring'—a deep source, not a standard pool. The metaphor is apt."
 
 She paused again. The silence in the hall had changed—it had weight now, the density of people holding their breath.
 
@@ -168,7 +168,7 @@ The questions continued for twenty minutes. Dorenne fielded most of them—turni
 
 Ash stood beside her and watched the room watch him.
 
-He could feel it—the calculation. Not hostile, not even unkind, but present in the way that gravity is present. Every person in the hall was running a version of the same equation: what does this mean for me? The Council members were thinking about political leverage. The scholars were thinking about precedent and measurement. The journalists were thinking about the story—the dead weight who became a Wellspring, the impossible reversal, the angle that would make their readers lean forward. The maintenance workers along the walls were thinking about their districts, their buildings, the systems they poured their trickles into every day for diminishing returns.
+He could feel it—the calculation. Not hostile, not even unkind, but present in the way that gravity is present. Every person in the hall was running a version of the same equation: what does this mean for me? The Council members were thinking about political leverage. The scholars were thinking about precedent and measurement. The journalists were thinking about the story—the dead weight who became a Wellspring, the impossible reversal, the angle that would make their readers lean forward. The maintenance workers along the walls were thinking about their districts, their buildings, the systems they poured their pools into every day for diminishing returns.
 
 Everyone was thinking about what he could do. Nobody was thinking about him.
 

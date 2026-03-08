@@ -19,7 +19,7 @@ This is a **revision**, not a fresh draft. Both versions revise the existing Cha
 | #9 Redundant walk-home paragraph | ✅ Cut | ✅ Cut |
 | #10 POV tense fix (river metaphor) | ✅ Fixed | ✅ Fixed |
 | #11 "Not because of what you poured into it" | ✅ Cut | ✅ Cut |
-| #12 "A young adult's trickle" fix | ✅ Replaced with felt cost | ✅ Replaced with felt cost |
+| #12 "A young adult's pool" fix | ✅ Replaced with felt cost | ✅ Replaced with felt cost |
 | #13 Smile motif connection | ✅ Added after Tal scene | ✅ Added after Tal scene |
 | #14 Physical bridging object | ✅ Deployment brief on bench | ✅ Deployment brief on bench |
 | #15 Workshop history lead-in | ✅ Trimmed — memory does the work | ✅ Trimmed — memory does the work |
@@ -70,7 +70,7 @@ Cuts cleanly from the Haran broom scene to the river metaphor to the pump-shelf 
 **1. The sensory echo:**
 > He touched the stone where she had pressed. The warmth was still there — fading, thin, already losing its argument with the evening air. By midnight it would be gone. By dawn the stone would be as cold as if she'd never stopped.
 
-Then later in the workshop: "The woman on the stairs had spent her trickle to warm a wall that would forget her by morning. The stove would burn until the wood ran out, and then someone would add more wood, and the warmth would continue because someone tended it."
+Then later in the workshop: "The woman on the stairs had spent her pool to warm a wall that would forget her by morning. The stove would burn until the wood ran out, and then someone would add more wood, and the warmth would continue because someone tended it."
 
 This is the richest execution of the echo across both drafts. The contrast between expendable and renewable warmth is thematically loaded and never stated.
 
@@ -105,7 +105,7 @@ Personification of the object — warmer, more playful than the Carver's "artifa
 
 **1. Torren's stool passage lingers.** "Each evening brought the finish line half a step nearer, and each morning it retreated by a quarter, and the net progress was so slow that only a man who measured satisfaction in fractions could endure it." — This is precisely the kind of narrative editorializing the revision was supposed to cut. It's well-written but violates the trim mandate.
 
-**2. The wall-warmth passage is long.** The sensory echo is the best across both drafts, but "losing its argument with the evening air" is a personification that tips toward the Hearthkeeper's tendency to overserve imagery. The echo in Scene 2 ("The woman on the stairs had spent her trickle...") is a full paragraph — effective but heavy for a passage that's supposed to be background texture.
+**2. The wall-warmth passage is long.** The sensory echo is the best across both drafts, but "losing its argument with the evening air" is a personification that tips toward the Hearthkeeper's tendency to overserve imagery. The echo in Scene 2 ("The woman on the stairs had spent her pool...") is a full paragraph — effective but heavy for a passage that's supposed to be background texture.
 
 **3. Lenne's arrival is too detailed.** "Her coat slid down her arm and pooled on the bench beside her. She didn't notice." — While vivid, this level of close observation of a secondary character risks shifting the POV focus. The Carver handled this more efficiently.
 

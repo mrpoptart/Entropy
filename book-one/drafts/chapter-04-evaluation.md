@@ -55,7 +55,7 @@
 
 **Hearthkeeper (8/10).** Generally strong. The crew leader's "stable the way a stack of books is stable — don't bump the table" is excellent worldbuilding through natural speech. However, the Hearthkeeper occasionally slides into exposition about how the magic works in a way the style guide specifically warns against.
 
-**Lyricist (9/10).** The shear line detail — original builders fusing the building to the bedrock — is the most specific and convincing worldbuilding detail across drafts. The channelers swapping every twenty minutes when their trickles thin is magic shown through observed labor, exactly as the style guide prescribes.
+**Lyricist (9/10).** The shear line detail — original builders fusing the building to the bedrock — is the most specific and convincing worldbuilding detail across drafts. The channelers swapping every twenty minutes when their pools thin is magic shown through observed labor, exactly as the style guide prescribes.
 
 ### 6. Continuity
 
@@ -143,7 +143,7 @@ The Carver should serve as the foundation draft. It is the closest to the establ
 
 1. **From the Hearthkeeper: the mother's "Let me have this."** Replace the Carver's parent-telling scene with the Hearthkeeper's approach. This is the single best character moment across all drafts.
 
-2. **From the Lyricist: the closing image.** Replace the Carver's final paragraphs with the Lyricist's closing — the temporary housing, the blanket warmed by a stranger's trickle, and the rain-on-the-roof metaphor. This gives forward momentum into Chapter 5.
+2. **From the Lyricist: the closing image.** Replace the Carver's final paragraphs with the Lyricist's closing — the temporary housing, the blanket warmed by a stranger's pool, and the rain-on-the-roof metaphor. This gives forward momentum into Chapter 5.
 
 3. **From the Lyricist: Dorenne's "we" line.** Add the "We'll figure it out" beat with its analysis of the word "we" — seeds the patron arc more effectively.
 

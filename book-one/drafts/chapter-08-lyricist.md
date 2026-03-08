@@ -28,7 +28,7 @@ He had his back to the door—always, always at the bench when Ash arrived, like
 
 "Hm."
 
-Ash came to the bench. He looked at the pump. He knew the type—a mechanical lifter for buildings whose district water system had developed pressure drop. The kind of infrastructure problem that used to be solved with a channeler pushing energy into the mains, which used to be simple, which was becoming less simple every year as fewer channelers had enough trickle to spare and more buildings needed the boost. A mechanical pump cost more upfront and required no channeling to operate. This was the point. This was exactly the kind of thing the workshop built.
+Ash came to the bench. He looked at the pump. He knew the type—a mechanical lifter for buildings whose district water system had developed pressure drop. The kind of infrastructure problem that used to be solved with a channeler pushing energy into the mains, which used to be simple, which was becoming less simple every year as fewer channelers had enough pool to spare and more buildings needed the boost. A mechanical pump cost more upfront and required no channeling to operate. This was the point. This was exactly the kind of thing the workshop built.
 
 "Whose is it?"
 
@@ -168,7 +168,7 @@ The ovaling hadn't disappeared. But the seat was true—he'd worked with the hou
 
 "None. I didn't—" Ash stopped. Obvious. "None."
 
-"That's the difficulty, then." Haran set the housing aside. "Everyone else who receives this amount of power has trained for it. They've been learning control at the scale of their trickle, and the trickle grows slowly. Your hands know precision." He tapped the bench—once, a demonstration. "The power doesn't know anything yet."
+"That's the difficulty, then." Haran set the housing aside. "Everyone else who receives this amount of power has trained for it. They've been learning control at the scale of their pool, and the pool grows slowly. Your hands know precision." He tapped the bench—once, a demonstration. "The power doesn't know anything yet."
 
 * * *
 
@@ -178,11 +178,11 @@ He expected a lesson in restraint. A technique for pulling back, for damping the
 
 What Haran did instead was channel something.
 
-It was a small thing. He picked up a pipe fitting from the rack—a compression fitting, threaded interior, the kind that needed careful seating—and he held it up between two fingers and let a thread of his trickle flow into the fitting's collar.
+It was a small thing. He picked up a pipe fitting from the rack—a compression fitting, threaded interior, the kind that needed careful seating—and he held it up between two fingers and let a thread of his pool flow into the fitting's collar.
 
 Ash felt the hair on his arms rise.
 
-It wasn't the amount. It was the quality—the surgical exactness of it, the way Haran's trickle moved into the fitting like water finding a level, no more than needed, shaped to the task. There was no waste. No ambient warmth, no spillover, no bleed into the surrounding air. The thread went in and the thread did its work and the thread stopped.
+It wasn't the amount. It was the quality—the surgical exactness of it, the way Haran's pool moved into the fitting like water finding a level, no more than needed, shaped to the task. There was no waste. No ambient warmth, no spillover, no bleed into the surrounding air. The thread went in and the thread did its work and the thread stopped.
 
 "Micro-pulse," Haran said. "Short. Targeted. You stop before the effect completes and assess." He handed Ash the fitting. "The fit you're trying to achieve exists at the end of seven such pulses, not one." He paused. "Or forty. The number doesn't matter. What matters is that you can feel where you are after each one."
 
@@ -250,13 +250,13 @@ When Haran finished a section of the pump and set a fitting with a soft, precise
 
 Every lamp in the workshop that Haran had lit that afternoon—and he'd lit three, as the light shifted—lit with the same casual thread. No pause. No expenditure of attention. Just a hand raised and a lamp answering.
 
-Ash had seen this as Haran conserving. Being careful. Doling out a meager trickle in miserly portions because he didn't have much to work with.
+Ash had seen this as Haran conserving. Being careful. Doling out a meager pool in miserly portions because he didn't have much to work with.
 
-*He has a strong trickle.*
+*He has a strong pool.*
 
 The understanding came in and rearranged everything around it the way a key rearranged a lock.
 
-Not a weak trickle, handled efficiently. A *strong* trickle, trained to such radical precision over so many decades that efficiency had become invisible—not a choice made in each moment, but a habit so deep it had become reflex. Every small act Haran performed was the output of fifty years of practice. The warmth in the workshop was not the ambient temperature of a winter afternoon—Haran had been channeling, constantly, in micro-pulses so controlled they registered as room temperature. The lamps were not lit because the lattice happened to be working. They were lit because Haran had lit them with the part of his attention you used to breathe.
+Not a weak pool, handled efficiently. A *strong* pool, trained to such radical precision over so many decades that efficiency had become invisible—not a choice made in each moment, but a habit so deep it had become reflex. Every small act Haran performed was the output of fifty years of practice. The warmth in the workshop was not the ambient temperature of a winter afternoon—Haran had been channeling, constantly, in micro-pulses so controlled they registered as room temperature. The lamps were not lit because the lattice happened to be working. They were lit because Haran had lit them with the part of his attention you used to breathe.
 
 Ash stood at the bench with a gear casing in his hand and looked at Haran—really looked at him—and what he saw was a man who had spent thirty years learning to channel the way a musician spent thirty years learning to breathe: so thoroughly that the technique had become the body, and the body had forgotten what it had been before.
 

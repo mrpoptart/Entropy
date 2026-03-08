@@ -47,9 +47,9 @@ The Continuity Tracker argues this is deliberate — ambient bleed into non-reac
 Flagged by: Story Architect
 The reservoir's location is well-established by Chapter 8. **Fix:** Reduce to two or three uses.
 
-**10. Trickle/Wellspring terminology bleed (line 175).**
+**10. Pool/Wellspring terminology bleed (line 175).**
 Flagged by: World Keeper
-"Not the surgical trickle Haran was describing" — Ash doesn't have a trickle; he has the Wellspring. The word here refers to scale of output, not energy source, but could confuse. **Fix:** Change to "not the surgical thread Haran was describing."
+"Not the surgical pool Haran was describing" — Ash doesn't have a pool; he has the Wellspring. The word here refers to scale of output, not energy source, but could confuse. **Fix:** Change to "not the surgical thread Haran was describing."
 
 **11. Gear blank ambiguity.**
 Flagged by: Continuity Tracker

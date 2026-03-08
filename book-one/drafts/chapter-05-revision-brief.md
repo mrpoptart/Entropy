@@ -26,9 +26,9 @@ Line 399 references "the fourth floor. The blown-out wall." Chapters 1 and 4 est
 **Source:** Voice Editor
 Vasra's introduction packs nine physical details across six lines (tall, stooped, white hair, loose knot, long coat, deep pockets, expression, dark sharp eyes, wrinkle description). The style guide calls for two or three. Keep the stoop, the eyes, and the coat.
 
-### 6. Vasra's trickle explanation is exposition Ash already knows
+### 6. Vasra's pool explanation is exposition Ash already knows
 **Source:** World Keeper, Voice Editor
-Lines 259-263: Vasra explains how trickles work to a 23-year lifelong resident of Solathis. He would know this. Jump straight to what's different about Ash: "Normal trickles replenish during sleep. Yours didn't establish at birth..."
+Lines 259-263: Vasra explains how pools work to a 23-year lifelong resident of Solathis. He would know this. Jump straight to what's different about Ash: "Normal pools replenish during sleep. Yours didn't establish at birth..."
 
 ### 7. "Eighty percent" is a system number, not a character thought
 **Source:** World Keeper

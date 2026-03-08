@@ -48,9 +48,9 @@ The morning air hit like a wall when he stepped outside. Solathis in autumn was 
 
 Ash pulled his collar up and started walking.
 
-His parents' building sat in the lower-middle band of the city, where the plateau started its long step down toward the gorge. From the front stoop he could look up and see the grand districts at the heights — gleaming stone, seamless facades, buildings that caught the morning light like they'd been polished. The elder districts, where the powerful lived and maintained their surroundings with trickles strong enough to keep everything effortless. Up there, the heating never faded. The walls never cracked. The transit lifts ran on time because the residents could spare the energy to keep them running, the way you might spare a breath.
+His parents' building sat in the lower-middle band of the city, where the plateau started its long step down toward the gorge. From the front stoop he could look up and see the grand districts at the heights — gleaming stone, seamless facades, buildings that caught the morning light like they'd been polished. The elder districts, where the powerful lived and maintained their surroundings with pools strong enough to keep everything effortless. Up there, the heating never faded. The walls never cracked. The transit lifts ran on time because the residents could spare the energy to keep them running, the way you might spare a breath.
 
-Down here, things worked. Mostly. The building across the street had a web of fine cracks running up its eastern face — channeled reinforcement thinning, the original stonework starting to express opinions about load and gravity that had been suppressed for generations. Two doors down, someone had hung a blanket over their window where the sealing lattice had failed. The transit lift at the end of the block was operating, but the schedule posted beside it was three years out of date and everyone knew the real schedule was whatever the maintenance team's trickles could manage on any given morning.
+Down here, things worked. Mostly. The building across the street had a web of fine cracks running up its eastern face — channeled reinforcement thinning, the original stonework starting to express opinions about load and gravity that had been suppressed for generations. Two doors down, someone had hung a blanket over their window where the sealing lattice had failed. The transit lift at the end of the block was operating, but the schedule posted beside it was three years out of date and everyone knew the real schedule was whatever the maintenance team's pools could manage on any given morning.
 
 Ash walked past the transit lift without slowing. Stone platforms that rose through vertical shafts on channeled force — you stepped on, pressed your palm to the interface stone, fed it a pulse, and the platform carried you up. Smooth, fast, the basic circulatory system of a vertical city built on a plateau. Every district had them. Every child used them.
 
@@ -60,7 +60,7 @@ Forty flights to the market district. He'd counted them once, years ago, when co
 
 So he climbed at a pace that looked easy and cost him more than it should have, and he kept his breathing even, and when he reached the top he stood for a moment in the market district's morning bustle and let his heart rate settle before stepping into the crowd.
 
-The market district ran along a broad terrace near the city's center — open stalls, permanent shops, the smell of bread and spice and the particular ozone tang that hung in the air wherever a lot of channeling was happening at once. Vendors activated display stones with casual touches as they set up — signs that glowed, samples that warmed, little demonstrations of freshness and quality that were half commerce and half social performance. *Look how much I can spare. Look how strong my trickle is. Trust me because I can afford to waste a little.*
+The market district ran along a broad terrace near the city's center — open stalls, permanent shops, the smell of bread and spice and the particular ozone tang that hung in the air wherever a lot of channeling was happening at once. Vendors activated display stones with casual touches as they set up — signs that glowed, samples that warmed, little demonstrations of freshness and quality that were half commerce and half social performance. *Look how much I can spare. Look how strong my pool is. Trust me because I can afford to waste a little.*
 
 Ash moved through it with the practiced choreography of someone who'd been navigating this space his entire life. At a narrow bridge between two terrace levels, he stepped aside to let a woman pass — she was reinforcing the stone as she walked, a civic gesture so automatic it was practically unconscious, her palm trailing along the railing and leaving a faint warmth in the stone behind her. A small maintenance, freely given. The kind of thing that kept the city standing, one casual touch at a time. Ash couldn't reciprocate. He stepped aside, and she passed without seeing him, and the stone under her hand was a little stronger, and the stone under his was just stone.
 
@@ -96,7 +96,7 @@ A minute. He gave himself a minute. Then the scaffolding went back up — the se
 
 The Council annex was a high-ceilinged building of pale stone and old channeling — the walls still hummed faintly with the work of the architects who'd raised it, generations ago, when building on this scale was effortless. Ash walked through the main hall with the careful confidence of someone who'd been in enough institutional buildings to know that looking like you belonged was half the work of actually being there.
 
-He found the posting board. Aide positions, administrative staff, maintenance coordinators — the infrastructure office was hiring at three levels, and the notice was written in the crisp, impersonal language of institutions that expected their applicants to channel. *Trickle assessment required. Minimum competency in structural sensing preferred. Candidates should be prepared to demonstrate basic channeling during the interview process.*
+He found the posting board. Aide positions, administrative staff, maintenance coordinators — the infrastructure office was hiring at three levels, and the notice was written in the crisp, impersonal language of institutions that expected their applicants to channel. *Pool assessment required. Minimum competency in structural sensing preferred. Candidates should be prepared to demonstrate basic channeling during the interview process.*
 
 He read it twice. The words were familiar — he'd read versions of them on every posting board in the city since he was sixteen. The polite, systemic exclusion that didn't need to be hostile because it was structural. You couldn't do the job without channeling, the way you couldn't swim without arms. Nobody was being cruel. The water was just shaped that way.
 
@@ -144,7 +144,7 @@ She stepped off the platform and started down the hall in a direction he hadn't 
 
 "You were looking at the aide posting," she said. It wasn't a question.
 
-"I was looking at the part where it says 'trickle assessment required' and deciding whether to apply anyway."
+"I was looking at the part where it says 'pool assessment required' and deciding whether to apply anyway."
 
 "And what did you decide?"
 

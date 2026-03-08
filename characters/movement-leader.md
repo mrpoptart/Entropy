@@ -5,7 +5,7 @@
 ## Basics
 - **Age:** Early-to-mid 20s — roughly Ash's peer
 - **Gender:** Male
-- **Background:** Grew up in the city's working districts with a weak trickle. Not magicless like Ash was, but close enough to feel the sting — enough power to know what channeling should feel like, not enough to do much with it.
+- **Background:** Grew up in the city's working districts with a weak pool. Not magicless like Ash was, but close enough to feel the sting — enough power to know what channeling should feel like, not enough to do much with it.
 - **Role in the Story:** Introduced in Book Two as Davan of the Levelers. Ash's foil, mirror, and eventual antagonist. Becomes the embodiment of despair in Book Three after the movement's failure.
 
 ## Who He Is
@@ -104,11 +104,11 @@ Davan tried to be a steward — building a movement, organizing for collective g
 
 ## The Community (Book Three)
 
-After the Levelers fragment, Davan takes a small community — a district or settlement — and runs it according to his philosophy. Mandatory pooling of trickles. Collective distribution. Even a few elder channelers convinced to join and contribute their stronger power. It's the Levelers' model in miniature: a sincere, organized attempt to prove that fair distribution works.
+After the Levelers fragment, Davan takes a small community — a district or settlement — and runs it according to his philosophy. Mandatory pooling of pools. Collective distribution. Even a few elder channelers convinced to join and contribute their stronger power. It's the Levelers' model in miniature: a sincere, organized attempt to prove that fair distribution works.
 
 Ash has to let him try. This is stewardship's hardest test — letting people choose a path you believe will fail, because the alternative is becoming Dorenne. He doesn't intervene. He doesn't sabotage. He lets them go.
 
-The community fails. Not from incompetence — from physics. The pooled trickles keep weakening. The elder contributors decline. The shared resource shrinks until there's nothing left to share. Davan's model distributed the decline equally rather than building past it.
+The community fails. Not from incompetence — from physics. The pooled pools keep weakening. The elder contributors decline. The shared resource shrinks until there's nothing left to share. Davan's model distributed the decline equally rather than building past it.
 
 When it fails, Ash — now ordinary, powerless — helps. He offers mechanical knowledge, organizational skill, connections to the building networks. Davan's people are welcomed into the broader transition framework. Davan watches the person who was right extend a hand without conditions.
 

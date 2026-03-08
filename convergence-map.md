@@ -23,7 +23,7 @@ This document tracks 14 narrative threads across all three books. It is the sour
 **Cross-Thread Links:** Creates the conditions for Thread 3 (Levelers) — inequality laid bare in rubble. Validates Thread 4 (Proof-of-Concept District) — the old way is visibly failing.
 
 #### Thread 3: The Levelers / Redistribution
-**Description:** Generational resentment among young channelers whose weaker trickles buy less than their parents' did. Grows from background frustration into an organized movement demanding mandatory redistribution.
+**Description:** Generational resentment among young channelers whose weaker pools buy less than their parents' did. Grows from background frustration into an organized movement demanding mandatory redistribution.
 **Planting:** B1 Ch12 (background protests, broadsheets, young channeler frustration — footnotes Ash ignores), B1 Ch15 (young channelers angry in the rubble — earthquake damage stratified by wealth)
 **Key Progressions:** B1 Ch22 (Ash reads a broadsheet and sees his story in theirs), B2 Act 1-2 (Davan crystallizes the movement, political power, escalation)
 **Convergence Points:** B2 Act 2 (the break with Davan — coerced elder expenditure), B3 Act 3 (Davan's community fails)
@@ -55,16 +55,16 @@ This document tracks 14 narrative threads across all three books. It is the sour
 **Cross-Thread Links:** Direct opposition to Thread 14 (Stewardship vs. Heroism) — her model is maintenance, not building. Intersects Thread 1 (Reservoir Countdown) — she was tracking expenditures before Ash was.
 
 #### Thread 7: Haran's Hidden Mastery
-**Description:** The tinkerer who chose restraint. His casual micro-channeling isn't abstinence from magic — it's mastery so complete it looks like patience. He has an elder-generation trickle of staggering power.
+**Description:** The tinkerer who chose restraint. His casual micro-channeling isn't abstinence from magic — it's mastery so complete it looks like patience. He has an elder-generation pool of staggering power.
 **Planting:** B1 Ch3 (tea stays warm, latches pop before fingers reach, invisible fluidity)
 **Key Progressions:** B1 Ch8 (technique demonstrated explicitly — the revelation that he's "surfing" magic), B1 Ch20 (the question — "what do you want to build?"), B2 (blueprints, networks)
 **Convergence Points:** B3 Act 2 (crisis forces full-power reveal — recontextualizes entire trilogy)
 **Cross-Thread Links:** Living proof of Thread 5 (Efficiency Technique). The answer to Thread 14 (Stewardship vs. Heroism) — power that isn't the point.
 
 #### Thread 8: Maren's Parallel Decline
-**Description:** The competent sibling whose trickle is weakening. Her arc is the intimate, personal version of the world's arc — identity built on ability, crumbling as ability fades.
+**Description:** The competent sibling whose pool is weakening. Her arc is the intimate, personal version of the world's arc — identity built on ability, crumbling as ability fades.
 **Planting:** B1 Ch1 (Maren lets her own news go unheard, channels casually but disciplined)
-**Key Progressions:** B1 Ch4 (channels everything she has to save their mother — it's not enough), B1 Ch7 (quietly repairs what Ash breaks), B1 Ch11 (trickle feels thinner against backdrop of his ocean), B1 Ch14 (asks about technique, connection flickers then dies), B1 Ch18 (picking up maintenance shifts — her trickle stretching), B1 Ch19 (Ash's math illuminates her trajectory — she's been living with finitude always), B1 Ch22 (Ash sees her sealing a water main at night — the math made flesh), B2 Act 1 (visibly more tired), B2 Act 2 (crisis deepens, snaps at Ash)
+**Key Progressions:** B1 Ch4 (channels everything she has to save their mother — it's not enough), B1 Ch7 (quietly repairs what Ash breaks), B1 Ch11 (pool feels thinner against backdrop of his ocean), B1 Ch14 (asks about technique, connection flickers then dies), B1 Ch18 (picking up maintenance shifts — her pool stretching), B1 Ch19 (Ash's math illuminates her trajectory — she's been living with finitude always), B1 Ch22 (Ash sees her sealing a water main at night — the math made flesh), B2 Act 1 (visibly more tired), B2 Act 2 (crisis deepens, snaps at Ash)
 **Convergence Points:** B2 Act 3 (the unspoken conversation — guilt and grief laid bare), B3 Act 2 (completes arc — Ash teaches her how to live without power)
 **Cross-Thread Links:** Mirrors Thread 1 (Reservoir Countdown) — she's the world's decline at intimate scale. Intersects Thread 12 (Ash's Identity Fusion) — she defined herself by competence the way he defines himself by power.
 
@@ -142,7 +142,7 @@ Legend: `—` dormant | `🌱` planted | `📈` progressing | `⚡` converging |
 
 **Avalanche pattern:** Threads collide in this sequence:
 
-1. **Ch18 (Edges):** Thread 1 (Reservoir) shifts from background to foreground. Thread 6 (Dorenne) tightens — her deployment schedule is the mechanism of depletion. Thread 12 (Identity) wavers as the ocean gets walls. *New:* Thread 8 (Maren) returns in background — she's picking up maintenance shifts, her trickle stretching thinner. Threads 9/10 (Mother, Father) — a family visit grounds the abstract fear; the old kettle, the father's memory of pre-Wellspring Ash.
+1. **Ch18 (Edges):** Thread 1 (Reservoir) shifts from background to foreground. Thread 6 (Dorenne) tightens — her deployment schedule is the mechanism of depletion. Thread 12 (Identity) wavers as the ocean gets walls. *New:* Thread 8 (Maren) returns in background — she's picking up maintenance shifts, her pool stretching thinner. Threads 9/10 (Mother, Father) — a family visit grounds the abstract fear; the old kettle, the father's memory of pre-Wellspring Ash.
 
 2. **Ch19 (The Math):** The emotional climax. Thread 1 (Reservoir) detonates. Thread 12 (Identity) cracks. *Cross-thread amplification:* Thread 8 (Maren) — the math illuminates her trajectory; she's been living with finitude her whole life. Thread 2 (Infrastructure) — his waste mirrors the world's decline.
 
@@ -171,7 +171,7 @@ Legend: `→` carries forward from Book One | `🌱` newly planted | `📈` prog
 | 5. Efficiency | → 📈 (Ash improving through Haran's guidance) | 📈 | ⚡ (temptation: use for preservation? Rejected, reframed as capability) |
 | 6. Dorenne | → 📈 (wants him back, offers formal partnership) | 📈 (wants him to oppose Levelers publicly) | 📈 (institutional framework under severe strain) |
 | 7. Haran | → 📈 (blueprints become district plans, networks forming) | 📈 | 📈 (decades of tinkering become the backbone) |
-| 8. Maren | → 📈 (visibly more tired, trickle weakening) | ⚡ (snaps at Ash — first crack in competence shell) | ⚡ (the unspoken conversation — guilt and grief) |
+| 8. Maren | → 📈 (visibly more tired, pool weakening) | ⚡ (snaps at Ash — first crack in competence shell) | ⚡ (the unspoken conversation — guilt and grief) |
 | 9. Mother | → 📈 | 📈 | — |
 | 10. Father | → 📈 | — | — |
 | 11. Ryn | — | ⚡ (reconnection — "you became someone else") | 📈 (grounding him, making the macro personal) |
@@ -204,7 +204,7 @@ Book Three does not yet have chapter-level granularity. Thread tracking mapped t
 | 5. Efficiency | → 📈 (each expenditure precise) | 📈 | ⚡ (Haran's reveal recontextualizes — this was always about mastery, not abstinence) | ✅ |
 | 6. Dorenne | → 📈 (institutions dissolving around her) | 📈 (control is not stewardship) | ⚡ (redemption — lets go, becomes ally) | ✅ |
 | 7. Haran | → 📈 (networks come alive) | ⚡ (crisis forces full-power reveal — recontextualizes everything) | 📈 (vindication — quiet, unremarked) | ✅ |
-| 8. Maren | → 📈 (trickle continues weakening) | ⚡ (Ash teaches her to live without power) | ✅ (finds post-magic identity) | ✅ |
+| 8. Maren | → 📈 (pool continues weakening) | ⚡ (Ash teaches her to live without power) | ✅ (finds post-magic identity) | ✅ |
 | 9. Mother | → 📈 | — | — | ✅ (family together without burden) |
 | 10. Father | — | — | — | ✅ |
 | 11. Ryn | → 📈 (present, steady) | 📈 | 📈 | ⚡ (romance surfaces — he believes he's worthy) |

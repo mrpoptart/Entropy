@@ -144,7 +144,7 @@ Haran completed the calibration in about eight minutes. The valve seat, when he 
 
 Ash looked at him.
 
-"For this?" Haran said. "Not useful." He turned the valve in his hands. "I know how to do this with my hands. So I do it with my hands. The trickle stays where it is."
+"For this?" Haran said. "Not useful." He turned the valve in his hands. "I know how to do this with my hands. So I do it with my hands. The pool stays where it is."
 
 Ash was quiet for a moment. Then: "I thought—" He stopped. Started again. "I assumed you were using it. For the detail work. For the feel."
 
@@ -180,7 +180,7 @@ Again. The reservoir, when Ash reached for it, came in volumes. Even the smalles
 
 A small warmth bloomed in the exact center of the brass. A circle, barely larger than a thumbnail, a few degrees of difference—Ash could see it in the way the light caught the surface, the faint difference in reflection where the metal had accepted heat. Then it cooled. A second later, another brief, precise bloom, slightly off-center. Then another.
 
-The movement of Haran's channeling was invisible. No glow, no effort showing in his face or hands. Just the warm spot appearing and vanishing, appearing and vanishing—a series of controlled, surgical inputs that asked only what they needed from the day's trickle and received exactly that.
+The movement of Haran's channeling was invisible. No glow, no effort showing in his face or hands. Just the warm spot appearing and vanishing, appearing and vanishing—a series of controlled, surgical inputs that asked only what they needed from the day's pool and received exactly that.
 
 Ash watched.
 
@@ -222,7 +222,7 @@ And then the fitting that Ash had fused at the outlet flange—Haran's hand pass
 
 The small gestures accumulated.
 
-*He's not being careful with his trickle. He's been doing this all day.*
+*He's not being careful with his pool. He's been doing this all day.*
 
 Ash had been watching Haran for years. He had assumed—without examining the assumption, the way you didn't examine the furniture in a room you'd lived in since childhood—that the warmth Haran kept in the workshop was modest because modest was all he had. That the lamp trick was a small habit. That the casual applications were what he could afford, scattered across a working day to make it comfortable.
 
@@ -234,9 +234,9 @@ He thought about the test piece—the thumbnail of heat in its exact center, the
 
 *He's not doing a little. He's doing everything at the smallest possible scale.*
 
-The warmth in the workshop wasn't Haran's leftover trickle. It was Haran's technique, accumulated over a working day in a hundred tiny applications that cost almost nothing individually and added up to a room that felt like a room where someone had spent a lifetime making things work.
+The warmth in the workshop wasn't Haran's leftover pool. It was Haran's technique, accumulated over a working day in a hundred tiny applications that cost almost nothing individually and added up to a room that felt like a room where someone had spent a lifetime making things work.
 
-He had a strong trickle—Ash had known this, filed it away, never followed the implication. What he hadn't understood was what it meant to have a strong trickle and decades of training and the discipline to never flood. To run at a fraction of a fraction, always. Not because there wasn't more. Because more wasn't what the task needed.
+He had a strong pool—Ash had known this, filed it away, never followed the implication. What he hadn't understood was what it meant to have a strong pool and decades of training and the discipline to never flood. To run at a fraction of a fraction, always. Not because there wasn't more. Because more wasn't what the task needed.
 
 He looked at Haran.
 

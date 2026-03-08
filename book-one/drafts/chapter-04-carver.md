@@ -92,7 +92,7 @@ The report reached Dorenne's desk the following day. Ash was in the office when 
 
 He waited.
 
-"The original construction is high-era work. The load-bearing walls were channeled into place by someone with a trickle that doesn't exist anymore—the internal reinforcement is failing because nobody alive can replicate the technique that created it. The building has been redistributing its stress loads for decades. The foundation is holding, but the margins are narrower than the surface condition suggests." She looked at him over the report. "Your parents live in this building."
+"The original construction is high-era work. The load-bearing walls were channeled into place by someone with a pool that doesn't exist anymore—the internal reinforcement is failing because nobody alive can replicate the technique that created it. The building has been redistributing its stress loads for decades. The foundation is holding, but the margins are narrower than the surface condition suggests." She looked at him over the report. "Your parents live in this building."
 
 "Yes."
 
@@ -110,7 +110,7 @@ He left the office and walked down the ramp and kept his pace steady and his fac
 
 * * *
 
-He told his parents on a Thirdday evening. The three of them at the kitchen table, the iron stove warm behind him, the smell of his mother's cooking in the air—onions and something with cumin, the kind of meal she made when the budget was tight and her trickle was low and she needed to stretch both.
+He told his parents on a Thirdday evening. The three of them at the kitchen table, the iron stove warm behind him, the smell of his mother's cooking in the air—onions and something with cumin, the kind of meal she made when the budget was tight and her pool was low and she needed to stretch both.
 
 "A structural team," his mother said. She was standing at the stove, her back to him, but her hands had stopped moving. "From the Hall."
 
@@ -144,7 +144,7 @@ His mother stepped back and wiped her eyes with the heel of her hand and turned 
 
 "The building's going to be warm."
 
-She didn't answer. She stirred the onions and the steam rose and the heating lattice beside the stove hummed faintly under her palm—her own channeling, steady and familiar, the warmth she'd been pouring into these walls for as long as Ash could remember. Every morning. Every evening. A woman warming her home the only way she could, one day's trickle at a time, holding back the cold that crept in through every crack her son had been measuring with his thumb.
+She didn't answer. She stirred the onions and the steam rose and the heating lattice beside the stove hummed faintly under her palm—her own channeling, steady and familiar, the warmth she'd been pouring into these walls for as long as Ash could remember. Every morning. Every evening. A woman warming her home the only way she could, one day's pool at a time, holding back the cold that crept in through every crack her son had been measuring with his thumb.
 
 * * *
 
@@ -212,7 +212,7 @@ She left at midmorning. Her car came—a carriage powered by a channeler in the 
 
 The trouble started after lunch.
 
-The team had moved from foundations to the load-bearing walls—the interior columns and crossbeams that carried the building's weight from roof to ground. This was the delicate work. The foundation reinforcement had been straightforward, the equivalent of shoring up a base that was settling. The walls were different. The original construction had woven the load paths into the stone with a sophistication that the assessment team had noted but not fully mapped. High-era work. Built by channelers whose trickles dwarfed anything the current team could produce.
+The team had moved from foundations to the load-bearing walls—the interior columns and crossbeams that carried the building's weight from roof to ground. This was the delicate work. The foundation reinforcement had been straightforward, the equivalent of shoring up a base that was settling. The walls were different. The original construction had woven the load paths into the stone with a sophistication that the assessment team had noted but not fully mapped. High-era work. Built by channelers whose pools dwarfed anything the current team could produce.
 
 Sorren was on the second floor, her palms against a column that ran from the ceiling to the floor below. Two of her team flanked her, channeling in coordination—a practiced technique, pooling their efforts through shared contact with the stone. The fourth member worked the adjacent wall, reading the stress distribution.
 
@@ -246,7 +246,7 @@ The bedroom ceiling had come down. Not all of it—a section, a beam and the sto
 
 "Ash." His father's voice. "Get her out."
 
-He was already there. He dropped to his knees beside her, his hands finding the edge of the beam where it rested on the rubble. His mother looked up at him and her eyes were wide and bright and steady—not panicking, not surrendering, the eyes of a woman who had spent her life solving problems one trickle at a time and who expected her son to solve this one too.
+He was already there. He dropped to his knees beside her, his hands finding the edge of the beam where it rested on the rubble. His mother looked up at him and her eyes were wide and bright and steady—not panicking, not surrendering, the eyes of a woman who had spent her life solving problems one pool at a time and who expected her son to solve this one too.
 
 "I'm here, Mum."
 
@@ -270,7 +270,7 @@ Maren was beside him.
 
 She hadn't left. She was on her knees on the other side of the beam, her palms flat against the stone, her eyes closed. Channeling. He could see it in her—the stillness, the focused compression of a body directing everything it had into a single point of contact. Her hands shook. Her jaw was clenched so tight the muscles stood out in her neck. She was pushing everything she had into the beam, trying to lift it or shift the weight or do anything—anything at all—and the beam barely trembled under her hands.
 
-She was the most skilled channeler her age. She maximized every fraction of her trickle through discipline and technique that her instructors had called exceptional. And it wasn't enough. Not for this. Not for a beam of high-era stone that had been reinforced by channelers ten times her strength, whose weight exceeded anything her generation was meant to carry.
+She was the most skilled channeler her age. She maximized every fraction of her pool through discipline and technique that her instructors had called exceptional. And it wasn't enough. Not for this. Not for a beam of high-era stone that had been reinforced by channelers ten times her strength, whose weight exceeded anything her generation was meant to carry.
 
 Her eyes opened. She looked at him.
 

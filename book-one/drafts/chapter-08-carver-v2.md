@@ -34,7 +34,7 @@ The reservoir hummed.
 
 He reached for the fitting.
 
-A thread of the Wellspring was already moving before he'd decided—a trickle of force, exploratory, finding the stuck joint the way a finger finds a tight jar lid. He pushed. The fitting gave. And gave. And fused, the brass deforming under the channeled pressure, the threads pressing together harder than the original design had required.
+A thread of the Wellspring was already moving before he'd decided—a pool of force, exploratory, finding the stuck joint the way a finger finds a tight jar lid. He pushed. The fitting gave. And gave. And fused, the brass deforming under the channeled pressure, the threads pressing together harder than the original design had required.
 
 He took his hand back. The fitting sat perfectly flush against the housing. Solid. Clean.
 
@@ -146,7 +146,7 @@ Ash looked at the valve. The question was simple enough that he answered before 
 
 "When the rotation felt the same at every point. Even drag. No light spots, no heavy spots. You can feel it—" He stopped. His hands had moved as he spoke, turning in the air in front of him, mapping the motion. "You can feel it before you see it."
 
-Haran set the valve down. "So your hands already know." He paused. "The trickle stays where it is."
+Haran set the valve down. "So your hands already know." He paused. "The pool stays where it is."
 
 * * *
 

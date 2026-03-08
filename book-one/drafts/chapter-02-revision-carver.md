@@ -8,7 +8,7 @@ He crossed to the desk in the corner — the smallest one, nearest the door, bar
 
 Then he didn't know what to do.
 
-For several minutes he sat in the dark room and felt the size of his ignorance. He didn't know the filing system or the workflow or the chain of command beyond Dorenne at the top and himself at the bottom. He didn't know what the instruments on the shelf measured. He couldn't read the abbreviations on the map board — *KJ/m², RI-3, Trickle-Adj* — and the colored overlays, green to amber to red, told him the shape of a problem without telling him the problem itself.
+For several minutes he sat in the dark room and felt the size of his ignorance. He didn't know the filing system or the workflow or the chain of command beyond Dorenne at the top and himself at the bottom. He didn't know what the instruments on the shelf measured. He couldn't read the abbreviations on the map board — *KJ/m², RI-3, Pool-Adj* — and the colored overlays, green to amber to red, told him the shape of a problem without telling him the problem itself.
 
 He stood up. He cleaned the table.
 
@@ -330,7 +330,7 @@ She stared at him. "You bluffed a sitting Council member."
 
 The real laugh. The low one, slightly uneven, as if one side arrived before the other. He'd been cataloging her laughs for years — automatically, the way he cataloged stairwells and district maps.
 
-They ate. The bread was from the vendor on the lower terrace — the one who worked late because her trickle was too weak for the morning market. Ryn bought from her because the bread was good and because Ryn had a quiet loyalty to people who worked harder than they had to.
+They ate. The bread was from the vendor on the lower terrace — the one who worked late because her pool was too weak for the morning market. Ryn bought from her because the bread was good and because Ryn had a quiet loyalty to people who worked harder than they had to.
 
 After the food was gone, in the last of the twilight: "Is it going to be okay? The job. All the—" A wave of the hand.
 
@@ -376,7 +376,7 @@ Neither moved. The moment passed as their moments passed. Acknowledged by the si
 
 "Only half the city ran me. The other half was paperwork."
 
-He walked home. The district shutting down. A man passed and reinforced the paving stone under his foot — casual civic maintenance, the kind everyone with trickle did without thinking. Ash walked over the same stone and left it unchanged.
+He walked home. The district shutting down. A man passed and reinforced the paving stone under his foot — casual civic maintenance, the kind everyone with pool did without thinking. Ash walked over the same stone and left it unchanged.
 
 It didn't sting. Not tonight. He'd found something else to put in the space where the absence lived. Not power. Function. A desk at the table, a pattern noticed, a person who trusted him enough to let him guess.
 

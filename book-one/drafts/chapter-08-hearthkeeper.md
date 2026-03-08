@@ -22,7 +22,7 @@ He crossed to the central bench. Haran glanced up at him with the brief, assessi
 
 "I heard." He didn't ask more than that. He had a joint in his hand—a brass elbow fitting, the curve clean and even, the threading at each end waiting to be mated. He turned it slowly, examining. "The pump in the Velden building failed. Third time in a year. The district system's been throttled since winter, and the residents have been hauling water from the terrace taps." He set the fitting down with the care of a man placing a piece in a puzzle he intended to solve. "Thought I'd make them something that works without needing anyone to top up the channeling every six weeks."
 
-Ash looked at the pump. It was midway through being built: the housing was there, the basic cylinder and chamber, the inlet and outlet flanges waiting for the fittings that Haran had laid out in sequence. Mechanical, through and through. Springs and seals and precisely machined tolerances that would move water by pressure differential and the simple physics of a well-fitted piston. No channeling interface. No stone discs set flush into the surface, no network of reactive mineral waiting for someone to pour their trickle into it. Just the mechanism.
+Ash looked at the pump. It was midway through being built: the housing was there, the basic cylinder and chamber, the inlet and outlet flanges waiting for the fittings that Haran had laid out in sequence. Mechanical, through and through. Springs and seals and precisely machined tolerances that would move water by pressure differential and the simple physics of a well-fitted piston. No channeling interface. No stone discs set flush into the surface, no network of reactive mineral waiting for someone to pour their pool into it. Just the mechanism.
 
 *He'll finish it in three weeks*, Ash thought. *Maybe four.*
 
@@ -32,7 +32,7 @@ He stepped up beside Haran and looked at the outlet flange—a brass sleeve, thr
 
 Ash reached for it.
 
-A thread of the Wellspring was already moving before he'd decided—a trickle of force, exploratory, finding the stuck fitting the way a finger finds a tight jar lid. He pushed. The fitting gave. And gave. And fused, the brass deforming slightly under the channeled pressure, the threads pressing together hard enough that the friction between the metal faces exceeded what the original design had required by a considerable margin.
+A thread of the Wellspring was already moving before he'd decided—a pool of force, exploratory, finding the stuck fitting the way a finger finds a tight jar lid. He pushed. The fitting gave. And gave. And fused, the brass deforming slightly under the channeled pressure, the threads pressing together hard enough that the friction between the metal faces exceeded what the original design had required by a considerable margin.
 
 Done in a second. Faster than his hands could have managed.
 
@@ -144,7 +144,7 @@ Haran completed the calibration in about eight minutes. The valve seat, when he 
 
 Ash looked at him.
 
-"For this?" Haran said. "Not useful." He turned the valve in his hands. "I know how to do this with my hands. So I do it with my hands. The trickle stays where it is."
+"For this?" Haran said. "Not useful." He turned the valve in his hands. "I know how to do this with my hands. So I do it with my hands. The pool stays where it is."
 
 Ash was quiet for a moment. Then: "I thought—" He stopped. Started again. "I assumed you were using it. For the detail work. For the feel."
 
@@ -172,7 +172,7 @@ He pulled his hand back.
 
 "Again," Haran said. No impatience in it.
 
-Again. Same result. The reservoir, when Ash reached for it, came in volumes. Even the smallest reach was still an ocean pouring through a crack in a dam—not the surgical trickle Haran was describing, but something that spread and filled and exceeded the container.
+Again. Same result. The reservoir, when Ash reached for it, came in volumes. Even the smallest reach was still an ocean pouring through a crack in a dam—not the surgical pool Haran was describing, but something that spread and filled and exceeded the container.
 
 "I can't—" Ash started.
 
@@ -180,7 +180,7 @@ Again. Same result. The reservoir, when Ash reached for it, came in volumes. Eve
 
 A small warmth bloomed in the exact center of the brass. A circle, barely larger than a thumbnail, a few degrees of difference—Ash could see it in the way the light caught the surface, the faint difference in reflection where the metal had accepted heat. Then it cooled. A second later, another brief, precise bloom, slightly off-center. Then another.
 
-The movement of Haran's channeling was invisible. No glow, no effort showing in his face or hands. Just the warm spot appearing and vanishing, appearing and vanishing—a series of controlled, surgical inputs that asked only what they needed from the day's trickle and received exactly that.
+The movement of Haran's channeling was invisible. No glow, no effort showing in his face or hands. Just the warm spot appearing and vanishing, appearing and vanishing—a series of controlled, surgical inputs that asked only what they needed from the day's pool and received exactly that.
 
 Ash watched.
 
@@ -212,7 +212,7 @@ And then the fitting that Ash had fused at the outlet flange—Haran's hand pass
 
 The small gestures accumulated.
 
-*He's not being careful with his trickle. He's been doing this all day.*
+*He's not being careful with his pool. He's been doing this all day.*
 
 Ash had been watching Haran for years. He had assumed—without examining the assumption, the way you didn't examine the furniture in a room you'd lived in since childhood—that the warmth Haran kept in the workshop was modest because modest was all he had. That the lamp trick was a small man's habit, charming and limited. That the casual applications were what he could afford, scattered across a working day to make it comfortable.
 
@@ -224,9 +224,9 @@ He thought about the gear blank—the thumbnail of heat in its exact center, the
 
 *He's not doing a little. He's doing everything at the smallest possible scale.*
 
-The warmth in the workshop wasn't Haran's leftover trickle. It was Haran's technique, accumulated over a working day in a hundred tiny applications that cost almost nothing individually and added up to a room that felt like a room where someone had spent a lifetime making things work.
+The warmth in the workshop wasn't Haran's leftover pool. It was Haran's technique, accumulated over a working day in a hundred tiny applications that cost almost nothing individually and added up to a room that felt like a room where someone had spent a lifetime making things work.
 
-He had a strong trickle—Ash had known this, filed it away, never followed the implication. What he hadn't understood was what it meant to have a strong trickle and decades of training and the discipline to never, ever flood. To run at a fraction of a fraction, always. Not because there wasn't more. Because more wasn't what the task needed.
+He had a strong pool—Ash had known this, filed it away, never followed the implication. What he hadn't understood was what it meant to have a strong pool and decades of training and the discipline to never, ever flood. To run at a fraction of a fraction, always. Not because there wasn't more. Because more wasn't what the task needed.
 
 He looked at Haran.
 

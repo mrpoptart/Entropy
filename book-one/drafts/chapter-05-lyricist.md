@@ -6,7 +6,7 @@ Ash followed Dorenne down a staircase he hadn't known existed — narrow, tucked
 
 Three days. Three days since the apartment. Three days since the beam and the wall and his mother's blood on the rubble and the power that had come through him like a river breaking its banks.
 
-His mother was healing. The ribs were mending — the healers had done two sessions, careful work, the kind that cost them a significant portion of their daily trickle and left them with the hollow-eyed fatigue he recognized from watching healers work on other people his entire life. Her leg was slower. The nerve damage required a specialist, someone from the elder generation whose understanding of biological systems went deeper than accelerating what the body already wanted to do. Dorenne had arranged it. Of course she had.
+His mother was healing. The ribs were mending — the healers had done two sessions, careful work, the kind that cost them a significant portion of their daily pool and left them with the hollow-eyed fatigue he recognized from watching healers work on other people his entire life. Her leg was slower. The nerve damage required a specialist, someone from the elder generation whose understanding of biological systems went deeper than accelerating what the body already wanted to do. Dorenne had arranged it. Of course she had.
 
 The temporary housing was a flat in a mid-district building — two bedrooms, a working heating lattice, water that ran warm from the tap without anyone channeling it. His father slept in a chair beside his mother's bed. Maren came every morning and every evening, her schedule reorganized around the family's new geography with the silent efficiency she brought to everything. Nobody talked about the apartment. Nobody talked about what Ash had done. The ruins of the building sat in the lower-middle band like a broken tooth, and the silence around it was so complete it had its own weight.
 
@@ -46,11 +46,11 @@ She looked up. The pen paused over the clipboard. "None? You've never been asses
 
 She wrote something. The man with the apple took another bite. The other man — thin, balding, with the cautious posture of someone who'd spent his career avoiding attention — studied Ash with an interest that seemed involuntary, as if he'd been told something about this case and was trying to reconcile the information with the young man standing in front of him.
 
-"Standard trickle calibration," the woman said. "Four stages. We'll walk you through each one. Questions at the end." She set the clipboard down and stood. "First instrument is the calibration stone. This way."
+"Standard pool calibration," the woman said. "Four stages. We'll walk you through each one. Questions at the end." She set the clipboard down and stood. "First instrument is the calibration stone. This way."
 
 She led him to the bench. The calibration stone sat in the center of the instrument row — a block of pale mineral, roughly the size of a man's fist, mounted on a brass cradle. Its surface was smooth, almost translucent, with a faint milky luminescence that came from within the crystal structure itself. Along the side of the cradle, a graduated scale was etched into the brass: numbers one through ten, each paired with a color swatch painted on a small tile. White at one. Pale blue at two. Deeper blue, green, amber, through to a deep red at ten.
 
-"The stone responds to channeled energy," the woman said. "Place your palm on it and channel. Gently. The mineral lattice will change color to indicate the strength of your trickle on a one-to-ten scale. Most first-timers register between two and four. Children, usually lower." She glanced at her clipboard. "Given your age and the — circumstances — we're expecting something in the upper range. Five or six, maybe. Take your time."
+"The stone responds to channeled energy," the woman said. "Place your palm on it and channel. Gently. The mineral lattice will change color to indicate the strength of your pool on a one-to-ten scale. Most first-timers register between two and four. Children, usually lower." She glanced at her clipboard. "Given your age and the — circumstances — we're expecting something in the upper range. Five or six, maybe. Take your time."
 
 Ash looked at the stone. It sat on its cradle with the patient stillness of an object that had been touched by hundreds of hands and had never been surprised by any of them.
 
@@ -168,7 +168,7 @@ Veradenne studied him. The assessment was clinical, thorough, and utterly devoid
 
 The force target was the simplest instrument in the room. A block of dense stone — granite, Ash guessed, from the grain and the weight of it — mounted on a spring-loaded platform. Push the stone with channeled force, and the spring compressed, and the displacement was readable on a graduated scale etched into the mount. The scale went from zero to a hundred units. Ash didn't know what the units represented.
 
-"Standard output for a full-trickle young adult is eight to twelve units," Veradenne said. She stood beside the target with her notebook open, her pen ready. "A strong elder might register thirty. The scale goes to a hundred because the instrument was built with margins, not because anyone was expected to reach that range."
+"Standard output for a full-pool young adult is eight to twelve units," Veradenne said. She stood beside the target with her notebook open, her pen ready. "A strong elder might register thirty. The scale goes to a hundred because the instrument was built with margins, not because anyone was expected to reach that range."
 
 Ash stood three paces from the target. The stone sat on its platform with the solidity of something that had been pushed by hundreds of hands and had never moved more than an inch.
 
@@ -196,7 +196,7 @@ And the power felt exactly the same as it had when he walked in. Not diminished.
 
 *Is this what it feels like?* he thought. *Is this what everyone feels, all the time?*
 
-No. He knew the answer. He'd watched channelers his entire life — watched them ration, conserve, calculate the cost of every application. He'd watched Maren parse her trickle like a household budget, apportioning fractions to tasks that Ash had just accomplished with a force that broke the instruments designed to measure it. He'd watched his mother spend half her daily energy warming the stove and arrive at evening with nothing left.
+No. He knew the answer. He'd watched channelers his entire life — watched them ration, conserve, calculate the cost of every application. He'd watched Maren parse her pool like a household budget, apportioning fractions to tasks that Ash had just accomplished with a force that broke the instruments designed to measure it. He'd watched his mother spend half her daily energy warming the stove and arrive at evening with nothing left.
 
 This wasn't what they felt.
 
@@ -220,11 +220,11 @@ There was one chair left at the table. He sat. She remained standing, which put 
 
 He waited.
 
-"The calibration stone is rated for a range that encompasses every recorded trickle in the current population, including the strongest living elders. You exceeded its maximum within the first second of contact. The field-stability instrument pegged at maximum and stayed there for the duration of your channeling, which suggests that your sustained output exceeds the instrument's ceiling by an unknown margin. The force target — you saw what happened to the force target."
+"The calibration stone is rated for a range that encompasses every recorded pool in the current population, including the strongest living elders. You exceeded its maximum within the first second of contact. The field-stability instrument pegged at maximum and stayed there for the duration of your channeling, which suggests that your sustained output exceeds the instrument's ceiling by an unknown margin. The force target — you saw what happened to the force target."
 
 "I saw."
 
-"The thermal gradient array suggests your waste-heat profile is consistent with an untrained channeler operating at approximately five percent efficiency. This is poor. Historically poor. It means that for every unit of energy you direct toward a task, nineteen units are lost as ambient heat." She paused. "In a normal channeler, this would be crippling. A young adult operating at five percent efficiency would burn through their daily trickle heating a single room and accomplish nothing of use."
+"The thermal gradient array suggests your waste-heat profile is consistent with an untrained channeler operating at approximately five percent efficiency. This is poor. Historically poor. It means that for every unit of energy you direct toward a task, nineteen units are lost as ambient heat." She paused. "In a normal channeler, this would be crippling. A young adult operating at five percent efficiency would burn through their daily pool heating a single room and accomplish nothing of use."
 
 She stopped. Her eyes were steady on his, and the assessment in them was not unkind but was entirely without softness. This was a person who worked in data, in measurement, in the language of quantifiable phenomena, and what she was describing was a phenomenon that had broken every quantification she could apply to it.
 
@@ -234,7 +234,7 @@ The room was very quiet. Somewhere above them, the Hall of Infrastructure went a
 
 "How much?" he asked. His voice was steady. He was surprised by how steady it was. "How much am I carrying?"
 
-"I don't know." She said this without embarrassment. "The instruments can't measure it. They can tell me you exceed their maximums, but they can't tell me by how much. The analogy I keep arriving at" — she paused, and something shifted in her voice, a scholar reaching for precision in a place where precision had failed her — "is depth. A trickle is a surface phenomenon. A daily allotment drawn from a shallow well. What you have is not a trickle. It's a wellspring — a deep source that feeds from below. The surface is what everyone else has. You have what's underneath."
+"I don't know." She said this without embarrassment. "The instruments can't measure it. They can tell me you exceed their maximums, but they can't tell me by how much. The analogy I keep arriving at" — she paused, and something shifted in her voice, a scholar reaching for precision in a place where precision had failed her — "is depth. A pool is a surface phenomenon. A daily allotment drawn from a shallow well. What you have is not a pool. It's a wellspring — a deep source that feeds from below. The surface is what everyone else has. You have what's underneath."
 
 *Wellspring.* The word landed in the room and stayed. It had the weight of something coined in the moment — not rehearsed, not borrowed, just the right word arriving at the right time because the person speaking it had spent decades developing the vocabulary to recognize what she was seeing.
 
@@ -242,13 +242,13 @@ Veradenne seemed to hear the word settle. She nodded, once, to herself.
 
 "I'll use that in my report," she said. "Wellspring. It's more accurate than anything else I've been calling it."
 
-Ash sat with the word. It fit. It fit the way the power felt inside him — not a ration, not a budget, not the careful trickle that everyone he loved spent their lives managing. A source. Something deep and continuous, something that pressed upward against the container of his body with a force that had nowhere to go but out.
+Ash sat with the word. It fit. It fit the way the power felt inside him — not a ration, not a budget, not the careful pool that everyone he loved spent their lives managing. A source. Something deep and continuous, something that pressed upward against the container of his body with a force that had nowhere to go but out.
 
 "The tests you ran," he said. "All of them. How much of the — how much of the wellspring did they use?"
 
 Veradenne looked at him. The question had landed somewhere interesting, judging by the sharpness of her attention.
 
-"Given your waste-heat profile, I'd estimate the total energy expended across all tests — including the force target — at roughly the equivalent of a strong elder's full daily trickle. Perhaps more."
+"Given your waste-heat profile, I'd estimate the total energy expended across all tests — including the force target — at roughly the equivalent of a strong elder's full daily pool. Perhaps more."
 
 He felt the reservoir. It was right there — the pressure, the fullness, the oceanic weight of it. He felt it the way you feel your own heartbeat when you press your fingers to your wrist. Present. Unchanged.
 
@@ -264,13 +264,13 @@ Veradenne's expression didn't change. But something behind it shifted — a door
 
 "I don't know," she said.
 
-"But trickles refill. Everyone's trickle refills overnight."
+"But pools refill. Everyone's pool refills overnight."
 
-"Everyone's trickle is drawn from the planetary reservoir through a personal channel. The trickle depletes during the day and replenishes during sleep, yes. But a trickle is a daily allotment — a fixed draw rate from a larger source. What you have doesn't appear to follow the same pattern."
+"Everyone's pool is drawn from the planetary reservoir through a personal channel. The pool depletes during the day and replenishes during sleep, yes. But a pool is a daily allotment — a fixed draw rate from a larger source. What you have doesn't appear to follow the same pattern."
 
 He waited. The door was closed but he could feel the room behind it, the space where the answer lived.
 
-"The working assumption," Veradenne said, and her voice had shifted into a register he recognized from Dorenne's most careful briefings — the tone of someone delivering information they wished they could frame differently, "is that what you carry is a fixed reservoir. A sealed well. Your personal channel to the planetary source may be different from a standard trickle — we don't know, nobody has seen this before — but the most consistent model, given what we know about channeling mechanics, is that you are carrying a large but finite store. Not renewable. Not replenishing. Just... vastly larger than anything on record."
+"The working assumption," Veradenne said, and her voice had shifted into a register he recognized from Dorenne's most careful briefings — the tone of someone delivering information they wished they could frame differently, "is that what you carry is a fixed reservoir. A sealed well. Your personal channel to the planetary source may be different from a standard pool — we don't know, nobody has seen this before — but the most consistent model, given what we know about channeling mechanics, is that you are carrying a large but finite store. Not renewable. Not replenishing. Just... vastly larger than anything on record."
 
 The words arranged themselves in the air. *Fixed. Sealed. Finite. Not renewable. Not replenishing.*
 

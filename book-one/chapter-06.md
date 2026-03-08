@@ -66,7 +66,7 @@ The room was already filling. Ash entered through a side door behind the platfor
 
 He watched the room fill.
 
-Council members in the front row. He recognized two: a heavy-set man with the silver chain of office who leaned toward the woman beside him and spoke behind his hand, and an older woman—elder generation, her trickle visible in the unconscious way she warmed the arms of her chair, the wood grain glowing faintly where her palms rested. Behind them, mid-level officials, institutional staff, faces he half-recognized from the Hall's corridors. The second row: press, or what passed for press in Solathis—correspondents from the broadsheet offices, their notebooks already open, their eyes already measuring.
+Council members in the front row. He recognized two: a heavy-set man with the silver chain of office who leaned toward the woman beside him and spoke behind his hand, and an older woman—elder generation, her pool visible in the unconscious way she warmed the arms of her chair, the wood grain glowing faintly where her palms rested. Behind them, mid-level officials, institutional staff, faces he half-recognized from the Hall's corridors. The second row: press, or what passed for press in Solathis—correspondents from the broadsheet offices, their notebooks already open, their eyes already measuring.
 
 Third row. His family.
 
@@ -128,7 +128,7 @@ He pushed.
 
 The lattice activated.
 
-Not gradually—not the slow crawl of a trickle feeding through channels one at a time, the way a six-person team would have done it, each channeler taking a section, managing their budget, rationing their daily reserves across a careful schedule. This was immediate. The channels lit from the point of contact outward in a single sustained pulse, the stone glowing amber where the energy moved through it, the branching lines spreading across the eastern wall like veins filling with warmth.
+Not gradually—not the slow crawl of a pool feeding through channels one at a time, the way a six-person team would have done it, each channeler taking a section, managing their budget, rationing their daily reserves across a careful schedule. This was immediate. The channels lit from the point of contact outward in a single sustained pulse, the stone glowing amber where the energy moved through it, the branching lines spreading across the eastern wall like veins filling with warmth.
 
 The lattice covered the eastern wall. Then turned the corner. Then spread across the northern face, the channels connecting and branching and carrying the energy through the room's skeleton the way blood moved through veins. The stone glowed. The air thickened with warmth—not the harsh, breaking intensity of his first tests, but a sustained, building warmth that moved through the chamber the way sunlight moved through a window. Slow. Steady. Enormous.
 
@@ -304,11 +304,11 @@ The temporary housing was six blocks from the Hall, in a district Ash's family h
 
 His mother called it the new place the way she might call a borrowed coat warm—accurately, without ownership.
 
-Ash sat at the kitchen table while his father made tea. The kitchen was twice the size of the old one. The stove was channeling-operated, the kind that responded to a palm's touch, and his father used it without comment—his trickle, his father's daily budget, spent on heating water for his son. A small act. The kind that mattered.
+Ash sat at the kitchen table while his father made tea. The kitchen was twice the size of the old one. The stove was channeling-operated, the kind that responded to a palm's touch, and his father used it without comment—his pool, his father's daily budget, spent on heating water for his son. A small act. The kind that mattered.
 
 His father set a cup in front of Ash and sat across from him. He wrapped his hands around his own cup and looked at the steam.
 
-Ash drank. The tea was too hot and he let it burn his tongue rather than cool it with a thought. He could do that now—a pulse of cold, a thermal adjustment so small it would barely register on his reservoir. He didn't. The heat was his father's trickle. It would have felt like taking something.
+Ash drank. The tea was too hot and he let it burn his tongue rather than cool it with a thought. He could do that now—a pulse of cold, a thermal adjustment so small it would barely register on his reservoir. He didn't. The heat was his father's pool. It would have felt like taking something.
 
 They sat in the quiet. The kitchen's channeling strips hummed faintly—a sound Ash had never lived with, the background frequency of a home that worked properly, every interface maintained, every lattice charged. In the old apartment, silence had been actual silence. Here, even the quiet was powered.
 
@@ -334,7 +334,7 @@ The words landed in the kitchen like heat into stone. Ash sat with them. He didn
 
 "Please."
 
-His father heated the water with his palm on the kettle. The small, deliberate expenditure of a man's daily trickle, offered without ceremony. Ash watched his father's hand on the metal and felt, for the first time, the precise shape of the distance between them—not the distance of magic and its absence, which was old and familiar, but a new distance, the kind that came from having too much of what someone you loved could barely afford.
+His father heated the water with his palm on the kettle. The small, deliberate expenditure of a man's daily pool, offered without ceremony. Ash watched his father's hand on the metal and felt, for the first time, the precise shape of the distance between them—not the distance of magic and its absence, which was old and familiar, but a new distance, the kind that came from having too much of what someone you loved could barely afford.
 
 * * *
 
@@ -422,7 +422,7 @@ She studied his face. She saw something—he could tell, because she always coul
 
 "Maren fixed it."
 
-"Maren didn't fix it well enough." She stood and crossed to him and straightened the collar with two quick pulls. Her fingers against his neck were cool from the evening air. She smelled like metal and the sharp tang of channeling—the residue of a day's work, her trickle spent on whatever her trade demanded, the ordinary expenditure of an ordinary life.
+"Maren didn't fix it well enough." She stood and crossed to him and straightened the collar with two quick pulls. Her fingers against his neck were cool from the evening air. She smelled like metal and the sharp tang of channeling—the residue of a day's work, her pool spent on whatever her trade demanded, the ordinary expenditure of an ordinary life.
 
 She stepped back. "Better. Still ridiculous."
 

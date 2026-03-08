@@ -15,7 +15,7 @@
 | Redundant walk-home paragraph cut | ✅ Met | Walk-home section is lean and propulsive. |
 | POV tense fix (river metaphor) | ✅ Met | "the way a person didn't notice a current when the river was only ankle-deep." |
 | "Not because of what you poured into it" cut | ✅ Met | Line 195 ends at "because of how you shaped it." |
-| "A young adult's trickle" replaced | ✅ Met | Now uses felt cost — "what her trickle could sustain." |
+| "A young adult's pool" replaced | ✅ Met | Now uses felt cost — "what her pool could sustain." |
 | Smile motif connection | ✅ Met | Added after Tal scene (line 271). Connects to the Hall smile. |
 | Physical bridging object | ✅ Met | Deployment brief placed on bench (line 51), referenced in pocket at departure (line 351). |
 | Workshop history lead-in trimmed | ✅ Met | Memory of "This needs to be round" does the heavy lifting without chronological preamble. |
@@ -49,7 +49,7 @@
 
 ### 🌍 World Keeper
 
-**6. No issues.** All magic usage is accurate. Haran's channeling is within parameters. Trickle mechanics, the workshop's non-magical technology, and the district geography are consistent with `worldbuilding.md` and `magic-system.md`. The Loan tradition seed ("build what lasts longer than you do") is consistent with the tradition's philosophy without naming it.
+**6. No issues.** All magic usage is accurate. Haran's channeling is within parameters. Pool mechanics, the workshop's non-magical technology, and the district geography are consistent with `worldbuilding.md` and `magic-system.md`. The Loan tradition seed ("build what lasts longer than you do") is consistent with the tradition's philosophy without naming it.
 
 ### 🏗️ Story Architect
 

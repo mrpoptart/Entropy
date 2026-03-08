@@ -34,7 +34,7 @@ The reservoir hummed. His hands were right here.
 
 He reached for the fitting.
 
-A thread of the Wellspring was already moving before he'd decided—a trickle of force, exploratory, finding the stuck joint the way a finger finds a tight jar lid. He pushed. The fitting gave. And gave. And fused, the brass deforming under the channeled pressure, the threads pressing together harder than the original design had required.
+A thread of the Wellspring was already moving before he'd decided—a pool of force, exploratory, finding the stuck joint the way a finger finds a tight jar lid. He pushed. The fitting gave. And gave. And fused, the brass deforming under the channeled pressure, the threads pressing together harder than the original design had required.
 
 Done in a second.
 
@@ -152,7 +152,7 @@ Ash looked at the valve. The question was simple enough that he answered before 
 
 "When the rotation felt the same at every point. Even drag. No light spots, no heavy spots. You can feel it—" He stopped. His hands had moved as he spoke, turning in the air in front of him, mapping the motion. "You can feel it before you see it."
 
-Haran set the valve down. "So your hands already know what precision feels like. The feel is in your hands. Has been since before you were born." He paused. "The trickle stays where it is."
+Haran set the valve down. "So your hands already know what precision feels like. The feel is in your hands. Has been since before you were born." He paused. "The pool stays where it is."
 
 * * *
 
@@ -232,13 +232,13 @@ Ash watched the workshop.
 
 The warmth in the room had nothing to do with the small stove in the corner. The stove hadn't been lit in hours. The air moved in a comfortable rhythm that had nothing to do with the window Ash had opened when he arrived.
 
-He had been here a hundred times. He had sat at this bench on cold afternoons and thought the workshop was warm because it was small and full of people and because the stove was good. He had watched Haran brighten the lamp and thought it was a small convenience, the modest habit of a man with a modest trickle.
+He had been here a hundred times. He had sat at this bench on cold afternoons and thought the workshop was warm because it was small and full of people and because the stove was good. He had watched Haran brighten the lamp and thought it was a small convenience, the modest habit of a man with a modest pool.
 
 He looked at the lamp. At the wall where Haran's palm had rested. At the fitting Haran had read without touching. At the valve seat, calibrated in eight minutes with even contact and no channeling at all because *for this? Not useful.*
 
 None of it was large. All of it was constant.
 
-The warmth in the workshop wasn't the room. It was Haran. All day. In applications too small to register individually, accumulated over a working afternoon into a space that felt the way this space had always felt—warm, functional, tended. Each touch costing almost nothing. The sum of them costing almost nothing. A strong trickle—and Ash had known it was strong, had filed it away, had never followed the implication—trained to such precision over decades that the precision itself had become invisible.
+The warmth in the workshop wasn't the room. It was Haran. All day. In applications too small to register individually, accumulated over a working afternoon into a space that felt the way this space had always felt—warm, functional, tended. Each touch costing almost nothing. The sum of them costing almost nothing. A strong pool—and Ash had known it was strong, had filed it away, had never followed the implication—trained to such precision over decades that the precision itself had become invisible.
 
 He looked at Haran.
 

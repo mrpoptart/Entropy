@@ -6,7 +6,7 @@
 - **Age:** Approximately two years younger than Ash
 - **Gender:** Female
 - **Location:** The city — same city as Ash
-- **Magical Status:** Normal trickle (though on the weaker end of her generation, consistent with the decline). Highly skilled channeler — gets more out of her trickle than most through sheer discipline and practice.
+- **Magical Status:** Normal pool (though on the weaker end of her generation, consistent with the decline). Highly skilled channeler — gets more out of her pool than most through sheer discipline and practice.
 - **Role in the Story:** Major supporting character. Ash's closest mirror and thematic parallel. Has a full arc across all three books.
 
 ## Who She Is
@@ -17,7 +17,7 @@ Competent, composed, successful. She has a genuinely impressive career — possi
 ### Underneath
 She became "easy" as a child because she could see that her parents' energy was finite and her brother needed most of it. Nobody asked her to disappear into competence — she chose it, instinctively, because it was the only way to help a family under strain. Being excellent was her way of not adding to the burden.
 
-Over time, "easy" calcified into "exceptional." She works relentlessly. She overperforms in every area of her life. And underneath all of it is something she has never named or examined: guilt. She got a trickle and her brother didn't. It wasn't her fault and it wasn't earned, and she has spent her entire life unconsciously trying to justify the difference by being worthy of what she was given.
+Over time, "easy" calcified into "exceptional." She works relentlessly. She overperforms in every area of her life. And underneath all of it is something she has never named or examined: guilt. She got a pool and her brother didn't. It wasn't her fault and it wasn't earned, and she has spent her entire life unconsciously trying to justify the difference by being worthy of what she was given.
 
 ### Key Traits
 - **Disciplined to the point of rigidity.** She doesn't know how to coast, how to do a mediocre job, how to let something go. Every task gets her full effort because anything less feels like squandering the magic her brother never got.
@@ -42,7 +42,7 @@ And she — the one who built her entire identity on being the competent one, th
 She handles this gracefully on the surface. Of course she does. The reader should feel the ground shifting underneath her even as she smiles and says the right things. She may throw herself harder into her own work, the only arena that's still hers.
 
 ### Book Two
-The world's magical decline is becoming undeniable. Her trickle weakens. The skills she built her career on become harder. The thing she used to prove her worth — her exceptional channeling — starts failing her.
+The world's magical decline is becoming undeniable. Her pool weakens. The skills she built her career on become harder. The thing she used to prove her worth — her exceptional channeling — starts failing her.
 
 She is, for the first time in her life, heading toward the experience her brother had all along. And she has none of his coping mechanisms. He spent twenty years learning to live without magic. She has to learn it from scratch, and she doesn't have his practice at being the one who struggles.
 

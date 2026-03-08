@@ -26,7 +26,7 @@ Lenne, Torren, and Tal each receive a mini-biography delivered as narration. The
 "The irony — if it was irony..." names the subtext the reader should be feeling. Replace with a description of Ash's reaction or cut the sentence entirely and let the silence after Haran's redirect carry the weight. Flagged by Thematic Compass and Voice Editor.
 
 **6. "Anyone's recognition" at lines 389-391**
-"...without anyone's trickle or anyone's table or anyone's recognition." The final item makes the subtext into text. End the list at "anyone's table" — that word already evokes Dorenne's briefing table and does the thematic work. Flagged by Thematic Compass.
+"...without anyone's pool or anyone's table or anyone's recognition." The final item makes the subtext into text. End the list at "anyone's table" — that word already evokes Dorenne's briefing table and does the thematic work. Flagged by Thematic Compass.
 
 **7. Water pump description reads like a textbook (lines 76-78)**
 "A hand-crank mechanism drove a piston through a sealed cylinder, drawing water up through a one-way valve..." Ash built this pump; he wouldn't narrate the internal mechanics to himself. Replace with sensory detail — the brass's color, the smoothness of the crank, the particular sound. Flagged by World Keeper.
@@ -47,7 +47,7 @@ The Story Architect flags that the paragraph before the closing image restates w
 
 ## Polish Notes (nice to have)
 
-**12. "A young adult's trickle" (line 13)**
+**12. "A young adult's pool" (line 13)**
 Borderline clinical — Ash categorizing the woman in institutional language. Could be an intentional character beat (Ash absorbing Dorenne's vocabulary) or an accidental slip into exposition. World Keeper flags it as worth watching.
 
 **13. Ash's smile taxonomy during the Tal teaching moment (line 267)**
@@ -63,7 +63,7 @@ The Thematic Compass suggests one small tangible item Ash carries between the tw
 The World Keeper notes an opportunity for Haran to use a turn of phrase during the evening conversation that carries the Loan tradition's sensibility — something like an old saying — without naming the tradition.
 
 **17. The woman warming the wall could echo Haran's stove**
-The World Keeper notes the parallel between her spent trickle (warmth that fades by morning) and Haran's wood stove (warmth that runs out but can be replenished). A sensory echo when Ash enters the workshop would let the reader draw the line.
+The World Keeper notes the parallel between her spent pool (warmth that fades by morning) and Haran's wood stove (warmth that runs out but can be replenished). A sensory echo when Ash enters the workshop would let the reader draw the line.
 
 **18. Ash's interiority during ensemble scene**
 The Arc Guardian notes Ash's interior voice goes quiet during the community work sequence. A brief moment of interiority would keep his POV active.

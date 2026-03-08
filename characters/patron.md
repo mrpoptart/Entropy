@@ -6,7 +6,7 @@
 - **Age:** Late 50s to early 60s
 - **Gender:** Female
 - **Location:** The city — deeply embedded in its political and institutional center
-- **Magical Status:** Strong trickle (elder generation). Her power is measurably greater than anyone a generation younger. She uses it efficiently and strategically — never showy, always purposeful.
+- **Magical Status:** Strong pool (elder generation). Her power is measurably greater than anyone a generation younger. She uses it efficiently and strategically — never showy, always purposeful.
 - **Role:** Director of Infrastructure — an elected official responsible for maintaining the city's magically-built systems (transit networks, structural integrity, water systems, heating grids). She answers to a constituency, which entangles her political survival with her access to the Wellspring's power.
 - **Role in the Story:** Major supporting character and primary antagonistic force in Book One. Not a villain — a person whose institutional logic and genuine care operate on parallel tracks that eventually diverge from Ash's interests.
 
@@ -82,7 +82,7 @@ She adapts because she's always been brilliant, and brilliance, when it finally 
 
 ## Relationship to Ash
 
-This is the most important dimension of the character. Their relationship is built on a genuine foundation — she gave him a chance when no one else would, and he gave her something she didn't know she needed: a relationship uncomplicated by magical status. Before the Wellspring, he was the one person around her who couldn't be evaluated by trickle strength. She had to see him as a person, and she did, mostly.
+This is the most important dimension of the character. Their relationship is built on a genuine foundation — she gave him a chance when no one else would, and he gave her something she didn't know she needed: a relationship uncomplicated by magical status. Before the Wellspring, he was the one person around her who couldn't be evaluated by pool strength. She had to see him as a person, and she did, mostly.
 
 The tragedy is that the Wellspring re-introduces exactly the power dynamic she'd briefly escaped. Now he has something she can evaluate, optimize, direct. And her institutional instincts, the ones that made her successful, destroy the one thing that made their relationship real.
 

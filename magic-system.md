@@ -33,11 +33,11 @@ Magic is measured in **kilojoules (kJ)**, the same unit used for physical energy
 
 ---
 
-## Daily Trickle Budgets by Generation
+## Daily Pool Budgets by Generation
 
-The trickle is a person's daily renewable magical budget. It replenishes overnight (roughly 8 hours of sleep = full recharge). The amount you're born with is fixed by generational timing — when the planetary reservoir was fuller, trickles were larger.
+The pool is a person's daily renewable magical budget. It replenishes overnight (roughly 8 hours of sleep = full recharge). The amount you're born with is fixed by generational timing — when the planetary reservoir was fuller, pools were larger.
 
-| Generation | Age (Book One) | Daily Trickle | Relative Power |
+| Generation | Age (Book One) | Daily Pool | Relative Power |
 |------------|---------------|---------------|----------------|
 | **Ancient** (historical) | Dead | ~50,000 kJ | 10x Elder |
 | **Elder** | 65–80+ | ~10,000 kJ | Baseline strong |
@@ -87,11 +87,11 @@ The trickle is a person's daily renewable magical budget. It replenishes overnig
 
 ## Efficiency Tiers (Skill as Conversion Rate)
 
-Skill determines how much of your spent energy actually reaches the target versus bleeding off as waste heat. This is *the* reason technique matters — a skilled channeler with a small trickle can outperform a sloppy one with a larger trickle, because they waste less.
+Skill determines how much of your spent energy actually reaches the target versus bleeding off as waste heat. This is *the* reason technique matters — a skilled channeler with a small pool can outperform a sloppy one with a larger pool, because they waste less.
 
 | Skill Level | Efficiency | Description |
 |-------------|-----------|-------------|
-| **Untrained** | ~20% | Brute force. 80% of energy lost as ambient heat. A novice trying to heat a kettle (336 kJ output) must spend ~1,680 kJ — more than a young adult's entire daily trickle. |
+| **Untrained** | ~20% | Brute force. 80% of energy lost as ambient heat. A novice trying to heat a kettle (336 kJ output) must spend ~1,680 kJ — more than a young adult's entire daily pool. |
 | **Basic** | ~40% | Functional. Learned the fundamentals. Can do daily tasks without catastrophic waste. Most people operate here. Kettle costs ~840 kJ. |
 | **Competent** | ~60% | Practiced. Efficient enough to hold a skilled job. Kettle costs ~560 kJ. |
 | **Skilled** | ~75% | Years of dedicated practice. Professional channelers, experienced healers. Kettle costs ~448 kJ. |
@@ -112,7 +112,7 @@ But for *specific tasks* that require precision over power, the young master can
 
 ## Application Costs (What Magic Can Do)
 
-All costs listed are **output energy** — multiply by (1/efficiency) for actual trickle cost.
+All costs listed are **output energy** — multiply by (1/efficiency) for actual pool cost.
 
 ### Thermal Applications
 | Application | Output Cost | Notes |
@@ -138,7 +138,7 @@ All costs listed are **output energy** — multiply by (1/efficiency) for actual
 | Collapse a wall | ~50–200 kJ | Depends on material and whether you're working with or against the structure |
 | Redirect a falling object (500kg) | ~5–25 kJ | Timing and precision matter more than power |
 
-**On "Levitation":** True sustained flight is prohibitively expensive. Channeling force downward through your feet to launch yourself is feasible (a few kJ per jump). Sustaining a pressure column beneath you for hovering costs ~2.5–5 kJ/second — a young adult burns through their entire daily trickle in 3–7 minutes. An elder could sustain it for 30+ minutes but it's loud, rough, and exhausting. Nobody "floats." At best, people rocket-jump or sustain a rough, energy-devouring hover.
+**On "Levitation":** True sustained flight is prohibitively expensive. Channeling force downward through your feet to launch yourself is feasible (a few kJ per jump). Sustaining a pressure column beneath you for hovering costs ~2.5–5 kJ/second — a young adult burns through their entire daily pool in 3–7 minutes. An elder could sustain it for 30+ minutes but it's loud, rough, and exhausting. Nobody "floats." At best, people rocket-jump or sustain a rough, energy-devouring hover.
 
 ### Healing / Biological Applications
 | Application | Output Cost | Notes |
@@ -163,7 +163,7 @@ All costs listed are **output energy** — multiply by (1/efficiency) for actual
 | Permanent structural reinforcement | 2,000–10,000 kJ | The work that built Solathis's grand architecture |
 | Maintain a grand structure (daily) | 1,000–5,000 kJ | Per structure. Teams of channelers working shifts. |
 
-**The infrastructure crisis in numbers:** A grand building in Solathis might need 3,000 kJ/day of maintenance channeling. An elder team of 3 can handle it comfortably (1,000 kJ each, 10% of their day). Replace those elders with young adults and you need 10+ people committing a third of their daily trickle each. The economics collapse.
+**The infrastructure crisis in numbers:** A grand building in Solathis might need 3,000 kJ/day of maintenance channeling. An elder team of 3 can handle it comfortably (1,000 kJ each, 10% of their day). Replace those elders with young adults and you need 10+ people committing a third of their daily pool each. The economics collapse.
 
 ### Sensory / Subtle Applications
 | Application | Output Cost | Notes |
@@ -182,8 +182,8 @@ Ash's Wellspring reservoir at activation: **~50,000,000 kJ (50 GJ)**
 For context:
 | Comparison | Value |
 |-----------|-------|
-| One elder's daily trickle | 10,000 kJ |
-| One elder's annual trickle | ~3,650,000 kJ |
+| One elder's daily pool | 10,000 kJ |
+| One elder's annual pool | ~3,650,000 kJ |
 | **The Wellspring** | **50,000,000 kJ** |
 | Elder-equivalent days | ~5,000 days (~14 years) |
 | Elder-equivalent at reckless use | Could burn through it in months |
@@ -231,13 +231,13 @@ These are hard walls, not soft limits:
 
 ## The Overnight Recharge — How It Works
 
-The trickle replenishes during sleep because sleep is when the body's conscious channeling stops and the passive connection to the planetary reservoir can flow unimpeded. Think of it like a well refilling — you can't fill a bucket while you're scooping water out of it.
+The pool replenishes during sleep because sleep is when the body's conscious channeling stops and the passive connection to the planetary reservoir can flow unimpeded. Think of it like a well refilling — you can't fill a bucket while you're scooping water out of it.
 
 - ~8 hours of sleep = full recharge to your personal maximum
 - Less sleep = partial recharge (roughly proportional)
 - You cannot "bank" extra by sleeping more — your personal channel has a maximum flow rate and a maximum capacity
 - Illness, extreme stress, or injury can reduce recharge efficiency
-- The recharge draws from the planetary reservoir — as the reservoir declines across generations, the maximum trickle people are born with gets smaller, but the recharge mechanism itself doesn't break
+- The recharge draws from the planetary reservoir — as the reservoir declines across generations, the maximum pool people are born with gets smaller, but the recharge mechanism itself doesn't break
 
 ---
 
@@ -246,13 +246,13 @@ The trickle replenishes during sleep because sleep is when the body's conscious 
 *(Suggestions — to be refined for narrative voice)*
 
 People in this world don't say "kilojoules." They might use terms like:
-- **Trickle** — your daily renewable budget (already established)
+- **Pool** — your daily renewable budget (already established)
 - **Spent / burned** — used up your reserves
 - **Dry** — out of magic for the day
 - **Running hot** — channeling inefficiently, wasting energy as ambient heat
 - **Clean channeling** — efficient, precise technique
 - **Flooding** — dumping too much energy into a task (brute force approach)
-- **The hum** — what it feels like when your trickle is full and ready
+- **The hum** — what it feels like when your pool is full and ready
 - **Dead weight** — a person who can't channel (what Ash was called before activation)
 
 ---
@@ -260,7 +260,7 @@ People in this world don't say "kilojoules." They might use terms like:
 ## Open Questions
 
 - What happens if someone channels past empty? Just... can't, like a muscle that won't contract? Or is there a dangerous "overdraft" where you burn your own metabolic energy?
-- Can trickles vary within a generation, or is everyone born in the same year roughly equal? (Some variance seems realistic — like height.)
+- Can pools vary within a generation, or is everyone born in the same year roughly equal? (Some variance seems realistic — like height.)
 - Are there applications we haven't thought of? Weather manipulation? Sound? Pressure?
 - Does the efficiency technique from Book Two have a specific name or discipline?
 - How do the political factions (from worldbuilding.md) interact with these numbers? The Preservationists' rationing makes quantifiable sense now.

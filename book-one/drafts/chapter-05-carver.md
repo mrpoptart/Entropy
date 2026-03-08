@@ -56,7 +56,7 @@ He'd touched the wall once, by accident, reaching for the light switch. The chan
 
 Gently.
 
-He tried to push a small amount. He had no frame of reference for small. The reservoir inside him was a weight, a presence, an ocean pressing against the inside of his skin, and he didn't know where the valve was or how to crack it open just a fraction. He couldn't find the edges. Couldn't feel the difference between a trickle and a flood.
+He tried to push a small amount. He had no frame of reference for small. The reservoir inside him was a weight, a presence, an ocean pressing against the inside of his skin, and he didn't know where the valve was or how to crack it open just a fraction. He couldn't find the edges. Couldn't feel the difference between a pool and a flood.
 
 He pushed.
 
@@ -144,7 +144,7 @@ He set the first one in front of Ash.
 
 "As gently as you can," the younger examiner said.
 
-Ash placed one finger on the stone. He tried to imagine the smallest possible push—not a stream, not a trickle, just a whisper. The barest breath of energy, the minimum his body could release.
+Ash placed one finger on the stone. He tried to imagine the smallest possible push—not a stream, not a pool, just a whisper. The barest breath of energy, the minimum his body could release.
 
 The stone turned violet and shattered.
 
@@ -210,7 +210,7 @@ The door closed.
 
 The older woman sat on the edge of the table, one hand still resting on the dark stone. She was quiet for what felt like a long time. The room's heat was fading—slowly, the stone walls releasing the waste energy of Ash's channeling in a gradual exhale that brought the temperature back toward normal.
 
-"My name is Vasra," she said. "I study channeling theory. The mechanics of how reservoirs function, how trickles replenish, how energy moves through the body and into the world." She turned the dark stone in her fingers. "I've spent forty years measuring what people carry. The instruments in this room are calibrated for the full known range—from the weakest adolescent trickle to the strongest elder reservoir on record."
+"My name is Vasra," she said. "I study channeling theory. The mechanics of how reservoirs function, how pools replenish, how energy moves through the body and into the world." She turned the dark stone in her fingers. "I've spent forty years measuring what people carry. The instruments in this room are calibrated for the full known range—from the weakest adolescent pool to the strongest elder reservoir on record."
 
 "I broke the instruments."
 
@@ -218,7 +218,7 @@ The older woman sat on the edge of the table, one hand still resting on the dark
 
 He waited.
 
-"Every trickle I've ever measured has a floor. A bottom. You push into the stone and the light moves outward—a circle, like a ripple—and then it stops. The distance it travels before it stops tells me the depth of the reservoir. Elders, the strongest I've measured: the light goes about this far." She held her hands apart. The distance between them was perhaps the width of a dinner plate. "You. The light didn't stop."
+"Every pool I've ever measured has a floor. A bottom. You push into the stone and the light moves outward—a circle, like a ripple—and then it stops. The distance it travels before it stops tells me the depth of the reservoir. Elders, the strongest I've measured: the light goes about this far." She held her hands apart. The distance between them was perhaps the width of a dinner plate. "You. The light didn't stop."
 
 The room was quiet.
 
@@ -228,7 +228,7 @@ Ash looked at the dark stone on the table. Small. Polished. An egg-sized piece o
 
 "What does that mean?" he asked.
 
-"It means your reservoir is not a trickle." She chose the word carefully, turning it in her mouth the way she'd turned the stone in her fingers. "It's something else. A deep source. A wellspring—something that feeds from below, from a depth I don't have instruments to measure."
+"It means your reservoir is not a pool." She chose the word carefully, turning it in her mouth the way she'd turned the stone in her fingers. "It's something else. A deep source. A wellspring—something that feeds from below, from a depth I don't have instruments to measure."
 
 *Wellspring.*
 
@@ -238,7 +238,7 @@ Vasra watched him. Her eyes were careful, attentive, recording.
 
 "Can you tell me how much?" he asked. "How much I—how much there is?"
 
-"Not precisely. The calibration instruments were designed for a range that ends well below what you demonstrated today. The resonance stone suggests a reservoir that is... orders of magnitude larger than any trickle on record. By a significant factor."
+"Not precisely. The calibration instruments were designed for a range that ends well below what you demonstrated today. The resonance stone suggests a reservoir that is... orders of magnitude larger than any pool on record. By a significant factor."
 
 "How significant?"
 
@@ -246,7 +246,7 @@ Vasra watched him. Her eyes were careful, attentive, recording.
 
 He sat with that. The chair was still too small. He shifted his weight and the wood creaked under him—the same creak as his stool in Haran's workshop, his body in a seat designed for someone else.
 
-"Is it..." He stopped. The question formed and reformed in his mouth, each version inadequate. "Does it refill? Like a trickle? Will it—is there more, in the morning?"
+"Is it..." He stopped. The question formed and reformed in his mouth, each version inadequate. "Does it refill? Like a pool? Will it—is there more, in the morning?"
 
 Vasra's expression didn't change. But something behind it did—a stillness, a careful arrangement of features that he recognized from Dorenne's office. The face of a person deciding how much truth was appropriate.
 
@@ -254,11 +254,11 @@ Vasra's expression didn't change. But something behind it did—a stillness, a c
 
 He waited.
 
-"Every trickle we've studied replenishes during sleep. It draws from the planetary reservoir through a personal channel—a connection that establishes at birth and determines your daily capacity. That's the mechanism. That's how it works for everyone."
+"Every pool we've studied replenishes during sleep. It draws from the planetary reservoir through a personal channel—a connection that establishes at birth and determines your daily capacity. That's the mechanism. That's how it works for everyone."
 
 "But?"
 
-"But your reservoir didn't establish at birth. It was dormant for twenty-three years and activated under extreme stress. The mechanism that created it—or unsealed it—is not the same mechanism that governs a normal trickle. Whether it follows the same rules..." She spread her hands. The gesture was small and precise and contained the entire scope of her uncertainty. "We don't know."
+"But your reservoir didn't establish at birth. It was dormant for twenty-three years and activated under extreme stress. The mechanism that created it—or unsealed it—is not the same mechanism that governs a normal pool. Whether it follows the same rules..." She spread her hands. The gesture was small and precise and contained the entire scope of her uncertainty. "We don't know."
 
 "What do you think?"
 

@@ -10,7 +10,7 @@ The evening light caught the upper districts behind him, the grand facades still
 
 He passed a woman on the stairs between the third and fourth terraces. She was leaning against the wall, eyes closed, one hand pressed flat to the stone. Channeling—he could tell by the slight tightening around her mouth, the focused stillness. She was warming the wall. Not much. Enough for the apartments behind it to hold a little heat through the night. When she opened her eyes and saw him, she nodded, flexed her fingers, and kept going.
 
-In the upper districts, nobody stopped to warm a wall. They didn't need to—the maintenance teams handled it, the buildings held their heat, the system worked. Down here, a woman leaned against stone on her way home from work and spent part of what she had left to keep her neighbors warm. Ash thought about what that cost her—the calculations had been running in his head for four days now, the schedules and allocations that Dorenne's office tracked with colored overlays and daily briefs. A young adult's trickle. A fraction of a fraction, spent against a wall that would be cold again by morning.
+In the upper districts, nobody stopped to warm a wall. They didn't need to—the maintenance teams handled it, the buildings held their heat, the system worked. Down here, a woman leaned against stone on her way home from work and spent part of what she had left to keep her neighbors warm. Ash thought about what that cost her—the calculations had been running in his head for four days now, the schedules and allocations that Dorenne's office tracked with colored overlays and daily briefs. A young adult's pool. A fraction of a fraction, spent against a wall that would be cold again by morning.
 
 He didn't linger on it. The numbers were Dorenne's problem, not his. His job was the schedule, the logistics, the careful choreography of teams and routes that squeezed function from a system that was slowly outgrowing the people who maintained it. He was good at it. He was good at it, and the knowledge sat in his chest like a coal, still warm from the day.
 
@@ -22,7 +22,7 @@ The door was open. It was always open.
 
 * * *
 
-The workshop was warm. Not channeled-warm—not the even, diffused heat of a stone room maintained by someone pouring their trickle into the walls. This was a different warmth: a small iron stove in the corner, wood-burning, the flue running up through a hole in the ceiling that Haran had cut himself. The heat collected in the low space and mixed with the smell of the work—metal, wood, the sharp tang of cut copper, the softer sweetness of beeswax and linseed oil. The tools were everywhere: hung on pegboards, standing in jars, laid across benches in arrangements that looked random until you watched Haran work and realized every piece was exactly where his hand expected it to be.
+The workshop was warm. Not channeled-warm—not the even, diffused heat of a stone room maintained by someone pouring their pool into the walls. This was a different warmth: a small iron stove in the corner, wood-burning, the flue running up through a hole in the ceiling that Haran had cut himself. The heat collected in the low space and mixed with the smell of the work—metal, wood, the sharp tang of cut copper, the softer sweetness of beeswax and linseed oil. The tools were everywhere: hung on pegboards, standing in jars, laid across benches in arrangements that looked random until you watched Haran work and realized every piece was exactly where his hand expected it to be.
 
 Haran was at the main bench, bent over something small. He didn't look up when Ash came in. He held a brass fitting between his thumb and forefinger, turned it once, set it into a housing, and tapped it home with the end of a file. The motion was easy. Practiced. The sort of gesture that contained decades.
 
@@ -74,7 +74,7 @@ He waited for something. He wasn't sure what. Haran filed.
 
 Haran's hand paused. The file rested on the brass fitting. His eyes moved—not to Ash, but to the wall behind the second bench, where a shelf held a row of mechanical devices in various stages of completion. In the center of the row, mounted on a square of wood with a small tin plate beneath it to catch drips, sat a water pump.
 
-It was compact. Elegant, in the way that working things are elegant—no wasted material, no decorative flourish, every component shaped to its function. A hand-crank mechanism drove a piston through a sealed cylinder, drawing water up through a one-way valve and pushing it out through a spout. Ash had designed it over the course of six weeks, testing three different valve configurations before settling on the one that gave the best draw with the least effort. It ran without channeling. It ran without anyone's trickle. It drew water from a cistern to a basin with nothing more than a person's hand on the crank.
+It was compact. Elegant, in the way that working things are elegant—no wasted material, no decorative flourish, every component shaped to its function. A hand-crank mechanism drove a piston through a sealed cylinder, drawing water up through a one-way valve and pushing it out through a spout. Ash had designed it over the course of six weeks, testing three different valve configurations before settling on the one that gave the best draw with the least effort. It ran without channeling. It ran without anyone's pool. It drew water from a cistern to a basin with nothing more than a person's hand on the crank.
 
 Three of them were currently installed in homes in this district, in kitchens where the channeled water lift had stopped working and nobody had the reserves to restart it.
 
@@ -108,7 +108,7 @@ Haran squeezed the pliers around something too small for Ash to see, made a quar
 
 The workshop filled slowly, the way it always did in the evenings. Nobody announced their arrival. People came in through the open door, found a bench or a stool or a section of floor, and started working on whatever they'd left unfinished the last time they were here.
 
-Lenne arrived first—a young woman, twenty or twenty-one, with short dark hair and the careful movements of someone who was used to measuring what she spent. She worked for one of the district's maintenance crews, and her trickle was weak enough that a full shift left her hollowed out by midafternoon. She came to the workshop because the things she built here didn't drain her. She was working on a spring-loaded door mechanism—a latch system that would hold a door shut against wind pressure without anyone channeling a seal. She'd been at it for two weeks. It kept jamming.
+Lenne arrived first—a young woman, twenty or twenty-one, with short dark hair and the careful movements of someone who was used to measuring what she spent. She worked for one of the district's maintenance crews, and her pool was weak enough that a full shift left her hollowed out by midafternoon. She came to the workshop because the things she built here didn't drain her. She was working on a spring-loaded door mechanism—a latch system that would hold a door shut against wind pressure without anyone channeling a seal. She'd been at it for two weeks. It kept jamming.
 
 "Haran," she said, not looking up. "The spring's too stiff."
 
@@ -136,7 +136,7 @@ She looked at the catch plate. She looked at Haran. Something shifted behind her
 
 Ash watched this exchange with the comfortable familiarity of someone who had been on Lenne's end of it more times than he could count. Haran didn't explain. He didn't draw diagrams or walk you through the reasoning. He handed you the answer in the smallest possible container and let you unpack it yourself. If you couldn't unpack it, you asked again, and he'd give you one more piece. Never the whole thing. Never enough to rob you of the understanding that came from working it out.
 
-Torren came in next—an older man, mid-fifties, a retired stoneworker whose trickle had been strong enough in his youth but whose hands were more interesting to him than his channeling had ever been. He liked puzzles. He liked the particular satisfaction of a mechanism that worked—the clean, repeatable logic of parts that moved because of their shape, not because someone poured energy into them. He was building a clockwork, though he would have denied calling it that. A system of gears and a weighted pendulum that tracked time without channeling. He'd been building it for eight months. He was close.
+Torren came in next—an older man, mid-fifties, a retired stoneworker whose pool had been strong enough in his youth but whose hands were more interesting to him than his channeling had ever been. He liked puzzles. He liked the particular satisfaction of a mechanism that worked—the clean, repeatable logic of parts that moved because of their shape, not because someone poured energy into them. He was building a clockwork, though he would have denied calling it that. A system of gears and a weighted pendulum that tracked time without channeling. He'd been building it for eight months. He was close.
 
 "Ash," Torren said, settling onto his usual stool with the slow deliberation of a man whose knees had opinions about stairs. "Heard you got yourself a position."
 
@@ -156,7 +156,7 @@ Torren came in next—an older man, mid-fifties, a retired stoneworker whose tri
 
 "Were you? Felt longer." He didn't look up. His tone was conversational, unburdened, the observation of a man who noticed absences the way he noticed loose teeth in a gear train—not with judgment, but with the mechanical attention of someone who tracked how things fit together.
 
-The last to arrive was Merik—a teenager, sixteen or seventeen, all elbows and enthusiasm. He came from a family of channelers who thought his interest in mechanisms was a phase, something he'd outgrow when his trickle matured and he discovered the satisfaction of real work. He hadn't outgrown it. His trickle had matured—he was stronger than Lenne, comfortably average for his age—and he still came to the workshop three evenings a week to build things with his hands that his channeling could have accomplished in minutes.
+The last to arrive was Merik—a teenager, sixteen or seventeen, all elbows and enthusiasm. He came from a family of channelers who thought his interest in mechanisms was a phase, something he'd outgrow when his pool matured and he discovered the satisfaction of real work. He hadn't outgrown it. His pool had matured—he was stronger than Lenne, comfortably average for his age—and he still came to the workshop three evenings a week to build things with his hands that his channeling could have accomplished in minutes.
 
 "Ash!" He dropped onto the bench beside Lenne with the boneless ease of someone whose joints hadn't started keeping score. "Is it true you're working for Dorenne Kharren?"
 
@@ -172,7 +172,7 @@ The last to arrive was Merik—a teenager, sixteen or seventeen, all elbows and 
 
 Merik's enthusiasm was unbothered by this. He had the particular optimism of someone who hadn't yet learned that systems were made of people, and that people were made of compromises. Ash remembered having that optimism. It felt like looking at a photograph of a room he'd once lived in.
 
-"Mechanisms," Merik said, gesturing broadly at the workshop, "are the future. You know that, right? When the trickle can't hold the transit lifts, when the heating grids go dark, when the aqueducts need more channeling than the crews can give—mechanisms. That's what saves us."
+"Mechanisms," Merik said, gesturing broadly at the workshop, "are the future. You know that, right? When the pool can't hold the transit lifts, when the heating grids go dark, when the aqueducts need more channeling than the crews can give—mechanisms. That's what saves us."
 
 "Or we learn to manage what we have more efficiently," Ash said.
 
@@ -212,7 +212,7 @@ He filed. Checked. Filed again. The bend deepened by a degree. He fitted the lev
 
 Click.
 
-The ratchet disengaged. The clamp opened. He tightened it again, pressed the lever, and the ratchet released with the same clean, definitive sound. He did it a third time. A fourth. Each time, the mechanism performed identically—the same motion, the same resistance, the same release. No channeling. No trickle. Just iron shaped to fit iron, and the satisfying logic of parts that did what they were designed to do.
+The ratchet disengaged. The clamp opened. He tightened it again, pressed the lever, and the ratchet released with the same clean, definitive sound. He did it a third time. A fourth. Each time, the mechanism performed identically—the same motion, the same resistance, the same release. No channeling. No pool. Just iron shaped to fit iron, and the satisfying logic of parts that did what they were designed to do.
 
 He held the clamp up. The stove light caught the metal, and for a moment it looked almost elegant—the simple geometry of function, unmarred by decoration or excess.
 
@@ -230,7 +230,7 @@ Haran picked up his pliers. "When you get to it, then."
 
 "Right."
 
-He looked at the clamp in his hands. The release lever sat perfectly against the housing, the notch aligned with the pin, the bend exact. His hands had made this. His mind had designed it. The mechanism would hold a pipe joint so that a maintenance worker—a person with a trickle and a skill set and a long day ahead of them—could work with both hands free. It was a small thing. It would make a small difference in a small number of lives. And it was complete because Ash had sat on this stool and filed iron until the angle was right.
+He looked at the clamp in his hands. The release lever sat perfectly against the housing, the notch aligned with the pin, the bend exact. His hands had made this. His mind had designed it. The mechanism would hold a pipe joint so that a maintenance worker—a person with a pool and a skill set and a long day ahead of them—could work with both hands free. It was a small thing. It would make a small difference in a small number of lives. And it was complete because Ash had sat on this stool and filed iron until the angle was right.
 
 He set the clamp on the bench. The sound it made—a quiet, solid tap of metal on wood—was the sound of something finished. He reached for the next piece: a coupling bracket that needed its bolt holes widened. He picked up the drill.
 
@@ -242,7 +242,7 @@ The evening deepened. Torren left first, wrapping his gears in their cloth with 
 
 "Mechanisms break," Lenne said. "Constantly."
 
-"Sure. And when they break, you can see why. You can fix the part. You don't need someone with a strong enough trickle to convince the metal to hold itself together."
+"Sure. And when they break, you can see why. You can fix the part. You don't need someone with a strong enough pool to convince the metal to hold itself together."
 
 "You still need someone who can shape the part."
 
@@ -282,7 +282,7 @@ Almost. He'd been watching Haran for nine years. He'd learned to spot the moment
 
 Haran did these things the way a person breathed—without deciding to, without effort, without spending what Ash imagined a person spent when they channeled. As if the cost were so low, the control so refined, that the difference between doing it and not doing it was negligible.
 
-Ash had never asked about it. The workshop ran on an unspoken agreement: what Haran did with his trickle was his business. What mattered here was what your hands could do.
+Ash had never asked about it. The workshop ran on an unspoken agreement: what Haran did with his pool was his business. What mattered here was what your hands could do.
 
 "More tea?" Haran asked.
 

@@ -6,7 +6,7 @@
 Magic accumulates in the planetary reservoir over geological timescales — like fossil fuels laid down over eons. Humanity discovers the connection, learns to draw on it. The earliest channelers are crude and wasteful. Over centuries, technique improves, civilization grows, and the draw on the reservoir accelerates.
 
 ### The High Age (~300–150 years before Book One)
-The Ancient generation's peak. Daily trickles of ~50,000 kJ. Magic at its most abundant. The grand architecture of Solathis built. Mountain roads carved across the Verenthi Range. Civilization shaped to human will — terrain reshaped, rivers redirected, cities built in impossible places. The assumption that this was permanent.
+The Ancient generation's peak. Daily pools of ~50,000 kJ. Magic at its most abundant. The grand architecture of Solathis built. Mountain roads carved across the Verenthi Range. Civilization shaped to human will — terrain reshaped, rivers redirected, cities built in impossible places. The assumption that this was permanent.
 
 **Key events:**
 - Solathis founded by Edrin Solath on the site of a forgotten war's last battle
@@ -15,7 +15,7 @@ The Ancient generation's peak. Daily trickles of ~50,000 kJ. Magic at its most a
 - Kharren Fault seismically reinforced by Ancient channelers as routine maintenance
 
 ### The Transition (~150–80 years before Book One)
-The first measurable decline. Elder channelers notice their children's trickles are weaker. Debate begins — is this cyclical? Temporary? The first political factions form. Trickle measurements begin being recorded systematically. Denial is easy because the decline is slow and the Ancients are still alive, still powerful, still holding everything together.
+The first measurable decline. Elder channelers notice their children's pools are weaker. Debate begins — is this cyclical? Temporary? The first political factions form. Pool measurements begin being recorded systematically. Denial is easy because the decline is slow and the Ancients are still alive, still powerful, still holding everything together.
 
 ### The Long Diminishment (~80 years before Book One to present)
 The Ancients die. The current Elder generation inherits systems built for people twice as powerful. The decline becomes undeniable. Infrastructure maintenance shifts from routine to crisis management. Rural communities begin failing. Political factions harden. Non-magical technology emerges from necessity.
@@ -29,9 +29,9 @@ The Ancients die. The current Elder generation inherits systems built for people
 ## Recent Backstory (years before Book One)
 
 ### ~20-25 years before Book One
-- Ash is born without any magical ability — no trickle at all
+- Ash is born without any magical ability — no pool at all
 - His dormant Wellspring reservoir (50 GJ) expresses as apparent magical disability
-- His sister is born ~2 years later with a normal trickle
+- His sister is born ~2 years later with a normal pool
 
 ### ~10-15 years before Book One
 - Haran establishes his workshop in a poorer district of Solathis
@@ -65,7 +65,7 @@ The Ancients die. The current Elder generation inherits systems built for people
 - Proof-of-concept district retrofit with Haran
 - Levelers emerge from post-earthquake radicalization
 - Proof-of-concept struggles — dependency on him rather than self-sufficiency
-- Sister's trickle weakening faster than expected
+- Sister's pool weakening faster than expected
 - Levelers escalate — forced expenditures, political confrontation
 - Break with Davan
 - Reconnection with Ryn

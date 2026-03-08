@@ -32,7 +32,7 @@ She made a note. "Age?"
 
 Another note. A glance at her colleagues — brief, automatic, the kind of look that confirmed they were all starting from the same page. One of the men was adjusting an instrument on the table, a device with a crystal face and a needle that rested at zero. The other was arranging a set of stones in a row, each one a different size, graduating from a pebble to something the size of his fist.
 
-"This is a standard trickle assessment," the woman said. "We'll run through a series of channeling exercises designed to measure the strength and stability of your reservoir. The process takes approximately forty minutes. Do you have any questions?"
+"This is a standard pool assessment," the woman said. "We'll run through a series of channeling exercises designed to measure the strength and stability of your reservoir. The process takes approximately forty minutes. Do you have any questions?"
 
 "I've never channeled before. I mean — before three days ago. I don't know how to—"
 
@@ -142,7 +142,7 @@ She looked at Ash. Then at the cracked calibration stone. Then at the instrument
 
 "What kind of measurements?"
 
-"The kind we don't have instruments for." She looked at him over the rim of her case. Her eyes were dark, sharp, the eyes of someone who spent her life looking at things most people couldn't see. "The assessment you've been running was designed for trickle evaluation. Graduated scales, bounded ranges. It assumes the person being measured falls somewhere on a known spectrum." She paused. "You don't appear to be on the spectrum."
+"The kind we don't have instruments for." She looked at him over the rim of her case. Her eyes were dark, sharp, the eyes of someone who spent her life looking at things most people couldn't see. "The assessment you've been running was designed for pool evaluation. Graduated scales, bounded ranges. It assumes the person being measured falls somewhere on a known spectrum." She paused. "You don't appear to be on the spectrum."
 
 "What does that mean?"
 
@@ -176,7 +176,7 @@ He pulled his hands away. The granite sat on the pedestal, unchanged to the eye.
 
 One of the examiners made a sound. Vara ignored it.
 
-"The granite block exercise is designed for master-level channelers," she said, still looking at the timepiece. "A skilled structural channeler — someone with twenty years of experience — takes three to five minutes to achieve full saturation. An elder with a strong trickle can do it in about ninety seconds." She set the timepiece down. "Seven seconds, and you were barely trying."
+"The granite block exercise is designed for master-level channelers," she said, still looking at the timepiece. "A skilled structural channeler — someone with twenty years of experience — takes three to five minutes to achieve full saturation. An elder with a strong pool can do it in about ninety seconds." She set the timepiece down. "Seven seconds, and you were barely trying."
 
 "I was trying," Ash said. "I just don't know how to try less."
 
@@ -190,7 +190,7 @@ She ran more tests. Channel force into a basin of water — heat it. He heated i
 
 She had him channel into the air itself — push warmth outward, fill the room. He did. The temperature climbed. The examiners loosened their half-cloaks. One of them wiped sweat from his forehead.
 
-"That's — the ambient increase is approximately twelve degrees," the man with the resonance gauge said. "In thirty seconds. That's the thermal output of a full elder's trickle concentrated into—"
+"That's — the ambient increase is approximately twelve degrees," the man with the resonance gauge said. "In thirty seconds. That's the thermal output of a full elder's pool concentrated into—"
 
 "It's the thermal output of waste heat," Vara corrected. "That's the ambient bleed from his channeling, not his primary output. His efficiency is..." She paused, calculating. "Extraordinary in the wrong direction. He's pushing perhaps ten to twenty times the force required for any given task, and the surplus dissipates as heat."
 
@@ -204,15 +204,15 @@ He sat. The stool was cold after the warmth he'd pumped into the room. His hands
 
 Vara pulled a stool opposite him. The examiners had gathered behind her, their clipboards held at their sides, their professional detachment surrendered entirely to attention.
 
-"Every person born in this city — every person born in this world — carries a reservoir of channeling energy," Vara said. "You know this. The reservoir determines your trickle: the amount you can access and spend each day. The trickle replenishes during sleep, drawing from the planetary source. The total capacity varies by generation — older generations have larger reservoirs, younger ones smaller. This is the decline. This is what we've been measuring, tracking, and arguing about for the better part of forty years."
+"Every person born in this city — every person born in this world — carries a reservoir of channeling energy," Vara said. "You know this. The reservoir determines your pool: the amount you can access and spend each day. The pool replenishes during sleep, drawing from the planetary source. The total capacity varies by generation — older generations have larger reservoirs, younger ones smaller. This is the decline. This is what we've been measuring, tracking, and arguing about for the better part of forty years."
 
 She paused. She folded her hands in her lap.
 
-"Your reservoir is not a trickle."
+"Your reservoir is not a pool."
 
 The room was quiet.
 
-"A trickle is a channel — a narrow opening through which energy flows at a regulated rate. What I've measured in you today is not a channel. It's a source. A deep source that feeds from below. Not a trickle but a wellspring." She said the word as if she were placing it on a shelf — carefully, with awareness of its weight. "A wellspring."
+"A pool is a channel — a narrow opening through which energy flows at a regulated rate. What I've measured in you today is not a channel. It's a source. A deep source that feeds from below. Not a pool but a wellspring." She said the word as if she were placing it on a shelf — carefully, with awareness of its weight. "A wellspring."
 
 The word settled into the room. Ash felt it land — not in his mind but somewhere lower, in his chest, in the place where the warmth lived. *Wellspring.* The sound of it matched something — the pressure behind his hands, the oceanic feeling of power that had been building in him for three days, the sense of something vast and deep that he couldn't see the bottom of.
 
@@ -236,9 +236,9 @@ Vara's expression didn't change. "I don't know."
 
 "Has this happened before? To anyone?"
 
-"No. Not in any historical record I've studied. Not in any theoretical framework I'm aware of." She said this without drama, without the breathlessness that the statement seemed to warrant. She said it the way she said everything — precisely, as a fact among facts. "Trickle variance exists within generations. Some people are slightly stronger, some weaker. But the variance is small. A factor of two at most. You are not a variance. You are something we don't have a category for."
+"No. Not in any historical record I've studied. Not in any theoretical framework I'm aware of." She said this without drama, without the breathlessness that the statement seemed to warrant. She said it the way she said everything — precisely, as a fact among facts. "Pool variance exists within generations. Some people are slightly stronger, some weaker. But the variance is small. A factor of two at most. You are not a variance. You are something we don't have a category for."
 
-"Is it—" He stopped. Started again. The question was harder to form than he expected, as if the words themselves resisted assembly. "Does it refill? Like a trickle? Will it—come back, after I use it?"
+"Is it—" He stopped. Started again. The question was harder to form than he expected, as if the words themselves resisted assembly. "Does it refill? Like a pool? Will it—come back, after I use it?"
 
 Vara was quiet for a long time.
 
@@ -248,11 +248,11 @@ Not the calculating quiet of Dorenne, who went silent when she was choosing betw
 
 Ash waited. The warmth in his hands pulsed.
 
-"A trickle replenishes because it draws from the planetary reservoir through a personal channel. The channel opens during sleep. The amount it draws is fixed by the channel's capacity — which is, in turn, determined by when you were born. This is the model. It's well-established. It's been consistent for every person we've ever measured."
+"A pool replenishes because it draws from the planetary reservoir through a personal channel. The channel opens during sleep. The amount it draws is fixed by the channel's capacity — which is, in turn, determined by when you were born. This is the model. It's well-established. It's been consistent for every person we've ever measured."
 
 "But."
 
-"But you are not a trickle." She leaned forward slightly. "I don't know if your reservoir connects to the planetary source the way trickles do. I don't know if it replenishes. I don't know if it's renewable or fixed." She paused. "The working assumption — and I want to be clear that this is an assumption, not a finding — is that your reservoir functions like a trickle: fixed total capacity, daily renewal from the planetary source. Just... vastly larger."
+"But you are not a pool." She leaned forward slightly. "I don't know if your reservoir connects to the planetary source the way pools do. I don't know if it replenishes. I don't know if it's renewable or fixed." She paused. "The working assumption — and I want to be clear that this is an assumption, not a finding — is that your reservoir functions like a pool: fixed total capacity, daily renewal from the planetary source. Just... vastly larger."
 
 *Vastly larger.*
 
@@ -290,9 +290,9 @@ The slab cracked. Not shattered — cracked. A single line, corner to corner, th
 
 "Yet," he said.
 
-She looked at him. "Yet. It can be learned. Every channeler learns it. But they start learning at age five, with trickles measured in hundreds of kilojoules. You're starting at twenty-three, with a reservoir that—" She paused. The pause held something she decided not to say. "It can be learned."
+She looked at him. "Yet. It can be learned. Every channeler learns it. But they start learning at age five, with pools measured in hundreds of kilojoules. You're starting at twenty-three, with a reservoir that—" She paused. The pause held something she decided not to say. "It can be learned."
 
-She packed her instruments. The examiners were writing — all three of them now, filling their clipboards with notes that Ash suspected would be on Dorenne's desk by evening. Tessaril had regained some of her professional composure, though her notes had grown substantially longer than the standard trickle assessment form seemed designed to accommodate.
+She packed her instruments. The examiners were writing — all three of them now, filling their clipboards with notes that Ash suspected would be on Dorenne's desk by evening. Tessaril had regained some of her professional composure, though her notes had grown substantially longer than the standard pool assessment form seemed designed to accommodate.
 
 "What happens now?" Ash asked.
 
@@ -346,7 +346,7 @@ They would never be cold again.
 
 * * *
 
-Tessaril met him in the corridor outside the assessment room. She had a form — a standard trickle assessment form, he could tell, with fields for level rating and stability index and daily capacity estimate. She'd filled in what she could. Where the form asked for a numerical rating, she'd written a word instead. The same word, in every field.
+Tessaril met him in the corridor outside the assessment room. She had a form — a standard pool assessment form, he could tell, with fields for level rating and stability index and daily capacity estimate. She'd filled in what she could. Where the form asked for a numerical rating, she'd written a word instead. The same word, in every field.
 
 *Unmeasurable.*
 
@@ -356,7 +356,7 @@ Tessaril met him in the corridor outside the assessment room. She had a form —
 
 She hesitated. The professional mask slipped for a moment, and underneath it was a face that looked younger than her years, wide-eyed, the face of a person who had chosen a career in standardized measurement and had just encountered something that made the standards meaningless.
 
-"I've been running trickle assessments for fourteen years," she said. "I've tested over four thousand channelers. Children, adults, elders. I've never—" She stopped. "I've never had to use a second form."
+"I've been running pool assessments for fourteen years," she said. "I've tested over four thousand channelers. Children, adults, elders. I've never—" She stopped. "I've never had to use a second form."
 
 She handed him the form. He took it. The paper was warm where her hand had held it, and his hand was warmer, and the word *unmeasurable* looked back at him from every field like an answer to a question he'd been asking his whole life.
 

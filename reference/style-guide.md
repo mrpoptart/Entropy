@@ -174,15 +174,15 @@ Don't overuse. Most of Ash's interiority should come through free indirect disco
 
 The magic system is detailed and quantified in the reference documents — but in the prose, it must be **shown through use, not explained through exposition.**
 
-Characters don't think about how magic works any more than we think about how electricity works. They just use it. The reader learns the system by watching people channel, hearing them complain about their trickle, noticing what they can and can't do.
+Characters don't think about how magic works any more than we think about how electricity works. They just use it. The reader learns the system by watching people channel, hearing them complain about their pool, noticing what they can and can't do.
 
 **Do this:**
 > Maren pressed her palm flat against the cracked stone and held it there, eyes closed, lips moving slightly. The crack sealed itself in a slow crawl from bottom to top. When she pulled her hand away, she flexed her fingers and winced — the kind of wince that meant she'd used most of what she had for the day.
 
 **Not this:**
-> Maren used her daily trickle of magical energy to repair the crack. Each person in her generation received approximately 1,000 kilojoules per day, and structural repair was one of the more energy-intensive applications of channeling.
+> Maren used her daily pool of magical energy to repair the crack. Each person in her generation received approximately 1,000 kilojoules per day, and structural repair was one of the more energy-intensive applications of channeling.
 
-The quantified system (kJ costs, trickle amounts, efficiency tiers) is an author tool for consistency. It stays behind the curtain. Characters use natural language: "I'm running low," "That'll cost me," "She's stronger than anyone I've seen."
+The quantified system (kJ costs, pool amounts, efficiency tiers) is an author tool for consistency. It stays behind the curtain. Characters use natural language: "I'm running low," "That'll cost me," "She's stronger than anyone I've seen."
 
 The **early chapters** should take extra time demonstrating the world and its magic through Ash's daily life. Because he has no magic himself, he's a perfect lens — he watches others do what he can't, which lets the reader observe and understand the system through his outsider perspective.
 
@@ -280,7 +280,7 @@ Within chapters, scene breaks (shifts in time or location) are marked with a cen
 
 Working terms in use:
 - **Channeling** — the act of using magic. Characters "channel" energy into effects.
-- **Trickle** — a person's daily renewable magical budget. Common, casual term.
+- **Pool** — a person's daily renewable magical budget. Common, casual term.
 - **Wellspring** — Ash's massive reservoir. Rare, possibly unique phenomenon.
 - **Reservoir** — the total stored energy (Ash's specific pool). May also refer to the planetary source.
 

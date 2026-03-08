@@ -4,13 +4,13 @@ He arrived at the Hall of Infrastructure an hour before dawn, which meant he'd l
 
 He'd eaten standing up. He'd washed the bowl by hand. He'd laced his boots in the dark.
 
-The ramp Dorenne had shown him was open. A maintenance corridor that curved along the building's outer wall, wide enough for equipment carts, lit by lattice strips that glowed faintly with channeled warmth from the previous shift. He climbed it in long, easy strides — forty flights of ramp where forty flights of stairs waited on the other side of the building, available to anyone whose trickle could activate the transit lift that made the stairs unnecessary. His breath quickened by the twentieth flight. By the thirtieth, his calves were tight. By the fortieth, his vest was damp with sweat that he blotted away before anyone could see, standing in the upper corridor with his back against the wall, breathing until his heartbeat settled.
+The ramp Dorenne had shown him was open. A maintenance corridor that curved along the building's outer wall, wide enough for equipment carts, lit by lattice strips that glowed faintly with channeled warmth from the previous shift. He climbed it in long, easy strides — forty flights of ramp where forty flights of stairs waited on the other side of the building, available to anyone whose pool could activate the transit lift that made the stairs unnecessary. His breath quickened by the twentieth flight. By the thirtieth, his calves were tight. By the fortieth, his vest was damp with sweat that he blotted away before anyone could see, standing in the upper corridor with his back against the wall, breathing until his heartbeat settled.
 
 The infrastructure office was dark. He was the first one here.
 
 He stood in the doorway and let his eyes adjust. The room was large — larger than he'd registered yesterday, when Dorenne had walked him through it with the brisk narration of someone who'd given the tour too many times. High ceilings, arched in the old style, the stonework so precise that the joins were invisible. A long central table covered in rolled charts and weighted with stones that served as paperweights and, he suspected, channeling interfaces. Desks along the walls, each buried under stacks of reports and assessment folios. A shelf of instruments he couldn't name and wouldn't know how to use. Maps pinned to a board showing the city's districts in colored overlays — green for stable, amber for stressed, red for critical.
 
-He studied the board. He could see the pattern — the reds clustered in the lower districts, the greens holding firm in the elder quarters above — but the legend beside it was dense with abbreviations he didn't recognize. *KJ/m², RI-3, Trickle-Adj.* Numbers that meant something to the people who worked here and nothing to him. Not yet.
+He studied the board. He could see the pattern — the reds clustered in the lower districts, the greens holding firm in the elder quarters above — but the legend beside it was dense with abbreviations he didn't recognize. *KJ/m², RI-3, Pool-Adj.* Numbers that meant something to the people who worked here and nothing to him. Not yet.
 
 The room smelled like ink, stone dust, and the faint metallic tang that channeling left in the air — that same ozone sharpness he'd noticed in the market district, but older here, soaked into the walls by decades of concentrated work.
 
@@ -66,7 +66,7 @@ She gave him a list of the team leads, their locations in the building, and the 
 
 The fourth door past the archives had no handle.
 
-Ash stood in front of it, his hand half-raised in a knock that had nowhere to land. The door was smooth stone — no knocker, no bell pull, no latch. A channeled lock, of course. Everyone in the building announced their arrival via resonance stone, and the person inside opened the door with a pulse of their trickle. The system was elegant, seamless, and assumed that everyone who used it could channel. Because everyone could.
+Ash stood in front of it, his hand half-raised in a knock that had nowhere to land. The door was smooth stone — no knocker, no bell pull, no latch. A channeled lock, of course. Everyone in the building announced their arrival via resonance stone, and the person inside opened the door with a pulse of their pool. The system was elegant, seamless, and assumed that everyone who used it could channel. Because everyone could.
 
 He knocked on the wall beside the door frame. His knuckles made a dull, flat sound against the stone. Nothing happened.
 
@@ -210,7 +210,7 @@ Not an official one — not the kind that hung on the briefing room board with i
 
 The map showed every door in the building that had a manual handle. Twelve of them, scattered across seven levels, connected by corridors and ramp sections that he'd walked enough times to know by the texture of the stone under his boots. The map also showed which doors were usually propped open, which ones had staff who arrived early and left them unlocked, and what times of day certain corridors were empty enough that he could knock on the wall without anyone watching.
 
-It was a map of workarounds. A route through the building that avoided the things he couldn't do, connecting the spaces where his limitations were invisible to the spaces where they were merely manageable. He'd been making maps like this his entire life — the streets where the transit stones were spaced wide enough that he could cross without activating them, the market stalls that took coins instead of channeled tokens, the stairwells in his parents' building that didn't require a trickle to light.
+It was a map of workarounds. A route through the building that avoided the things he couldn't do, connecting the spaces where his limitations were invisible to the spaces where they were merely manageable. He'd been making maps like this his entire life — the streets where the transit stones were spaced wide enough that he could cross without activating them, the market stalls that took coins instead of channeled tokens, the stairwells in his parents' building that didn't require a pool to light.
 
 He didn't show it to anyone. He didn't think of it as clever.
 
@@ -374,11 +374,11 @@ Ryn was sitting on the low wall at the base of the stairwell where it opened ont
 
 This was so precisely accurate that he couldn't do anything but sit down beside her on the wall and take the bag.
 
-They'd grown up three doors apart. Ryn's family lived in the same building as his — upper floor, better heating, her parents' trickles strong enough to maintain their apartment without the daily struggle that defined his family's existence. She'd been the girl down the hall before she'd been anything else: the first child his age who'd knocked on his door without her parents making her, the first friend who'd beaten him at a game and not apologized for it, the first person outside his family who'd learned the choreography of his limitations and performed it without performing it.
+They'd grown up three doors apart. Ryn's family lived in the same building as his — upper floor, better heating, her parents' pools strong enough to maintain their apartment without the daily struggle that defined his family's existence. She'd been the girl down the hall before she'd been anything else: the first child his age who'd knocked on his door without her parents making her, the first friend who'd beaten him at a game and not apologized for it, the first person outside his family who'd learned the choreography of his limitations and performed it without performing it.
 
 She warmed his cup when it went cold. She lit the path when they walked home late. She channeled the door open when his arms were full. Not as charity — as the automatic, unremarkable courtesy of a friend who happened to have a thing he didn't, the way you'd hold an umbrella over someone who'd forgotten theirs. She never made it an event. She never made it about her generosity or his lack. It was just what you did when you were walking next to someone and the path was dark and your hands could make light and his couldn't.
 
-He'd loved her for that since he was twelve years old, in the quiet, unexamined way you love the person who makes the world livable. He'd never said so. The reasons were practical and terrible: romantic relationships in Solathis were built partly on shared magical intimacy — the vulnerability of letting someone feel your trickle, the domestic magic of shared channeling, the physical closeness that came with attuning to another person's energy. He couldn't offer that. The absence was a wall between them that neither acknowledged and both navigated around, the way you navigate around a piece of furniture that's too heavy to move and too familiar to notice.
+He'd loved her for that since he was twelve years old, in the quiet, unexamined way you love the person who makes the world livable. He'd never said so. The reasons were practical and terrible: romantic relationships in Solathis were built partly on shared magical intimacy — the vulnerability of letting someone feel your pool, the domestic magic of shared channeling, the physical closeness that came with attuning to another person's energy. He couldn't offer that. The absence was a wall between them that neither acknowledged and both navigated around, the way you navigate around a piece of furniture that's too heavy to move and too familiar to notice.
 
 Tonight, though, the wall was thin. Tonight everything was thin — the barriers between the person he performed and the person he was, the careful architecture of managed expectations and preemptive self-deprecation that he wore like a second skin. Two weeks had stripped something away. Not the armor — he wasn't ready to lose the armor — but some of the weight behind it.
 
@@ -412,7 +412,7 @@ She stared at him. "You bluffed a sitting Council member."
 
 She was laughing — the real laugh, the one that came from her chest and not from politeness, the one she used when something genuinely surprised her. He'd been cataloging her laughs for years the way he cataloged stairwells and district maps, automatically, without deciding to. The polite laugh was short and high. The real laugh was low and slightly uneven, as if one side of it arrived before the other.
 
-They ate. The fried bread was from the vendor on the lower terrace — the one who worked late because her trickle was too weak to compete with the morning market channelers and their glowing displays and sealed cases. Ryn bought from her because the bread was good and because Ryn had a quiet, stubborn loyalty to people who worked harder than they had to. This was not a thing Ryn would ever say about herself. It was a thing Ash had observed over years of watching her make choices that were slightly harder than they needed to be, for reasons she'd dismiss as practical if you pointed them out.
+They ate. The fried bread was from the vendor on the lower terrace — the one who worked late because her pool was too weak to compete with the morning market channelers and their glowing displays and sealed cases. Ryn bought from her because the bread was good and because Ryn had a quiet, stubborn loyalty to people who worked harder than they had to. This was not a thing Ryn would ever say about herself. It was a thing Ash had observed over years of watching her make choices that were slightly harder than they needed to be, for reasons she'd dismiss as practical if you pointed them out.
 
 After the food was gone and they were sitting in the last of the twilight, the gorge below them a darkness that the city's fading channeling couldn't reach, she went quiet for a while. Then, without looking at him: "Is it going to be okay? The job. All the—" She waved a hand, a gesture that encompassed everything she didn't want to list.
 
@@ -420,7 +420,7 @@ After the food was gone and they were sitting in the last of the twilight, the g
 
 "Ash." Just his name, but the way she said it stripped the varnish off his answer and left the bare wood showing.
 
-He looked out at the gorge. Below them, the river was a sound more than a sight — a low, constant presence, the one thing in the city that ran on its own power without channeling or maintenance or someone's daily trickle holding it together.
+He looked out at the gorge. Below them, the river was a sound more than a sight — a low, constant presence, the one thing in the city that ran on its own power without channeling or maintenance or someone's daily pool holding it together.
 
 "I don't know," he said. "There are a hundred things I can't do. I can't use the resonance stones. I can't activate the locks. I can't read half the instruments. Every system in that office runs through interfaces I can't touch, and every time I need something done that requires even the most basic channeling, I have to ask someone. And asking costs something. Every time I ask, I remind someone that I'm the person who can't. I stood in front of Laris's door for five minutes on my first day, Ryn. Five minutes. Just standing there because I couldn't knock."
 
@@ -442,7 +442,7 @@ Ryn didn't fill the silence. She was good at that — at letting a pause be a pa
 
 He laughed. It came out surprised, which was the only way real laughter came from him — squeezed past the defenses before he could decide whether it was allowed. She smiled at the sound of it, and the smile had the quality of something private and carefully held, like a coin she'd been carrying in her pocket for a long time and was briefly letting catch the light.
 
-They sat. The city dimmed around them, district by district, the heating in the stones fading as the channelers who maintained it went home and slept and let their trickles recover for tomorrow's effort. The sky above the gorge was enormous and unmanaged — no channeled lights, no lattice warmth, just stars appearing in the gaps between clouds with the patient indifference of things that predated magic and would outlast it.
+They sat. The city dimmed around them, district by district, the heating in the stones fading as the channelers who maintained it went home and slept and let their pools recover for tomorrow's effort. The sky above the gorge was enormous and unmanaged — no channeled lights, no lattice warmth, just stars appearing in the gaps between clouds with the patient indifference of things that predated magic and would outlast it.
 
 "I should go," he said, eventually. "I need to be there before dawn again."
 
@@ -458,7 +458,7 @@ Neither of them moved. Neither of them named it. The moment passed the way all t
 
 "Only half. The other half was paperwork."
 
-He walked home through the dark streets, his legs tired from the ramp and his mind quiet for the first time in days. The district was shutting down around him — workshops dark, windows curtained, the faint residual warmth in the stones already fading. A man passed him on the street, heading the other direction, and reinforced the paving stone under his foot with a casual touch as he walked — the automatic civic maintenance of someone with trickle to spare, leaving the city slightly stronger behind him. Ash walked over the same stone and left it unchanged.
+He walked home through the dark streets, his legs tired from the ramp and his mind quiet for the first time in days. The district was shutting down around him — workshops dark, windows curtained, the faint residual warmth in the stones already fading. A man passed him on the street, heading the other direction, and reinforced the paving stone under his foot with a casual touch as he walked — the automatic civic maintenance of someone with pool to spare, leaving the city slightly stronger behind him. Ash walked over the same stone and left it unchanged.
 
 It didn't sting. Tonight, for the first time in two weeks, the small daily evidence of his limitation didn't carry the weight it usually did. Not because anything had changed — his hands were still his hands, empty of channeling, incapable of the basic participation that every other person in Solathis performed without thinking. The absence was the same. The difference was that today he'd found something else to put in the space where the absence lived. Not power. Function. A desk at the table, a problem he'd noticed, a director who trusted him enough to let him guess.
 
@@ -480,7 +480,7 @@ He thought about the fact that tonight, sitting on the wall with Ryn, he'd bough
 
 Ryn had noticed. He'd seen her notice — the brief flicker of her eyes to his hand and then away, the thing she didn't say, the not-saying louder than any words she could have chosen. She knew what it meant. She knew what all of it meant — the money, the job, the desk, the notes, the fact that tonight he was tired from work instead of tired from performing.
 
-For the first time in as long as he could measure, the happiness wasn't a performance. It wasn't the smile he wore like architecture, the warmth he generated as currency, the cheerfulness that paid his rent in a world that had never charged anyone else admission. It was just happiness. Unstructured. Unperformed. Sitting in his chest like a warmth that didn't require channeling or maintenance or anyone else's trickle to sustain.
+For the first time in as long as he could measure, the happiness wasn't a performance. It wasn't the smile he wore like architecture, the warmth he generated as currency, the cheerfulness that paid his rent in a world that had never charged anyone else admission. It was just happiness. Unstructured. Unperformed. Sitting in his chest like a warmth that didn't require channeling or maintenance or anyone else's pool to sustain.
 
 The distinction was everything.
 

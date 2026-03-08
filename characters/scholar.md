@@ -6,13 +6,13 @@
 - **Age:** Late 60s to early 70s
 - **Gender:** Female
 - **Location:** Solathis — associated with the Hall of Infrastructure, though she operates independently of the bureaucratic hierarchy
-- **Magical Status:** Has a trickle — controlled, precise, economical. Her channeling is the product of decades of disciplined practice.
+- **Magical Status:** Has a pool — controlled, precise, economical. Her channeling is the product of decades of disciplined practice.
 - **Role in the Story:** Truth-teller and scientific counterweight to Dorenne's strategic framing. She tells Ash what is true rather than what is useful. Coins the term "Wellspring."
 
 ## Who She Is
 
 ### The Surface
-A senior scholar of channeling theory — the foremost authority in Solathis on how reservoirs function, how trickles replenish, how energy moves through the body. Forty years of measuring what people carry. She carries herself with the deliberate pace of someone who considers most things less important than what she was already doing.
+A senior scholar of channeling theory — the foremost authority in Solathis on how reservoirs function, how pools replenish, how energy moves through the body. Forty years of measuring what people carry. She carries herself with the deliberate pace of someone who considers most things less important than what she was already doing.
 
 ### The Deeper Truth
 A scientist whose commitment to accuracy is a moral position. She treats precision as an obligation, not a habit. When she tells Ash "we don't know," she means it — she will not offer false comfort or convenient certainty.

@@ -98,7 +98,7 @@ Dorenne stood at the platform's center. She didn't wait for silence. She let it 
 
 She paused. Let the word *generation* sit in the room. In a city defined by generational decline, the word did its own work.
 
-"Six days ago, during a structural emergency in the Fifth Terrace, a member of my staff experienced a channeling activation. This is not, in itself, unusual. What is unusual—what is unprecedented, in fact—is the scale of the activation. The individual in question did not develop a standard trickle. They manifested a deep reservoir of a magnitude that exceeds every measurement on record."
+"Six days ago, during a structural emergency in the Fifth Terrace, a member of my staff experienced a channeling activation. This is not, in itself, unusual. What is unusual—what is unprecedented, in fact—is the scale of the activation. The individual in question did not develop a standard pool. They manifested a deep reservoir of a magnitude that exceeds every measurement on record."
 
 The room was very still now. The murmur had died completely. In the front row, a Council member—a tall woman with cropped silver hair, elder generation, her posture the kind of straight that came from decades of expecting other people to stand straighter—leaned forward half an inch.
 
@@ -362,7 +362,7 @@ The way she said it—flat, factual, the emotion filed down to its thinnest edge
 
 She went to their mother. Checked the brace—not with channeling, with her hands first, the physical assessment of someone who understood structures. Then she placed her palm against the wrapping and closed her eyes, and Ash felt the faint warmth of her channeling—thin, controlled, precise. A wisp of energy, carefully directed. She was checking the bone's alignment, the healer's work, the progress of the mend.
 
-She did this every day. Morning and evening, without being asked. The discipline she applied to her work, applied to her mother's leg. A fraction of her trickle—a fraction she couldn't spare, not really, not when her shifts demanded most of what she had—spent quietly, privately, without anyone tallying the cost.
+She did this every day. Morning and evening, without being asked. The discipline she applied to her work, applied to her mother's leg. A fraction of her pool—a fraction she couldn't spare, not really, not when her shifts demanded most of what she had—spent quietly, privately, without anyone tallying the cost.
 
 "Healing's on track," she said. "Another two weeks for the bone. The healer's good."
 
@@ -372,7 +372,7 @@ She did this every day. Morning and evening, without being asked. The discipline
 
 He understood. Or he thought he understood. The healer was an elder-generation specialist Dorenne had sent—powerful, experienced, precise. Maren wasn't saying the healer was better than what Ash could do. She was saying the healer was already doing it, and the system was working, and what she needed from her brother was not another demonstration of what he could do.
 
-But there was something else underneath. A tension in her jaw. A line between her brows that hadn't been there three weeks ago. The particular fatigue of a person whose trickle was stretched thinner than it should have been, whose discipline was compensating for a capacity that the world was quietly reducing, whose competence—the only currency she'd ever valued—was buying less each year.
+But there was something else underneath. A tension in her jaw. A line between her brows that hadn't been there three weeks ago. The particular fatigue of a person whose pool was stretched thinner than it should have been, whose discipline was compensating for a capacity that the world was quietly reducing, whose competence—the only currency she'd ever valued—was buying less each year.
 
 She caught him looking. Her expression didn't change. That was its own kind of message.
 

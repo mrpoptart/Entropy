@@ -12,7 +12,7 @@ He crossed to the window and looked out. The street below was wide enough for tw
 
 Dorenne had arranged it. Not as a gift—she'd been clear about that. The old building was condemned. The structural team's reinforcement had saved the lower floors, but the fifth floor was gone and the fourth was compromised, and the assessment report had used the word *uninhabitable* with the institutional finality of a door closing. The families needed housing. Dorenne's office managed housing allocation for infrastructure personnel and their dependents. The paperwork moved through channels that Ash recognized from his weeks at the desk—the same deployment briefs, the same allocation forms, the same grammar of resources and priorities.
 
-The result was this. An apartment in the Vellen district, four blocks from the Hall of Infrastructure, in a building where the stairs didn't groan and the walls didn't crack and the heating worked without anyone pouring their trickle into it like water into a leaking bucket.
+The result was this. An apartment in the Vellen district, four blocks from the Hall of Infrastructure, in a building where the stairs didn't groan and the walls didn't crack and the heating worked without anyone pouring their pool into it like water into a leaking bucket.
 
 He opened another crate. His father's tools—wrapped in oilcloth, each one nested against the next with the care of a man who understood that a good chisel outlasted the hand that held it. Ash set them on the shelf his father would want them on, the one by the window where the light was best. The hammer first, then the screwdrivers, then the set of files in their leather roll. He knew the order. He'd watched his father arrange these tools in three different workshops and two apartments, and the order never changed.
 
@@ -70,7 +70,7 @@ She knelt—slowly, carefully, the splinted leg extended—and reached under a f
 
 The kettle.
 
-Dented. Blackened on one side where the heat had caught it. The handle bent at an angle that made it difficult to hold. Fifteen years of mornings—water poured, tea made, the copper surface darkened by use and burnished by her hands until it had its own color, a color no new kettle would ever have. The base was warped from the years of sitting on the channeling interface, her trickle flowing through the stone and into the metal, warming the water with the steady patience of a woman who did one small thing every morning because the small things were what she could do.
+Dented. Blackened on one side where the heat had caught it. The handle bent at an angle that made it difficult to hold. Fifteen years of mornings—water poured, tea made, the copper surface darkened by use and burnished by her hands until it had its own color, a color no new kettle would ever have. The base was warped from the years of sitting on the channeling interface, her pool flowing through the stone and into the metal, warming the water with the steady patience of a woman who did one small thing every morning because the small things were what she could do.
 
 She held it in both hands. Her thumbs moved across the dented surface, finding the familiar topography, the bumps and valleys her hands knew. She didn't say anything. She held it and her face was still and her eyes were bright and the morning light came through the hole in the wall and fell across her hands and the kettle and the ruins of the kitchen where she had fed her family for twenty-three years.
 
@@ -98,7 +98,7 @@ He'd found it in the market district—the upper market, the one near the Hall, 
 
 It cost more than he'd ever spent on a single object. He didn't hesitate.
 
-He carried it home—home, the new apartment, the word still new in his mouth—and set it on the kitchen table while his mother was preparing dinner. She was at the new stove, which was cleaner and better-maintained than the old one and had a channeling interface that responded to the lightest touch. She hadn't touched the interface. She was using the iron fire grate, the way she always had, her trickle warming the metal directly, the old way, the way she knew.
+He carried it home—home, the new apartment, the word still new in his mouth—and set it on the kitchen table while his mother was preparing dinner. She was at the new stove, which was cleaner and better-maintained than the old one and had a channeling interface that responded to the lightest touch. She hadn't touched the interface. She was using the iron fire grate, the way she always had, her pool warming the metal directly, the old way, the way she knew.
 
 "I got something," he said.
 
@@ -162,7 +162,7 @@ He trailed off. His hands found each other in his lap, the fingers interlacing t
 
 "I know, Dad."
 
-"Good." His father stood. He put his hand on Ash's shoulder—the grip firm, the palm warm from his own trickle, the low constant heat of a working man's channeling. He held it there for a beat longer than the conversation required.
+"Good." His father stood. He put his hand on Ash's shoulder—the grip firm, the palm warm from his own pool, the low constant heat of a working man's channeling. He held it there for a beat longer than the conversation required.
 
 Then he went to the kitchen to start dinner, because that's what he did—he worked, he provided, he moved through the world with his hands and his body and the quiet certainty that the next task was always waiting. And the question he carried—the one that lived in the extra beat of his grip, in the trailing off, in the look that assessed the structure underneath—stayed where it was. Unasked. Present.
 
@@ -214,9 +214,9 @@ A man was repairing a walkway across the street. He knelt at the edge of the pav
 
 Here, one person was enough. The work was manageable. The infrastructure held.
 
-Ash stood in the sunlight and breathed and felt the warmth of the morning on his face and the warmth of the reservoir behind his ribs—twin sources, external and internal, the world and the Wellspring in comfortable alignment. His family was safe. The apartment was warm. The heating worked. The transit lifts ran. His mother had a new kettle and his father had new tools and the blankets on their bed were the best wool he could find, and none of it had cost him anything that mattered. Not his trickle—he didn't have a trickle, he had an ocean. Not his money—Dorenne's office had provided a stipend, reasonable and regular, the compensation of a Wellspring under institutional care. Not his time, not his effort, not the careful arithmetic of sacrifice that had defined his family's life for as long as he could remember.
+Ash stood in the sunlight and breathed and felt the warmth of the morning on his face and the warmth of the reservoir behind his ribs—twin sources, external and internal, the world and the Wellspring in comfortable alignment. His family was safe. The apartment was warm. The heating worked. The transit lifts ran. His mother had a new kettle and his father had new tools and the blankets on their bed were the best wool he could find, and none of it had cost him anything that mattered. Not his pool—he didn't have a pool, he had an ocean. Not his money—Dorenne's office had provided a stipend, reasonable and regular, the compensation of a Wellspring under institutional care. Not his time, not his effort, not the careful arithmetic of sacrifice that had defined his family's life for as long as he could remember.
 
-He was providing. For the first time. With his own hands and his own resources and his own choices, he was giving his family a life that didn't require his mother to pour her trickle into the walls every morning or his father to carry the weight of a building that was falling apart around them.
+He was providing. For the first time. With his own hands and his own resources and his own choices, he was giving his family a life that didn't require his mother to pour her pool into the walls every morning or his father to carry the weight of a building that was falling apart around them.
 
 This was what the power was for.
 
@@ -276,7 +276,7 @@ Ash watched. He stood in the doorway with a cup of tea—the new kettle, the goo
 
 The cracks sealed. Slowly. Bottom to top, the fractures closing like wounds healing, the stone knitting back together under her hands. The interface disc was harder—the fracture there was structural, not cosmetic, and the channeling pathways inside the disc had been disrupted by the overload. She spent ten minutes on the disc alone, her fingers moving in small adjustments, her jaw tight with concentration.
 
-When she pulled her hands away, she flexed her fingers. The wince was small—barely visible, the ghost of a flinch that anyone else would have missed. But Ash knew her face the way he knew stairwells. The wince meant she'd used a significant portion of her day's trickle on the repair. Not all of it. But enough that the rest of her day would be measured, careful, each remaining expenditure weighed against what was left.
+When she pulled her hands away, she flexed her fingers. The wince was small—barely visible, the ghost of a flinch that anyone else would have missed. But Ash knew her face the way he knew stairwells. The wince meant she'd used a significant portion of her day's pool on the repair. Not all of it. But enough that the rest of her day would be measured, careful, each remaining expenditure weighed against what was left.
 
 "Thank you," he said.
 
@@ -306,7 +306,7 @@ She didn't wince this time. Or she did, and he didn't see it.
 
 "I know. Vasra's working on—"
 
-"I know what Vasra's doing." She stood. She washed her hands in the basin—the water warm now, properly warm, the heater functioning the way it was supposed to function. Her hands moved under the water with the practiced efficiency of someone who rationed every gesture. "You're flooding every interface you touch. The lattice, the lighting, the heater—they're all designed for trickle-level input. You're putting an ocean through a straw."
+"I know what Vasra's doing." She stood. She washed her hands in the basin—the water warm now, properly warm, the heater functioning the way it was supposed to function. Her hands moved under the water with the practiced efficiency of someone who rationed every gesture. "You're flooding every interface you touch. The lattice, the lighting, the heater—they're all designed for pool-level input. You're putting an ocean through a straw."
 
 "I know."
 
@@ -360,11 +360,11 @@ He couldn't warm a room without breaking it.
 
 He pulled his hand back and set it on his knee and sat in the quiet of his room in the new apartment in the better district, and the heating lattice ticked as it cooled, and the building absorbed his excess the way it absorbed everything—silently, through mass and stone and the patient architecture of walls that had been built by people who knew what they were doing.
 
-Tomorrow, Maren would come. She would find the section of wall he'd overheated. She would place her hands on it and channel—precisely, efficiently, with the disciplined control he couldn't replicate—and she would fix what he'd broken. And she wouldn't say anything. And he would thank her. And she would nod and adjust her coat and leave, and the apartment would be whole again, her work invisible, her trickle diminished by exactly the amount his carelessness had cost her.
+Tomorrow, Maren would come. She would find the section of wall he'd overheated. She would place her hands on it and channel—precisely, efficiently, with the disciplined control he couldn't replicate—and she would fix what he'd broken. And she wouldn't say anything. And he would thank her. And she would nod and adjust her coat and leave, and the apartment would be whole again, her work invisible, her pool diminished by exactly the amount his carelessness had cost her.
 
 The pattern was small. Each incident was small. A cracked disc, a blown strip, a stressed pipe, a heated wall. Minor repairs. Minor costs. The kind of thing that happened in any household where someone was learning to channel—children broke things, parents fixed them, the cycle was as old as channeling itself.
 
-But he wasn't a child. And Maren wasn't his parent. And the cycle wasn't going to end the way it ended for children, with the learner gradually gaining control and the repairs becoming unnecessary, because his reservoir wasn't a trickle that could be calibrated through practice at the kitchen table. It was something else. Something that no lattice in this building or any building was designed to receive.
+But he wasn't a child. And Maren wasn't his parent. And the cycle wasn't going to end the way it ended for children, with the learner gradually gaining control and the repairs becoming unnecessary, because his reservoir wasn't a pool that could be calibrated through practice at the kitchen table. It was something else. Something that no lattice in this building or any building was designed to receive.
 
 He didn't think about this. Not in these terms. Not with this clarity. What he thought about was the window and the dark and the quiet neighborhood and the morning that would come through the eastern glass, clean and warm and full of light, and the tea he would make from the new kettle and the breakfast he would eat at the new table and the day he would walk into—a Wellspring, named, known, the most powerful channeler alive—and the life he was building for his family, one gift at a time, one improvement at a time, each one proof that the power had a purpose and the purpose was love.
 

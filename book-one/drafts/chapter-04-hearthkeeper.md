@@ -84,7 +84,7 @@ His mother turned from the stove. Her hand was still on the interface stone, the
 
 "Let me have this."
 
-He let her have it. She held his face and looked at him with an expression that contained everything she'd carried for twenty-three years — every cold morning she'd channeled the stove before dawn, every trickle spent warming his bathwater, every quiet calculation of how much she could spare and whether it was enough. And now her son — her son who couldn't warm his own hands — had brought the city's resources to their door. Not with magic. With his mind, his work, his presence in a room where decisions were made.
+He let her have it. She held his face and looked at him with an expression that contained everything she'd carried for twenty-three years — every cold morning she'd channeled the stove before dawn, every pool spent warming his bathwater, every quiet calculation of how much she could spare and whether it was enough. And now her son — her son who couldn't warm his own hands — had brought the city's resources to their door. Not with magic. With his mind, his work, his presence in a room where decisions were made.
 
 His father set down the leather strap. He didn't stand. He reached across the table and gripped Ash's forearm — a steady pressure, sustained, the way he'd gripped Ash's shoulder the day the job was offered. His hand was large enough to wrap nearly all the way around. He said nothing for a long moment.
 
@@ -106,7 +106,7 @@ He'd told her she didn't need to do that. She'd looked at him the way she looked
 
 The crew arrived with the dawn.
 
-Four channelers — three men and a woman, all middle-generation, the ages between thirty and forty where the trickle was strong enough for structural work but no longer effortless. They came with tool belts and assessment instruments and the professional demeanor of people who did this kind of work every day and treated each building the same. Behind them, walking at her own pace, was Dorenne.
+Four channelers — three men and a woman, all middle-generation, the ages between thirty and forty where the pool was strong enough for structural work but no longer effortless. They came with tool belts and assessment instruments and the professional demeanor of people who did this kind of work every day and treated each building the same. Behind them, walking at her own pace, was Dorenne.
 
 She wore the half-cloak with the Infrastructure seal, and she moved through the morning with the contained authority of someone for whom showing up was itself a statement. She'd come to oversee the project personally. Ash hadn't asked her to. He understood — the way he was learning to understand her — that her presence served multiple purposes: it demonstrated commitment to the lower-middle districts, it validated the crew's work, and it showed Ash that she valued what he'd brought her. All of these things were true simultaneously, and none of them contradicted each other, and this was how Dorenne operated. Every gesture earned twice.
 
@@ -188,7 +188,7 @@ A sound. Deep, structural, the groan of stone being asked to carry more than it 
 
 "Shore it up," the crew leader said, her voice cutting through the groan. "Both walls, now. Pour everything into the load-bearing surfaces—"
 
-The channelers moved. Hands on walls, all four of them, channeling reinforcement into the stone with a urgency that turned their careful precision into something rawer, more desperate. Ash could see the effort — the tendons standing out on their forearms, the sweat on the crew leader's temples, the particular grimace of people spending their trickles faster than they wanted to because the alternative was worse.
+The channelers moved. Hands on walls, all four of them, channeling reinforcement into the stone with a urgency that turned their careful precision into something rawer, more desperate. Ash could see the effort — the tendons standing out on their forearms, the sweat on the crew leader's temples, the particular grimace of people spending their pools faster than they wanted to because the alternative was worse.
 
 It wasn't enough.
 
@@ -196,7 +196,7 @@ The groan deepened. A crack appeared in the wall beside Ash — not the slow fra
 
 "Out!" Dorenne's voice, from the stairwell, cutting through everything. "Everyone out. Now."
 
-The channelers began to move. The crew leader was the last — she kept her hands on the wall as long as she could, pouring her trickle into the stone, her face white with effort. One of the other channelers took her arm and pulled. She let go. The wall held — barely, trembling, the channeling fading as she moved away.
+The channelers began to move. The crew leader was the last — she kept her hands on the wall as long as she could, pouring her pool into the stone, her face white with effort. One of the other channelers took her arm and pulled. She let go. The wall held — barely, trembling, the channeling fading as she moved away.
 
 Ash was already on the stairs, moving up, not down.
 
@@ -224,7 +224,7 @@ His mother was on the far side of the collapse. A beam — heavy timber, old, pa
 
 Maren pulled free of their father's grip and moved toward the rubble. She was already channeling — Ash could see it in her hands, in the way she held them out before her, fingers spread, palms angled toward the beam. The air around her hands shimmered faintly — not light, exactly, but a distortion, the visual signature of force being gathered and directed. She was focused with a precision that Ash had never seen from her — every particle of her attention on the beam, on the weight, on the physics of what she needed to move.
 
-The beam shifted. Barely. A centimeter, maybe less. The stone around it settled and resisted. Maren's hands were shaking. Her breathing had gone shallow — the short, controlled breaths of someone spending their trickle in concentrated bursts, each burst costing her more than the last. She was at the weak end of her generation's trickle, and she'd been compensating with skill her entire career, and the skill was extraordinary, and it wasn't enough.
+The beam shifted. Barely. A centimeter, maybe less. The stone around it settled and resisted. Maren's hands were shaking. Her breathing had gone shallow — the short, controlled breaths of someone spending their pool in concentrated bursts, each burst costing her more than the last. She was at the weak end of her generation's pool, and she'd been compensating with skill her entire career, and the skill was extraordinary, and it wasn't enough.
 
 "Maren," their father said. He was beside her now, his hands on the stone, pulling at the rubble with the raw physical strength that was all he had to offer. Ash's father — the man who fixed things with brackets and timber, who understood buildings the way Ash understood them, with his hands and his back and the stubborn refusal to believe that strength wasn't enough.
 
@@ -236,7 +236,7 @@ He repositioned. Found a better angle — his shoulder under the beam now, his l
 
 Not enough. The stone on top of the beam was too heavy. The beam was pinned from above as much as from below, and his body — his strong, capable, reliable body — couldn't overcome the physics of several hundred kilograms of rubble and timber and the building's own weight pressing down.
 
-Maren was still channeling. Her hands still out, still shaking, still pouring everything she had into the beam. A sustained effort now, her face white, her lips pressed thin. She was draining herself — Ash could see it in the way her posture changed, the way her shoulders drew inward, the gradual dimming of the distortion around her hands as her trickle ran low. She was spending everything, and the beam moved another centimeter, and the centimeter wasn't enough.
+Maren was still channeling. Her hands still out, still shaking, still pouring everything she had into the beam. A sustained effort now, her face white, her lips pressed thin. She was draining herself — Ash could see it in the way her posture changed, the way her shoulders drew inward, the gradual dimming of the distortion around her hands as her pool ran low. She was spending everything, and the beam moved another centimeter, and the centimeter wasn't enough.
 
 Their mother looked at them. Both of them. Her son with his shoulder under the beam and his muscles failing, her daughter with her hands outstretched and her magic draining. She looked at them with a love so enormous it had no room for fear, and Ash felt the looking land in his chest like a physical thing.
 
@@ -290,7 +290,7 @@ Maren was standing three feet from Ash. She was staring at him.
 
 Her face held something he had never seen there before. Not surprise — surprise was too small a word, too organized. This was something broken open, the way the thing inside him had broken open, except hers was visible on the surface instead of hidden underneath. She had felt it. She was a channeler — she had felt the Wellspring activate the way you feel an earthquake, through the body, through the connection to the world's energy that she'd carried since childhood and he'd never shared. She'd felt something ignite inside her brother that was orders of magnitude beyond anything she'd ever experienced, beyond anything anyone had ever experienced, and the feeling had rearranged something fundamental in the architecture of how she understood herself and him and the distance between them.
 
-She stared at him. Her mouth was open. Her hands — the hands that had been channeling with such fierce, disciplined precision moments ago, the hands that had spent every drop of her trickle trying to save their mother — hung at her sides.
+She stared at him. Her mouth was open. Her hands — the hands that had been channeling with such fierce, disciplined precision moments ago, the hands that had spent every drop of her pool trying to save their mother — hung at her sides.
 
 She didn't speak. The silence between them was louder than the building.
 
@@ -306,7 +306,7 @@ Outside. The light was too bright. The morning had continued without them — th
 
 Neighbors were everywhere. The evacuation had pulled most of the building's residents out before the collapse — Dorenne's order, quick and absolute. They stood in clusters on the street, in doorways, on the stairs of the building across the way, watching the damaged structure with the stunned attention of people whose home had just tried to swallow them. Children were crying. An old man sat on the curb with his hands on his knees, breathing hard. The woman from the fourth floor — the one who'd brought sweet rolls for the crew — was holding her two children against her body, one on each side, her arms wrapped around them with a fierceness that had nothing to do with comfort and everything to do with the physical need to confirm they were there.
 
-His father carried his mother to where the channelers' crew leader was already organizing triage. Two of the channelers had switched from structural work to emergency assessment — running on fumes, their trickles nearly dry, but their training kicking in. The crew leader took one look at his mother's legs and said, "Healers. Now. Don't move her again until—" and someone was already running for the healer's station three streets down.
+His father carried his mother to where the channelers' crew leader was already organizing triage. Two of the channelers had switched from structural work to emergency assessment — running on fumes, their pools nearly dry, but their training kicking in. The crew leader took one look at his mother's legs and said, "Healers. Now. Don't move her again until—" and someone was already running for the healer's station three streets down.
 
 Ash stood on the sidewalk and watched his father set his mother down on a coat someone had spread on the ground. His father's hands were shaking now — the steadiness that had carried him through the crisis departing now that the crisis was over, the delayed reaction arriving in his muscles and his jaw and the way his eyes couldn't quite focus. He held his wife's hand. He held it the way he held things — completely, without reservation, with the grip of a man who understood that some things, if you let go, you might not get back.
 
@@ -354,7 +354,7 @@ He accepted it now because his mother was alive and he didn't have the capacity 
 
 * * *
 
-The healers came. An older woman — elder generation, strong trickle, the particular no-nonsense authority of someone who dealt with broken bodies and had no patience for broken protocol. She knelt beside his mother and placed her hands on the injured legs with a gentleness that contradicted everything about her bearing. She channeled — Ash could see the warmth leaving her palms, the faint shimmer of energy passing into his mother's body, the healer's face tightening with concentration as she assessed the damage from the inside.
+The healers came. An older woman — elder generation, strong pool, the particular no-nonsense authority of someone who dealt with broken bodies and had no patience for broken protocol. She knelt beside his mother and placed her hands on the injured legs with a gentleness that contradicted everything about her bearing. She channeled — Ash could see the warmth leaving her palms, the faint shimmer of energy passing into his mother's body, the healer's face tightening with concentration as she assessed the damage from the inside.
 
 "Fractures," she said, to Ash's father. "Both legs. The left is clean — two breaks, they'll set well. The right is messier. Compression damage to the bone and the tissue around it. I can stabilize and begin the healing process, but she'll need sessions over the next week. No weight-bearing for at least ten days."
 
@@ -376,13 +376,13 @@ Not a question. She knew. She'd felt it — felt the Wellspring ignite inside hi
 
 "Yes," he said.
 
-She was quiet again. Her hands were in her pockets — her channeler's hands, the hands that had spent every drop of her trickle trying to lift the beam, the hands that hadn't been enough. She stood very still. She breathed.
+She was quiet again. Her hands were in her pockets — her channeler's hands, the hands that had spent every drop of her pool trying to lift the beam, the hands that hadn't been enough. She stood very still. She breathed.
 
 "Are you all right?" she asked.
 
 "I don't know."
 
-A breath. Another. The building behind them groaned — a settling sound, the damaged structure finding its new equilibrium, the channelers outside pouring the last of their trickles into keeping it upright. The apartment was destroyed. The building would need to be evacuated, assessed, probably condemned. His parents' home — the stove, the kitchen table, the resonance stones on the shelf, the crack in the stairwell wall he'd been tracking for months — all of it gone. Not because of the building's age or the foundation's weakness or the decline. Because of him. Because he'd brought the crew here. Because he'd been proud.
+A breath. Another. The building behind them groaned — a settling sound, the damaged structure finding its new equilibrium, the channelers outside pouring the last of their pools into keeping it upright. The apartment was destroyed. The building would need to be evacuated, assessed, probably condemned. His parents' home — the stove, the kitchen table, the resonance stones on the shelf, the crack in the stairwell wall he'd been tracking for months — all of it gone. Not because of the building's age or the foundation's weakness or the decline. Because of him. Because he'd brought the crew here. Because he'd been proud.
 
 Maren's hand found his arm. A grip — firm, steady, the way she did everything. She held on.
 

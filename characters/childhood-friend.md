@@ -6,7 +6,7 @@
 - **Age:** Same as Ash — early-to-mid 20s
 - **Gender:** Female
 - **Location:** The city — same district Ash grew up in, still there
-- **Magical Status:** Normal trickle. Competent channeler — not exceptional, not struggling. She's good at what she does in the way that people who work hard and don't overthink it are good at things. Her trickle is average for her generation, which means it's weaker than her parents' generation, but she doesn't dwell on that. It works. She uses it. She gets through the day.
+- **Magical Status:** Normal pool. Competent channeler — not exceptional, not struggling. She's good at what she does in the way that people who work hard and don't overthink it are good at things. Her pool is average for her generation, which means it's weaker than her parents' generation, but she doesn't dwell on that. It works. She uses it. She gets through the day.
 - **Role in the Story:** The road not taken and the truth-teller. She represents the ordinary life Ash could have had, and she's the person who won't let him hide behind the Wellspring identity. She is the only person in his life who treats his transformation as something that happened *to him* rather than something he *became*.
 
 ## Who She Is
@@ -28,7 +28,7 @@ But the gap was always there. Not between them — between what they were allowe
 
 As they got older, the world pulled them apart in ways that had nothing to do with how they felt about each other. She apprenticed in a trade that required channeling. He couldn't follow. She built a life inside the magical economy. He scraped along its edges. Their daily rhythms diverged. They were still friends, but the friendship required more effort, more scheduling, more navigating the uncomfortable reality that her life was *normal* and his wasn't.
 
-There was something else, too — something neither of them examined closely. A closeness that might have been more, in a different world. They grew up together, knew each other's worst days and smallest habits. But romantic relationships in this world are partly built on shared magical intimacy — channeling together, the vulnerability of letting someone feel your trickle, the domestic magic of shared space. He couldn't offer that. She never said it mattered, and maybe it didn't, but the question hung in the air like something they'd both silently agreed not to pick up.
+There was something else, too — something neither of them examined closely. A closeness that might have been more, in a different world. They grew up together, knew each other's worst days and smallest habits. But romantic relationships in this world are partly built on shared magical intimacy — channeling together, the vulnerability of letting someone feel your pool, the domestic magic of shared space. He couldn't offer that. She never said it mattered, and maybe it didn't, but the question hung in the air like something they'd both silently agreed not to pick up.
 
 By the time the story begins, they're still friends, but the kind of friends who haven't seen each other in a few weeks and feel guilty about it. The warmth is real. The drift is real too.
 
@@ -37,12 +37,12 @@ By the time the story begins, they're still friends, but the kind of friends who
 ### Before: She Had What He Didn't
 Growing up, the power dynamic was simple and never discussed. She was the capable one. Not in a dramatic way — she didn't define herself by her magic any more than she defined herself by her height. It was just *there*. She could do things. He couldn't. She helped without making it a performance, and he accepted without making it a crisis, and they both pretended this was fine.
 
-But underneath that ease, she carried something: the quiet awareness that she had been given a thing her closest friend was denied, and that nothing about her deserved it more than him. She wasn't guilty the way his sister is guilty — she didn't build her identity around compensating for it. It was more like a low-grade discomfort, a thing she noticed when she used her trickle around him and then immediately tried not to notice.
+But underneath that ease, she carried something: the quiet awareness that she had been given a thing her closest friend was denied, and that nothing about her deserved it more than him. She wasn't guilty the way his sister is guilty — she didn't build her identity around compensating for it. It was more like a low-grade discomfort, a thing she noticed when she used her pool around him and then immediately tried not to notice.
 
 ### After: He Has What Nobody Has
 The Wellspring changes everything.
 
-He goes from the friend she sometimes worried about to the most powerful person alive. The gap doesn't just reverse — it becomes absurd. She has her ordinary trickle. He can reshape reality. She warmed his cup; he could warm the district.
+He goes from the friend she sometimes worried about to the most powerful person alive. The gap doesn't just reverse — it becomes absurd. She has her ordinary pool. He can reshape reality. She warmed his cup; he could warm the district.
 
 And here's what makes it painful: she's *happy for him*. Genuinely. She's spent years watching him navigate a world that wasn't built for him, and some part of her is fiercely glad that he finally got something. But the happiness is complicated by a feeling she can't name and wouldn't admit — a sense of vertigo, of the ground shifting, of suddenly being the one on the wrong side of a gap she didn't know could reverse.
 
@@ -51,7 +51,7 @@ She doesn't resent him. She doesn't envy the power. What she struggles with is s
 ## Her Thematic Role
 
 ### The Road Not Taken
-She is the life Ash would have had if he'd been born with a trickle. Not a bad life — a good one. Meaningful work, a community, small daily satisfactions, the ordinary rhythm of channeling and resting and channeling again. She's proof that normal is enough, that an unremarkable life isn't a lesser one.
+She is the life Ash would have had if he'd been born with a pool. Not a bad life — a good one. Meaningful work, a community, small daily satisfactions, the ordinary rhythm of channeling and resting and channeling again. She's proof that normal is enough, that an unremarkable life isn't a lesser one.
 
 For Ash — especially in Book One, when he's drunk on the Wellspring — she's a reminder of what he was and what he was headed for, and it's a reminder he increasingly avoids. He doesn't want to think about ordinary. He's extraordinary now. Going back to her world feels like going backward.
 
@@ -86,7 +86,7 @@ But she's also the person who can tell him the truth. The world is fracturing ar
 
 This conversation is one of the emotional anchors of Book Two. It forces Ash to confront what the power cost him — not in reservoir, but in relationships. In the ordinary human connections that he spent his whole pre-Wellspring life building and his Wellspring life discarding.
 
-She also serves as a bridge to the ordinary world — the world that's living through the decline without Wellspring power, without political influence, without any of Ash's resources. Her perspective grounds him. The city's decline isn't abstract to her. It's her workshop losing channelers. It's her heating costing more effort. It's her friends worrying about their children's weaker trickles. She makes the macro crisis personal.
+She also serves as a bridge to the ordinary world — the world that's living through the decline without Wellspring power, without political influence, without any of Ash's resources. Her perspective grounds him. The city's decline isn't abstract to her. It's her workshop losing channelers. It's her heating costing more effort. It's her friends worrying about their children's weaker pools. She makes the macro crisis personal.
 
 ### Book Three
 She becomes part of the world Ash is building toward. Not as a follower or a project — as a collaborator. The practical skills she's always had, the community she's embedded in, the networks of ordinary people doing ordinary work — these are the foundation Ash needs.

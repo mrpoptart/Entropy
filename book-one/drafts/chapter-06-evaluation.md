@@ -61,7 +61,7 @@
 
 ### 5. Worldbuilding Integration
 
-**Carver (9/10).** World shown entirely through use. The demonstration — channeling into a scaling stone, waste heat raising the room's temperature, channeling strips dimming in response — is rendered as physical experience rather than explained mechanism. The tea scene with the father — Ash choosing not to cool the tea because "the heat was his father's trickle" — is the best single worldbuilding-as-character beat across all drafts.
+**Carver (9/10).** World shown entirely through use. The demonstration — channeling into a scaling stone, waste heat raising the room's temperature, channeling strips dimming in response — is rendered as physical experience rather than explained mechanism. The tea scene with the father — Ash choosing not to cool the tea because "the heat was his father's pool" — is the best single worldbuilding-as-character beat across all drafts.
 
 **Hearthkeeper (8/10).** The broadsheet detail is a worldbuilding contribution the other drafts lack — it shows how information moves through Solathis and gives the reader a physical artifact. The "dead weight" term appearing in neighbor gossip is a strong callback. Weakness: some political-faction material reads more like outline scaffolding than lived world.
 
@@ -101,7 +101,7 @@
 The chapter's thematic core in five words. The gap between the public Wellspring and the private person, rendered through the most concrete image possible — the hands that are scarred, calloused, and warm, that no one in the room looked at because they were looking at the light.
 
 **The father's tea scene:**
-Ash choosing not to cool the tea because the heat was his father's trickle. Character, worldbuilding, and the new distance between father and son — all rendered through a cup of tea.
+Ash choosing not to cool the tea because the heat was his father's pool. Character, worldbuilding, and the new distance between father and son — all rendered through a cup of tea.
 
 **Dorenne's coaching speech:**
 "They will want to see a weapon. A spectacle. A solution to every problem they've been too afraid to name. You are not those things." Dorenne's character in six sentences.
