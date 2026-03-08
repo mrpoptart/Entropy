@@ -243,9 +243,9 @@ Most channelers push: big trickle, big output, brute force. Haran *pulses* — t
 
 "Your hands still work," Haran says. "The power doesn't replace them. It's another tool. You don't use a hammer on glass."
 
-This opens the teaching. Haran starts showing him his way of channeling — the micro-pulses, the precision inputs. Ash tries. He's terrible at it. His reservoir is so vast that controlling output at micro-scale is like trying to whisper in a hurricane. But his hands are good — steady, practiced, trained by years of physical work — and Haran sees this. "You already know precision. You just need to teach the power what your hands already know."
+This opens the teaching. Haran teaches Socratically — "What were you feeling for?" — and lets Ash articulate the knowledge his hands already have (back-pressure, temperature change, the specific resistance of a correct seat). The insight arrives as Ash's own conclusion: his hands already know precision. He just needs to teach the power what they know. Haran demonstrates micro-pulses on a brass test piece — a thumbnail of heat in the exact center, appearing and vanishing with the rhythm of breathing. Ash tries. He's terrible at it. His reservoir is so vast that controlling output at micro-scale floods the piece every time. One marginal improvement by the end of the session.
 
-Ash's face when Haran's technique becomes visible — when he realizes the old man hasn't been abstaining from magic but *surfing* it — is a moment of genuine awe. Not the awe of raw power, but of mastery. Haran's quiet pleasure at being seen.
+The revelation builds through accumulated observation, not a single moment: Ash watches Haran warm the workshop wall in passing, brighten a lamp with two fingers, read a fitting without touching it. The realization — that Haran hasn't been abstaining from magic but *surfing* it, running a strong elder-generation trickle at radical efficiency across hundreds of tiny daily applications — arrives as quiet recognition rather than dramatic awe. Haran's pleasure at being seen is small and almost invisible: "Not quite a smile. The quality that a smile might be made from."
 
 The chapter ends with Ash having learned almost nothing practically but having glimpsed a different framework for power. The pump is still half-built. It'll take weeks. That's the point.
 
