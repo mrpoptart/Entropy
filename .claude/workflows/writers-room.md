@@ -29,6 +29,7 @@ Read these files and assemble a writing brief:
 - `worldbuilding.md` and `magic-system.md` — world details relevant to this chapter
 - `reference/style-guide.md` — prose rules
 - `series-outline.md` — trilogy context
+- `convergence-map.md` — thread expectations for this chapter
 - Any previously written chapters — for continuity
 
 Compile the brief into a clear prompt that includes:
@@ -39,6 +40,8 @@ Compile the brief into a clear prompt that includes:
 - Reservoir level at chapter start and end
 - Worldbuilding to introduce or maintain
 - Seeds to plant (from outline)
+- **Thread targets** (from convergence map): which threads this chapter should plant, progress, or converge — and any cross-thread amplification expected
+- Whether this chapter falls in a **convergence zone**, and if so, the expected density and compression pattern
 - Any specific moments or lines highlighted in the outline
 
 ### 2. Create Drafts Directory

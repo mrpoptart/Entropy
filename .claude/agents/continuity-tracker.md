@@ -54,6 +54,7 @@ Check the draft against previously written chapters:
 - Does this chapter plant any seeds that the outline identifies?
 - Does it pay off any setups from earlier chapters correctly?
 - Are there accidental setups (details that suggest a plot thread) that aren't intended?
+- **Convergence map cross-reference:** Does this chapter plant or progress the specific threads that `convergence-map.md` assigns to it? Are any assigned threads missing from the draft?
 
 ## How to Work
 
@@ -101,6 +102,7 @@ Details that don't match previous chapters or internal logic. Should be fixed.
 ## Source Files
 
 Read ALL of these as needed:
+- `convergence-map.md` — Thread definitions and per-chapter convergence expectations
 - `characters/*.md` — All character profiles
 - `worldbuilding.md` — World details
 - `magic-system.md` — Magic mechanics

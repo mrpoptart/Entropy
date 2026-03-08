@@ -1,7 +1,7 @@
 ---
 description: >
   Full end-to-end chapter writing pipeline. Prepares the brief, runs the Writers' Room
-  for multi-draft generation and evaluation, then runs all 6 review agents on the
+  for multi-draft generation and evaluation, then runs all 8 review agents on the
   chosen draft. Produces a complete revision checklist.
 ---
 
@@ -38,7 +38,7 @@ Once the author selects a direction:
 
 ### 3. Run Review Agents
 
-Run all 7 review agents on the chosen draft. Each agent reads the draft and the relevant source files, then produces feedback.
+Run all 8 review agents on the chosen draft. Each agent reads the draft and the relevant source files, then produces feedback.
 
 Invoke in this order (each is independent):
 
@@ -49,6 +49,7 @@ Invoke in this order (each is independent):
 5. **⏳ Pace Keeper** — Growth realism and show-vs-tell
 6. **💡 Thematic Compass** — Thematic resonance
 7. **🔗 Continuity Tracker** — Facts and cross-chapter consistency
+8. **🌀 Convergence Tracker** — Thread management and avalanche pacing
 
 ### 4. Compile Feedback
 

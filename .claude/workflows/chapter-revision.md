@@ -1,7 +1,7 @@
 ---
 description: >
   Revise an existing chapter from a revision plan. Builds a revision brief,
-  generates revised drafts that preserve what works, runs all 7 review agents,
+  generates revised drafts that preserve what works, runs all 8 review agents,
   and produces a final revised chapter.
 ---
 
@@ -37,6 +37,7 @@ Read these files and assemble a revision brief:
 - `worldbuilding.md` and `magic-system.md`
 - `reference/style-guide.md`
 - `series-outline.md`
+- `convergence-map.md` — thread expectations for this chapter
 - Adjacent chapters (before and after) — for continuity
 - `timeline.md`
 
@@ -119,6 +120,7 @@ Run all 7 review agents on the revised chapter:
 5. **⏳ Pace Keeper** — Growth realism and show-vs-tell
 6. **💡 Thematic Compass** — Thematic resonance
 7. **🔗 Continuity Tracker** — Facts and cross-chapter consistency
+8. **🌀 Convergence Tracker** — Thread management and avalanche pacing
 
 > **Note:** Pay special attention to the Pace Keeper and Continuity Tracker results. Revisions that change timeline or add/remove scenes often introduce pacing regressions or continuity breaks with adjacent chapters.
 

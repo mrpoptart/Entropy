@@ -49,6 +49,13 @@ Check against the book's outline:
 - Does it plant the seeds it's supposed to plant?
 - Does it pay off setups from earlier chapters?
 
+### Convergence Pacing (Act 3 / Convergence Zone chapters)
+Check against `convergence-map.md`:
+- Is the thread density appropriate for this chapter's position? (Early acts: 3–5, middle: 4–6, convergence zone: 6–10, increasing toward climax)
+- For convergence zone chapters: are multiple threads resolving per chapter, or are they taking turns?
+- Is scene length contracting in the convergence zone? Is momentum building chapter over chapter?
+- Are threads colliding (one thread's resolution creating pressure on another) or merely coexisting?
+
 ### Information Delivery
 - Is worldbuilding woven into action, or dumped?
 - Is backstory revealed through the present-tense needs of the scene?
@@ -79,3 +86,4 @@ Ranked, specific, actionable.
 - The relevant book's `outline.md` — What this chapter should accomplish
 - The relevant book's `plan.md` — Act structure and emotional arc
 - `series-outline.md` — Where this chapter sits in the trilogy
+- `convergence-map.md` — Thread density expectations and convergence zone specifications

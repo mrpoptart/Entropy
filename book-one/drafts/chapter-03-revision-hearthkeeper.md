@@ -2,7 +2,7 @@
 
 The street narrowed at the third terrace down, and the stone changed underfoot.
 
-Above — in the blocks around the Hall of Infrastructure, where Dorenne's office sat in its high-ceilinged order of charts and crisis — the paving was flush. Channelers from the public works teams kept it that way, pressing their palms to cracks each morning, fusing the joints smooth before the traffic of the day could catch a heel or turn an ankle. Ash had walked those streets for two weeks now as if they belonged to him, and the smoothness had started to feel normal. He'd stopped noticing the seams he used to step around.
+Above — in the blocks around the Hall of Infrastructure, where Dorenne's office sat in its high-ceilinged order of charts and crisis — the paving was flush. Channelers from the public works teams kept it that way, pressing their palms to cracks each morning, fusing the joints smooth before the traffic of the day could catch a heel or turn an ankle. Ash had been walking those streets for two weeks now, and the smoothness had started to feel like something he deserved. Not consciously — he wouldn't have said it that way, wouldn't have been able to name the shift — but his feet had stopped noticing the seams he used to step around, and the smoothness had become a floor rather than a gift.
 
 Here, on the third terrace, the seams showed. Not dangerous — not yet — but present. The stone had shifted at some point in the last year and nobody had come to push it back. A ridge ran diagonally across the walkway where two slabs had separated. He stepped over it without thinking, the way he stepped over everything in the city that didn't work.
 
@@ -12,7 +12,7 @@ He passed a woman on the stairs between the third and fourth terraces. She was l
 
 In the upper districts, nobody stopped to warm a wall. They didn't need to — the maintenance teams handled it, the buildings held their heat, the system worked. Down here, a woman leaned against stone on her way home from work and spent part of what she had left to keep her neighbors warm. Ash thought about what that cost her — the calculations had been running in his head for two weeks now, the schedules and allocations that Dorenne's office tracked with colored overlays and daily briefs. He could feel the math of it pressing at him — what her trickle could sustain, how quickly the wall would cool, the gap between what she gave and what the stone could hold. A fraction of a fraction, spent against a wall that would be cold again by morning.
 
-He touched the stone where she had pressed. The warmth was still there — fading, thin. By midnight it would be gone.
+He touched the stone where she had pressed. The warmth was still there — fading, thin, already losing its argument with the evening air. By midnight it would be gone. By dawn the stone would be as cold as if she'd never stopped.
 
 He didn't linger on it. The numbers were Dorenne's problem, not his. His job was the schedule, the logistics, the careful choreography of teams and routes that squeezed function from a system that was slowly outgrowing the people who maintained it. He was good at it. He was good at it, and the knowledge sat in his chest like a coal, still warm from the day.
 
@@ -72,7 +72,7 @@ Ash picked up a file from the bench and turned it in his hands. His fingers knew
 
 "Patterns are your talent."
 
-"It's not just patterns. It's —" He stopped, searching. "Dorenne put me at the briefing table. Not the corner. The table. She asked me for my analysis of a deployment conflict, and I gave it, and three senior staff changed their plans based on what I said."
+"It's not just patterns. It's —" He stopped, searching. "Yesterday, Dorenne put me at the briefing table. Not the corner. The table. She asked me for my analysis of a deployment conflict, and I gave it, and three senior staff changed their plans based on what I said."
 
 He waited for something. He wasn't sure what. Haran filed.
 
@@ -114,7 +114,7 @@ Haran squeezed the pliers around something too small for Ash to see, made a quar
 
 The workshop filled slowly, the way it always did in the evenings. Nobody announced their arrival. People came in through the open door, found a bench or a stool or a section of floor, and started working on whatever they'd left unfinished the last time they were here.
 
-Lenne came first. She crossed to the third bench without greeting, shrugged off her coat, and picked up the spring-loaded assembly she'd left on the wooden block. She turned it, frowned at the catch plate, and reached for a file. Her shift on the district maintenance crew had left a faint sheen of sweat at her temples — a full day of channeling seals and patches, spending trickle she couldn't quite afford. Her hands, when they wrapped around the file, lost the fine tremor they'd carried through the door.
+Lenne came first. She crossed to the third bench without greeting, shrugged her coat off one shoulder while her other hand was already reaching for the spring-loaded assembly she'd left on the wooden block. She picked it up, turned it, frowned at the catch plate. Her coat slid down her arm and pooled on the bench beside her. She didn't notice. Her shift on the district maintenance crew had left a faint sheen of sweat at her temples — a full day of channeling seals and patches, spending trickle she couldn't quite afford. Her hands, when they wrapped around the file, lost the fine tremor they'd carried through the door.
 
 "Haran," she said, not looking up. "The spring's too stiff."
 
@@ -142,7 +142,9 @@ She looked at the catch plate. She looked at Haran. Something shifted behind her
 
 Ash watched this exchange with the comfortable familiarity of someone who had been on Lenne's end of it more times than he could count. Haran didn't explain. He didn't draw diagrams or walk you through the reasoning. He handed you the answer in the smallest possible container and let you unpack it yourself.
 
-Torren arrived with his gear train in a cloth bag and his knees announcing each step down the alley. He settled onto his usual stool, unwrapped the gears, and laid them out on the bench with the practiced arrangement of a man who'd been building the same clockwork for eight months.
+Torren came in next, his cloth bag cradled against his chest, his knees marking each step with a protest he seemed to find more informative than painful. He settled onto his usual stool the way a river finds its channel — inevitably, and with the sense that nothing else had ever been an option.
+
+He unwrapped his gear train. Eight months of work laid out in a row on the bench, each piece in its place. A clockwork that tracked time without channeling. He was close. He was always close. Each evening brought the finish line half a step nearer, and each morning it retreated by a quarter, and the net progress was so slow that only a man who measured satisfaction in fractions could endure it.
 
 "Ash." He fitted two gears together and turned them with his thumb. The teeth meshed with a soft, precise click. "Heard you got yourself a position."
 
@@ -372,7 +374,7 @@ Whether Ash walked through it was Ash's business.
 
 Ash stepped into the alley. The night air was cold — real cold, not the managed chill of the middle districts where the streets held enough residual channeling to take the edge off. Down here, the stone was stone, and the wind came off the gorge without mediation. He pulled his coat tighter. The same coat.
 
-He walked up. The terraces rose ahead of him, each one a step closer to the districts where the paving was smooth and the walls held their heat and the systems worked because someone in an office like Dorenne's had decided they should. The Hall of Infrastructure was up there, dark now, its high windows catching the starlight. Tomorrow he would climb the ramp, sit at the table, and do the work that kept forty thousand people connected to clean water.
+He walked up. The terraces rose ahead of him, each one a step closer to the districts where the paving was smooth and the walls held their heat and the systems worked because someone in an office like Dorenne's had decided they should. The Hall of Infrastructure was up there, dark now, its high windows catching the starlight.
 
 Behind him, below him, the workshop's light leaked into the alley — warm and uneven, the color of burning wood. The sound of the broom carried faintly. Haran, sweeping. Alone in the warm room, putting things in order, the door open to anyone who might walk through it.
 

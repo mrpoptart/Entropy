@@ -9,11 +9,11 @@ Compiled from six review agents: Arc Guardian, Story Architect, Voice Editor, Co
 **1. "Ten years" should be "nine years" (line 237)**
 Ash has been coming to the workshop since age 14. He is 23. That is nine years, not ten. Flagged by Continuity Tracker and Voice Editor.
 
-**2. "A week ago" should be "a few days ago" (line 310)**
-The timeline places this chapter roughly four days into Ash's new job. "A week ago" overstates the elapsed time. Flagged by Arc Guardian.
+**2. "Four days" should be "two weeks" (lines 5, 13)**
+The revised Chapter 2 now covers a full two-week timeline. Chapter 3 takes place the same evening or shortly after. Both references to "four days" at lines 5 and 13 must be updated to ~two weeks. Note: the "a week ago" at line 311 is now *correct* — it points to roughly the end of Week One, which is when Ash's confidence started building. Flagged by Continuity Tracker (updated post-Ch2 revision).
 
-**3. "Six weeks" vs. "last month" for pump design period**
-Two references to how long ago Ash designed the pump give conflicting timeframes. Pick one and make it consistent. Flagged by Continuity Tracker.
+**3. "Six weeks" vs. "a month" for pump design period**
+Two references to how long ago Ash designed the pump give conflicting timeframes (line 77: "six weeks"; line 205: "a month"). Pick one and make it consistent — recommend "a month" as more natural internal voice. Flagged by Continuity Tracker.
 
 ---
 
