@@ -18,7 +18,7 @@ And for three weeks, every morning, he'd pressed his thumb into the crack on the
 
 * * *
 
-Dorenne's office was on the fourth floor of the Hall, and the light came through tall windows that faced the eastern ridge. She was at her desk when he arrived, already working, the map board behind her showing the deployment overlay for the week—green, amber, red, the city's infrastructure reduced to a grammar of urgency.
+Dorenne's office was on the fifth floor of the Hall, and the light came through tall windows that faced the eastern ridge. She was at her desk when he arrived, already working, the map board behind her showing the deployment overlay for the week—green, amber, red, the city's infrastructure reduced to a grammar of urgency.
 
 He set the morning brief on her desk beside the tea he'd placed there eight minutes ago—cooled now to the temperature she preferred, which he'd learned by watching her push fresh cups aside and drink them twenty minutes later.
 
@@ -40,7 +40,7 @@ Something moved behind Dorenne's eyes—the recalculation he'd learned to recogn
 
 "I'll speak to Tessaly. What else?"
 
-He told her. The morning passed the way mornings passed in the Hall—information moving through channels, decisions branching, the city's systems requiring the constant intervention of people whose job it was to ensure that the intervention happened. Ash moved through it with growing fluency, the patterns clear and the work satisfying in the particular way that complex logistics were satisfying: the pleasure of making pieces fit.
+He told her. The morning passed the way mornings passed in the Hall—information moving through channels, decisions branching. Tessaly handed him a deployment update without looking up, the way she handed things to people she'd accepted as fixtures. Two weeks ago she'd still been checking his work before it reached Dorenne's desk. She didn't anymore. Whether that meant trust or indifference, Ash hadn't decided.
 
 He waited until midday. Until the brief was filed and the afternoon schedule confirmed and the office had settled into its post-lunch quiet, the senior staff scattered to site visits and the juniors buried in their own tasks.
 
@@ -78,7 +78,7 @@ Something crossed her face—not quite a smile, but adjacent. The recognition of
 
 "Good." She looked at him for a moment longer than the conversation required. "You're learning to speak the right language, Ash. That matters."
 
-He left the office. The hallway was cool and wide and the stone under his feet was perfectly maintained. He walked to the ramp, and the satisfaction in his chest was specific and earned and entirely about the fact that he had asked for something using the only tools available to him, and the tools had worked.
+He left the office. The hallway was cool and wide and the stone under his feet was perfectly maintained. He walked to the ramp, and he breathed—a long breath, slow, the kind his body made when the weight came off—because he had asked for something using the only tools available to him, and the tools had worked.
 
 * * *
 
@@ -92,7 +92,7 @@ The report reached Dorenne's desk the following day. Ash was in the office when 
 
 He waited.
 
-"The original construction is high-era work. The load-bearing walls were channeled into place by someone with a trickle that doesn't exist anymore—the internal reinforcement is failing because nobody alive can replicate the technique that created it. The building has been redistributing its stress loads for decades. The foundation is holding, but the margins are narrower than the surface condition suggests." She looked at him over the report. "Your parents live in this building."
+"The original construction is high-era work. The load-bearing walls were channeled into place by someone with a trickle that doesn't exist anymore—the internal reinforcement is failing because nobody alive can replicate the technique that created it. The building has been redistributing its stress loads for decades. The foundation is holding, but the margins are narrower than the surface condition suggests." She turned a page. "The assessors also flagged proximity to the Kharren Fault line. Low probability, but the building has no seismic tolerance left." She looked at him over the report. "Your parents live in this building."
 
 "Yes."
 
@@ -168,27 +168,17 @@ She looked at the channelers. Sorren had her palms flat against the foundation s
 
 "It's our home."
 
-The morning passed. Sorren's team worked in pairs, one channeler reinforcing while the other monitored stress paths, swapping every twenty minutes or so when the lead's trickle started to thin. They didn't announce the swaps. They read each other—the slight hesitation in a gesture, the deeper breathing, the moment when the warmth bleeding off a channeler's hands shifted from focused precision to the diffuse heat of someone running inefficient.
+The morning passed. Sorren's team worked in pairs, swapping every twenty minutes when the lead's trickle started to thin. They read each other without speaking—the slight hesitation in a gesture, the deeper breathing, the moment when the warmth bleeding off a channeler's hands shifted from focused precision to the diffuse heat of someone running inefficient. Sweat darkened their collars despite the cold. The air near the foundation stone shimmered faintly, heat rolling off the worked surfaces.
 
-Ash brought water. It was the thing he could do—he carried a heavy ceramic jug up from the street tap and filled cups and handed them to channelers who took them with the distracted gratitude of people deep in concentration. Sorren drank without opening her eyes, one hand still pressed to the foundation stone, the other wrapped around the cup. Her fingers were warm from the channeling—Ash felt it when their hands brushed.
+Ash brought water. He carried a heavy ceramic jug up from the street tap and filled cups and handed them to channelers who took them without looking up. Sorren drank with one hand still pressed to the stone, her fingers warm enough that Ash felt it when their hands brushed around the cup.
 
-Dorenne watched differently—reading the team's progress the way she read her map board, assessing capacity and efficiency and the gap between plan and execution.
-
-"Sorren's good," she said.
-
-"She's thorough."
-
-"She's expensive. Her team costs the district allocation for a full week."
+"She's expensive," Dorenne said, watching. "Her team costs the district allocation for a full week."
 
 Ash said nothing. The arithmetic of Dorenne's world—every act of care measured against the ledger of what it displaced. He was learning the grammar. He didn't have to like all of its sentences.
 
-"Your brief was well-written," she said. "The historical angle was smart. The Council responds to heritage arguments."
+"When you write the next one," she said, "lead with the risk index score. That's the number they can't argue with."
 
-"It's a good building."
-
-"It's a compromised building in a neglected district. But yes—it's a good building." She paused. "When you write the next one, lead with the risk index score. That's the number they can't argue with."
-
-She left at midmorning. Her car came—a carriage powered by a channeler in the municipal service, the kind of transit that the upper districts took for granted and the lower districts saw twice a year. She climbed in, and the carriage moved, and the neighbors watched it go with expressions that Ash chose not to examine too closely.
+She left at midmorning. Her carriage came—a channeler in the municipal service powering it up the hill, the kind of transit the upper districts took for granted. The neighbors watched it go with expressions Ash chose not to examine too closely.
 
 * * *
 
@@ -250,15 +240,13 @@ Maren was beside him.
 
 She hadn't left. She was on her knees on the other side of the beam, her palms flat against the stone, her eyes closed. Channeling. He could see it in her—the stillness, the focused compression of a body directing everything it had into a single point of contact. Her hands shook. Her jaw was clenched so tight the muscles stood out in her neck. She was pushing everything she had into the beam, trying to lift it or shift the weight or do anything—anything at all—and the beam barely trembled under her hands.
 
-She was the most skilled channeler her age. She maximized every fraction of her trickle through discipline and technique that her instructors had called exceptional. And it wasn't enough. Not for this. Not for a beam of high-era stone that had been reinforced by channelers ten times her strength, whose weight exceeded anything her generation was meant to carry.
+Everything she had, and the beam barely trembled.
 
 Her eyes opened. She looked at him.
 
-No blame. No pity. Something worse—the raw, stripped-down honesty of a person who had reached the end of what she could do. Her hands still pressed against the stone. Still shaking. Still channeling, because stopping was not something Maren did. But her eyes said what her discipline wouldn't let her say: *I can't.*
+Her hands still pressed against the stone. Still shaking. Still channeling, because stopping was not something Maren did. But her eyes said what her discipline wouldn't let her say: *I can't.*
 
 And Ash looked back at her and he knew.
-
-He knew it the way he'd always known it. The way he knew it every morning when he washed in cold water. Every time he climbed forty flights of stairs. Every time he stood beside something broken and couldn't fix it and smiled and adapted and found a workaround and pretended the workaround was enough.
 
 He was what he had always been. The person who couldn't help when it mattered most.
 
@@ -308,7 +296,7 @@ They carried his mother down the stairs. His father on one side, Ash on the othe
 
 The stairwell was damaged but intact—the channelers had held the main structure, had poured everything they had into the columns and crossbeams and foundation while the apartment above them blew itself apart. The cracks in the walls had widened. Plaster lay in drifts on every landing. The stairwell smelled of dust and cold stone and something else—a metallic sharpness, like the ozone tang in the market district where heavy channeling happened, but stronger. Different.
 
-Outside, the street was full of people. Neighbors from adjacent buildings. The Merrat family, wrapped in coats, their faces white. Old Verath clutching her cat against her chest. Sorren and her team, spent, leaning against the building's exterior wall with the loose-limbed exhaustion of people who had given everything they had and were running on the residual heat of effort.
+Outside, the street was full of people. Neighbors from adjacent buildings. The Merrat family, wrapped in coats, their faces white. Old Verath clutching her cat against her chest. Sorren and her team, spent, leaning against the building's exterior wall with the loose-limbed exhaustion of people who had given everything they had. Sorren looked at Ash as he came through the door. Her gaze moved to his hands, then to the hole in the fifth floor, then back. She opened her mouth, closed it, and looked away—the expression of a professional encountering something outside her categories.
 
 His mother was lowered onto a blanket someone had spread on the walkway. She grabbed his father's hand and held it, and his father knelt beside her and put his other hand on her hair and said something too quiet for Ash to hear.
 
@@ -318,7 +306,7 @@ A healer arrived—summoned from somewhere, a middle-aged man with a worn bag an
 
 His father nodded. The nod was a version of the one Ash knew—the one that absorbed information without breaking. But his father's face was the color of the plaster dust on the stairwell floor, and his hands, when he gripped his wife's, were not entirely steady.
 
-Maren stood ten feet away. She hadn't moved since they'd reached the street. She stood with her arms at her sides and her coat still buttoned to the throat and her hair still pulled back and her face—
+Maren had stayed close during the descent—checking stairs, steadying their mother's stretcher side. But once they reached the street, she stepped back. She stood ten feet away with her arms at her sides and her coat still buttoned to the throat and her hair still pulled back and her face—
 
 Ash looked at her face and looked away.
 
@@ -332,11 +320,11 @@ He didn't know what she'd felt. He only knew what it looked like on her face: th
 
 Dorenne's voice. Behind him. He turned.
 
-She must have been summoned. She must have left the Hall the moment word reached her—the carriage, the municipal channeler, the fast route down from the upper districts. She was here now, standing at the edge of the gathered crowd, and her face held something he'd never seen on it: fear. Real fear. The Director of Infrastructure, who managed crises with the cool precision of a woman who had seen everything, looked afraid.
+She must have been summoned. She must have left the Hall the moment word reached her—the carriage, the municipal channeler, the fast route down from the upper districts. She was here now, standing at the edge of the gathered crowd, and her face held something he'd never seen on it. Her mouth was slightly open. Her hands, usually still, were gripping the edges of her coat.
 
 But her eyes changed.
 
-He watched it happen. The fear didn't leave—it stayed, genuine, a crack in the composure she maintained the way his mother maintained the heating lattice. But something else rose beside it. Her gaze moved from his face to his hands to the building behind him—the blown-out wall, the structural damage that no team of middle-generation channelers could have caused, the scale of force written in the rubble pattern—and the calculation began.
+He watched it happen. The openness didn't leave her face—it stayed, a crack in the composure she maintained the way his mother maintained the heating lattice. But something else rose beside it. Her gaze moved from his face to his hands to the building behind him—the blown-out wall, the structural damage that no team of middle-generation channelers could have caused, the scale of force written in the rubble pattern—and the calculation began.
 
 She crossed to him. She put her hand on his arm. The grip was firm—not his father's grip, not comfort, but something steadier and more practical. The grip of someone who was about to take control of a situation.
 
@@ -362,11 +350,9 @@ She released him. She turned and began giving orders—to Sorren, to the healer,
 
 Ash stood on the walkway outside his parents' building. The afternoon was still bright. The cold still sharp. The street full of neighbors and strangers and the noise of people responding to disaster with the instinctive coordination of a community that had weathered crises before.
 
-His mother was alive. His father was holding her hand. His sister was standing ten feet away with something new and unnamed in her eyes. His home—the stairwell he'd climbed every morning, the crack he'd measured with his thumb, the kitchen where his mother cooked with cumin when the budget was tight, the bedroom where he'd washed in cold water every day for twenty-three years—was gutted. Open to the sky. His doing.
+His mother was alive. His father was holding her hand. His sister was standing ten feet away with something new and unnamed in her eyes. Dorenne was already giving orders. He looked for—he didn't know who he was looking for. Not Ryn. He hadn't thought of Ryn once since the beam fell. He noticed the absence the way you notice a pocket that's supposed to hold something and doesn't.
 
-He'd suggested the project. He'd written the brief. He'd framed it in the right language and watched Dorenne approve it and felt the satisfaction of a man who was learning to work the system for the people he loved.
-
-And the system had failed, and his mother had been pinned, and something inside him had broken open and saved her and destroyed everything in the same gesture.
+His home—the stairwell he'd climbed every morning, the crack he'd measured with his thumb, the kitchen where his mother cooked with cumin when the budget was tight, the bedroom where he'd washed in cold water every day for twenty-three years—was gutted. Open to the sky. In the rubble near the entrance, his father's wooden door wedge sat undamaged among the shattered stone. The one thing that hadn't needed channeling to hold. His doing.
 
 His mother was alive.
 
@@ -374,9 +360,9 @@ His home was gone.
 
 Both of these things were because of him.
 
-*Make it count.*
+His hands were still warm. The heat sat in his palms like something held—not fading, not cooling, just there. Waiting.
 
-The thought arrived without ceremony. Just a fact, plain and cold as the afternoon air, settling into the space between the shaking of his hands and the pulse of the thing inside him.
+*Make it count.*
 
 He didn't know what that meant yet. He didn't know what the pressure was, or how it worked, or what it could do beyond tearing through stone and blowing out walls. He only knew that his family's home was gone because of him and his mother was alive because of him and the two debts were written on the same line and the only way to balance them was forward.
 

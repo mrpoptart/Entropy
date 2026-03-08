@@ -10,21 +10,21 @@ This document tracks 14 narrative threads across all three books. It is the sour
 
 #### Thread 1: Reservoir Countdown
 **Description:** Ash's Wellspring is finite. The countdown from 100% to 0% is the trilogy's structural spine — his relationship with his own mortality, compressed.
-**Planting:** B1 Ch5 (examiners hedge about permanence), B1 Ch8 (Haran asks "how much did that cost you?")
+**Planting:** B1 Ch5 (examiners hedge about permanence), B1 Ch8 (Haran asks "how much did that cost you?" about the fused fittings — Ash shrugs it off)
 **Key Progressions:** B1 Ch17 (reservoir feels "lighter" after earthquake), B1 Ch18 (edges perceptible), B2 (every expenditure a visible choice), B3 (critical range — feels the bottom)
 **Convergence Points:** B1 Ch19 (the math scene — half is gone), B3 Act 3 (the final expenditure — 0%)
 **Cross-Thread Links:** Amplifies Thread 8 (Maren's Parallel Decline) — his math mirrors her trajectory. Drives Thread 14 (Stewardship vs. Heroism) — finite resources demand building over heroics.
 
 #### Thread 2: Infrastructure Decline
 **Description:** Solathis is built on a magic that's weakening generationally. The city's systems — transit, water, heating, structural reinforcement — are failing faster than they can be maintained.
-**Planting:** B1 Ch1 (the city's visible stratification), B1 Ch2 (Kharren Fault briefing overheard)
+**Planting:** B1 Ch1 (the city's visible stratification), B1 Ch2 (district failure briefings overheard), B1 Ch4 (building collapses — infrastructure degradation made catastrophic)
 **Key Progressions:** B1 Ch4 (the building's hidden degradation), B1 Ch10-14 (deployment reveals the scope), B2 (post-earthquake reconstruction, rural communities going dark)
 **Convergence Points:** B1 Ch15-16 (earthquake — the world's decline made catastrophic), B3 Act 3 (transition to post-magic infrastructure)
 **Cross-Thread Links:** Creates the conditions for Thread 3 (Levelers) — inequality laid bare in rubble. Validates Thread 4 (Proof-of-Concept District) — the old way is visibly failing.
 
 #### Thread 3: The Levelers / Redistribution
 **Description:** Generational resentment among young channelers whose weaker trickles buy less than their parents' did. Grows from background frustration into an organized movement demanding mandatory redistribution.
-**Planting:** B1 Ch12 (background protests, broadsheets, young channeler frustration — footnotes Ash ignores)
+**Planting:** B1 Ch12 (background protests, broadsheets, young channeler frustration — footnotes Ash ignores), B1 Ch15 (young channelers angry in the rubble — earthquake damage stratified by wealth)
 **Key Progressions:** B1 Ch22 (Ash reads a broadsheet and sees his story in theirs), B2 Act 1-2 (Davan crystallizes the movement, political power, escalation)
 **Convergence Points:** B2 Act 2 (the break with Davan — coerced elder expenditure), B3 Act 3 (Davan's community fails)
 **Cross-Thread Links:** Opposes Thread 6 (Dorenne's Framework) — the Levelers challenge institutional control. Mirrors Thread 12 (Ash's Identity Fusion) — they define themselves by grievance the way Ash defined himself by power.
@@ -39,7 +39,7 @@ This document tracks 14 narrative threads across all three books. It is the sour
 #### Thread 5: The Efficiency Technique
 **Description:** A discipline for channeling at dramatically reduced cost — micro-pulses at precise moments. Can be used for preservation (temptation) or capability (tool).
 **Planting:** B1 Ch3 (Haran's casual, invisible micro-channeling), B1 Ch8 (Haran's technique demonstrated explicitly)
-**Key Progressions:** B1 Ch9 (Ash tries and mostly fails), B2 Act 1-2 (Ash improving through Haran's guidance)
+**Key Progressions:** B1 Ch9 (Ash tries and mostly fails), B1 Ch13 (tries again at workshop — better control but deployment work has trained him for force; strips a fitting), B2 Act 1-2 (Ash improving through Haran's guidance)
 **Convergence Points:** B2 Act 3 (temptation — use for preservation? Rejected, reframed as capability), B3 Act 2 (Haran's full-power reveal recontextualizes the technique)
 **Cross-Thread Links:** Retroactively enriches Thread 7 (Haran's Hidden Mastery). Interacts with Thread 1 (Reservoir Countdown) — the technique changes the math.
 
@@ -64,7 +64,7 @@ This document tracks 14 narrative threads across all three books. It is the sour
 #### Thread 8: Maren's Parallel Decline
 **Description:** The competent sibling whose trickle is weakening. Her arc is the intimate, personal version of the world's arc — identity built on ability, crumbling as ability fades.
 **Planting:** B1 Ch1 (Maren lets her own news go unheard, channels casually but disciplined)
-**Key Progressions:** B1 Ch4 (channels everything she has to save their mother — it's not enough), B1 Ch7 (quietly repairs what Ash breaks), B1 Ch11 (trickle feels thinner against backdrop of his ocean), B2 Act 1 (visibly more tired), B2 Act 2 (crisis deepens, snaps at Ash)
+**Key Progressions:** B1 Ch4 (channels everything she has to save their mother — it's not enough), B1 Ch7 (quietly repairs what Ash breaks), B1 Ch11 (trickle feels thinner against backdrop of his ocean), B1 Ch14 (asks about technique, connection flickers then dies), B1 Ch18 (picking up maintenance shifts — her trickle stretching), B1 Ch19 (Ash's math illuminates her trajectory — she's been living with finitude always), B1 Ch22 (Ash sees her sealing a water main at night — the math made flesh), B2 Act 1 (visibly more tired), B2 Act 2 (crisis deepens, snaps at Ash)
 **Convergence Points:** B2 Act 3 (the unspoken conversation — guilt and grief laid bare), B3 Act 2 (completes arc — Ash teaches her how to live without power)
 **Cross-Thread Links:** Mirrors Thread 1 (Reservoir Countdown) — she's the world's decline at intimate scale. Intersects Thread 12 (Ash's Identity Fusion) — she defined herself by competence the way he defines himself by power.
 
@@ -72,7 +72,7 @@ This document tracks 14 narrative threads across all three books. It is the sour
 **Description:** A fierce protector whose entire identity was built around shielding her disabled son. When the disability vanishes, her purpose doesn't relocate — it collapses.
 **Planting:** B1 Ch1 (fierce, proud, relieved tears — the protector's celebration)
 **Key Progressions:** B1 Ch7 (packs broken things, keeps the old kettle), B1 Ch11 (picks fights about small things because the big thing is no longer hers), B1 Ch14 (prepares Ash's favorite meal, conversation doesn't land)
-**Convergence Points:** B1 Ch11 (Dorenne politely makes clear Ash is no longer a child to protect — the mother's face)
+**Convergence Points:** B1 Ch11 (Dorenne politely makes clear Ash is no longer a child to protect — the mother's face), B1 Ch18 (the old kettle reappears — she's using it, not the copper one he bought; the distance he created visible in how she holds herself back)
 **Cross-Thread Links:** Mirrors Thread 12 (Ash's Identity Fusion) — she defined herself by his need the way he defines himself by power. The old kettle in the cabinet is a motif for Thread 14 (what endures vs. what replaces).
 
 #### Thread 10: The Father's Quiet Fear
@@ -85,7 +85,7 @@ This document tracks 14 narrative threads across all three books. It is the sour
 #### Thread 11: Ryn as Anchor
 **Description:** The one person who sees Ash clearly. She treats the Wellspring as something that happened to him, not as who he is. Her distance and return track Ash's relationship with his own identity.
 **Planting:** B1 Ch2 (he pays for drinks, the unexamined romantic dimension, she sees through the act)
-**Key Progressions:** B1 Ch9 (grief for something not yet lost, "watch this" as farewell), B1 Ch12 (he cancels, she stops asking), B2 Act 2 (reconnection — "you became someone else")
+**Key Progressions:** B1 Ch9 (grief for something not yet lost, "watch this" as farewell), B1 Ch12 (he cancels, she stops asking), B1 Ch21 (wordless presence in the corridor — she sees him at his lowest, squeezes his arm, peels away), B2 Act 2 (reconnection — "you became someone else")
 **Convergence Points:** B1 Ch14 (the honest statement — "you talk about yourself differently"), B3 epilogue (the romance surfaces — he finally believes he's worthy)
 **Cross-Thread Links:** Truth-teller for Thread 12 (Ash's Identity Fusion) — she's the mirror he can't bear to look into. Represents the destination of Thread 14 (Stewardship vs. Heroism) — ordinary connection matters more than extraordinary ability.
 
@@ -123,36 +123,36 @@ Legend: `—` dormant | `🌱` planted | `📈` progressing | `⚡` converging |
 | Thread | Ch1 | Ch2 | Ch3 | Ch4 | Ch5 | Ch6 | Ch7 | Ch8 | Ch9 | Ch10 | Ch11 | Ch12 | Ch13 | Ch14 | Ch15 | Ch16 | Ch17 | Ch18 | Ch19 | Ch20 | Ch21 | Ch22 |
 |--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|
 | 1. Reservoir | — | — | — | — | 🌱 | — | — | 🌱 | — | — | — | — | — | — | 📈 | 📈 | 📈 | ⚡ | ⚡ | ⚡ | ⚡ | ✅ |
-| 2. Infrastructure | 🌱 | 🌱 | — | 🌱 | — | — | — | — | — | 📈 | — | 📈 | 📈 | — | ⚡ | ⚡ | ⚡ | 📈 | — | — | — | 📈 |
-| 3. Levelers | — | — | — | — | — | — | — | — | — | — | — | 🌱 | — | — | — | — | — | — | — | — | — | 🌱 |
-| 4. District | — | — | — | — | — | — | — | 🌱 | — | — | — | 🌱 | 🌱 | — | — | — | — | — | — | ⚡ | — | ⚡ |
-| 5. Efficiency | — | — | 🌱 | — | — | — | — | 🌱 | 📈 | — | — | — | — | — | — | — | — | — | — | 📈 | — | — |
-| 6. Dorenne | 🌱 | — | — | 📈 | — | 📈 | — | — | — | 📈 | 📈 | 📈 | 📈 | — | 📈 | 📈 | 📈 | 📈 | — | — | ⚡ | 📈 |
+| 2. Infrastructure | 🌱 | 🌱 | — | 📈 | — | 📈 | — | — | — | 📈 | — | 📈 | 📈 | — | ⚡ | ⚡ | ⚡ | 📈 | 📈 | — | — | 📈 |
+| 3. Levelers | — | — | — | — | — | — | — | — | — | — | — | 🌱 | — | — | 🌱 | — | — | — | — | — | — | 📈 |
+| 4. District | — | — | — | — | — | — | — | 🌱 | — | — | — | 📈 | 📈 | — | — | — | — | — | — | ⚡ | — | ⚡ |
+| 5. Efficiency | — | — | 🌱 | — | — | — | — | 🌱 | 📈 | — | — | — | 📈 | — | — | — | — | — | — | 📈 | — | — |
+| 6. Dorenne | 🌱 | — | — | 📈 | 📈 | 📈 | — | — | — | 📈 | 📈 | 📈 | 📈 | — | 📈 | 📈 | 📈 | 📈 | — | — | ⚡ | 📈 |
 | 7. Haran | — | — | 🌱 | — | — | — | — | ⚡ | — | — | — | — | 📈 | — | — | — | — | — | — | ⚡ | — | ⚡ |
-| 8. Maren | 🌱 | — | — | 📈 | — | — | 📈 | — | — | — | 📈 | — | — | — | — | — | — | — | — | — | — | — |
-| 9. Mother | 🌱 | — | — | 📈 | — | 📈 | 📈 | — | — | — | ⚡ | — | — | 📈 | — | — | — | — | — | — | — | — |
-| 10. Father | 🌱 | — | — | 📈 | — | — | 📈 | — | — | — | 📈 | — | — | ⚡ | — | — | — | — | — | — | — | — |
-| 11. Ryn | — | 🌱 | — | — | — | 📈 | — | — | 📈 | — | — | 📈 | — | ⚡ | — | — | — | — | — | — | — | — |
+| 8. Maren | 🌱 | — | — | 📈 | — | 🌱 | 📈 | — | — | — | 📈 | — | — | 📈 | — | — | — | 📈 | ⚡ | — | — | 📈 |
+| 9. Mother | 🌱 | — | — | 📈 | — | 📈 | 📈 | — | — | — | ⚡ | — | — | 📈 | — | — | — | 📈 | — | — | — | — |
+| 10. Father | 🌱 | — | — | 📈 | — | 📈 | 📈 | — | — | — | 📈 | — | — | ⚡ | — | — | — | 📈 | — | — | — | — |
+| 11. Ryn | — | 🌱 | — | — | — | 📈 | — | — | 📈 | — | — | 📈 | — | ⚡ | — | — | — | — | — | — | 📈 | — |
 | 12. Identity | 🌱 | 📈 | — | ⚡ | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | — | 📈 | 📈 | 📈 | 📈 | 📈 | ⚡ | ⚡ | ⚡ | ⚡ | ⚡ | ⚡ |
 | 13. Davan | — | — | — | — | — | — | — | — | — | — | — | 🌱 | — | — | — | — | — | — | — | — | — | — |
 | 14. Stewardship | — | — | 🌱 | — | — | — | — | 🌱 | — | — | — | — | 📈 | — | — | — | — | — | — | ⚡ | — | ⚡ |
-| **Active count** | **5** | **3** | **3** | **5** | **2** | **4** | **4** | **5** | **3** | **3** | **4** | **5** | **5** | **4** | **3** | **3** | **4** | **4** | **3** | **5** | **3** | **7** |
+| **Active count** | **5** | **3** | **3** | **6** | **3** | **7** | **4** | **6** | **3** | **3** | **4** | **5** | **6** | **5** | **4** | **3** | **4** | **6** | **4** | **5** | **4** | **8** |
 
 ### Book One Convergence Zone: Chapters 18–22
 
 **Avalanche pattern:** Threads collide in this sequence:
 
-1. **Ch18 (Edges):** Thread 1 (Reservoir) shifts from background to foreground. Thread 6 (Dorenne) tightens — her deployment schedule is the mechanism of depletion. Thread 12 (Identity) wavers as the ocean gets walls.
+1. **Ch18 (Edges):** Thread 1 (Reservoir) shifts from background to foreground. Thread 6 (Dorenne) tightens — her deployment schedule is the mechanism of depletion. Thread 12 (Identity) wavers as the ocean gets walls. *New:* Thread 8 (Maren) returns in background — she's picking up maintenance shifts, her trickle stretching thinner. Threads 9/10 (Mother, Father) — a family visit grounds the abstract fear; the old kettle, the father's memory of pre-Wellspring Ash.
 
-2. **Ch19 (The Math):** The emotional climax. Thread 1 (Reservoir) detonates. Thread 12 (Identity) cracks. *Cross-thread amplification:* The math should illuminate Thread 8 (Maren) — his trajectory mirrors hers. His waste mirrors the world's (Thread 2).
+2. **Ch19 (The Math):** The emotional climax. Thread 1 (Reservoir) detonates. Thread 12 (Identity) cracks. *Cross-thread amplification:* Thread 8 (Maren) — the math illuminates her trajectory; she's been living with finitude her whole life. Thread 2 (Infrastructure) — his waste mirrors the world's decline.
 
 3. **Ch20 (The Workbench):** Thread 7 (Haran) pays off — the question reframes everything. Thread 4 (District) pays off — the pump works without him. Thread 14 (Stewardship) crystallizes. Thread 5 (Efficiency) gains new meaning.
 
-4. **Ch21 (The Break):** Thread 6 (Dorenne) detonates — both people right, both irreconcilable. Thread 12 (Identity) deepens — he's a budget line, not a person.
+4. **Ch21 (The Break):** Thread 6 (Dorenne) detonates — both people right, both irreconcilable. Thread 12 (Identity) deepens — he's a budget line, not a person. *New:* Thread 11 (Ryn) — a brief, wordless moment of presence in the corridor. She sees him at his lowest.
 
-5. **Ch22 (The Walk Home):** Resolution wave. Thread 12 (Identity) shifts from power to craft. Thread 14 (Stewardship) becomes the new frame. Thread 3 (Levelers) is noticed for the first time. Thread 4 (District) — the workshop and its projects await. Thread 2 (Infrastructure) — the city's decline is now personal.
+5. **Ch22 (The Walk Home):** Resolution wave. Thread 12 (Identity) shifts from power to craft. Thread 14 (Stewardship) becomes the new frame. Thread 3 (Levelers) is noticed for the first time — the broadsheet echoes the young woman in the earthquake rubble. Thread 4 (District) — the workshop and its projects await. Thread 2 (Infrastructure) — the city's decline is now personal. *New:* Thread 8 (Maren) — Ash sees her working a cracked water main at night, channeling with discipline and finitude. The math made flesh.
 
-**Compression targets:** Chapters 18–22 should be shorter than the average chapter. Scene breaks should come faster. POV cuts (if used) should create cliffhanger momentum. The reader should not have a comfortable place to stop.
+**Compression targets:** Chapters 18–22 should be shorter than the average chapter. Scene breaks should come faster. POV cuts (if used) should create cliffhanger momentum. The reader should not have a comfortable place to stop. Thread density now averages 5–8 per chapter across the zone, with Ch22 peaking at 8 active threads.
 
 ---
 
@@ -233,7 +233,8 @@ These are moments where one thread's payoff should **actively make another threa
 
 | Moment | Primary Thread | Amplified By | How |
 |--------|---------------|-------------|-----|
-| The math scene (B1 Ch19) | 1. Reservoir | 8. Maren + 2. Infrastructure | His calculation should echo Maren's quieter decline and the world's macro trajectory — he's doing in weeks what they're doing in generations |
+| The math scene (B1 Ch19) | 1. Reservoir | 8. Maren + 2. Infrastructure | His calculation *does* echo Maren's trajectory — he thinks of her unbidden, realizes she's been living with finitude always. He's doing in weeks what they're doing in generations |
+| Maren at the water main (B1 Ch22) | 8. Maren | 1. Reservoir + 12. Identity | The math made flesh — Ash sees his sister channeling with discipline and finitude, and understands what his own future looks like |
 | The break with Dorenne (B1 Ch21) | 6. Dorenne | 12. Identity + 1. Reservoir | She recalculates him as a budget line THE MOMENT he's confronting his finitude — she proves his worst fear about what he is to others |
 | Haran's question (B1 Ch20) | 7. Haran | 14. Stewardship + 4. District | The pump is finished. It works. Without him. The question "what do you want to build?" gains physical proof standing right behind it |
 | The earthquake (B1 Ch15-16) | 2. Infrastructure | 12. Identity + 1. Reservoir | His finest hour IS his greatest expenditure. The heroism and the cost are the same act. |

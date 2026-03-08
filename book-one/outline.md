@@ -105,17 +105,17 @@ The day arrives. Ash walks his parents through what's going to happen — a team
 
 Ash is proud. Genuinely, deeply proud. For the first time in his life, his job — his position, his relationship with Dorenne, his usefulness — is translating into something real for the people he loves. He stands beside Dorenne as the channelers begin work, and he feels like he's finally giving back what his family gave him for twenty-three years.
 
-**The work begins.** The channelers — a team of four or five, all middle-generation — start with the foundations. They channel reinforcing force into the base stone, stabilizing, restructuring. It's skilled work. The building is older and more compromised than the initial assessment showed — the original construction used techniques from a higher-magic era, and the load-bearing structure has been quietly degrading in ways that the surface-level inspections didn't catch.
+**The work begins.** The channelers — a team of four, all middle-generation, led by Sorren — start with the foundations. They channel reinforcing force into the base stone, stabilizing, restructuring. It's skilled work. The building is older and more compromised than the initial assessment showed — the original construction used techniques from a higher-magic era, and the load-bearing structure has been quietly degrading in ways that the surface-level inspections didn't catch. Ash contributes by carrying water to the channelers — the thing he can do. Dorenne watches, reading the team's efficiency, and leaves at midmorning. The assessment also flagged proximity to the Kharren Fault line — low probability, but the building has no seismic tolerance left.
 
-**The failure.** As the channelers restructure a critical load-bearing wall, they destabilize something they didn't know was failing. The building's internal stresses — held in a fragile equilibrium for decades — shift. A deep groan runs through the stone. The channelers feel it before anyone else does: the load paths are rerouting through walls that can't handle them. They shift from construction to emergency stabilization, pouring their trickles into holding the structure. It's not enough. Their trickles dip — the work has already drained them, and the emergency demands more than they have left. The building shudders. Dust falls from the ceiling. Cracks race up the walls.
+**The failure.** As the channelers restructure a critical load-bearing wall, they destabilize something they didn't know was failing. The building's internal stresses — held in a fragile equilibrium for decades — shift. A deep groan runs through the stone. The channelers feel it before anyone else does: the load paths are rerouting through walls that can't handle them. They shift from construction to emergency stabilization, pouring their trickles into holding the structure. It's not enough. The building shudders. Dust falls from the ceiling. Cracks race up the walls.
 
-Dorenne orders evacuation. People scramble for the exits. Most of the residents are already outside watching the work. But Ash's family — his parents, his sister — are still inside. They were in the apartment, staying out of the way of the channelers, waiting for the work to be finished.
+Sorren orders evacuation. Most of the residents are already outside watching. But Ash's family — his parents, his sister — are still inside. Dorenne has already left.
 
-**Ash runs in.** Against Dorenne shouting for him to stop. Against the channelers warning that the structure is shifting. He knows this building. He knows every stairwell — he's climbed them his entire life, every day, because the transit lift in this building stopped working years ago. He is fast — a lifetime of stairs, of manual labor, of being strong because strength was the only thing his body could offer.
+**Ash runs up.** Not out — up. Against the channelers' warnings. He knows this building. He knows every stairwell — he's climbed them his entire life, every day, because the transit lift stopped working years ago. He is fast — a lifetime of stairs, of manual labor, of being strong because strength was the only thing his body could offer.
 
 He takes the stairs three at a time. He reaches the apartment. The ceiling has partially collapsed — a section of the floor above has come down. His father is pulling his sister toward the door. She's resisting — she's turned back toward the bedroom. The mother. A beam and a section of stone ceiling have come down on her. She's pinned — conscious, scared, in pain. Not crushed, but trapped. The rubble on top of her is heavy and the structure above is still shifting.
 
-**Maren.** She's channeling. Everything she has — focused, disciplined, precise. She's trying to lift the beam, or stabilize the rubble, or shift the weight enough to pull their mother free. Her hands are shaking. Her trickle is draining — she's already at the weak end of her generation, and the effort is enormous. She's the most skilled channeler her age and it's not enough. The beam barely moves. The rubble shifts and resettles. More dust falls from above.
+**Maren.** She's channeling. Everything she has — focused, disciplined, precise. She's trying to lift the beam, or stabilize the rubble, or shift the weight enough to pull their mother free. Her hands are shaking. She's exceptionally skilled for her generation — but the beam is high-era stone reinforced by channelers whose trickles dwarfed anything alive today. Everything she has, and the beam barely trembles.
 
 Ash gets his hands under the rubble. He lifts. Physically. With his body. The way he has solved every problem his entire life. His muscles strain. The stone is too heavy. He repositions, finds a better angle, braces his legs and pulls. It moves — barely. Not enough.
 
@@ -139,13 +139,15 @@ The building is done. Not collapsed — the channelers outside, feeling the shoc
 
 **The aftermath.** His mother is carried out. She's conscious, in pain, headed to the healers. She'll be okay — he knows this, the injuries are real but not mortal. His father is holding her hand, white-faced. His sister is staring at him. She felt the Wellspring activate — as a channeler, she felt it. The expression on her face is something he will never forget: shock, relief, confusion, and underneath all of it, something she'll never say aloud — the ground of her identity shifting in real time.
 
-Dorenne arrives at his side. Genuine fear in her face — she cares about him, cares about the family, this is real. But her eyes change as she processes what just happened. The scale of power she just felt. She gives orders — healers for the mother, temporary housing for the family, no reports filed yet, privacy, containment. She is protecting him. She is also, in this same breath, beginning to calculate.
+Sorren looks at Ash as he comes out — gaze moving from his hands to the hole in the fifth floor and back. She opens her mouth, closes it, looks away. A professional encountering something outside her categories.
 
-The family will be taken care of. Dorenne will make sure of that — she can't have this be a negative story. New housing, compensation, public assurances. But the home is gone. The building where his parents lived for decades, where he grew up, where his mother cooked breakfast with channeled heat and his father fixed things on the weekends — it's gone. And it's gone because he suggested this project. Because he was proud. Because he wanted to give back.
+Dorenne arrives — summoned, fast transit from the upper districts. Her composure cracks visibly for the first time. But her eyes change as she processes what happened. She gives orders — healers for the mother, temporary housing for the family, no reports filed yet, privacy, containment. She is protecting him. She is also, in this same breath, beginning to calculate. "We'll figure it out," she says — and the way she says *we* carries a warmth that is genuine and a weight that is strategic.
+
+Ash notices he hasn't thought of Ryn once since the beam fell. The absence registers but doesn't resolve. In the rubble near the entrance, his father's wooden door wedge sits undamaged among the shattered stone — the one thing that didn't need channeling to hold.
 
 His first act of power: saving his mother's life and destroying his family's home. The guilt and the gratitude, inseparable.
 
-**Establish:** The Wellspring as unprecedented — nobody has a framework, no mythology, no playbook. The activation triggered by the most personal possible stakes. The chaotic first burst as both salvation and destruction — the cost-of-power theme planted in the very first moment. Dorenne's dual response: genuine care and immediate institutional calculation. Ash's guilt: he brought the danger to his family's door.
+**Establish:** The Wellspring as unprecedented — nobody has a framework, no mythology, no playbook. The activation triggered by the most personal possible stakes. The chaotic first burst as both salvation and destruction — the cost-of-power theme planted in the very first moment. Dorenne's dual response: genuine care and immediate institutional calculation. Ash's guilt: he brought the danger to his family's door. Sorren's incomprehension seeds the "unprecedented" reaction for Ch5. Ryn's absence from Ash's crisis-thoughts seeds the later drift. The Kharren Fault is seeded in the assessment report. The surviving door wedge seeds the tinkerer philosophy.
 
 **Emotional beat:** Not triumph. Relief — enormous, shaking, tearful relief that his mother is alive. And underneath it, the double wound: the guilt of having caused this, and the overwhelming strangeness of power flooding a body that has never channeled. Something broke inside him, and what came through the crack is enormous and unknown and already cost him something he can never get back.
 
@@ -167,7 +169,7 @@ The second test: hold a channeled field stable for thirty seconds. The instrumen
 
 More tests. Each one designed for a range Ash exceeds before he understands what he's being asked to do. He's apologetic — he keeps breaking things, overloading instruments, sending readings off their scales. His inefficiency is staggering; he pushes ten or twenty times the force needed for any given task. But the force is there to push. The reservoir feels bottomless, oceanic, a pressure against the inside of his skin that he barely knows how to release, let alone control.
 
-The senior scholar — an older woman who studies channeling theory — runs her own measurements. She's quiet for a long time. Then she coins the term: his reservoir is "not a trickle but a wellspring — a deep source that feeds from below." The word sticks. Within a day, everyone in the building uses it. Within a week, the city will.
+The senior scholar — Vasra, an older woman who studies channeling theory — runs her own measurements. She's quiet for a long time. Then she coins the term: his reservoir is "not a trickle but a wellspring — a deep source that feeds from below." The word sticks. Within a day, everyone in the building uses it. Within a week, the city will.
 
 The examiners tell him what they can and what they can't. They can confirm his reservoir is orders of magnitude beyond any trickle on record. They cannot explain where it came from. They cannot tell him if it will last. He asks this — "Is it... does it refill?" — and the honest answer is: we don't know. Nobody has ever seen this before. The working assumption, based on how trickles function, is that it's a fixed reservoir, like everyone else's, just vastly larger. But nobody is certain.
 
@@ -179,25 +181,23 @@ He hears "vastly larger" and stops hearing "fixed." The ocean doesn't need a bot
 
 ---
 
-### Chapter 6 — The Stage
+### Chapter 6 — The Stage ✅
 
 **POV:** Dorenne introduces the Wellspring to the city. Ash becomes public.
 
-Dorenne can't contain the information — and strategically, she doesn't want to. Word is already spreading through the scholars who tested him, the workers who witnessed the activation, the political networks that feed on novelty. She decides to control the narrative rather than chase it.
+Dorenne coaches Ash at the temporary housing — what to say, what not to say, how to stand. The coaching reveals her dual nature: genuine protection layered with strategic positioning. "They will want to see a weapon. You are not those things. You're a young man who works for my office and who happens to carry something unprecedented. That's the frame. Stay inside it." She's brilliant at this. She also arranges the family in the third row and distributes a sealed three-page brief to departing correspondents — the approved narrative, printed while the experience is still fresh enough to shape.
 
-A press event at the Hall of Infrastructure. Dorenne speaks first — framing the Wellspring as a resource for the city, a gift of timing, a validation of her office's investment in infrastructure and personnel. She is brilliant at this. She positions herself as the guardian and manager of something extraordinary, which is accurate, and as the person who discovered and developed it, which is less accurate but politically essential.
+A press event at the Hall of Infrastructure's main gallery. Dorenne speaks first — framing the Wellspring as a resource for the city, naming Vasra's assessment, positioning herself at the center of every sentence without ever claiming credit directly. The demonstration: Ash activates the gallery's heating lattice — a system designed for a six-person elder team working in rotation, dormant for years because the maintenance budget can't justify it. He lights the entire lattice in one pulse. The room goes from bone-cold to warm in seconds. The channeling strips dim — they're no longer needed. The audience feels it on their skin. "It feels like a lot," Ash says when a journalist asks what it's like. The Councilor with the silver chain looks at Ash's hands, not his face — the expression of a man looking at a tool and estimating its uses.
 
-Ash is displayed. Not cruelly — Dorenne genuinely wants to protect him, and she coaches him carefully on what to say and what not to say. But the dynamic is clear: she speaks, he stands beside her. She contextualizes, he demonstrates. A controlled channeling display — nothing wild, just enough to show the scale. The audience gasps. Dorenne's staff manages the questions.
+The public reaction is layered: wonder, fear, hope, calculation. Political factions begin positioning — shown through behavior (the Councilor's resource questions, the elder-generation woman calculating what a heated chamber means multiplied across a city) rather than named labels. Everyone sees a lever. Nobody sees a person. "It felt the same as being wanted. He couldn't tell the difference."
 
-The public reaction is layered: wonder, fear, hope, suspicion. The Council demands formal briefings. Political factions begin calculating — the Preservationists see validation of cautious resource management, the Accelerationists see proof that the old guard's monopoly on power is cracking, the Authoritarians see a weapon that needs to be controlled. Everyone sees a lever. Nobody sees a person.
+Five family beats after the event, each escalating: (1) The father reaches him first at the Hall — shoulder grip, "Your mother is your mother," the look back at the door: *Did you know I was proud of you before this?* (2) Maren finds him at the table — "I'm used to being the Torren who channels. Now I'm the Torren who's related to the Torren who channels." Then the deeper cut: "Twenty-three years, and there were none." She adjusts his collar — the first of two collar-fixes that parallel each other. (3) Mother in the corridor — broadsheet half-hidden under her blanket, hand covering the headline. "I know what Dorenne thought. She's very good at what she thinks is best." Then: "Everything. They'll want everything." (4) Father at the temporary kitchen — makes tea with his trickle. Ash lets it burn his tongue rather than cool it, because the heat is his father's daily budget. "She's worried they'll use you. I'm worried you'll let them, because it'll feel like being useful." (5) Ryn after dark — "I'm glad it happened to you." She asks if he's sleeping, if he's eaten, if he's talked to Haran. She straightens his collar (echoing Maren). He appreciates her refusal to perform awe, and faintly resents it — the ocean behind his ribs is not separate from the ribs.
 
-Ash's family watches. The mother is terrified — not of the power, but of the world wanting a piece of her son. Her protective instincts, which had a purpose when he was powerless, now look like obstruction. The father handles neighbors and attention, shielding the family, quietly proud and quietly worried. Maren fields questions from colleagues — "Your brother? Really?" — and manages her composure with the discipline she applies to everything.
+Closing: "Nobody had seen his hands." Ash at the window, the city glowing, the ocean pressing. "Outside, the city glowed. Inside, the ocean pressed. He stood there for a long time."
 
-Ryn comes to see him afterward. She's glad. She says so simply: "I'm glad." She doesn't perform awe. She asks if he's sleeping, if he's eaten, if he's talked to Haran. She treats the Wellspring as something that happened to him, not as who he is. He appreciates this and also, faintly, resents it.
+**Establish:** Dorenne's instinct to manage and position, already operating before anyone questions it. The political landscape beginning to orbit the Wellspring. The suit/collar motif — borrowed authority, adjusted by three different women (Dorenne, Maren, Ryn) with three different meanings.
 
-**Establish:** The political landscape of Solathis — factions, council dynamics, Dorenne's institutional power — as it begins to orbit around the Wellspring. Dorenne's instinct to manage and position, already operating before anyone questions it.
-
-**Emotional beat:** The first hint that being extraordinary comes with a gravity that pulls everything toward it. And Ash's first taste of being wanted — not for who he is, but for what he can do. He can't tell the difference yet. It feels the same.
+**Emotional beat:** The first hint that being extraordinary comes with a gravity that pulls everything toward it. Ash's first taste of being wanted — not for who he is, but for what he can do. He can't tell the difference yet. It feels the same.
 
 ---
 
@@ -249,7 +249,9 @@ Ash's face when Haran's technique becomes visible — when he realizes the old m
 
 The chapter ends with Ash having learned almost nothing practically but having glimpsed a different framework for power. The pump is still half-built. It'll take weeks. That's the point.
 
-"You're learning what you can do," Haran says as Ash leaves. "Good. Don't forget what you don't need to do."
+As Ash leaves, Haran glances at the fittings Ash fused with raw power — joints that will need channeling to maintain or replace, where the original design called for mechanical fasteners. "How much did that cost you?" he asks. Not accusatory. Genuinely curious. Ash shrugs — the answer is nothing, essentially nothing, a drop from an ocean. Haran nods, as if the answer confirmed something he already suspected. "Good. Remember what the answer is. You might want to check it later."
+
+"You're learning what you can do," Haran says. "Good. Don't forget what you don't need to do."
 
 **Establish:** Haran's channeling philosophy — not abstinence but radical efficiency. Micro-channeling as the seed of the Book Two technique. The pump project as Haran's worldview made physical: distributed cost, community resilience, systems that don't depend on any one person. The contrast between Ash's brute-force approach and Haran's precision.
 
@@ -347,7 +349,11 @@ He agrees. It makes sense.
 
 A moment of friction: he spends power on something unplanned. Maybe he passes a failing structure on his way home and reinforces it — a small building, a few families. Dorenne's reaction the next morning is subtle: "I heard you reinforced a building on Threadneedle Lane. That was generous. The eastern aqueduct serves forty thousand people." Not angry. Disappointed. The calculus of allocation delivered as gentle correction.
 
-He visits the workshop. The pump system is further along — other tinkerers have advanced the work in his absence. Haran is fitting a valve junction, a whisper of channeling guiding the piece into place so precisely it looks like luck. Ash watches and feels the distance between where he started and where he is now. Everything in this room is small and slow and collaborative. Everything in his life now is enormous and fast and singular. He doesn't stay long. Haran walks him to the door and says: "The bench is here when you want it."
+He visits the workshop. The pump system is further along — other tinkerers have advanced the work in his absence. Haran is fitting a valve junction, a whisper of channeling guiding the piece into place so precisely it looks like luck. Ash watches and feels the distance between where he started and where he is now. Everything in this room is small and slow and collaborative. Everything in his life now is enormous and fast and singular.
+
+He tries Haran's micro-channeling on a stuck fitting — a tiny pulse, precise, the way he practiced at the plateau's edge. His control is better than it was in Chapter 9, but the deployment work has trained him for scale, not subtlety. The pulse comes out too strong and strips the fitting's threads. Haran replaces it without comment. The technique is there — Ash can feel the shape of it — but his muscle memory now defaults to force. He'd have to unlearn weeks of deployment channeling to get it back.
+
+He doesn't stay long. Haran walks him to the door and says: "The bench is here when you want it."
 
 **Establish:** Dorenne's framework becoming Ash's framework. The shift from "she's directing me" to "we're partners" to "I think in her categories now." The ledger underneath the generosity — invisible to both of them.
 
@@ -391,7 +397,9 @@ The young and poor districts collapse. Structures built in the high-magic era, m
 
 Ash sees the stratification of the city laid bare in rubble. The earthquake did not choose — but the decline chose for it. The poorest neighborhoods, the youngest residents, the people with the least power suffered the most. The city's inequality is written in broken stone.
 
-**Establish:** The earthquake as both natural disaster and consequence — the world reminding the city that the magic holding it together was always borrowed.
+In the wreckage of the poor districts, a detail Ash doesn't linger on: young channelers digging through rubble, angry. Not just at the earthquake — at the distribution of damage. The elder districts held. Their districts fell. A young woman pulling bricks from a collapsed building shouts at a passing official: "Where were our maintenance crews? Where were our reinforcements?" The question has no good answer. The earthquake laid the city's inequality in broken stone, and the people standing in the rubble can see the pattern.
+
+**Establish:** The earthquake as both natural disaster and consequence — the world reminding the city that the magic holding it together was always borrowed. The Levelers' anger in the rubble — not yet a movement, but the raw material.
 
 **Emotional beat:** Horror. The scale of it. And then — the moment Ash understands that he can do something about this.
 
@@ -453,9 +461,13 @@ He starts paying attention to the expenditure reports on Dorenne's wall — the 
 
 A nagging feeling. The analytical mind that was always his real weapon begins to engage with a problem he's been avoiding.
 
-**Establish:** The shift from unconscious spending to uneasy awareness. Dorenne's tracking system as a mirror — she's been counting what he hasn't.
+A moment outside the numbers: he visits home, unannounced. His mother is in the kitchen. She's using the old kettle — the dented one from the cabinet, not the copper one he bought. She startles when she sees him, and for a second the old fierceness flashes: she wants to feed him, ask if he's sleeping, touch his face. Then she catches herself. She's learned not to hover. The distance between them — the one he created by being too important to visit — is visible in the way she holds herself back. His father comes in, mentions something Ash built with his hands years ago — a shelf, a repair — and for a moment the room feels like it used to. Then Ash's mind drifts to Dorenne's charts, and the moment passes. He leaves after an hour. His mother watches from the window.
 
-**Emotional beat:** The first cold thread of fear. Not panic — not yet. Just the recognition that the ocean has a floor.
+Maren isn't home. She's working late — picking up maintenance shifts in the middle districts, covering for crews that are short-handed since the earthquake. He doesn't know this. He doesn't ask.
+
+**Establish:** The shift from unconscious spending to uneasy awareness. Dorenne's tracking system as a mirror — she's been counting what he hasn't. The family visit grounds the abstract fear in something personal — what he's spending isn't just power, it's the time he could have with the people he's drifting from.
+
+**Emotional beat:** The first cold thread of fear. Not panic — not yet. Just the recognition that the ocean has a floor. And underneath the math, something quieter: the kettle his mother kept, the shelf his father remembers. The life that existed before the Wellspring, still waiting.
 
 ---
 
@@ -477,7 +489,9 @@ The projection forward is terrifying: at Dorenne's current deployment rate, the 
 
 He sits with the number. His greatest triumph — the earthquake, the heroism, the days of holding up a city — was also his greatest expenditure. The thing that made him a hero burned through power he will never get back. Every building he held, every life he saved, cost him a piece of his finite self. He doesn't regret the spending. He'd do it again. But the reservoir felt bottomless because he never bothered to check. Now he's checked, and he can see the bottom.
 
-And one more calculation, because his mind won't stop: the world's trickles are declining too. Everyone's magic is doing what his reservoir is doing — draining. He's going where everyone is eventually headed. The difference is that he'll get there first.
+And one more calculation, because his mind won't stop: the world's trickles are declining too. Everyone's magic is doing what his reservoir is doing — draining. He's going where everyone is eventually headed. The difference is that he'll get there first. And then — unbidden — Maren. Her trickle was already weakening in Chapter 11. She's doing in years what he's doing in weeks. The same trajectory, the same finitude, just stretched thinner and quieter. She's been living with this math her whole life. She never had the luxury of thinking the well was infinite.
+
+The thought lands harder than the numbers. He's been calculating his own decline as though it were unique. It isn't. It's Maren's life. It's every young channeler's life. It's the world's life.
 
 **Establish:** The math as the mechanism of revelation — not mystical insight, not emotional breakdown, but rigorous analytical thought applied to his own condition. His intelligence was always his real strength. Now it's the thing that breaks the spell.
 
@@ -527,6 +541,8 @@ He doesn't storm out. He doesn't make a speech. The break isn't dramatic — it'
 
 He walks out of the office. Dorenne sits alone with her charts and her diminishing projections, and for a brief moment — before the institutional mind reasserts itself — she looks like a woman who just lost something she didn't know she valued until it was walking away.
 
+On the walk out of the Hall, he passes someone in the corridor. Ryn. She's there on her own business — her work brings her through the building — and she sees his face. She doesn't ask what happened. She falls into step beside him for a block, two blocks, saying nothing. Then she squeezes his arm and peels away. No words. No demands. Just presence. The person who sees him, seeing him at his lowest. He almost calls after her. He doesn't.
+
 **Establish:** Dorenne as tragic figure, not villain. Her framework is her prison — the same institutional logic that made her effective makes her incapable of seeing Ash as anything other than a function. The break is devastating because both people are right and both people are wrong.
 
 **Emotional beat:** Quiet devastation. The loss of the first person outside his family who believed in him — or rather, the realization that what she believed in was his usefulness.
@@ -544,6 +560,8 @@ Past Dorenne's office — lit from within, the Director still at her desk, still
 Through the middle districts where things work but barely — the maintenance crews running on fading trickles, the cracks that get repaired and reappear, the transit shafts that run half as often as they used to. The slow decline that the earthquake made sudden and visible.
 
 He passes a wall where someone has posted a broadsheet — young channelers calling for redistribution, for accountability from the elder generation, for someone to answer for the fact that their trickles buy less than their parents' did. He reads it and sees, for the first time, his own story in theirs. The world's magic is draining. His reservoir is draining. He's living at high speed what the world is going through in slow motion.
+
+He passes through the middle district and sees a maintenance crew working on a cracked water main — late-night emergency, faces drawn with exhaustion. One of them is Maren. She's channeling — carefully, precisely, the way she does everything — sealing a fracture that would take her a fraction of what it would cost him. Her trickle flickers. She steadies it. She doesn't see him. He stands in the shadows and watches his sister do with discipline and sweat what he's been doing with an ocean, and the math from Chapter 19 hits him again: she's been here the whole time. This is what finitude looks like when you don't have the luxury of ignoring it. She finishes, wipes her face, picks up her tools, and moves to the next crack. He doesn't call out. He doesn't know what he'd say.
 
 He arrives at the tinkerer workshop. Late now — past midnight. Haran has gone home. The workshop is dark and quiet. Ash lets himself in with the key Haran gave him years ago.
 
