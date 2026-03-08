@@ -40,9 +40,9 @@ It wasn't a question. Not a greeting either — a classification. She was filing
 
 "Fourth?"
 
-"Aide. In four years." She was already moving, pulling a chart from a shelf behind her desk. "The last one cried on day three."
+"Aide. In four years." She was already moving, pulling a chart from a shelf behind her desk. "The last one cried on day three. The one before that stopped showing up. The one before that—" She shrugged, a motion so efficient it barely qualified as a gesture. "Dorenne doesn't hire easy jobs."
 
-She didn't ask if he was ready. She started the orientation.
+She didn't ask if he was ready. She didn't welcome him. She started the orientation.
 
 Tessaly's briefing was thorough and delivered at a pace that suggested she had learned to compress information the way a channeler compressed force — efficiently, without waste, and with the implicit expectation that you would keep up or be left behind. The office managed the systems that kept Solathis functioning: water distribution, structural reinforcement, heating grids, transit networks, and the emergency reserves that were supposed to handle crises but had been quietly drained by the ongoing demands of daily maintenance. Each system had a team. Each team submitted daily assessments. The assessments were consolidated into a brief that Dorenne reviewed every morning before her first meeting, which was always with the Council's resource committee, which was always difficult.
 
@@ -52,11 +52,11 @@ Tessaly's briefing was thorough and delivered at a pace that suggested she had l
 
 Tessaly's finger stopped. He watched her recalculate — a brief, visible adjustment as she accounted for a limitation she wasn't used to working around. Resonance stones were the office's communication backbone: palm-sized stones attuned to each other, activated by channeling, carrying brief messages between paired sets. Every desk had one. Every team lead carried one. The entire logistics of the office flowed through them.
 
-Her brow furrowed — not with irritation, but with the practical expression of someone encountering a constraint she hadn't budgeted for. "That's going to slow us down."
+Her brow furrowed — not with irritation, but with the particular expression of someone encountering a constraint she hadn't budgeted for. "That's going to slow us down."
 
 "I have legs."
 
-"Legs." She said the word as though evaluating it as a technology. "Laris on the third level is always late. Fourth door past the archives."
+"Legs." She said the word as though evaluating it as a technology. "Laris on the third level is always late. Start with him. Fourth door on the left past the archives."
 
 She gave him a list of the team leads, their locations in the building, and the order in which they were most likely to be late. He wrote it down — all of it, in the hurried, cramped handwriting of someone who knew his memory was good but not perfect, who'd learned years ago that the cost of forgetting was always higher than the cost of a few extra seconds with a pen.
 
@@ -64,9 +64,9 @@ She gave him a list of the team leads, their locations in the building, and the 
 
 * * *
 
-The fourth door past the archives had no handle.
+The fourth door on the left past the archives had no handle.
 
-Ash stood in front of it, his hand half-raised in a knock that had nowhere to land. The door was smooth stone — no knocker, no bell pull, no latch. A channeled lock, of course. Everyone in the building announced their arrival via resonance stone, and the person inside opened the door with a pulse of their trickle. The system was elegant, seamless, and assumed that everyone who used it could channel. Because everyone could.
+Ash stood in front of it, his hand half-raised in a knock that had nowhere to land. The door was smooth stone — no knocker, no bell pull, no latch. A channeled lock, of course. Everyone in the building announced their arrival via resonance stone, and the person inside opened the door with a pulse of their trickle. The system was elegant, seamless, and assumed that everyone who used it could channel. Because everyone could. Because why would you build a door for someone who couldn't?
 
 He knocked on the wall beside the door frame. His knuckles made a dull, flat sound against the stone. Nothing happened.
 
@@ -94,7 +94,7 @@ The assistant gave Ash a look that was half apologetic and half *what did you ex
 
 He walked back up the ramp to Tessaly's desk. "Report's not ready."
 
-Tessaly didn't look up from her ledger. "Try Venn. Sixth level. Her door has a handle."
+Tessaly didn't look up from her ledger. "Noted." She turned a page. "Try Venn. Sixth level. Her door has a handle."
 
 * * *
 
@@ -114,43 +114,39 @@ When the brief ended, Dorenne's staff dispersed with the controlled urgency of p
 
 "Your take on the brief."
 
-He'd been hoping for a few more days before she tested him.
+He'd been hoping for a few more days before she tested him. A few more briefings to absorb the vocabulary, understand the systems, build a frame before anyone asked him to say something into it.
 
 "The structural team is more worried than the water team," he said. "Venn's scared. Laris is—" He searched for the right word. "Laris is performing."
 
-Dorenne waited.
+Dorenne waited. The silence was an invitation to continue.
 
 "I think the water problem might be worse than the structural one, because Laris is working harder to look calm. When the problem's manageable, people report it straight. When it's bad, they polish the language."
 
-Dorenne looked at him for a long moment. "Laris has been polishing since last quarter because his wife is on the Council's resource committee and he doesn't want to create a conflict of interest. The water problem is serious, but contained. Venn's scared because she's right to be scared."
+Dorenne looked at him for a long moment. He couldn't read the expression — it was too layered, too controlled. Then she said, "Laris has been polishing since last quarter because his wife is on the Council's resource committee and he doesn't want to create a conflict of interest. The water problem is serious, but contained. Venn's scared because she's right to be scared."
 
-Ash's face warmed. He'd read the room correctly and the situation wrong — seen the emotional dynamics clearly but drawn the wrong conclusion because he didn't know the texture underneath.
+Ash's face warmed. He'd read the room correctly and the situation wrong — seen the emotional dynamics clearly but drawn the wrong conclusion because he didn't know the texture underneath. The embarrassment sat in his hands, in the way he gripped his notebook.
 
 "Keep listening," Dorenne said. And turned back to her desk.
 
-He sat with the notebook and the warmth in his face and thought: *That's what it feels like to be wrong in a room where being wrong matters.* It was clean and quick and didn't come with comfort afterwards. He wasn't sure yet whether that was better or worse.
+He sat with the notebook and the warmth in his face and thought: *That's what it feels like to be wrong in a room where being wrong matters.* It wasn't like being wrong at home, where his mother would smooth it over and his father would change the subject. It was clean and quick and didn't come with comfort afterwards. He wasn't sure yet whether that was better or worse.
 
 * * *
 
 The rest of Day One passed in a blur of corridors and closed doors and the particular exhaustion of navigating a building designed for people who could send a pulse ahead of them to announce their arrival, request a document, or call for a door to open.
 
-He left the Hall of Infrastructure as the last light drained from the sky. His legs ached from the ramp — the deep, cellular ache of muscles used past their capacity. He walked the forty flights down in the growing dark, his hands trailing the wall for balance because his legs had stopped being reliable somewhere around the twentieth flight.
+He left the Hall of Infrastructure as the last of the light was draining from the sky. His legs ached from the ramp — the deep, cellular ache of muscles used past their capacity, different from the familiar tiredness of stairs because the ramp was steeper and longer and he'd climbed it eleven times in a single day. He walked the forty flights down in the growing dark, his hands trailing the wall for balance because his legs had stopped being reliable somewhere around the twentieth flight.
 
-Outside, the city smelled different at this hour. The daytime scent of channeled ozone and hot stone had faded, replaced by something older and simpler — cooling rock, woodsmoke from the lower districts where people still burned kindling because their heating lattices had failed, the faint mineral tang of the gorge carried upward on air that moved without anyone channeling it. The streets were emptying. Lattice lights along the main thoroughfare flickered and dimmed as the channelers who maintained them ended their shifts, the glow retreating up the hill toward the elder districts like a tide going out, leaving the lower streets to settle into the honest dark.
-
-He walked through it and tried to take stock. One day. He had failed to collect three reports. He had stood in front of a locked door like a man who'd never seen one. He had read a room correctly and misread the situation entirely, and the Director of Infrastructure had corrected him with two words and no cushion. He had carried documents up and down a ramp until his legs stopped working, and he had learned the location of exactly one supply closet with a manual latch.
-
-Against this, he had: a desk. A clean table. Tessaly's list in his notebook. The knowledge that Venn's door had a handle and Laris's did not. The memory of Dorenne's voice saying *keep listening* — which wasn't praise, wasn't encouragement, wasn't even particularly kind, but which assumed he would still be here tomorrow, and that assumption was more than he'd expected to earn.
-
-He didn't know if it had been a good day. He didn't have enough context to measure it against. All he knew was that he'd shown up, and he'd stayed, and nobody had told him not to come back.
-
-At the apartment, his mother was asleep. The stove was warm. He ate cold rice standing in the kitchen, sat on the edge of his bed, and studied the list of team leads by candlelight, mouthing the names. Laris — water. Venn — structural. Parren — Thornwall district. Sevin — transit. Osten — archives. He fell asleep with the notebook on his chest.
+At the apartment, his mother was asleep. The stove was warm. He ate cold rice standing in the kitchen, his body too tired to sit down because sitting down meant staying down, and he still needed to unlace his boots and wash his face and study the list of team leads he'd written in his notebook. He sat on the edge of his bed and read the list by candlelight, mouthing the names. Laris — water. Venn — structural. Parren — Thornwall district. Sevin — transit. Osten — archives. He fell asleep with the notebook on his chest.
 
 * * *
 
 Day Two started at the same lightless hour, with the same porridge, the same ramp, the same dark office.
 
-Tessaly sent him to the records room. Osten was the problem.
+Tessaly arrived and handed him a stack of route sheets — the building's maintenance crews and their daily assignments, printed on thin paper in small type, organized by district. "Learn these," she said. "You're going to be carrying them."
+
+He carried them. Between the third level and the sixth level, between Laris's locked door and Venn's open one, between the supply closet on the fourth floor (manual latch, which he now thought of as *his* door) and the records room on the third level, where the archivist held court.
+
+Osten was a problem.
 
 The records room was a vast, dim space lined with shelves that reached the ceiling, every surface covered in folios and bound reports and loose pages weighted with stones. Osten — elderly, white-haired, built like a man who had been sitting in the same chair for thirty years and had become part of the furniture — looked up when Ash entered and began talking.
 
@@ -162,7 +158,7 @@ Ash stood at the counter and nodded. He tried twice to interject — "I'm here f
 
 "Osten."
 
-She turned a page. It might have been the closest thing to sympathy he'd seen from her.
+"Hmm." She turned a page in her ledger. It might have been the closest thing to sympathy he'd seen from her.
 
 At midday, he stood in the corridor where the food vendors set up their carts — three of them, their displays glowing with channeled warming plates that kept the bread hot and the cheese melted. He pulled coins from his pocket and counted them in his palm. Six quarter-marks. Enough for a full meal, but a full meal today meant no meal tomorrow, and he wouldn't be paid until the end of the week. He bought the smallest option — a piece of flatbread with oil and salt, no filling — and ate it on the stairs because the corridor had no seating and the break room required a channeled door he couldn't open.
 
@@ -182,9 +178,11 @@ That afternoon, Tessaly appeared at his desk with a revised errand schedule. She
 
 He looked at the schedule. He looked at Tessaly, who was already walking back to her desk.
 
-"Thank you," he said.
+"This is—" He stopped. *This is kind*, he wanted to say. But that wasn't how she'd hear it, and it wasn't how she'd meant it. She'd looked at a system, seen an inefficiency, and corrected it. That the inefficiency happened to be his body didn't make it personal. That was what made it personal.
 
-"Mm." She sat down. She opened her ledger.
+"Thank you," he said instead.
+
+"Mm." She sat down. She opened her ledger. The conversation was over.
 
 * * *
 
@@ -200,7 +198,9 @@ Ash sat at his desk and felt the error settle into his stomach like a stone. A s
 
 He waited for Dorenne to say something. She'd been in her office during Parren's complaint. She'd heard. She passed his desk twice that afternoon, and both times she handed him a task — a set of folios to reorganize, a draft response to file — without referencing the mistake. Without acknowledging it. Without offering comfort or correction or the kind of carefully modulated feedback that he'd braced for.
 
-The restraint said more than any reprimand would have. It said: *the mistake is not your identity.* It said it by saying nothing.
+The absence of comment was worse than any reprimand would have been, and also better. It left him alone with the shame, which was terrible. It also left him alone with the next task, which meant the mistake hadn't become his identity. Dorenne treated him the same way she'd treated him yesterday: someone to give work to. Not someone to feel sorry for.
+
+That night, he skipped dinner. His mother had left rice and a small bowl of pickled vegetables, and the smell of them was warm and familiar and made him feel, irrationally, like he didn't deserve the food. He went to bed hungry and lay in the dark thinking about mailbox labels and junction numbers and the look on Parren's face when he'd come into the office — that particular combination of annoyance and vindication, the expression of a man who hadn't expected much from the new aide and was satisfied to be proven right.
 
 * * *
 
@@ -210,11 +210,11 @@ Not an official one — not the kind that hung on the briefing room board with i
 
 The map showed every door in the building that had a manual handle. Twelve of them, scattered across seven levels, connected by corridors and ramp sections that he'd walked enough times to know by the texture of the stone under his boots. The map also showed which doors were usually propped open, which ones had staff who arrived early and left them unlocked, and what times of day certain corridors were empty enough that he could knock on the wall without anyone watching.
 
-It was a map of workarounds. A route through the building that avoided the things he couldn't do, connecting the spaces where his limitations were invisible to the spaces where they were merely manageable. He'd been making maps like this his entire life — the streets where the transit stones were spaced wide enough that he could cross without activating them, the market stalls that took coins instead of channeled tokens, the stairwells in his parents' building that didn't require a trickle to light.
+It was, he realized, a map of workarounds. A route through the building that avoided the things he couldn't do, connecting the spaces where his limitations were invisible to the spaces where they were merely manageable. He'd been making maps like this his entire life — the streets where the transit stones were spaced wide enough that he could cross without activating them, the market stalls that took coins instead of channeled tokens, the stairwells in his parents' building that didn't require a trickle to light. The infrastructure of a life lived around the edges of a world built for someone else.
 
-He didn't show it to anyone. He didn't think of it as clever.
+He didn't show it to anyone. He didn't think of it as clever. It was just the thing he did.
 
-On Day Four he also tried Osten again. This time, instead of asking for a specific document, he asked about the records room itself — when had the current shelving been installed? Was it the original configuration or had it been modified?
+On Day Four he also tried Osten again. This time, instead of asking for a specific document, he asked about the records room itself — when had the current shelving been installed? Was it the original configuration or had it been modified? The question was calculated, but not cynically — he was genuinely curious, and curiosity was one of the few currencies that Osten accepted at face value.
 
 Osten's eyes lit up. The shelving, he explained, had been installed during the reorganization of 1847, which he considered the last competent administrative act in the building's history. He talked for twelve minutes about load-bearing shelves and document preservation and the pH of the paper they'd used before the council switched suppliers.
 
@@ -226,11 +226,11 @@ Ash brought the document to Tessaly's desk. She looked at it, looked at the time
 
 "I asked about the shelving."
 
-The corner of her mouth moved — not a smile, something she'd deny if he pointed it out. "Good."
+A pause. Then the faintest shift at the corner of her mouth — not a smile, something smaller, something she'd deny if he pointed it out. "Good." She took the document. The conversation was over.
 
 * * *
 
-By the end of the first week, Ash's understanding of the office had shifted from fog to outline. Not clarity — not yet — but the shapes were emerging. He knew the rhythms: the morning brief at seventh bell, the afternoon lull when half the staff went to field sites, the late-day surge when assessment reports came in and Tessaly's ledger filled with corrections. He knew which team leads submitted on time and which ones needed chasing. He knew how the resonance system sounded when a message arrived — a faint hum that everyone else processed unconsciously and that he'd learned to notice from across the room, because the hum meant information was moving and he needed to be ready to move with it, on foot, the slow way.
+By the end of the first week, Ash's understanding of the office had shifted from fog to outline. Not clarity — not yet — but the shapes were emerging. He knew the rhythms: the morning brief at seventh bell, the afternoon lull when half the staff went to field sites, the late-day surge when assessment reports came in and Tessaly turned into a machine of sorting and prioritization. He knew which team leads submitted on time (Venn, always) and which ones needed chasing (Laris, always; Parren, when he was angry about something, which was often). He knew how the resonance system sounded when a new message arrived — a faint hum that everyone else processed unconsciously and that he'd learned to notice from across the room, because the hum meant information was moving and he needed to be ready to move with it, on foot, the slow way.
 
 He'd been sitting in on the daily briefs for five days. He didn't speak unless asked, and Dorenne hadn't asked since that first morning when he'd read the room right and the situation wrong. He took notes. He studied the technical vocabulary at night, reading his own transcriptions by candlelight and cross-referencing them with the maintenance notices he'd been absorbing from the corridor boards. Slowly — very slowly, the way water wore stone — the language was becoming less opaque.
 
@@ -242,7 +242,7 @@ The Thornwall crew and the Bridgeway crew had been fighting over access to the w
 
 Ash had been carrying documents between these offices all week. He'd been walking the ramp past the maintenance notices about junction statuses. He'd been reading the aqueduct schedules because Dorenne had told him to learn the western district maps and the aqueduct schedules were part of the maps. And he'd been standing on the ramp landing on Day Three, stretching his cramping legs, staring at a notice about junction nine being taken offline for an unrelated repair, and the number had gone into his head along with all the other numbers — junction seven, junction twelve, the gap between them, the pressure tolerances, the depressurized section.
 
-On Friday morning, the conflict resurfaced. Tessaly was in a meeting. A message came in from Parren — another complaint about Bridgeway blocking his crew's access. Another message from the Bridgeway lead about the Council authorization.
+On Friday morning, the conflict resurfaced. Tessaly was in a meeting. A message came in from Parren — another complaint about Bridgeway blocking his crew's access. Another message from the Bridgeway lead about the Council authorization. The usual cycle.
 
 Ash looked at the messages. He pulled the aqueduct schedule from the rack on the wall — the same one he'd been reading all week. He traced the route with his finger: junction seven, eight, nine, ten, eleven, twelve. Junction nine was offline. The aqueduct was already depressurized between eight and ten. The Thornwall crew could work from seven toward nine without affecting the Bridgeway crew's pressure at twelve. The gap between them was already open. Someone just had to say so.
 
@@ -256,9 +256,11 @@ When she came back from her meeting, she read the note. She read it again. Then 
 
 "Natural break in the line. Tolerances are fine." She picked up the note and held it loosely, the way you hold a piece of paper you're going to act on. "Right."
 
-She left. The note went into her active folio instead of the tray. That afternoon, a scheduling query from a district crew arrived at his desk — the kind that would normally go through a senior coordinator. It came with a single word written at the top in Tessaly's hand: *Handle.*
+She left. No speech. No "three senior staff couldn't sort it." The recognition was in the note going into her active folio instead of the tray. The recognition was in the scheduling adjustment that appeared on Parren's desk the next morning with Tessaly's initials, not Ash's name.
 
-He handled it. Nobody praised him for it. The query had simply been routed to his desk, as though that were a normal place for scheduling queries to go.
+That afternoon, something else happened — something quieter. Ash was at his desk when Tessaly routed a query to him. A scheduling question from a district crew about overlapping maintenance windows. It wasn't addressed to him specifically — it was the kind of query that would normally go through Tessaly or one of the senior coordinators. She'd forwarded it to his desk with a single word written at the top: *Handle.*
+
+He handled it. He checked the schedules, confirmed the overlap was resolvable, wrote a brief note to the crew, and walked it down to the dispatch office. It took twenty minutes. Nobody praised him for it. The query had simply been routed to his desk, as though that were a normal place for scheduling queries to go.
 
 A gear finding its housing. Beginning to turn.
 
@@ -266,11 +268,11 @@ A gear finding its housing. Beginning to turn.
 
 On Day Eight, Dorenne said, "Morning meeting. Sit at the table."
 
-She said it in passing, on her way to the records room, without stopping. Just a logistical instruction, delivered with the same economy she applied to everything: *the corner is no longer where you sit.*
+She said it in passing, on her way to the records room, without stopping. No speech about his performance. No assessment of his growth. Just a logistical instruction, delivered with the same economy she applied to everything: *the corner is no longer where you sit.*
 
-He moved his notebook from the corner to the fourth seat from the end of the central table, and the distance between those two points — perhaps twenty feet of stone floor — contained the entire first week of his life in this building. The locked doors and the open ones. The wrong answer and the right instinct. The cramping legs and Tessaly's rerouted schedule. Osten's shelving. Parren's mailbox. The note about junction nine.
+He moved his notebook from the corner desk to the fourth seat from the end of the central table, and the distance between those two points — perhaps twenty feet of stone floor — contained the entire first week of his life in this building. The locked doors and the open ones. The wrong answer and the right instinct. The cramping legs and Tessaly's rerouted schedule. Osten's shelving. Parren's mailbox. The note about junction nine.
 
-He sat at the table and nobody commented.
+He sat at the table and nobody commented, because nobody needed to comment, because the seat was already his in every way that mattered and the formalization was just the building catching up to the fact.
 
 * * *
 
@@ -292,39 +294,37 @@ The argument continued. Nobody was talking about the actual problem, which was t
 
 Ash watched Aldren's frustration building — the set of his shoulders, the way his hands moved when he talked, the flush rising in his neck. In another minute, he was going to say something personal. Dorenne was going to respond with something precise and devastating. And the meeting was going to end with both of them less willing to cooperate than when it started.
 
-He thought of Dorenne's repertoire — the tools she used. Silence, questions, rearrangement. She changed temperatures. He couldn't do what she did — he didn't have her authority, her position, her decades of calibrated presence. But he had hands. He had hospitality. He had the particular advantage of being nobody important, which meant his interruption would carry no political weight and therefore no political threat.
+He thought of Dorenne's repertoire. The tools she used: silence, questions, rearrangement. She changed temperatures. He couldn't do what she did — he didn't have her authority, her position, her decades of calibrated presence. But he had hands. He had hospitality. He had the particular advantage of being nobody important, which meant his interruption would carry no political weight and therefore no political threat.
 
 He stood up. He crossed to the side table where the tea service sat — the kettle on its channeled warming plate — and poured three cups. He brought them to the central table on a tray.
 
 "Councilor Aldren," he said, setting a cup in front of the man. "I'm sorry to interrupt. I was looking at the scheduling rotations earlier, and I noticed something about the southern pool — the channelers assigned to your district's heating grid. They share a rotation with the lower market district, and the lower market's maintenance was completed early this quarter. There might be capacity that hasn't been reassigned."
 
-He didn't know if this was right. He'd seen the close-out report in the records room — he'd been reading everything he could get his hands on for two weeks — and he'd seen the southern pool's rotation schedule, and the gap between them *suggested* available capacity. But he didn't have the technical knowledge to know whether those particular channelers could actually be redirected to heating work. He was guessing. His hands were not entirely steady when he set the teacup down.
+He didn't know if this was right. He'd seen the close-out report in the records room — he'd been reading everything he could get his hands on for two weeks — and he'd seen the southern pool's rotation schedule, and the gap between them *suggested* available capacity. But he didn't have the technical knowledge to know whether those particular channelers could actually be redirected to heating work. He was guessing. The guess was educated, but it was still a guess, and his hands were not entirely steady when he set the teacup down.
 
 Aldren looked at the tea. He looked at Ash. The interruption had broken his rhythm, which was the point — not to solve the problem but to change the temperature.
 
 "The southern pool," Aldren said, his tone recalibrating from combative to merely cautious.
 
-Dorenne's eyes moved to Ash. She didn't shut him down.
+Dorenne's eyes moved to Ash. He couldn't read the expression. She didn't shut him down.
 
 "Tessaly." Dorenne didn't look away from Aldren. "Pull the southern pool rotation and the lower market close-out. I want the numbers before end of day." She turned back to the councilor, and her voice shifted register — more open, the voice she used when she wanted someone to feel dealt with rather than managed. "Councilor. If there's capacity, I will personally ensure it's redirected to your district's grid before the week is out. If there isn't, I'll come to your office and we'll find a path together."
 
 Aldren drank his tea. The flush was receding. "I do know what your word is worth," he said, and the concession came with just enough gravity to let his aides know that the Director owed him something now.
 
-After Aldren left, Dorenne passed Ash's desk.
+After Aldren left, Dorenne passed Ash's desk on her way to the records room.
 
-"Were you sure about the southern pool?"
+"The southern pool." She stopped but didn't sit. "Were you sure?"
 
-"No. The close-out report was real. The gap was real. Whether the capacity was actually available — I was guessing."
+"No. The close-out report was real. The gap in the schedule was real. Whether the capacity was actually available — I was guessing."
 
 "Half a squad, freed up last week. So you were right." A pause. "Did you know that?"
 
-"No."
+"No." The relief came through before he could modulate it — a visible exhale, a loosening in his shoulders that he felt and knew she could see. He'd guessed correctly. He hadn't known. The difference between being right and knowing you're right was the distance across which luck became competence, and he was standing on the luck side of the line.
 
-The relief came through him visibly — the exhale, the shoulders dropping. He'd gambled. It had worked. The distance between luck and competence was the distance between what he'd known and what he'd guessed.
+"Well handled," she said. And left.
 
-"Well handled," she said. She left.
-
-His hands shook. He pressed them flat against the desk until they stopped.
+He sat at his desk and looked at his hands. They were shaking — not from fear, not from the confrontation, but from the particular cocktail of adrenaline and relief that came with having bet something he couldn't afford to lose and not losing it. He pressed his palms flat against the desk and held them there until the shaking stopped.
 
 * * *
 
@@ -348,15 +348,15 @@ He'd been sent to retrieve a folio from the small conference room down the corri
 
 "It's a long time if the curve stays where it is." She straightened up and rubbed her eyes — a slow, deliberate gesture, as if pressing the numbers out of her vision. "It won't. Everything else is accelerating. Could be twenty. Could be fifteen." She rolled the chart and held it loosely, like something she was tired of carrying. "Six generations of channelers held the Kharren Fault in place. Each one was stronger than the next. The anchors were set by people we can't equal anymore, doing work we can't replicate. When those anchors go, there's nothing underneath them but geology." She tucked the chart under her arm. "And geology does not care what we think the timeline is."
 
-Ash stood in the corridor with the folio in his hands and the conversation settling into his body — not into the filing system in his mind where technical information went to be organized, but into the lower, older part of him that recognized the shape of what he'd just heard because he'd been living inside it his whole life. A declining resource. An accelerating demand. A gap that widened with each generation.
+Ash stood in the corridor with the folio in his hands and the conversation settling into his body — not into the filing system in his mind where technical information went to be organized, but into the lower, older part of him that recognized the shape of what he'd just heard because he'd been living inside it his whole life. A declining resource. An accelerating demand. A gap that widened with each generation. Numbers that moved in only one direction.
 
-He knew what that felt like. He'd been the gap.
+He knew what that felt like. He'd been the declining resource. He'd been the gap.
 
-He brought the folio back to Dorenne's desk and said nothing about what he'd overheard. But the something that had settled into him didn't leave. It stayed — the way things stayed when they were too heavy to carry consciously and too important to put down.
+He brought the folio back to Dorenne's desk and said nothing about what he'd overheard. But the something that had been settling into his body didn't leave. It stayed — the way things stayed when they were too heavy to be carried consciously and too important to be put down.
 
 * * *
 
-He left the building in the last of the light. Two weeks of climbing had changed his legs — they still ached on the ramp, but it was an ache his body had accepted, the way his hands had accepted calluses from carrying tools. He took the forty flights down in the growing dark, his mind running through the day's residue: the Aldren meeting, the guess that turned out right, the engineers' numbers, Tessaly forwarding the scheduling query to his desk as though it belonged there.
+He left the building in the last of the light. Two weeks of climbing had changed his legs — they still ached on the ramp, but it was an ache his body had accepted, the way his hands had accepted calluses from carrying tools. He took the forty flights down in the growing dark, his mind running through the day's residue: the Aldren meeting, the guess that turned out right, the engineers' numbers, Tessaly's "well handled" that was Dorenne's, passed down through channels.
 
 He was so deep in his own head that he almost missed her.
 
@@ -388,11 +388,11 @@ He told her. Not the way he'd told his mother — not the raw, cracking-open ver
 
 The desk in the corner. The cleared table. Tessaly classifying him before she'd finished walking through the door — *you're the fourth.* The channeled lock on Laris's door and the minutes he'd stood in the corridor like a man who'd forgotten what doors were for. The wrong answer in the first brief, where he'd read Laris's performance correctly and the situation completely wrong, and Dorenne's face — that layered, unreadable expression — and the two words that followed: *Keep listening.*
 
-The misfiled document. Parren's complaint carrying across the office. The shame of it, the way his stomach had turned to stone. Dorenne passing his desk twice without mentioning it.
+The misfiled document. Parren's complaint carrying across the office. The shame of it, the way his stomach had turned to stone. Dorenne passing his desk twice without mentioning it, the kindness of that omission.
 
 His legs on the ramp, seizing on Day Three. Tessaly's rerouted schedule appearing on his desk without explanation. The map of manual handles in his notebook — he showed her this, turning to the page, and she looked at it for a long time without saying anything.
 
-Osten and the shelving. The scheduling conflict and junction nine — how it hadn't been a flash of brilliance but just the slow accumulation of walking past the same maintenance notices for a week until the numbers connected themselves.
+Osten and the shelving. The second visit, the question about the 1847 reorganization, the document produced in under a minute. The scheduling conflict and junction nine — how it hadn't been a flash of brilliance but just the slow accumulation of walking past the same maintenance notices for a week until the numbers connected themselves.
 
 And then Aldren. The tea. The guess about the southern pool that turned out to be right but that he hadn't known was right, and the relief afterward, the shaking in his hands that he'd hidden under the desk.
 
@@ -424,7 +424,7 @@ He looked out at the gorge. Below them, the river was a sound more than a sight 
 
 "I don't know," he said. "There are a hundred things I can't do. I can't use the resonance stones. I can't activate the locks. I can't read half the instruments. Every system in that office runs through interfaces I can't touch, and every time I need something done that requires even the most basic channeling, I have to ask someone. And asking costs something. Every time I ask, I remind someone that I'm the person who can't. I stood in front of Laris's door for five minutes on my first day, Ryn. Five minutes. Just standing there because I couldn't knock."
 
-He stopped. He'd gone further than he meant to. Two weeks' exhaustion had thinned the filter between thinking and saying, and things were coming through that he usually caught before they reached his mouth.
+He stopped. He'd gone further than he meant to. Two weeks' exhaustion had thinned the filter between thinking and saying.
 
 "But you figured it out," she said. Not comforting — observing.
 
@@ -444,7 +444,7 @@ He laughed. It came out surprised, which was the only way real laughter came fro
 
 They sat. The city dimmed around them, district by district, the heating in the stones fading as the channelers who maintained it went home and slept and let their trickles recover for tomorrow's effort. The sky above the gorge was enormous and unmanaged — no channeled lights, no lattice warmth, just stars appearing in the gaps between clouds with the patient indifference of things that predated magic and would outlast it.
 
-"I should go," he said, eventually. "I need to be there before dawn again."
+"I should go," he said eventually. "I need to be there before dawn again."
 
 "Before dawn." She pulled a face. "You're going to be one of those people. The kind the rest of us resent."
 
