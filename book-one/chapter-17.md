@@ -2,19 +2,19 @@
 
 The street sweepers were out at dawn.
 
-Ash noticed them from the window of the quarters Dorenne had given him—a room on the upper floor of the command post, small, functional, a cot and a basin and a view of the middle terraces. Below, three women with brooms were clearing rubble dust from the cobblestones on the main terrace road. Not the heavy debris—that was gone, cleared by crews and channelers and, in the worst sections, by him. This was the fine stuff. The grit that settled into everything, that turned the air amber for days after the quake and left a film on every surface. The women swept it into neat piles at the curb. One of them was humming.
+Ash noticed them from the window of the quarters Dorenne had given him, a room on the upper floor of the command post, small, functional, a cot and a basin and a view of the middle terraces. Below, three women with brooms were clearing rubble dust from the cobblestones on the main terrace road. Not the heavy debris; that was gone, cleared by crews and channelers and, in the worst sections, by him. This was the fine stuff. The grit that settled into everything, that turned the air amber for days after the quake and left a film on every surface. The women swept it into neat piles at the curb. One of them was humming.
 
 The city was cleaning itself.
 
-He washed his face in the basin. Cold water—the heating lattice in this building still worked, but he'd stopped activating it. Something about using the Wellspring for his own comfort felt wrong now, after the days of crisis work. Not a principle. A feeling. He dried his face and dressed and went downstairs.
+He washed his face in the basin. Cold water. The heating lattice in this building still worked, but he'd stopped activating it. Something about using the Wellspring for his own comfort felt wrong now, after the days of crisis work. Not a principle. A feeling. He dried his face and dressed and went downstairs.
 
-The command post had changed. The crisis maps still covered the walls, but the colors had shifted. Green dominated now—districts stabilized, streets cleared, infrastructure restored. The red was gone entirely. A few amber patches remained in the southern terraces, marking buildings that needed long-term reinforcement rather than emergency intervention. Dorenne's staff moved through the space with the particular energy of people transitioning from panic to purpose—still busy, still focused, but the tightness in their shoulders had loosened.
+The command post had changed. The crisis maps still covered the walls, but the colors had shifted. Green dominated now: districts stabilized, streets cleared, infrastructure restored. The red was gone entirely. A few amber patches remained in the southern terraces, marking buildings that needed long-term reinforcement rather than emergency intervention. Dorenne's staff moved through the space with the particular energy of people transitioning from panic to purpose, still busy, still focused, but the tightness in their shoulders had loosened.
 
 He stepped out into the street.
 
-The humming woman looked up from her broom. She was older—elder generation, strong-pooled, the kind of person who could have heated her home and sealed her walls and gone about her day without noticing the world was fraying. She saw him and stopped sweeping.
+The humming woman looked up from her broom. She was older, elder generation, strong-pooled, the kind of person who could have heated her home and sealed her walls and gone about her day without noticing the world was fraying. She saw him and stopped sweeping.
 
-"That's him," she said to the woman beside her. Not quietly. Not a whisper. The way you'd say *that's the bridge* or *that's the tower*—identifying a landmark.
+"That's him," she said to the woman beside her. Not quietly. Not a whisper. The way you'd say *that's the bridge* or *that's the tower*, identifying a landmark.
 
 The second woman looked. The third. All three of them staring at him in the early light, brooms in hand, dust in the air.
 
@@ -22,11 +22,11 @@ Ash raised a hand. Not a wave, exactly. An acknowledgment.
 
 The first woman smiled. Broad, genuine, the kind of smile that rearranged a face. She went back to sweeping.
 
-He walked east, toward the reconstructed sections of the Verengate district. The morning was cool and clear, the dust finally settling, the sky the particular washed blue that followed storms and disasters—as if the atmosphere had wrung itself out and had nothing left but clarity.
+He walked east, toward the reconstructed sections of the Verengate district. The morning was cool and clear, the dust finally settling, the sky the particular washed blue that followed storms and disasters, as if the atmosphere had wrung itself out and had nothing left but clarity.
 
 People recognized him.
 
-Not everyone. Not immediately. But as he walked through the middle terraces and down toward the lower districts, heads turned. A man carrying a crate of nails paused at the corner of a half-repaired building and nodded. A girl—ten, maybe eleven—tugged her mother's sleeve and pointed. The mother looked, and her hand went to her mouth, and she pulled the girl close and they watched him pass.
+Not everyone. Not immediately. But as he walked through the middle terraces and down toward the lower districts, heads turned. A man carrying a crate of nails paused at the corner of a half-repaired building and nodded. A girl, ten, maybe eleven, tugged her mother's sleeve and pointed. The mother looked, and her hand went to her mouth, and she pulled the girl close and they watched him pass.
 
 He heard his name. Not shouted. Spoken. The way people spoke about weather or meals or the things that structured their days. His name in the mouths of strangers. His work in their stories.
 
@@ -42,7 +42,7 @@ A group of children were playing in a cleared lot between two repaired buildings
 
 The sprawled child kicked impatiently. "Are you going to save me or not?"
 
-They saved her. With much argument about technique and a brief scuffle over who got to be the Wellspring. Ash watched from across the street, and something in his chest expanded and contracted at the same time—a pressure that wasn't pain, that wasn't quite anything he had a word for.
+They saved her. With much argument about technique and a brief scuffle over who got to be the Wellspring. Ash watched from across the street, and something in his chest expanded and contracted at the same time, a pressure that wasn't pain, that wasn't quite anything he had a word for.
 
 He moved on before they saw him.
 
@@ -50,13 +50,13 @@ He moved on before they saw him.
 
 Dorenne's reconstruction plan filled the Council chamber.
 
-She'd had it drawn on four panels—large-format schematics, inked on heavy paper, mounted on standing frames at the front of the room. The first panel showed the transit network: every shaft, every lift, every horizontal conveyance, color-coded by current operational status. Red for failed. Amber for compromised. Green for functional. The red was concentrated in the southern terraces and the lower districts, where the earthquake's damage had overlapped with years of deferred maintenance. The green clustered in the elder heights, where it always had.
+She'd had it drawn on four panels: large-format schematics, inked on heavy paper, mounted on standing frames at the front of the room. The first panel showed the transit network: every shaft, every lift, every horizontal conveyance, color-coded by current operational status. Red for failed. Amber for compromised. Green for functional. The red was concentrated in the southern terraces and the lower districts, where the earthquake's damage had overlapped with years of deferred maintenance. The green clustered in the elder heights, where it always had.
 
 The second panel: water systems. Aqueducts, reservoir feeds, distribution channels, the web of channeled stone that carried water from the upper catchments to every district in the city. Similar pattern—the infrastructure that served the wealthy and powerful was intact. The rest was cracked, patched, failing.
 
 The third: structural foundations. Buildings, retaining walls, bridge supports, the terrace anchoring that kept entire districts from sliding off the plateau. This panel had the most red.
 
-The fourth panel was different. No red. No amber. All blue—a new color, a planned color. Dorenne's reconstruction targets. Every site where Wellspring power would be deployed, sequenced by priority, estimated by energy cost, linked to a timeline that stretched forward across months.
+The fourth panel was different. No red. No amber. All blue, a new color, a planned color. Dorenne's reconstruction targets. Every site where Wellspring power would be deployed, sequenced by priority, estimated by energy cost, linked to a timeline that stretched forward across months.
 
 The Council sat in their repaired chamber—the scar on the wall still visible, sealed but not smoothed, a reminder that the room itself had nearly failed. Twelve councillors. Some had been in the chamber during the first briefing, when the dust was still falling. Some had been in their districts, digging. All of them looked at the four panels and understood what they were seeing.
 
@@ -84,7 +84,7 @@ Each phase had a timeline. Each site had an estimated energy cost, calculated by
 
 "The Wellspring's capacity is unprecedented," Dorenne said. "But it is not infinite. This plan allocates that capacity where it produces the greatest structural benefit. It is not a wishlist. It is triage." She paused. "Effective triage. The kind that saves the most with what's available."
 
-A councillor from the elder heights—Toraven, an old man with a pool that still ran deep and a voice that ran deeper—leaned forward.
+A councillor from the elder heights, Toraven, an old man with a pool that still ran deep and a voice that ran deeper, leaned forward.
 
 "And the Wellspring agrees to this deployment?"
 
@@ -92,11 +92,11 @@ Dorenne didn't look at Ash. "Ash has agreed to work with my office on the recons
 
 Toraven looked at Ash. "Young man?"
 
-Ash stood. Every eye in the chamber shifted. He could feel it—the attention, the weight of it, the particular quality of being watched by people who were trying to decide what you meant for their future.
+Ash stood. Every eye in the chamber shifted. He could feel it: the attention, the weight of it, the particular quality of being watched by people who were trying to decide what you meant for their future.
 
 "The Director's plan is the best use of my abilities I've seen," he said. "The districts that held during the earthquake were the ones I'd reinforced before. The ones that collapsed were the ones we hadn't reached. The plan addresses that. I support it."
 
-He sat down. The simplicity of the statement did its own work—no qualification, no caveat, no performance. He supported it because it was right.
+He sat down. The simplicity of the statement did its own work: no qualification, no caveat, no performance. He supported it because it was right.
 
 The vote was eleven in favor, none opposed. Toraven abstained, not out of opposition but out of the particular stubbornness of an elder who didn't like voting for things he hadn't suggested himself. The plan passed. Dorenne gathered her panels with the contained satisfaction of someone who had expected exactly this outcome and had prepared for every alternative.
 
@@ -108,13 +108,13 @@ Afterward, in the corridor, she found him.
 
 "I know." She held his gaze. "That's why it worked."
 
-They stood in the corridor of the Council Hall—the same corridors he'd walked as her aide, carrying papers, opening doors, performing a usefulness that had nothing to do with channeling. That had been weeks ago. It felt like someone else's life.
+They stood in the corridor of the Council Hall, the same corridors he'd walked as her aide, carrying papers, opening doors, performing a usefulness that had nothing to do with channeling. That had been weeks ago. It felt like someone else's life.
 
 "The first deployment is tomorrow morning," she said. "Southern transit shafts. I've scheduled the crews."
 
 "I'll be there."
 
-She nodded. Checked her list—she had a new list, fresh, the reconstruction plan already translating into daily operations. She turned to leave, then paused.
+She nodded. Checked her list; she had a new list, fresh, the reconstruction plan already translating into daily operations. She turned to leave, then paused.
 
 "We're going to rebuild this city, Ash."
 
@@ -124,7 +124,7 @@ He watched her walk away. Straight back. Steady stride. The list in her hand. Sh
 
 Three days into the reconstruction, Ash walked through the Verengate district in the late afternoon.
 
-The transit shaft at the district's edge was running again—he'd reinforced the shaft walls and the lifting mechanism that morning, pushing reservoir force into the channeled stone until the structure hummed with stability. Workers had already restored the mechanical components. By noon, the first load of supplies had risen from the lower terraces to the upper, and the supply line that had been rerouted through three districts and a hand-carry chain was suddenly unnecessary.
+The transit shaft at the district's edge was running again. He'd reinforced the shaft walls and the lifting mechanism that morning, pushing reservoir force into the channeled stone until the structure hummed with stability. Workers had already restored the mechanical components. By noon, the first load of supplies had risen from the lower terraces to the upper, and the supply line that had been rerouted through three districts and a hand-carry chain was suddenly unnecessary.
 
 People gathered at the shaft entrance to watch the loads arrive. Not because they needed to—the supplies were destined for the reconstruction crews, not for individuals. They gathered because the shaft was working, and it hadn't worked for two weeks, and watching it work meant something about the world being put back together.
 
@@ -138,7 +138,7 @@ The buildings here had survived—cracked, shaken, some with improvised bracing 
 
 A woman was hanging laundry on a line strung between two windows across a narrow street. The sheets snapped in the breeze. Below her, a man sat on a step and repaired a chair, fitting the leg back into its socket with the careful attention of someone who'd rather fix than replace. Ordinary work. The ordinary work of a neighborhood putting itself back together.
 
-The man looked up. He was young—Ash's age, maybe a year or two older. Dark hair, broad shoulders, the build of someone who worked with his hands. He held the chair leg in place and studied Ash with an expression that shifted from curiosity to recognition.
+The man looked up. He was young, Ash's age, maybe a year or two older. Dark hair, broad shoulders, the build of someone who worked with his hands. He held the chair leg in place and studied Ash with an expression that shifted from curiosity to recognition.
 
 "You're him," the man said.
 
@@ -148,25 +148,25 @@ Ash stopped. "I'm—"
 
 "They came out safe."
 
-"They came out because of you." The man stood. He was taller than Ash by an inch or two, and he used the height the way some people used it—not as threat but as frame, a way of being present. "I'm Tereth. My wife is Sera. We live here." He gestured at the building behind him. "Third floor."
+"They came out because of you." The man stood. He was taller than Ash by an inch or two, and he used the height the way some people used it, not as threat but as frame, a way of being present. "I'm Tereth. My wife is Sera. We live here." He gestured at the building behind him. "Third floor."
 
 "Ash."
 
 Tereth's mouth curved. "I know who you are. Everyone knows who you are." He glanced up at the laundry. "Sera! Come down."
 
-The woman at the window looked down. She saw Ash, and her hands stilled on the sheet she was pinning. She disappeared inside. A moment later the door at street level opened and she stepped out—young, dark-eyed, a baby balanced on her hip. The baby was asleep, its face pressed against her shoulder, one small fist curled in the fabric of her shirt.
+The woman at the window looked down. She saw Ash, and her hands stilled on the sheet she was pinning. She disappeared inside. A moment later the door at street level opened and she stepped out, young, dark-eyed, a baby balanced on her hip. The baby was asleep, its face pressed against her shoulder, one small fist curled in the fabric of her shirt.
 
 "This is him," Tereth said.
 
-Sera looked at Ash. Her expression was the one he'd been seeing all week—recognition, gratitude, the particular openness of someone meeting a person they'd already built a story about. But there was something else, too. Something warmer. She shifted the baby and held out her free hand.
+Sera looked at Ash. Her expression was the one he'd been seeing all week—recognition, gratitude, the particular openness of someone meeting a person they'd already built a story about. But there was something else too. Something warmer. She shifted the baby and held out her free hand.
 
 "Come inside," she said. "Please. We have tea."
 
 He should have kept walking. The reconstruction schedule had him at the western water junction in an hour. Dorenne's list was specific about the afternoon deployments. But Sera's hand was extended and the baby was sleeping and the street was quiet and ordinary, and he followed them inside.
 
-The apartment was small. Two rooms—a main room that served as kitchen and sitting area, and a doorway curtained off that led to where they slept. The walls were cracked in two places, sealed with the rough patches of emergency repair work. A shelf held a few dishes, a jar of dried herbs, a child's wooden toy that looked handmade. The window let in afternoon light that fell across a table where two cups already sat, as though they'd been expecting him, as though the tea had already been decided before he arrived.
+The apartment was small. Two rooms: a main room that served as kitchen and sitting area, and a doorway curtained off that led to where they slept. The walls were cracked in two places, sealed with the rough patches of emergency repair work. A shelf held a few dishes, a jar of dried herbs, a child's wooden toy that looked handmade. The window let in afternoon light that fell across a table where two cups already sat, as though they'd been expecting him, as though the tea had already been decided before he arrived.
 
-Tereth pulled a third cup from the shelf. Sera settled the baby into a basket on the floor—a deep woven thing, lined with a folded blanket, the baby nestled into it without waking. She moved to the small stove and heated the kettle. Not with channeling—with a coal fire, the kind Ash had used his entire life before the Wellspring. The coal glowed. The water took its time.
+Tereth pulled a third cup from the shelf. Sera settled the baby into a basket on the floor—a deep woven thing, lined with a folded blanket, the baby nestled into it without waking. She moved to the small stove and heated the kettle. Not with channeling. With a coal fire, the kind Ash had used his entire life before the Wellspring. The coal glowed. The water took its time.
 
 "We watched you from the roof," Tereth said. He sat across from Ash at the table. "During the quake. On the third day, when you were working the retaining walls. We could see you from up there—just this figure, kneeling, hands on the stone. Sera said you were there for hours."
 
@@ -174,7 +174,7 @@ Tereth pulled a third cup from the shelf. Sera settled the baby into a basket on
 
 "Our building held because of you. The one next to us—" Tereth gestured east. "You reinforced that before the quake. Two weeks before. Part of the Director's program."
 
-Ash remembered. A routine deployment. Dorenne had flagged the building as structurally compromised—foundation stress, aging channeled reinforcement. He'd spent thirty minutes there. Thirty minutes, and the building had stood through a disaster that collapsed its neighbors.
+Ash remembered. A routine deployment. Dorenne had flagged the building as structurally compromised: foundation stress, aging channeled reinforcement. He'd spent thirty minutes there. Thirty minutes, and the building had stood through a disaster that collapsed its neighbors.
 
 "When the shaking started," Sera said from the stove, "I grabbed him—" she nodded at the baby in the basket—"and ran to the stairwell. Tereth was at work. I didn't know if the building would hold. I stood in the stairwell and held him and the walls shook, and they held. They held because you'd been there two weeks before."
 
@@ -202,13 +202,13 @@ Sera talked about the baby. How he slept through the earthquake. How he slept th
 
 They didn't ask about the Wellspring. They didn't ask what it felt like to hold a building or seal a dam or reshape the bones of a city. They talked to him the way you talked to a neighbor who had done you a kindness—with gratitude, yes, but also with the easy warmth of people who had decided you belonged in their kitchen, at their table, drinking their tea.
 
-The baby woke. He made a small sound—not crying, not quite, a sound that lived in the space between sleep and waking, between comfort and need. Sera lifted him from the basket and held him against her shoulder, and the baby's eyes opened and found Ash and stared at him with the unfocused intensity of someone who had no idea what they were looking at and was fascinated anyway.
+The baby woke. He made a small sound, not crying, not quite, a sound that lived in the space between sleep and waking, between comfort and need. Sera lifted him from the basket and held him against her shoulder, and the baby's eyes opened and found Ash and stared at him with the unfocused intensity of someone who had no idea what they were looking at and was fascinated anyway.
 
 Ash looked at the baby. The baby looked at Ash.
 
 "He likes you," Tereth said.
 
-The baby made the sound again—a hum, almost. A vibration that Ash felt in his chest the way he felt certain frequencies in stone. Low, warm, alive.
+The baby made the sound again, a hum, almost. A vibration that Ash felt in his chest the way he felt certain frequencies in stone. Low, warm, alive.
 
 He stayed for an hour. The tea went cold and was reheated and went cold again. The light shifted in the window, afternoon sliding toward evening, and the apartment filled with the amber warmth of a day ending well. When he stood to leave, Sera pressed a small wrapped package into his hands—bread, from the communal kitchen, still warm.
 
@@ -216,7 +216,7 @@ He stayed for an hour. The tea went cold and was reheated and went cold again. T
 
 Ash walked down the stairs and into the street with the bread against his chest and a warmth in his body that had nothing to do with the reservoir.
 
-The reconstruction schedule said western water junction. He was an hour late. Dorenne would note it on her list—a gap in the deployment, an unexplained absence from the timeline. He would tell her where he was. She would understand. She might even approve—the hero of Solathis, sitting in a family's kitchen, drinking tea, Dorenne would note the gap. She logged everything. She might even appreciate the story in it, the human texture of a deployment that ran long because someone made tea.
+The reconstruction schedule said western water junction. He was an hour late. Dorenne would note it on her list, a gap in the deployment, an unexplained absence from the timeline. He would tell her where he was. She would understand. She might even approve—the hero of Solathis, sitting in a family's kitchen, drinking tea. Dorenne would note the gap. She logged everything. She might even appreciate the story in it, the human texture of a deployment that ran long because someone made tea.
 
 The tea, and the baby's name, and the door that was open.
 
@@ -224,29 +224,29 @@ He turned west and walked toward the water junction, and the bread was warm agai
 
 * * *
 
-The western water junction took forty minutes. He sealed the deep crack that the maintenance crew couldn't reach, reinforced the conduit wall, and moved on. Two more sites in the southern terraces — a retaining wall, a bridge support. Clean work. He wasted less now. Not Haran's precision — nothing like that — but the hand was steadier.
+The western water junction took forty minutes. He sealed the deep crack that the maintenance crew couldn't reach, reinforced the conduit wall, and moved on. Two more sites in the southern terraces—a retaining wall, a bridge support. Clean work. He wasted less now. Not Haran's precision—nothing like that—but the hand was steadier.
 
 Night fell. He stood on a terrace overlook and looked at the city.
 
-The lights were coming back. District by district, building by building, the heating lattices and light channeling that the earthquake had disrupted were being restored—some by the maintenance crews, some by residents themselves, spending their daily pools to warm their homes and light their windows. The city glowed. Not the even, comfortable glow of the elder heights, where power was abundant and always had been. A patchwork glow. Uneven. Warm where it existed, dark where it didn't, the light mapping the city's capacity the way Dorenne's charts mapped its infrastructure.
+The lights were coming back. District by district, building by building, the heating lattices and light channeling that the earthquake had disrupted were being restored, some by the maintenance crews, some by residents themselves, spending their daily pools to warm their homes and light their windows. The city glowed. Not the even, comfortable glow of the elder heights, where power was abundant and always had been. A patchwork glow. Uneven. Warm where it existed, dark where it didn't, the light mapping the city's capacity the way Dorenne's charts mapped its infrastructure.
 
-He had done this. Not all of it—the crews, the channelers, the maintenance workers, Dorenne's organizational machine, all of them had done this. But the framework that held it, the reinforced bones that let the rest of the work happen, that was him. His hands. His reservoir. The force inside him, poured into stone, made solid, made useful, made *real*.
+He had done this. Not all of it. The crews, the channelers, the maintenance workers, Dorenne's organizational machine, all of them had done this. But the framework that held it, the reinforced bones that let the rest of the work happen, that was him. His hands. His reservoir. The force inside him, poured into stone, made solid, made useful, made *real*.
 
 The reservoir sat in his chest. Warm. Present. Vast.
 
 Different.
 
-He noticed it the way you noticed a change in the weather—not suddenly, not with alarm, but with the quiet awareness that something had shifted. The reservoir was lighter. Not smaller, exactly. Not diminished in any way he could measure or name. But the quality of it had changed. Before the earthquake, the reservoir had been formless—an ocean without shores, a depth without bottom, a presence so vast that the concept of edges didn't apply. It was simply *there*, the way the sky was there, the way the ground was there, a fact too large for boundaries.
+He noticed it the way you noticed a change in the weather—not suddenly, not with alarm, but with the quiet awareness that something had shifted. The reservoir was lighter. Not smaller, exactly. Not diminished in any way he could measure or name. But the quality of it had changed. Before the earthquake, the reservoir had been formless: an ocean without shores, a depth without bottom, a presence so vast that the concept of edges didn't apply. It was simply *there*, the way the sky was there, the way the ground was there, a fact too large for boundaries.
 
 Now there was a shape.
 
-He could almost feel it—the contour of the reservoir, the way it sat inside him, the way it moved when he channeled. It was still enormous. Still vast. Still more power than anyone alive had ever held. But it had walls now. Or not walls, exactly. Suggestions of walls. The ghost of a geometry that hadn't been there before.
+He could almost feel it, the contour of the reservoir, the way it sat inside him, the way it moved when he channeled. It was still enormous. Still vast. Still more power than anyone alive had ever held. But it had walls now. Or not walls, exactly; suggestions of walls. The ghost of a geometry that hadn't been there before.
 
 He reached for the feeling, tried to hold it, examine it.
 
-It slipped away. Like trying to look directly at a star that was only visible in peripheral vision—the harder he focused, the less he could see. The reservoir was there. It was vast. It was his. The shape he'd almost felt dissolved back into formlessness, and the brief whisper of edges faded into the general hum of power that he'd carried for weeks.
+It slipped away. Like trying to look directly at a star that was only visible in peripheral vision; the harder he focused, the less he could see. The reservoir was there. It was vast. It was his. The shape he'd almost felt dissolved back into formlessness, and the brief whisper of edges faded into the general hum of power that he'd carried for weeks.
 
-He let it go. Not easily — the way you let go of something that pulled back, that wanted to be held, that required a conscious unclenching of the mind to set down. The morning's schedule was already forming: the Millworks retaining wall, the southern bridge supports, three more hours of hands on stone.
+He let it go. Not easily. The way you let go of something that pulled back, that wanted to be held, that required a conscious unclenching of the mind to set down. The morning's schedule was already forming: the Millworks retaining wall, the southern bridge supports, three more hours of hands on stone.
 
 There was too much to do. The reconstruction plan stretched across months—transit, water, foundations, the systematic reinforcement of a city that needed every hour he could give it. Dorenne's schedule was precise. The Council had approved it. The work was good and necessary and real, and the reservoir was there to do it.
 
@@ -254,9 +254,9 @@ He turned from the overlook and walked back toward the command post. The bread f
 
 *Ashyn.*
 
-The name sat in his mind like a stone in water—present, settled, smoothing the current around it. A child named after him. A child who would grow up in a city he had held together with his hands. A child whose first weeks of life had been shaped by an earthquake and a rescue and a man kneeling on a broken foundation with his palms on the stone.
+The name sat in his mind like a stone in water, present, settled, smoothing the current around it. A child named after him. A child who would grow up in a city he had held together with his hands. A child whose first weeks of life had been shaped by an earthquake and a rescue and a man kneeling on a broken foundation with his palms on the stone.
 
-He walked through the quiet streets. The city hummed around him—the low vibration of channeling and machinery and people and stone, the sound a city made when it was alive, when it was healing, when it was his.
+He walked through the quiet streets. The city hummed around him, the low vibration of channeling and machinery and people and stone, the sound a city made when it was alive, when it was healing, when it was his.
 
 The reservoir was there. The warmth was there. The work was waiting.
 
