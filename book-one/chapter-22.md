@@ -18,9 +18,9 @@ The street was quiet. A few windows showed light—the warm amber of channeled f
 
 Ash walked through it. The warmth in the walls. The light in the windows. The sound of the singing, fading behind him as the street curved.
 
-He'd do it again. All of it. The earthquake, the deployments, the days of holding up buildings while his body shook and the reservoir burned and the world fell apart around him—he'd do it again. Every kilojoule. He knew this with the same certainty he knew the numbers: the expenditure was real, the cost was real, the loss was permanent and total, and the buildings stood and the people in them were alive and he would make the same choice a thousand times.
+He'd do it again. All of it. The earthquake, the deployments, the days of holding up buildings while his body shook and the reservoir burned and the world fell apart around him—he'd do it again. Every drop. He knew this with the same certainty he knew the numbers: the expenditure was real, the cost was real, the loss was permanent and total, and the buildings stood and the people in them were alive and he would make the same choice a thousand times.
 
-But the buildings didn't know his name. The walls didn't know what they'd cost. The warmth in the stone was anonymous—a gift from a stranger who happened to be extraordinary, embedded in the infrastructure the way the old channeling was embedded, the way every elder's contribution was embedded, indistinguishable from the mass of energy that held the city together. He was part of the stone now. A piece of himself he'd never get back, doing work he'd never see.
+But the buildings didn't know his name. He was part of the stone now. A piece of himself he'd never get back, doing work he'd never see.
 
 His throat was tight. He swallowed against it and kept walking.
 
@@ -34,15 +34,15 @@ The civic buildings rose ahead of him in the dark—broad stone facades, deep-se
 
 Third floor. East side. The window he'd looked up at a hundred mornings, arriving before dawn, and seen lit. The window that was always lit.
 
-Dorenne was at her desk.
+Dorenne would be at her desk.
 
-He couldn't see her from here—the angle was wrong, the distance too great. But the light was the same warm, steady glow of a channeled lamp maintained by someone who never let it flicker, and the steadiness of it was as familiar to him as the sound of his own breathing. She was there. She was always there. At this hour, in the quiet before the building filled, she would be working—the deployment charts spread before her, the pencil moving in the margins, the cup of tea warming itself beside her elbow with the casual, invisible efficiency of a woman who had never thought about the cost of a cup of tea because a cup of tea cost her nothing.
+He couldn't see her from here—the angle was wrong, the distance too great. But the light was the same warm, steady glow of a channeled lamp maintained by someone who never let it flicker. She would be working. He could imagine it—the deployment charts spread before her, the pencil moving in the margins, the cup of tea warming itself beside her elbow with the efficiency of someone who had spent forty years not wasting anything.
 
-She was recalculating. He knew this the way he knew the weight of his own reservoir. She was recalculating the deployment schedule, adjusting the sequence of remaining sites, optimizing the allocation of a resource that had just informed her it was finite and declining. She was doing her job. She was doing it brilliantly, with the precision and competence of a woman who had been managing constrained systems for thirty years, and the forty thousand people who drank from the Thornwall aqueduct tomorrow morning would be glad she was.
+She would be recalculating. Adjusting the sequence, optimizing the allocation of a resource that had just informed her it was finite and declining. Doing her job. Brilliantly. With the precision and competence of thirty years, and the forty thousand people who drank from the Thornwall aqueduct tomorrow morning would be glad she was.
 
 He stood in the street and looked up at the window and the light burned steadily and he did not go inside.
 
-The pencil would be moving. The charts would be covered in the fresh annotations of a mind that processed devastation as data. And somewhere in the margins—he would never see it, would never know—the two letters of a name begun and crossed out, the place where the framework cracked and healed in the same motion, like a wall reinforcing itself.
+The pencil would be moving. The charts would be covered in the fresh annotations of a mind that processed devastation as data. He would never know what she wrote in the margins, or whether her hand shook.
 
 He turned away.
 
@@ -54,21 +54,7 @@ Not because she was small. Because the framework was.
 
 He turned south. The lit window shrank behind him. He didn't look back.
 
-* * *
-
-The middle districts were where the city's machinery showed its age.
-
-Ash descended through streets that worked—mostly. The heating lattices in the paving stones were dim but present, casting enough warmth to keep the frost from cracking the mortar but not enough to feel through boot leather. The transit shafts at each intersection stood open, their interface stones glowing the faint amber of channeling that hadn't been refreshed since morning. The schedule posted beside the nearest one was a polite fiction—*Every quarter-hour, Fifth Terrace to Market Level*—that bore no relationship to the actual service, which ran when the maintenance crew's pools could manage it, which was less often every month.
-
-He passed a water tap that dripped steadily into a stone basin. The basin was full. The overflow ran down the gutter in a thin stream that caught the last light of a dying heating lattice and steamed faintly. Someone should fix the valve. Someone would fix the valve, eventually, when the maintenance crew cycled through this block, when their pools stretched far enough, when the dozen other failing valves and cracked pipes and dimming lattices on their list had been addressed. The drip would continue until then. The water would run into the gutter, and the gutter would carry it down the terrace, and somewhere at the bottom of the city it would join the river, and the river would take it to the gorge, and the loss would be small enough that no one measured it.
-
-Every loss was small enough that no one measured it. That was how decline worked. Not in catastrophes but in drips.
-
-He walked. The streets narrowed. The buildings were older here—three, four generations of channeling layered into their walls, each generation's contribution thinner than the last, the stone carrying the geological record of a world running down. He could feel the layers through the soles of his boots when he stepped close to a wall—the deep, dense channeling of the ancient builders at the core, strong enough to hum, then the elder generation's reinforcement above it, then the established generation's maintenance, thinner, then the middle generation's patches, thinner still. A cross-section of decline, compressed into stone.
-
-This was the city Dorenne managed. This was the city the deployment charts were trying to hold together—not with solutions but with triage, not with cures but with the careful rationing of a treatment that was itself running out. He understood her charts differently now. The hash marks marching forward across the page weren't victories. They were fingers in a dam.
-
-And the dam had cracks.
+He descended through streets that worked—mostly. Heating lattices dim but present. A water tap dripping steadily into a full basin, the overflow steaming faintly where it caught the last light of a dying lattice. The buildings were older here—generations of channeling layered into their walls, each contribution thinner than the last. A cross-section of decline, compressed into stone.
 
 He passed a junction where two streets met at an awkward angle—the kind of junction that happened when a district grew organically, buildings added as families needed them, streets fitting themselves around the existing architecture the way water fit around rocks. A broadsheet was posted on the wall.
 
@@ -96,9 +82,7 @@ He read it again.
 
 *Our pools buy half what our parents' bought.*
 
-His reservoir had started at fifty million. He'd spent half in eight weeks. The young channelers who'd written this broadsheet had started with a thousand kilojoules a day and watched that thousand buy less every year—not because their pools were shrinking, though they might be, but because the infrastructure they were expected to maintain was degrading faster than their daily budgets could sustain. They were doing in a lifetime what he was doing in months. The same math. The same countdown. The same slow, merciless arithmetic of a resource that could not be replaced.
-
-He'd been living their lives at high speed. The Wellspring's decline was the world's decline, compressed. He was a miniature of the crisis—one man, one reservoir, one countdown—and the shape of it was the same shape, and the panic was the same panic, and the question at the end was the same question: *What do you build with what's left?*
+The same math. The same countdown. Theirs measured in years instead of weeks, but the shape was the same.
 
 He touched the edge of the broadsheet. The paper was rough under his fingers. Someone had made this. Someone had set the type by hand, inked the press, pulled the sheets, carried them through the city in the dark and posted them on walls where people would see them in the morning. Someone had done this work—physical work, hands-and-sweat work, the kind of work that didn't require a pool—because the words mattered enough to print.
 
@@ -106,15 +90,7 @@ He let go of the paper. Stepped back.
 
 The symbol at the bottom—the circle with the line through it—caught the fading lattice light. He didn't know what it meant. He would learn.
 
-He turned and kept walking.
-
-* * *
-
-The descent into the lower-middle district took him through streets he hadn't walked in weeks. The route was familiar—he'd walked it every day before the Wellspring, before the deployments, before the earthquake broke the city open and his life with it. The route from Dorenne's office to his parents' building, forty flights down, the stairs he'd climbed every morning with his breathing even and his face arranged and the performance of okayness so polished that no one ever asked.
-
-He didn't take the stairs. He took the streets—the long way, the winding way, down through the terraces in a slow descent that let the city reveal itself in the particular light of a night that was tipping toward morning.
-
-The lower-middle district was darker. The heating lattices here were intermittent—some blocks lit, others dark, the pattern determined not by planning but by which maintenance crews had come through most recently and how much pool they'd had left when they reached this section. The buildings were solid but worn. Cracks in the mortar. A window sealed with a blanket where the channeled insulation had failed. A transit shaft standing open and dark, its interface stone dead, no schedule posted beside it because the fiction had become too implausible to maintain.
+He turned and kept walking. The lower-middle district was darker—heating lattices intermittent, buildings solid but worn, a transit shaft standing open and dead. He passed his parents' building without stopping. Not tonight.
 
 A sound reached him before he turned the corner—the sharp, rhythmic ring of metal on stone, and beneath it, voices. Low, clipped, the particular cadence of people working hard and managing their effort with the discipline of a limited budget.
 
@@ -130,7 +106,7 @@ The fourth was kneeling at the crack.
 
 She had both palms flat against the pipe. Her eyes were closed. Her face was drawn—tight around the jaw, the skin around her eyes creased with the particular concentration of a channeler working at the edge of her capacity. She was sealing the fracture. He could feel it from twenty paces—the precise, controlled application of energy into the pipe's material, the crack closing in a slow crawl from one end to the other, the metal knitting under her hands the way stone knitted under his.
 
-Her channeling was clean. Surgical. The kind of efficiency that came from years of practice and the absolute necessity of making every kilojoule count. No waste heat. No flooding. The output matched the task and nothing more, and the discipline of it—the sheer, grinding discipline—was visible in every line of her body.
+Her channeling was clean. Surgical. The kind of efficiency that came from years of practice and the absolute necessity of making every drop count. No waste heat. No flooding. The output matched the task and nothing more, and the discipline of it—the sheer, grinding discipline—was visible in every line of her body.
 
 Maren.
 
@@ -150,8 +126,6 @@ The math from the dim room with the guttering candle—the columns, the projecti
 
 She'd been here the whole time. While he was burning through millions at deployment sites, while he was holding up buildings during the earthquake, while Dorenne's charts tracked his expenditure in columns that dwarfed the annual output of every crew in the city—Maren had been here. In trenches. On night shifts. Sealing cracks that reappeared, repairing pipes that cracked again, maintaining infrastructure that was older than their parents and more tired than anyone wanted to admit. Doing with discipline and sweat what he'd been doing with an ocean. Doing it tonight, and tomorrow night, and the night after that, because the cracks kept coming and the pipes kept breaking and someone had to be in the trench.
 
-This was what finitude looked like when you didn't have the luxury of ignoring it.
-
 He stood in the shadows and watched her work and his eyes burned and he didn't wipe them. The burning was real and it was specific and it was about her—about the set of her shoulders, the wince in her hands, the way she moved to the next crack without complaint, without rest, without anyone standing in the shadows watching and finally understanding what they were seeing.
 
 She'd scored highest in her cohort. Her supervisor had called it the most precise diagnostic work she'd seen from anyone under thirty. And the celebration dinner had been about him—about his job, his future, his first step into the world of people who mattered—and Maren's news had settled to the bottom of the evening like sediment in a glass, and she'd smiled and she'd helped clear the table and she'd channeled the heating lattice in the wall to keep the kitchen warm while their mother rested, and the channeling had been so controlled, so quietly generous, that no one had noticed the cost.
@@ -160,7 +134,7 @@ He'd noticed the gesture. He hadn't wondered what it meant.
 
 He knew now. He knew in his body—in the tight, hot pressure behind his eyes, in the ache of his jaw, in the way his hands had closed into fists at his sides without him deciding to close them. He knew the way you knew a number after you'd checked it three times and it didn't change.
 
-She'd been carrying this her whole life. The discipline. The guilt. The excellence that wasn't ambition but apology—the relentless, grinding overperformance of a person who'd been born with a pool her brother didn't get and had spent every day since trying to be worthy of the difference.
+She'd been carrying this her whole life. He thought he recognized something underneath the discipline—something he didn't yet have a word for. It had always been there. He just hadn't been looking.
 
 He almost stepped out of the shadows.
 
@@ -226,17 +200,11 @@ He set the calipers down. He picked up a file—the fine one, the one with the w
 
 He didn't start working. Not yet. He sat with the file in his hand and the model on the bench and the dark workshop around him and the city above and below him—the lit window on the Second Terrace, the broadsheet on the wall, the sealed pipe in the trench, the pump in the Velden building that ran on a crank and a spring—and he breathed, and the breathing came easier than it had in weeks.
 
-The reservoir sat in his chest. Warm. Finite. Its edges clear, the walls of it as definite as the walls of this room. Twenty-two million kilojoules, give or take. A season. Maybe two. And then—the thing he'd been before. The man with no pool. The dead weight. The charity case who climbed forty flights of stairs every morning and smiled when he got to the top because smiling was the rent he paid for existing.
+The reservoir sat in his chest. Warm. Finite. Twenty-two hundred elder-days, give or take. A season. Maybe two. The fear of what came after was still there—lodged behind his ribs, in the architecture of his chest. The fear of going back. But his hands were on a workbench. And the model under his palm was a mechanism he'd designed—not channeled, not powered, designed.
 
-He'd been afraid of that. He was still afraid of that. The fear was there—he could feel it, lodged in the same space where the numbers lived, behind his ribs, in the architecture of his chest. The fear of going back. The fear of being nothing again, of being the person the world stepped around, of being the gap in a room full of people who could do what he couldn't.
+*What do you want to build with what's left?*
 
-But his hands were on a workbench. And the workbench was real. And the model under his palm was a mechanism he'd designed—not channeled, not powered, designed. With his mind and his hands and the particular intelligence of a person who'd spent a lifetime learning how things worked because he couldn't make them work the easy way.
-
-The file was in his right hand. The housing was under his left. The gap where the output shaft needed seating was a problem he could feel in the dark—a problem of tolerance, of material, of the relationship between a shaft and the bearing surface that would hold it. A mechanical problem. The kind of problem that had existed before magic and would exist after magic and didn't care whether the hands solving it could channel or not.
-
-He didn't know what he wanted to build. Haran's question was still there—open, patient, solid as the bench. *What do you want to build with what's left?* He didn't have an answer. He might not have one for a while. The question was large enough to hold a lifetime, or whatever portion of a lifetime remained, and the answer—if it came—would be built the way everything real was built: slowly, imperfectly, with hands that learned as they worked.
-
-But his hands remembered the work. His hands had never forgotten. Through the months of deployment, the weeks of channeling, the days of being extraordinary—his hands had kept the memory of this. The file's weight. The housing's dimensions. The satisfying resistance of metal under a good tool, the way the material gave exactly as much as you asked for if you asked correctly.
+He didn't know. The question was large enough to hold a lifetime, or whatever portion of a lifetime remained.
 
 He began to file.
 
@@ -246,32 +214,18 @@ His breathing settled into the rhythm of the work. His shoulders dropped. The ti
 
 The file moved. The brass sang its small, rough song. The dark workshop held him the way it had always held him—without judgment, without expectation, without the weight of being extraordinary or ordinary or anything other than a person with good hands doing careful work.
 
-Outside, the city slept. The terraces rose in the dark—the lower districts cooling, the middle districts dimming, the upper terraces still warm with the residual channeling of people whose pools were large enough to sustain comfort through the night. A city of layers. A city running down. A city that would need, in the years ahead, things that worked without magic—pumps and lamps and heating elements and the unglamorous mechanical systems that Haran had been building in this workshop for thirty years while the rest of the world channeled its way toward a cliff and called it civilization.
-
-The self-winding lamp on the project wall. The gear-driven lift. The spring-loaded pump. The proof that the future could be built by hands, from materials, with patience.
-
-Ash filed the housing. The dimension narrowed. The shaft would fit. The mechanism would work—not today, not perfectly, but eventually, the way everything in this workshop eventually worked: through iteration, through failure, through the stubborn accumulation of small improvements made by people who understood that the difference between something broken and something functional was usually a fraction of a millimeter and the willingness to keep filing.
-
-The night moved around the workshop. The cold deepened and then, imperceptibly, began to ease—the faintest suggestion of warmth in the eastern sky, the first intimation of a dawn that was still an hour away. The cat he'd seen on the wall in the Thornwall district was probably asleep. The broadsheet was still on the wall, waiting for morning eyes. Dorenne's light was still on, or it had finally gone dark, and either way the charts were there, and the pencil was there, and the work of managing a declining resource was there, because it was always there, because the decline didn't sleep.
-
-And in the Velden building, the pump sat in its housing—silent, ready, the spring-loaded mechanism waiting for morning hands. Three families would come at dawn and turn the crank, twenty minutes each, the way they'd turned it yesterday and would turn it tomorrow, and water would flow. No pool. No reservoir. No deployment schedule. Just the physics of pressure and the patience of people who'd learned to provide for themselves because no one else was going to.
-
-Maren was somewhere in the lower district, sealing the next crack, or she'd finished and gone home, and either way she would sleep a few hours and wake and go to work and do it again. Her pool would recharge overnight—a thousand kilojoules, give or take, the budget of a young adult in a world running down—and she would spend it carefully, precisely, the way she spent everything, and it would not be enough and she would make it be enough anyway, the way she'd always done, the way she would always do, because that was who she was. The competent one. The reliable one. The sister who'd built herself around the shape of his absence and never asked anyone to notice.
-
-He would talk to her. Not tonight. Not with words he hadn't found yet. But soon. He owed her—not an apology, exactly, though apology was part of it. Something larger. Something that started with *I see you* and ended somewhere he couldn't map from here.
+The night moved around the workshop. The cold deepened and then, imperceptibly, began to ease—the faintest suggestion of warmth in the eastern sky. The broadsheet was still on the wall, waiting for morning eyes. Maren was somewhere in the lower district, sealing the next crack or sleeping before the next shift. He would talk to her. Not tonight. Not with words he hadn't found yet. But soon.
 
 The file moved. The brass gave.
 
-*What do you want to build?*
-
-He didn't know. He sat at his workbench in the dark workshop with a file in his hand and a half-finished mechanism under his palm and a reservoir in his chest that was warm and finite and pointed toward zero, and he didn't know. He didn't know what to build or how to build it or whether what he built would be enough. He didn't know if a season was long enough to matter. He didn't know if the broadsheet on the wall was the beginning of something or the end of something. He didn't know if Dorenne would hold the western district sites or if she'd recalculate and deploy someone else. He didn't know if Ryn would be at the junction tomorrow or if the distance between them had grown past the reach of an arm squeeze and a silence.
+He didn't know what to build. He didn't know if a season was long enough to matter. He didn't know if Dorenne would hold the western district sites or recalculate. He didn't know if Ryn would be at the junction tomorrow or if the distance between them had grown past the reach of an arm squeeze and a silence.
 
 He didn't know. And the not-knowing sat in his hands like a tool he hadn't learned to use yet—unfamiliar, heavy, full of potential he couldn't see.
 
-But his hands remembered the work. The work was always real.
+The work was always real.
 
-The file moved across the brass. The workshop held its silence. The dawn was coming—he could feel it in the air, the faintest shift in pressure, the way the world turned toward light the way water turned toward downhill, inevitably, without anyone channeling it there.
+In the Velden building, the pump sat in its housing—silent, ready. Three families would come at dawn and turn the crank, twenty minutes each, and water would flow.
 
-He sat at his bench. He worked. He didn't channel.
+The dawn was coming. He could feel it in the air, the faintest shift in pressure, the way the world turned toward light the way water turned toward downhill, inevitably, without anyone channeling it there.
 
 His hands remembered.

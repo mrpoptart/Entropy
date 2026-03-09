@@ -8,17 +8,11 @@ He'd left the workshop at dawn. Slept on the floor beside his workbench for a fe
 
 He hadn't planned what to say. The numbers were plain enough. Dorenne dealt in numbers.
 
-The civic buildings occupied the Second Terrace—broad stone structures with deep-set windows and the heavy, precise architecture of an era when channeling was abundant and permanence was the default aesthetic. The Infrastructure Directorate sat at the terrace's eastern edge, its facade reinforced so many times over the decades that the stone had a layered quality, like rings in a tree. Ash had walked through its doors a thousand times. First as an aide who carried files and organized schedules and smiled because smiling was the rent he paid for existing. Then as the Wellspring, summoned and deployed and tracked on charts that measured his output in units he'd never thought to question.
-
-The guards at the entrance nodded him through. They knew his face. Everyone in this building knew his face.
-
-He climbed the interior stairs to the third floor. The corridor was quiet—early enough that the administrative staff hadn't arrived, late enough that the night crews had gone home. His boots on the stone floor. The sound of a door closing somewhere below. The faint mineral smell of old channeling in the walls.
-
-Dorenne's office door was open. It was always open before the building filled. She worked best in the early hours, she'd told him once—before the meetings, the petitioners, the endless negotiations over allocation. Before the day required her to perform the role. In the early hours she was just a woman with charts and a problem she couldn't solve.
+The Infrastructure Directorate sat at the Second Terrace's eastern edge, its facade reinforced so many times that the stone had a layered quality, like rings in a tree. The guards nodded him through. He climbed the interior stairs to the third floor—his boots on stone, the faint mineral smell of old channeling in the walls—and found Dorenne's office door open, as it always was before the building filled.
 
 He stopped in the doorway.
 
-She was at her desk. The desk was broad, dark wood, covered in the organized disorder of a person who knew where everything was: deployment schedules in stacked sheaves, district maps with colored pins, the thick ledger where she tracked cumulative expenditures in her precise, angular hand. A cup of tea sat near her right elbow, steam rising in a thin line. She'd warmed it herself—he could tell from the faint residual heat in the air, the invisible efficiency of an elder channeler performing a task so small it cost her nothing.
+She was at her desk. The desk was broad, dark wood, covered in the organized disorder of a person who knew where everything was: deployment schedules in stacked sheaves, district maps with colored pins, the thick ledger where she tracked cumulative expenditures in her precise, angular hand. A cup of tea sat near her right elbow, steam rising in a thin line. She'd warmed it herself—he could tell from the faint residual heat in the air, the efficiency of someone who had spent forty years not wasting anything.
 
 She looked up.
 
@@ -40,7 +34,7 @@ Not the full accounting—not the reconstruction, the hours at the desk with the
 
 He didn't think about it that way. Not yet.
 
-"The Wellspring started at roughly fifty million kJ," he said. "I've used approximately twenty-eight million. Maybe thirty." He paused. "The earthquake alone was fifteen."
+"The Wellspring started at roughly five thousand elder-days," he said. "I've used approximately twenty-eight hundred. Maybe three thousand." He paused. "The earthquake alone was fifteen hundred."
 
 Dorenne's hands were flat on the desk. She didn't move.
 
@@ -114,13 +108,9 @@ The question was genuine. He heard it in her voice—not defensive, not rhetoric
 
 "If a water main is failing and I have one crew, I send them to the main that serves the most people. That's not callous. That's responsible."
 
-"I know."
+"I know." And he almost stopped there. He could feel the old machinery engaging—the accommodation, the smoothing-over, the part of him that had spent a lifetime making other people's discomfort go away. *She's right. She's doing her best. Let it go.* His mouth opened to say something conciliatory.
 
-"Then what—"
-
-"I'm not a water main."
-
-The words came out flat. Not angry—he'd expected anger, had braced for it on the walk over, had imagined the speech he might give, the accusations he might level. But the anger wasn't there. What was there was flatter than anger. Quieter. The dull recognition of a pattern he should have seen months ago and hadn't, because he'd been too grateful, too relieved, too high on the feeling of being useful to notice that useful was all he was.
+What came out was: "I'm not a water main."
 
 Dorenne's jaw tightened. A small motion—the kind of motion you'd miss if you weren't watching for it, if you hadn't spent years in this office learning the topography of this particular face.
 
@@ -138,33 +128,35 @@ She was right, and the rightness of it sat in his chest like a fist.
 
 * * *
 
-"Tell me," he said. "The deployment schedule. The order of sites. How did you decide?"
+"The charts," he said. "The deployment schedule. The hash marks. The projections running forward across months." He looked at the desk between them. "When did you start counting?"
 
-Dorenne blinked. "You've seen the criteria. Population served, structural urgency, cascading failure risk—"
+Dorenne was quiet for a moment. "The second week of reconstruction."
 
-"Not the criteria. The order. The specific order." He leaned forward slightly. "When you had two sites at equal priority, how did you decide which one I went to first?"
+"Before I knew."
 
-She was quiet.
+"Yes."
 
-"Because I looked at the charts," he said. "Last week. The sequence. And the sites that serve your constituency—the districts that vote for you, the neighborhoods where your support is strongest—those sites consistently ranked half a tier above equivalent sites in other districts."
+"You watched the number climb. Week after week. You tracked it. You calculated what I was spending and you saw the trajectory, and you didn't tell me." His voice was level. Not accusing. Factual, the way she was factual. "You let me keep going."
 
-"That's not—"
+"The work was necessary. Every site—"
 
-"It's not dramatic. It's not corruption. It's half a tier. A judgment call, each time, that could go either way. And each time it went the same way."
+"I know. Every site was necessary. Every deployment was justified. Every allocation was correct." He pressed his palms flat on his thighs. "That's not what I'm asking. I'm asking why you didn't tell me I was running down."
 
-Dorenne's face was still. Not the institutional stillness—something harder. The stillness of a person who has been seen.
+Her jaw tightened. The small motion—the one you'd miss if you weren't watching.
 
-"Every deployment is a judgment call," she said. "I make dozens of them a week. I do my best to—"
+"Because you would have stopped," she said. Quietly. "Or slowed. Or started making your own calculations about which sites mattered and which didn't, and the work would have suffered, and people would have—"
 
-"I know. And your best is better than anyone else's. That's true. You're the most competent person in this building, and the city is better off with you making those calls than anyone else I can think of." He paused. "And you've been spending me, Dorenne. Strategically. Efficiently. You've been spending a piece of me at every site, and some of those sites happened to serve your political position, and the math was always close enough that you could tell yourself it was just good governance."
+"So you managed it."
 
-She said nothing.
+"I managed the information. The way I manage—"
 
-"I don't think you did it on purpose. I think you did it the way you do everything—by instinct, by pattern, by the logic that's so deep in you that you don't see it operating. The same logic that hired me in the first place."
+"The way you manage a resource." The word sat between them. He heard himself say it and felt the shape of the thing that had been building in his chest since the pencil. "That's what I am in the framework. In your framework. A resource with a depletion curve. And the optimal strategy for a depleting resource is to extract maximum value before it's gone."
 
-"I hired you because you deserved a chance."
+"That is not—" Her voice cracked. Not much. A hairline fracture. "That is not what I—"
 
-"You hired me because a magicless aide was a political statement that cost you nothing. And because you saw something in me worth developing. And because you genuinely cared." He held her gaze. "All three. All at once. That's always been the problem."
+"I know." And he did. He could see it in her face—the genuine anguish, the woman behind the institution fighting to get past the walls she'd built around herself. She hadn't meant to. The framework had done it for her—the same framework that made her brilliant, that made her effective, that made her the best Director of Infrastructure in a generation. The framework that turned everything it touched into a system to be optimized. Including him.
+
+"You care about me," he said. "I believe that. And you built a deployment schedule around my output and tracked my expenditure in columns and planned a six-month allocation strategy and never once asked me what I wanted to do with what's left. Both of those things are true. Both of them. At the same time."
 
 Her hand moved to the tea cup. Lifted it. Set it down without drinking. The motion was small, controlled, the kind of displacement activity that meant the body needed to do something and the mind wouldn't let it do what it wanted.
 
@@ -178,9 +170,7 @@ Her hand moved to the tea cup. Lifted it. Set it down without drinking. The moti
 
 "About what I want to build with what's left," he said.
 
-Something crossed her face at the word *build*. He couldn't read it—surprise, maybe, or confusion, or the faint recognition of a concept that didn't fit inside her framework. Build. Not deploy. Not allocate. Not optimize.
-
-Build.
+Something crossed her face at the word *build*. He couldn't read it—surprise, maybe, or the faint recognition of a concept that didn't fit inside her framework.
 
 "How much time?" she asked.
 
@@ -232,33 +222,13 @@ He believed her. That was the worst of it. He believed her completely, and it di
 
 He walked out.
 
-* * *
+His jaw ached. He realized he'd been clenching it since he sat down in her office. His chest was tight—not the dropping sensation of the math, but something that sat behind his ribs like a closed fist and wouldn't open.
 
-The corridor was empty.
-
-He stood outside her door for a moment with his hand on the wall and his eyes closed. The stone was cool under his palm. Old stone, reinforced a dozen times, the layered channeling of generations compressed into a surface he could feel humming faintly if he pressed hard enough. The building was waking up—footsteps on the floor below, a door opening, the muffled sound of voices beginning the day's work.
-
-He breathed.
-
-His chest was tight. Not the dropping sensation of the math—not the floor falling away, the suddenly-visible walls of a reservoir he'd thought was infinite. Something different. Something that sat behind his ribs like a closed fist and wouldn't open. His jaw ached. He realized he'd been clenching it since he sat down in her office—clenching it through the numbers, through her pencil moving on the chart, through the careful, measured, devastating efficiency of a woman who processed the end of his power as a scheduling problem.
-
-He pushed off the wall. Walked.
-
-The corridor stretched ahead of him—stone floor, stone walls, the evenly spaced light fixtures that some maintenance channeler refreshed each morning, casting the same steady, neutral light they'd cast every day he'd worked in this building. First as an aide. Then as the most valuable asset the Directorate had ever had.
-
-Asset. The word arrived without invitation and settled into place with the click of something fitting where it belonged.
-
-He descended the stairs. Second floor. First floor. The entrance hall, wider here, the ceiling higher, the architecture designed to convey permanence and authority. A few early staff moved through the space—clerks, a maintenance worker, a woman carrying a stack of files who nodded at him as she passed. He nodded back. His face was doing the thing it always did—the performance of okayness, the surface that said *I'm fine, don't ask, nothing to see*. He'd been doing it his entire life. Before the Wellspring, it had been his primary skill. Apparently it still worked.
-
-The main doors were ahead. Morning light through the tall windows. The sounds of the Second Terrace beginning its day—the low murmur of the city waking, transit moving in the distance, the hum of a world that ran on magic and didn't think about what happened when the magic stopped.
-
-He was three steps from the doors when he saw her.
-
-* * *
+He descended the stairs. The entrance hall was bright with morning light. He was three steps from the doors when he saw her.
 
 Ryn was crossing the entrance hall.
 
-She was coming from the east corridor—the one that led to the public records office, where maintenance crews filed completion reports and picked up work orders. She had a folded sheaf of papers under one arm and her work jacket on, the heavy canvas one with the singed patch on the left sleeve that she'd never bothered to repair. Her hair was pulled back. Her boots were dusty.
+She was coming from the east corridor—the one that led to the public records office, where maintenance crews filed completion reports and picked up work orders. She had a folded sheaf of papers under one arm and her work jacket on, the heavy canvas one with the singed patch on the left sleeve that she'd never bothered to repair. He'd made that patch—a channeling exercise gone wide, months ago, before he'd learned control. She still wore it. Her hair was pulled back. Her boots were dusty.
 
 She saw him at the same moment he saw her.
 
@@ -316,7 +286,7 @@ She walked. The distance grew. Her figure diminished—the jacket, the boots, th
 
 He stood at the junction.
 
-The city hummed below him. The wind pressed against his coat. The reservoir sat in his chest, warm and finite, its edges as clear as the walls of a room he'd finally measured. Twenty-two million kJ, give or take. A number. A budget. A countdown dressed up as a resource, or a resource dressed up as a countdown, and the difference between the two was supposed to matter but right now, standing alone on a terrace road in the morning cold, it didn't.
+The city hummed below him. The wind pressed against his coat. The reservoir sat in his chest, warm and finite, its edges as clear as the walls of a room he'd finally measured. Twenty-two hundred elder-days, give or take. A number. A budget. A countdown dressed up as a resource, or a resource dressed up as a countdown, and the difference between the two was supposed to matter but right now, standing alone on a terrace road in the morning cold, it didn't.
 
 He thought about Dorenne's pencil. The way it had appeared in her hand—he hadn't seen her pick it up—and started moving before the silence between them had finished settling. Before the word *dying* had cooled. The pencil moving, the figures forming, the institutional mind engaging with the data the way it engaged with every piece of data that entered that office: as a problem to be solved. A resource to be allocated. A constraint to be optimized around.
 
@@ -326,7 +296,7 @@ And Ryn had squeezed his arm and said nothing and walked away, and that had been
 
 He turned downhill.
 
-The walk was long. He didn't hurry. The terraces descended and the buildings changed—broader, better-maintained on the upper levels, then narrower, more worn, the stone showing cracks that had been patched and re-patched, the infrastructure layered with repairs like the rings in a tree. He passed a heating lattice that was dead—fully dark, the stones cold under his boots, the residual channeling long since faded. He passed a water tap that dripped steadily into a basin no one had emptied. He passed a wall where someone had chalked a message he didn't stop to read.
+The walk was long. He didn't hurry. The terraces descended and the buildings changed—narrower, more worn, the stone showing cracks that had been patched and re-patched. The heating lattices dimmed as he went—amber on the upper terraces, then faint, then dark, the stones cold under his boots. He passed a water tap that dripped steadily into a basin no one had emptied. He passed a wall where someone had chalked a message he didn't stop to read.
 
 He walked, and the tight thing in his chest didn't loosen, and he didn't try to make it. Some things didn't loosen. Some things sat where they were and you carried them, the way you carried a stone in your pocket, the way you carried a number in your head, the way you carried the knowledge that the first person outside your family who'd ever given you a chance had heard you say *I'm dying* and reached for a pencil.
 
@@ -360,25 +330,11 @@ He loosened them. Deliberately. Finger by finger, the way you released a grip on
 
 He breathed. The air was cold and tasted of stone and distance and the faint mineral trace of old channeling in the retaining wall below. The city spread out beneath him—the terraces, the rooftops, the districts he'd reinforced and the districts he hadn't, the infrastructure that ran on magic that was running out and on people who were running down and on systems that had been built for a world that no longer existed.
 
-He sat with it.
+He sat with it. Not with anger. Not with grief, exactly, though grief was there, folded into the tight space behind his ribs. With something flatter—the feeling of a door closing. Not slamming. The click of a latch. The silence after.
 
-Not with the anger—he wasn't angry. Not with grief, exactly, though grief was there, folded into the tight space behind his ribs. With something flatter. Something that didn't have a name, or that had a name he didn't want to use, because the name was *clarity* and clarity was supposed to feel like resolution and this didn't feel like resolution. This felt like the moment after you set down something heavy and your arms kept aching and you couldn't tell whether the ache was from the carrying or from the letting go.
+Both things. Always both things. The woman who sat with him in the transit hub and the woman who picked up the pencil. He couldn't separate them. He wasn't sure she could either.
 
-She'd given him a chance. That was true.
-
-She'd given him dignity. She'd seen a person when the world saw a dead weight, a charity case, a drain on his family's resources and patience. She'd hired him and trained him and trusted him with work that mattered, and he'd walked into her office every morning feeling like a person who belonged somewhere, and that feeling—the first time in his life he'd had it—was real. She'd given him that. It was a gift he would carry for the rest of his life, and it had been, simultaneously, a strategic investment that paid dividends she was tracking on a chart.
-
-Both things. Always both things. The care and the calculation. The person and the function. The woman who sat with him in the transit hub and the woman who picked up the pencil.
-
-He couldn't separate them. Nobody could. That was the trap—not a trap she'd built, but the trap of a framework so deep, so total, so genuinely useful that the person inside it couldn't see the walls. Dorenne's institutional logic wasn't a choice. It was the architecture of her mind. The same structure that made her brilliant—the ability to see systems, to parse priorities, to manage complexity with the precision of someone who'd spent decades learning the mechanisms of a city—was the structure that made her see people as components. Not because she wanted to. Because the framework had no other category.
-
-He was a component.
-
-He'd always been a component. Before the Wellspring—the aide, the charity project, the magicless young man whose presence demonstrated the Director's compassion. After the Wellspring—the asset, the resource, the deployment schedule's central variable. The role had changed. The underlying relationship hadn't.
-
-He sat on the bench and understood this and the understanding didn't bring relief. It brought the flat, quiet, settled feeling of a door closing. Not slamming. Closing. The click of a latch. The silence after.
-
-The maintenance crew finished their work on the retaining wall. They packed their tools. One of them—the youngest, a woman about his age—wiped her face with the back of her hand. She looked tired. Spent. The kind of spent that meant she'd used most of her pool and still had the rest of a shift ahead. She shouldered her tool bag and followed her crew down the terrace steps, and Ash watched her go and thought: *That's what the city runs on. Not me. Her. Four people and a morning and a crack in a wall, and they'll be back tomorrow for the next one.*
+The maintenance crew finished their work on the retaining wall. They packed their tools. One of them—the youngest, a woman about his age—wiped her face with the back of her hand. She looked tired. Spent. The kind of spent that meant she'd used most of her pool and still had the rest of a shift ahead. She worked the way Maren worked—precise, careful, stretching what she had because what she had was all there was. She shouldered her tool bag and followed her crew down the terrace steps.
 
 He thought of Haran's question.
 
@@ -390,10 +346,4 @@ He stood.
 
 The bench was cold where he'd been sitting. The sun was higher now—mid-morning, the city in full motion, the terraces busy with the traffic of people living their lives. He put his hands in his pockets and turned downhill.
 
-He didn't know where he was going. That was all right. The question would keep.
-
-Behind him, on the Second Terrace, a light burned in the Infrastructure Directorate's third-floor window. The Director was at her desk. The charts were spread before her. The pencil was moving.
-
-She was doing what she'd always done. She was managing a diminishing resource with the competence and precision of a woman who had never learned another way to care. She was calculating the optimal sequence for the remaining sites, the highest-value allocation of the remaining weeks, the most efficient expenditure of the remaining power. She was doing her job.
-
-And in the margin of the deployment chart, in a space she hadn't planned to use, a small notation—not a number, not a calculation—sat unfinished. Two letters, abandoned. The beginning of his name, written and crossed out, in handwriting that shook.
+He didn't know where he was going.

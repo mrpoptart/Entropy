@@ -1,6 +1,6 @@
 # Chapter 2
 
-He arrived at the Hall of Infrastructure an hour before dawn, which meant he'd left the apartment ninety minutes before that, which meant he'd been awake since some lightless hour he'd stopped tracking after the second cup of tea. His mother had left a bowl of porridge on the stove, still warm from her channeling — a small, daily kindness measured in kilojoules she couldn't spare, performed so quietly that he sometimes wondered if she thought about it at all, or if it had simply become part of the rhythm of her body: wake, channel the stove, go back to sleep.
+He arrived at the Hall of Infrastructure an hour before dawn, which meant he'd left the apartment ninety minutes before that, which meant he'd been awake since some lightless hour he'd stopped tracking after the second cup of tea. His mother had left a bowl of porridge on the stove, still warm from her channeling — a small, daily kindness measured in pool she couldn't spare, performed so quietly that he sometimes wondered if she thought about it at all, or if it had simply become part of the rhythm of her body: wake, channel the stove, go back to sleep.
 
 He'd eaten standing up. He'd washed the bowl by hand. He'd laced his boots in the dark.
 
@@ -462,7 +462,7 @@ He walked home through the dark streets, his legs tired from the ramp and his mi
 
 It didn't sting. Tonight, for the first time in two weeks, the small daily evidence of his limitation didn't carry the weight it usually did. Not because anything had changed — his hands were still his hands, empty of channeling, incapable of the basic participation that every other person in Solathis performed without thinking. The absence was the same. The difference was that today he'd found something else to put in the space where the absence lived. Not power. Function. A desk at the table, a problem he'd noticed, a director who trusted him enough to let him guess.
 
-He climbed the five flights to the apartment. His mother had left the stove on low — he could feel the warmth when he opened the door, the particular quality of channeled heat that she maintained through the evening so the apartment would still be warm when he came home. An act of care so automatic she probably hadn't thought about it. A kindness measured in kilojoules and performed in his absence, the way he performed his own kindnesses in hers — the fixed hinges, the laid kindling, the table set before dawn.
+He climbed the five flights to the apartment. His mother had left the stove on low — he could feel the warmth when he opened the door, the particular quality of channeled heat that she maintained through the evening so the apartment would still be warm when he came home. An act of care so automatic she probably hadn't thought about it. A kindness measured in pool and performed in his absence, the way he performed his own kindnesses in hers — the fixed hinges, the laid kindling, the table set before dawn.
 
 He ate standing up in the kitchen — leftover rice, cold, the saffron still fragrant. He washed the plate by hand. He banked the stove.
 

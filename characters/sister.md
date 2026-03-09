@@ -3,7 +3,7 @@
 **Maren**
 
 ## Basics
-- **Age:** Approximately two years younger than Ash
+- **Age:** Twenty-one (approximately two years younger than Ash)
 - **Gender:** Female
 - **Location:** The city — same city as Ash
 - **Magical Status:** Normal pool (though on the weaker end of her generation, consistent with the decline). Highly skilled channeler — gets more out of her pool than most through sheer discipline and practice.

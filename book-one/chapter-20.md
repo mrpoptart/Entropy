@@ -4,7 +4,7 @@ The hill was steeper than he remembered.
 
 Ash descended through the lower districts with his hands in his coat pockets and his shoulders drawn against the cold. The streets narrowed as he went—wider avenues giving way to stepped lanes, then to passages barely wide enough for two people to pass. The heating lattices in the paving stones had gone dark three terraces ago. His breath came in thin clouds that the wind took apart before they cleared his chin.
 
-He hadn't planned this. Hadn't decided. His quarters at the command post still held the papers—the columns, the numbers, the box drawn around a range that contained the span of his remaining usefulness. He'd lain on the cot for an hour, maybe two, in a dark room that smelled of spent tallow, and then he'd gotten up and put on his coat and walked out the door and turned downhill.
+He hadn't planned this. Hadn't decided. His quarters at the command post still held the papers—the columns, the numbers, the box drawn around a range that contained the span of his remaining usefulness. He'd lain on the cot for an hour, maybe two, in a dark room that smelled of spent tallow, and the panic had been a physical thing — a compression in his chest, his breathing shallow and fast, his hands gripping the edges of the cot the way you gripped something during an earthquake. The walls had pressed inward with a weight that had nothing to do with stone. Twice he'd reached for the reservoir without meaning to, the way a drowning person reached for anything solid, and twice he'd pulled back because touching it now felt like watching sand run through his fingers. The third time he'd reached, something worse: a flash of the arithmetic, the number on the paper, the box shrinking with every breath. Then he'd gotten up and put on his coat and walked out the door and turned downhill.
 
 Not to Dorenne's office. Not to his parents' house in the middle district. Not to the transit hub where the night crews were working.
 
@@ -18,7 +18,7 @@ He tried the door. It opened.
 
 The workshop smelled the same.
 
-Oil and sawdust and the mineral bite of cut metal, layered under the warmth that accumulated in a low-ceilinged space where someone had been working for hours. The benches held their familiar disorder—components in various states of assembly, racks of tools along the south wall, the big lathe in the back corner. The stove in the far wall was unlit. The room was warm anyway.
+Oil and sawdust and the mineral bite of cut metal, layered under the warmth that accumulated in a low-ceilinged space where someone had been working for hours. The benches held their familiar disorder—components in various states of assembly, racks of tools along the south wall, the big lathe in the back corner. The stove in the far wall held low embers, barely glowing. The room was warmer than the embers could account for.
 
 Haran was at the central bench.
 
@@ -37,10 +37,6 @@ It was in the same place it had always been—the third station from the door, t
 He stared at it.
 
 Haran had kept it ready. Not for a week, not as a gesture. For weeks. Through the earthquake and the reconstruction and the long stretch of deployments that had filled Ash's days from first light to dark. Through the absence that had grown so complete that Ash had stopped noticing it—the way you stopped noticing a room you'd moved out of, the way you stopped thinking about a language you'd stopped speaking. Haran had cleaned the bench and oiled the vise and arranged the tools and left the lamp bracket empty because empty meant waiting and waiting meant faith.
-
-*You'll come back. This will still be here.*
-
-The thought sat in his chest like a stone.
 
 He looked away.
 
@@ -76,7 +72,7 @@ A crank. A spring. Twenty minutes.
 
 "How much channeling does it use?" he asked.
 
-Haran looked at him. His eyes held something—not quite amusement, not quite sorrow. The quality that amusement and sorrow shared when they arrived in the same face at the same time.
+Haran looked at him. His eyes held something—not quite amusement, not quite sorrow.
 
 "None," he said. "It's mechanical."
 
@@ -98,7 +94,7 @@ Ash watched his hands.
 
 The old man's right hand rested on the side of the kettle for a moment. Not gripping. Just touching—the flat of his palm against the copper, light as a thought. There was no visible effort. No glow, no shift in the air, no sound. Just Haran's hand on the kettle and then, a few seconds later, the faint click of water beginning to move inside.
 
-A micro-pulse. A thread of channeling so precise it warmed the water and nothing else—not the kettle's handle, not the shelf beneath it, not the air between them. The kind of surgical, invisible efficiency that Ash had tried and failed to replicate on a brass test piece in this same workshop weeks ago. The thumbnail of heat. The controlled input that asked only what it needed and received exactly that.
+A micro-pulse. A thread of channeling so precise it warmed the water and nothing else—not the kettle's handle, not the shelf beneath it, not the air between them. The kind of surgical efficiency that Ash had tried and failed to replicate on a brass test piece in this same workshop weeks ago. The thumbnail of heat. The controlled input that asked only what it needed and received exactly that. If he could learn to channel like that—if he could cut the waste from every deployment—the numbers in his quarters would change. Not enough. But they would change.
 
 Haran had an elder-generation pool. He'd had it his entire life. And what he did with it, day after day, year after year, was heat kettles and tend lamps and keep a workshop warm—a hundred tiny applications that cost almost nothing individually and added up to a life spent using power the way a master carpenter used a chisel. Not because he couldn't swing a hammer. Because the chisel was what the work required.
 
@@ -122,11 +118,11 @@ He told Haran the numbers.
 
 Not all of them—not the full accounting, the page-by-page reconstruction, the hours of pencil work in a dim room with a guttering candle. He gave Haran what the math added up to, because Haran was the kind of person who cared about what the numbers meant, not how you arrived at them.
 
-"The Wellspring started at roughly fifty million kJ," he said. "I've spent approximately twenty-eight million. Maybe thirty. The edges are imprecise."
+"The Wellspring started at roughly five thousand elder-days," he said. "I've spent approximately twenty-eight hundred. Maybe three thousand. The edges are imprecise."
 
 Haran held his tea. His face was still.
 
-"The earthquake alone was fifteen million. Maybe more." Ash's voice was level. He'd had time to sit with this. The tremor in his hands was gone, replaced by something flatter—the exhausted calm of a person who had finished being shocked and was now simply telling the truth. "The training period, the deployments, the reconstruction after. It adds up."
+"The earthquake alone was fifteen hundred elder-days. Give or take." Ash's voice was level. He'd had time to sit with this. The tremor in his hands was gone, replaced by something flatter—the exhausted calm of a person who had finished being shocked and was now simply telling the truth. "The training period, the deployments, the reconstruction after. It adds up."
 
 He paused. Drank. Set the cup down again.
 
@@ -136,15 +132,9 @@ He stopped talking.
 
 Haran said nothing.
 
-The workshop held its sounds. The building creaked—old stone settling, the way all buildings in the lower districts settled, the ancient channeling in their foundations thinning year by year. Outside, somewhere in the district, a door closed. The wind pressed against the side window and withdrew.
+The workshop held its sounds. The building creaked—old stone settling, the ancient channeling in its foundations thinning year by year. Outside, a door closed. The wind pressed against the side window and withdrew.
 
-Ash waited. He'd said what he came to say. The numbers were on the table—not on paper this time, but in the air between them, the shape of them as clear and final as the box he'd drawn around the range in his quarters. Eleven to twenty-one weeks. A season and a half. The span of his remaining usefulness, measured and spoken and no longer his alone.
-
-Haran drank his tea. He set the cup down on the bench with a small, exact sound—the sound of clay on wood, deliberate, unhurried.
-
-The silence went on.
-
-Ash felt it in his body—the silence. Not the suffocating weight of the numbers, not the falling sensation he'd had in his quarters when the projections resolved into weeks. Something different. Something held. The silence had a quality he couldn't name, the quality of a room where someone was thinking and the thinking was going somewhere and the person doing the thinking was not going to rush.
+Haran drank his tea. He set the cup down on the bench with a small, exact sound—clay on wood, deliberate, unhurried. The silence held. Not the suffocating weight of the numbers, not the falling sensation from his quarters. Something different. The silence of a room where someone was thinking and the thinking was going somewhere and the person doing the thinking was not going to rush.
 
 He looked at Haran.
 
@@ -168,15 +158,11 @@ Ash sat on the stool and the words moved through him and something in his chest 
 
 *What do you want to build with it?*
 
-Not: How do you slow the loss?
-
-Not: How do you get more?
-
-Not: What went wrong? Who's responsible? How did you waste so much? Why didn't you check sooner?
+Not: How do you slow the loss? Not: What went wrong?
 
 Not even: I'm sorry.
 
-Build. What do you want to build?
+*Build.* What do you want to build?
 
 The question sat in the space where the panic had been. And the panic—the suffocating, airless compression that had filled his chest since the candle went out in his quarters, since the numbers resolved, since the word *half* appeared on the paper and refused to change—the panic gave way. Not entirely. Not forever. But enough. Enough to draw a breath that reached the bottom of his lungs.
 
@@ -184,9 +170,9 @@ Haran watched him. Not with concern. Not with the careful, calibrated sympathy o
 
 "I don't know," Ash said.
 
-Haran nodded. The nod was small—barely a motion. It said: that's fine. It said: the question doesn't need an answer tonight. It said: the fact that you heard it as a real question is enough.
+Haran nodded. The nod was small—barely a motion.
 
-"I don't know what to build," Ash said. His voice cracked on the last word—a small fracture, nothing dramatic, the kind of crack that appeared in a voice that had been holding steady for too long. He pressed his jaw shut and waited for it to pass. It passed. "I don't even know if—I spent half of it. Half. In eight weeks. And most of the early spending was waste. Training waste, assessment waste, just—flooding. Running hot. Four million kJ gone before I could even aim."
+"I don't know what to build," Ash said. His voice cracked on the last word—a small fracture, nothing dramatic, the kind of crack that appeared in a voice that had been holding steady for too long. He pressed his jaw shut and waited for it to pass. It passed. "I don't even know if—I spent half of it. Half. In eight weeks. And most of the early spending was waste. Training waste, assessment waste, just—flooding. Running hot. Four hundred elder-days gone before I could even aim."
 
 He stopped. He was looking at his own hands, curled around the cup on the bench, and his hands were still. The tremor was gone. What remained was a stillness that felt like the stillness of something finished.
 
@@ -196,13 +182,13 @@ Two words. Quiet. Not a claim of understanding—Haran didn't have a Wellspring,
 
 Ash breathed.
 
-"The earthquake was fifteen million," he said. "Forty percent of what I'd spent. Forty percent of everything I used, in four days of holding up a city."
+"The earthquake was fifteen hundred elder-days," he said. "More than half of what I'd spent. Over half of everything I used, in four days of holding up a city."
 
 "Was it worth it?"
 
 The question was so simple that it took a moment to hear.
 
-"Yes," Ash said. "Every kJ. Every hour. The buildings stood. The dam held. People are alive because—" He stopped. Swallowed. "Yes."
+"Yes," Ash said. "Every drop. Every hour. The buildings stood. The dam held. People are alive because—" He stopped. Swallowed. "Yes."
 
 Haran picked up his cup. Drank. Set it down.
 
@@ -230,25 +216,19 @@ No accusation in it. No edge. The simple fact of an absence, stated the way you'
 
 "Yes."
 
-"And the Velden families? Would they know how it worked?"
+"And the Velden families wouldn't know how it worked."
 
 Ash was quiet.
 
-"Would they know how to fix it when the pressure seal fails in two years? Would they know how to machine a replacement fitting? Would Petra know she could calibrate a valve seat? Would Davel know his pressure regulator design works?"
-
-The questions accumulated. They didn't sound like accusations and they weren't. They sounded like the questions Haran always asked—questions about mechanisms, about systems, about what happened after the initial burst of energy was spent and the work of maintaining something fell to the people who lived with it.
+"Pressure seal fails in two years. Nobody knows how to machine a replacement fitting. Petra never learns she can calibrate a valve seat. Davel never finds out his pressure regulator design works." Haran set the collar down. "You'd have built them a thing they couldn't maintain."
 
 "The pump took six weeks," Haran said. "Twelve households contributed. Petra learned valve calibration. Davel designed a component. Three kids from the building next door watched every day and one of them asked to apprentice." He set his cup down. "That's what the pump cost. That's also what the pump built."
 
-Ash stared at the diagram.
+Ash stared at the diagram. He thought of the girl—standing at the workshop window, hands on the sill, watching Petra set the valve seat the way Ash had once watched Haran thread a fitting. Six weeks of watching. And then she'd asked.
 
-Six weeks. For a pump he could have finished in an afternoon. Six weeks of hands and patience and community contribution, of people learning how to fix the thing they depended on, of a girl from the building next door watching through the window and wanting to understand.
-
-He thought of Dorenne's deployment schedule—the hash marks marching forward, the sites completed, the cumulative totals. Efficient. Clean. One person, deployed to maximum effect. Buildings repaired in minutes. Water systems restored in hours. The work of twenty crews, accomplished by a single Wellspring.
+He thought of Dorenne's deployment schedule. Efficient. Clean. One person, deployed to maximum effect. The work of twenty crews, accomplished by a single Wellspring.
 
 And when the Wellspring was gone?
-
-The question he hadn't asked himself. The question the numbers had been pointing toward all evening, underneath the calculations, underneath the projections. Not how long do I have, but what happens after.
 
 What happens when the resource is spent and the city still needs water and the buildings still crack and the old channeling still thins?
 
@@ -282,6 +262,8 @@ Haran turned the brass shaft collar in his hands. The rag moved over it—slow, 
 
 "Since you walked through that door the first time after the activation," he said. "With your blood running fast and the reservoir pushing at the inside of your hands. I watched you fuse a fitting that was designed to come apart." He set the collar down. "A resource that can't be replenished gets used up. That's what resources do."
 
+Ash sat with that. The first time. The very first afternoon, when the reservoir was enormous and untouched and the world felt like it would never run out of anything. Haran had known then. Had watched Ash spend and spend and said nothing except *how much did that cost you?* and waited—months—for the answer to change.
+
 "You didn't say anything."
 
 "I asked you how much it cost."
@@ -304,7 +286,7 @@ Haran nodded. The nod was the same as before—small, barely a motion, carrying 
 
 "Everything costs something," he said. "The question was never how much. The question was always what you're buying."
 
-The words settled into the workshop's quiet. Ash turned them over the way he'd turn a mechanism—examining the faces, testing the fit. Everything costs something. The fused fitting. The earthquake. The buildings held, the dam sealed, the lives saved. The four million kJ of training waste. The twenty-eight million total. The eighteen weeks remaining.
+The words settled into the workshop's quiet. Ash turned them over the way he'd turn a mechanism—examining the faces, testing the fit. Everything costs something. The fused fitting. The earthquake. The buildings held, the dam sealed, the lives saved. The four hundred elder-days of training waste. The twenty-eight hundred total. The eighteen weeks remaining.
 
 The question was always what you're buying.
 
@@ -320,7 +302,7 @@ He moved through the workshop with the ease of a man closing a day he was satisf
 
 Haran paused at the storage rack. He didn't turn around.
 
-"It's not who I am," Ash said. The words came out quiet. Rougher than he intended. "It's a resource. It's—it's a budget. A large one. A finite one." He looked at his hands on the bench. "And resources are for building."
+"It's not who I am," Ash said. The words came out quiet. Rougher than he intended. "It's a resource. It's—it's a budget. A large one. A finite one." He looked at his hands on the bench.
 
 Haran turned. He stood at the rack with a rag in one hand and the still, attentive expression of a man who was hearing something he'd been waiting a long time to hear—not with triumph, not with I-told-you-so satisfaction, but with the plain, undecorated relief of a man who cared about a young person and had just watched that young person take a step in the right direction.
 
@@ -342,13 +324,15 @@ Not how long. Not how much is gone. Not the panicked arithmetic of a countdown, 
 
 *What do you want to build?*
 
-The question was open. It pointed forward. It assumed a future—not an infinite one, not a comfortable one, but a future where what remained was still enough to do something with. A budget, not a death sentence. A resource, not an identity.
+The question was open. It pointed forward. It assumed a future—not an infinite one, not a comfortable one, but a future where what remained was still enough to do something with.
 
-He climbed the terraced streets. Below him, the lower districts sat in their dark—the Velden building among them, its utility space holding a pump that ran on a hand crank and a spring, that three families turned for twenty minutes each morning, that Petra had calibrated and Davel had improved and twelve households had paid for with a hundred and forty marks and six weeks of work. Water flowing in a district that had hauled it in buckets for half a year. Water that would flow tomorrow, and the day after, and the year after, regardless of what happened to the Wellspring or the pools or the world's diminishing magic.
+He climbed the terraced streets. Somewhere in the city, Ryn was awake—he didn't know how he knew, but he did—and the thought of her seeing him now, walking uphill from the workshop with the question still open, was not unwelcome. Below him, the lower districts sat in their dark—the Velden building among them, its utility space holding a pump that ran on a hand crank and a spring, that three families turned for twenty minutes each morning, that Petra had calibrated and Davel had improved and twelve households had paid for with a hundred and forty marks and six weeks of work. Water flowing in a district that had hauled it in buckets for half a year. Water that would flow tomorrow, and the day after, and the year after, regardless of what happened to the Wellspring or the pools or the world's diminishing magic.
 
 Haran's way worked. It just worked quietly.
 
-The wind pressed against his back. He climbed. The reservoir hummed in his chest—warm, present, finite. He could feel its edges now, the walls of it, the shape of what remained. Twenty-two million kJ, give or take. A number he could hold in his mind the way you held a budget: with awareness, with intention, with the understanding that every expenditure was a choice and every choice was a purchase and the question was never how much it cost but what you were buying.
+The wind pressed against his back. He climbed. The reservoir hummed in his chest—warm, present, finite. He could feel its edges now, the walls of it, the shape of what remained. Twenty-two hundred elder-days, give or take. A number he could hold in his mind the way you held a budget: with awareness, with intention, with the understanding that every expenditure was a choice and every choice was a purchase and the question was never how much it cost but what you were buying.
+
+Tomorrow there would be Dorenne's schedule. The deployment list. The hash marks and the sites and the questions he would have to answer or refuse to answer. That was coming. He could feel it the way he could feel the wind—steady, impersonal, already in motion.
 
 He passed a junction where a maintenance lamp still burned—one of the old channeled fixtures, its stone disc glowing with the residual energy someone had poured into it days ago, fading now, the light more amber than white. It would go dark by morning. Someone would recharge it, or someone wouldn't, and the junction would be a little darker, and the city would adjust the way it always adjusted—the slow, unremarked accommodation of decline.
 

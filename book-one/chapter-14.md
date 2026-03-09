@@ -96,9 +96,13 @@ He waited for more. For the qualification. For the "but." For the thing that cam
 
 She said nothing.
 
+*She doesn't understand*, he thought. *She's disappointed. She sees the deployments and the numbers and she thinks I've lost something, and she doesn't understand that what I've gained is the first real thing I've ever had.*
+
 The silence extended. It filled the space between them the way water filled a crack—slowly, completely, finding every gap. She looked at the river. He looked at her. The lamplighter moved to the next lamp. The evening deepened.
 
 He should have said something. Should have asked her about her work, her days, the people she spent time with now that he wasn't one of them. Should have asked about the seed cakes at the Fourth Terrace market, or whether she'd been to the quarry overlook, or how her channeling was holding up as the pools thinned and the maintenance shifts grew longer. Should have asked how she was. The way she'd asked him.
+
+He almost turned back. His weight shifted — a half-step, the beginning of a pivot, his mouth opening around a word he hadn't chosen yet.
 
 He thought about the deployment brief on his desk. The Ridgewall second pass. Population: 8,400. Estimated: four hours.
 
@@ -116,7 +120,7 @@ They stood on the walkway above the gorge. The river below. The lamps coming ali
 
 "Okay."
 
-He turned. Walked. His stride was the one he'd developed over weeks of crossing the city between deployments—purposeful, direct, the shortest path between where he was and where the need was. Behind him, Ryn stood on the walkway. He didn't look back. If he had, he would have seen her watching him go with her hands at her sides, the bag on her shoulder, the oil smudge dark on her jaw in the failing light. He would have seen her stand there for a long time after he turned the corner. He would have seen her expression—the one he couldn't read—settle into something simpler and sadder, the look of a person who had said the truest thing she could say and watched it land on stone.
+He turned. Walked. His stride was the one he'd developed over weeks of crossing the city between deployments—purposeful, direct, the shortest path between where he was and where the need was.
 
 He didn't look back. He was thinking about the Ridgewall heating grid.
 
@@ -216,7 +220,7 @@ His father looked at his hands. The hands that had built things with Ash—the s
 
 "I know." His father raised a hand—the gesture of a man pulling back from a place he hadn't meant to go. "I know. I'm doing it again."
 
-The front door opened. Maren came in—hair pulled back, the particular tiredness in her face that came from sustained channeling on a depleted pool. She wore her work clothes, the heavy canvas jacket with the Bureau insignia on the shoulder, the jacket she'd earned through years of disciplined, excellent work in a system that demanded more from her generation than it had demanded from the one before.
+The front door opened. Maren came in—hair pulled back, the particular tiredness in her face that came from sustained channeling on a depleted pool. She wore her work clothes, the heavy canvas jacket with the maintenance service insignia on the shoulder, the jacket she'd earned through years of disciplined, excellent work in a system that demanded more from her generation than it had demanded from the one before.
 
 "Am I late?" she said.
 
@@ -264,13 +268,13 @@ Maren's spoon stopped.
 
 "Fifty."
 
-"The original channeling was laid by the Ancient generation. Pools of fifty thousand kilojoules a day. The kind of output that—" He saw her face change. Not abruptly. The way a sky changed when a cloud crossed the sun—the same landscape, the same colors, but the light different. Colder. "The scale is—it's hard to describe."
+"The original channeling was laid by the Ancient generation. Pools ten times what any elder alive has now. Maybe fifty times what you have. The kind of output that—" He saw her face change. Not abruptly. The way a sky changed when a cloud crossed the sun—the same landscape, the same colors, but the light different. Colder. "The scale is—it's hard to describe."
 
 "I can imagine," she said.
 
-She went back to her stew. The spoon moved. The silence that followed was specific—the silence of a person who had asked a question and received an answer that confirmed something they'd rather not have confirmed. The gap between her daily pool and his reservoir was a number neither of them would say at the table. She knew her own number. A thousand kilojoules on a good day, less when she was tired, less than that when the decline took another fraction that she measured the way you measured rainfall—in increments too small to notice except over seasons.
+She went back to her stew. The spoon moved. The silence that followed was specific—the silence of a person who had asked a question and received an answer that confirmed something they'd rather not have confirmed. The gap between her daily pool and his reservoir was a number neither of them would say at the table. She knew her own capacity. Enough to heat a room on a good day, less when she was tired, less than that when the decline took another fraction that she measured the way you measured rainfall—in increments too small to notice except over seasons.
 
-His number was an ocean. A number she couldn't hold in her mind the way she couldn't hold the sky—too large, too formless, too far from the scale at which her life operated.
+His capacity was an ocean. Something she couldn't hold in her mind the way she couldn't hold the sky—too large, too formless, too far from the scale at which her life operated.
 
 She ate her stew.
 
@@ -292,8 +296,6 @@ His father opened his mouth. Closed it. His hands were on the table again—flat
 
 "How long are you staying tonight?" his father asked.
 
-Not the question. A different question. The question that stood in for the one he couldn't ask, the way a scaffold stood in for the building it would become.
-
 "I should probably head back soon," Ash said. "The Ridgewall deployment is early. Dorenne wants me at the junction by six."
 
 His father nodded. The nod was slow. Deliberate. The nod of a man who had heard what he expected to hear and was absorbing the weight of it.
@@ -310,9 +312,7 @@ His father nodded. The nod was slow. Deliberate. The nod of a man who had heard 
 
 "Yes."
 
-His father looked at him. The look was long. Unhurried. It held everything his father had been trying to say with mentions of the shelf and the cistern and the dovetail joints—everything he'd been reaching for in sideways compliments and remembered projects. The look said: *I loved you before this. I was proud of you before this. Did you know?*
-
-Ash didn't hear it. The look arrived at the surface of his attention and stayed there, the way Ryn's silence had stayed—present, visible, carrying weight he registered but didn't lift.
+His father looked at him. The look was long. Unhurried. It held everything his father had been trying to say with mentions of the shelf and the cistern and the dovetail joints—everything he'd been reaching for in sideways compliments and remembered projects. Ash didn't hear it. The look arrived at the surface of his attention and stayed there, the way Ryn's silence had stayed—present, visible, carrying weight he registered but didn't lift.
 
 "I'll come back next week," Ash said.
 
@@ -332,13 +332,9 @@ He didn't ask.
 
 "I should go," he said.
 
-His father stood when he stood. Walked with him to the door. The short hallway—four steps—that separated the table from the threshold. The same hallway where Ash had walked ten thousand times, coming and going, the wood floor worn smooth by the family's passage.
+His father walked him to the door. At the threshold, his father's hand found his shoulder and didn't let go.
 
-At the door, his father put a hand on his shoulder again. The same grip. The same weight. But his father didn't let go immediately this time. He held on. His fingers pressed into Ash's shoulder through the fabric of his coat, and the pressure was specific—the grip of a man holding something he was afraid of losing, not to danger but to distance.
-
-"Come home," his father said.
-
-Not *come back*. Come *home*.
+"Come home," his father said. Not *come back*. Come *home*.
 
 Ash covered his father's hand with his own. Squeezed. The gesture was automatic—the reassurance of a son who loved his father and didn't understand what his father was afraid of.
 
@@ -346,9 +342,7 @@ Ash covered his father's hand with his own. Squeezed. The gesture was automatic�
 
 His father let go. Ash stepped into the hallway. Behind him, the apartment held its warmth—the stew's lingering fragrance, the channeled walls, the table with the good plates and the rosemary bread and the water in the cracked pitcher. His mother stood in the kitchen doorway. Maren was at the table, her hands in her lap, looking at the bowl she hadn't finished.
 
-His mother's face. He saw it as he turned—the expression he couldn't read. Not the fierce searching. Not the careful restraint. Something else. Something built from layers the way the city's architecture was built from layers—each generation's work on top of the last, each feeling on top of the feeling before it, until the surface showed a composite that no single word could name. Pride, because her son was extraordinary. Loss, because her son was a stranger in the apartment where she'd raised him. Fear, because the power that made him extraordinary was also the thing that was taking him away. Love, because love didn't require understanding. Love because love was the thing that remained when everything else was in motion—the fixed point, the foundation, the channeling that held even when the stone around it cracked.
-
-She looked at him with all of it at once, and he saw it, and he didn't have the language to read it, and she didn't have the language to translate it, and the moment passed.
+His mother's face. He saw it as he turned—the expression he couldn't read. Not the fierce searching. Not the careful restraint. Something else. She looked at him with all of it at once, and he saw it, and he didn't have the language to read it, and she didn't have the language to translate it, and the moment passed.
 
 "Goodnight, Mom."
 
@@ -356,34 +350,12 @@ She looked at him with all of it at once, and he saw it, and he didn't have the 
 
 He closed the door. Walked down the stairs. The transit shaft at the end of the street was running—his deployment, his channeling, the green mark on Dorenne's map. He rode the platform down. The city opened around him—the terraces, the districts, the infrastructure he maintained, the systems he served. His city. His work. The purpose that filled him the way the reservoir filled him—vast, warm, pressing against the walls of who he was.
 
-Behind him, in the apartment, his mother cleared the table. The good plates went back in the cabinet. The rosemary bread, half-eaten, was wrapped in cloth and set aside. His father stood at the window and watched the street below, watching for nothing, watching because watching was what he did when his son left and the apartment was quiet and the question he couldn't ask sat in his chest like a stone.
-
-*Did you know I loved you before this? Did you know I was proud of you before this?*
-
-The question would keep. It had kept for weeks. It would keep for weeks more, pressed flat and silent in the space between a father's hands, waiting for a son who was too full of purpose to hear it.
-
-Maren washed her bowl. The water ran cold—she didn't spend her pool on heating it. Her hands moved in the basin, and the swelling at her knuckles caught the lamplight, and she didn't mention it to anyone, and nobody asked.
+If he had paused at the landing and looked back up the stairs, he would have seen the light under the door, and heard through it the sounds of his mother clearing the table. He would have heard the good plates settling back into the cabinet. He would have heard the water running cold in the basin—Maren washing her bowl without spending her pool to heat it.
 
 * * *
 
-In his quarters, Ash opened the Ridgewall deployment brief. Population: 8,400. Estimated: four hours. Junction sequence: primary lattice, secondary distribution, tertiary residential feeds.
+In his quarters, he lay on the bed. Tomorrow: Ridgewall. Eighty-four hundred people. Four hours. The numbers lined up. The framework held.
 
-He made notes. The pen moved in his hand the way it always moved now—purposeful, precise, the handwriting growing more like Dorenne's with each entry. The numbers lined up. The framework held.
+He closed his eyes. The reservoir hummed in his chest—vast, warm, steady. Somewhere underneath the steadiness, something he couldn't name. A vibration at the wrong frequency, maybe. Or the faintest shift in the stone beneath the building, too small to feel, too real to be nothing.
 
-He thought about Ryn. Not about what she'd said—about the way she'd stood on the walkway afterward, the silence extending, the five words that had no follow-up. *I am happy for you.* A sentence with no "but." A sentence that should have been complete and felt instead like a door closing.
-
-He thought about his father's hand on his shoulder. The grip. The word *home* instead of *back*.
-
-He thought about Maren's hands under the table. The swelling. The flexing. The thing she hid.
-
-He thought about these things the way he thought about the broadsheets on the walls and the protesters at the Council steps and the lamplighter touching her thirty-seven lamps—as facts that existed at the edge of awareness, carrying weight he registered but didn't lift. The deployment brief was in front of him. The numbers were clear. The framework held.
-
-He closed the brief. Lay on the bed. The ceiling was smooth. The reservoir hummed.
-
-Outside, the city was doing what the city always did—breaking and being repaired, failing and being reinforced, the constant pulse of a civilization maintained by people pouring themselves into stone. He was one of them. The strongest of them. The one whose hands could hold what others couldn't.
-
-Tomorrow: Ridgewall. Eighty-four hundred people. Four hours. The heating lattice would drink his output and the residential blocks would warm and the families inside would feel the cold stop, and the feeling would be good. The feeling was always good. The deep, bone-level satisfaction of being the solution. The thing he'd wanted his entire life.
-
-He closed his eyes.
-
-In the apartment across the city, his father sat in the chair by the window. The cushion held his shape. The street below was empty. The transit shaft hummed with channeling that his son had poured into it, and the sound was the sound of distance, and the chair held his weight, and the question pressed against his chest, and the evening was quiet, and his son did not come home.
+He was asleep before he placed it.

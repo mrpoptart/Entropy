@@ -35,7 +35,7 @@ Magic is measured in **kilojoules (kJ)**, the same unit used for physical energy
 
 ## Daily Pool Budgets by Generation
 
-The pool is a person's daily renewable magical budget. It replenishes overnight (roughly 8 hours of sleep = full recharge). The amount you're born with is fixed by generational timing — when the planetary reservoir was fuller, pools were larger.
+The pool is a person's daily renewable magical budget. It replenishes overnight (roughly 8 hours of sleep = full recharge). The amount you're born with is largely determined by generational timing — when the planetary reservoir was fuller, pools were larger. However, pools are not perfectly stable within a lifetime: weak-end channelers (young adults, adolescents) experience measurable within-lifetime decline as the planetary reservoir continues draining. A young adult who started at 1,000 kJ/day may find their pool at 900 or 800 within a decade. Elders, drawing from a deeper generational baseline, experience this decline more slowly. This is Maren's trajectory — she's been living with gradual depletion her entire adult life.
 
 | Generation | Age (Book One) | Daily Pool | Relative Power |
 |------------|---------------|---------------|----------------|
@@ -243,9 +243,16 @@ The pool replenishes during sleep because sleep is when the body's conscious cha
 
 ## Internal Vocabulary (In-World Terms)
 
-*(Suggestions — to be refined for narrative voice)*
+**RESOLVED: There is no in-world unit name for magical energy.** Characters do not measure their pools in named units. They use relative and comparative language:
+- Fractions: "half my pool," "a third of what I started with"
+- Elder-day equivalents: "the equivalent of a hundred elder-days"
+- Comparative: "more than an elder produces in three months," "what it cost me to hold the dam"
+- Sensory: "I could feel how much was left," "the edges were closer"
+- Budget metaphors: "a budget," "a resource," "what's left"
 
-People in this world don't say "kilojoules." They might use terms like:
+The kJ system stays behind the curtain as the author's consistency tool. Every instance of "kJ" or "kilojoules" in character dialogue, close narration, or Ash's internal monologue must be converted to in-world relative language before a chapter is considered canonical. *(This decision resolves an open question flagged across chapters 14–22.)*
+
+People in this world don't say "kilojoules." They use terms like:
 - **Pool** — your daily renewable budget (already established)
 - **Spent / burned** — used up your reserves
 - **Dry** — out of magic for the day

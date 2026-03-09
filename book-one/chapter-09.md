@@ -160,7 +160,15 @@ He picked up a stone from her line. Held it. Tried to feel for the output she wa
 
 Too much. The stone cracked.
 
-She picked up another one. Held it. Same glow, same shimmer. "Again."
+She picked up another one. Held it. Same glow, same shimmer.
+
+"Try something different," she said. "Don't think about small. Think about me. Pretend you've got what I've got. A normal pool, a normal day. Pretend you're tired from work and you've got enough left for this one thing and you need to be careful with it because there's dinner to heat and hands to warm and you can't afford to waste it."
+
+He looked at her. There was limestone dust in her hair and she was looking at him with the directness that had been the most Ryn thing about her since they were children—the quality that didn't flinch, didn't soften, just said the thing in front of her for what it was.
+
+He placed his palm against the stone.
+
+*Pretend this is all you've got.*
 
 He tried again. This time he felt the reservoir rise and clamped it before it reached his palms. Let just the leading edge through—a trickle, the thinnest stream he could manage.
 
@@ -209,6 +217,16 @@ She said it matter-of-factly. The way she said things—without performance, wit
 He looked at her hand. The tendons standing out, the slight curl of her fingers. She'd given everything she had to make a stone glow warm, and the effort had taken something from her—not dramatically, not dangerously, but perceptibly. She'd feel it for the rest of the day. She'd sleep tonight and refill and tomorrow she'd have the same amount to spend again.
 
 He'd given less than he could measure and shattered three stones.
+
+"You know what's strange," she said. She was looking at the gorge, not at him. "You've always been bad at the big stuff. The channeling, the magic—you couldn't do any of it. And I was the one who could. I warmed the cups. I lit the path. A thousand small things you couldn't do and I didn't think about."
+
+"I thought about them."
+
+"I know you did." She looked at him. "The point is, now you can do all of that. You can do it a thousand times over. You can do it until a quarry looks like this." She gestured at the ruined landscape below. "And the thing that's genuinely hard for you—the thing you're still working on—is the thing I do every day. The normal amount. The regular human dose."
+
+She said it plainly, the way she said everything. No sentiment. Just the observation, set down like a tool on a workbench.
+
+He felt something shift in his chest. Not the reservoir—something older and smaller. The feeling of hearing a truth that had been in the room for hours, waiting.
 
 "Come on," she said. She stood up, brushing grass from her legs. "You've got more rocks to break."
 
@@ -318,7 +336,7 @@ She looked at him. Something moved across her face—not a smile, not the absenc
 
 "Sure," she said. "Bring your own stones."
 
-He laughed. She didn't. Then she did—a small sound, expelled, as if the laugh had been sitting in her chest and she'd decided to let it go rather than hold it any longer.
+He laughed. She almost laughed. The almost was a hairline fracture—invisible, structural, the kind of crack you couldn't see until you knew where to look. Then she did—a small sound, expelled, as if the laugh had been sitting in her chest and she'd decided to let it go rather than hold it any longer.
 
 They sat in the cooling quarry as the light left. His body was warm from the reservoir and hers was cooling in the evening air and neither of them moved to close the space between their shoulders. Below them, the gorge filled with shadow. Above them, the sky held onto its blue.
 

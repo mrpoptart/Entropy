@@ -30,7 +30,7 @@ Key properties:
 
 **Healing:** Medical care is hands-on channeling. A healer places their hands on a patient and directs their personal magic into the injury or illness. It's effective but tiring — a healer has a limited number of patients per day based on their pool. As pools decline, wait times grow and serious conditions go undertreated.
 
-**Communication:** Paired resonance — objects created together that transmit intent between them, but they require the user to channel into them to send a message. Like a phone you power with your own energy each time you use it. Range and clarity depend on how much you can channel.
+**Communication:** Paired resonance — objects created together that transmit intent between them, but they require the user to channel into them to send a message. Like a phone you power with your own energy each time you use it. Range and clarity depend on how much you can channel. The most common form factor is the *resonance disc* — a small disc you press your thumb to in order to send a brief message to the paired disc. Dorenne's office uses these for scheduling and deployment coordination (established Ch12).
 
 **Transportation:** People channel to move vehicles — carriages or trams powered by teams of channelers working in shifts. Large-scale transit requires cooperative channeling — groups pouring their pool into a shared system.
 
@@ -152,6 +152,22 @@ Ramps and stairways connect the terraces. Channeled transit lifts serve the uppe
 **The Splits:**
 The workshop district on the Fifth Terrace, where the city's slope steepens and the smooth channeled paving gives way to cracked stone and natural rock. Named for the visible fractures in the terrain — seams where the Ancient-era leveling ended and the plateau's raw geology reasserts itself. The Splits is where tinkerers, low-pool workers, and people who can't afford upper-terrace rents settle. Buildings are smaller, older, and maintained by hand rather than by channeling. Haran's workshop is here. The district carries a mild social stigma — living in the Splits marks you as either poor, eccentric, or both — but its residents tend toward practical solidarity rather than resentment. It is the quietest site of the mechanical revolution that nobody in the upper terraces is paying attention to.
 
+**Named Districts and Streets (established in Book One chapters):**
+- *Thornwall quarter* — lower-middle district, established Ch17–22
+- *Verengate* — neighborhood or street, established Ch17
+- *Threadneedle district* — established Ch16
+- *Saddler's Row* — established Ch16
+- *Harrier Street* — established Ch16
+- *Coppersmiths' Terrace* — established Ch16
+- *Weaver's Terrace* — established Ch16
+- *Colter Street* — established Ch18
+- *Kelleren aqueduct* — established Ch16
+- *Thornwall aqueduct* — established Ch21
+- *Ridgeline feed* — established Ch21
+- *Council Hall* — distinct from the Hall of Infrastructure; established Ch17
+- *Velden building* — location of the Haran/Ash pump project installation, established Ch20–22
+- *Comyn's place* — neighbor with a workshop; Ash built a shelf there years ago (established Ch18)
+
 **Ash's experience of the city (before the Wellspring):** A person without magic in a city that runs on it. Can't use channeler-powered transit. Can't contribute to maintenance shifts. Can't do most jobs. Can't participate in basic social rituals that involve sharing magic. A person without electricity in a city built on the grid.
 
 ## The Rural World
@@ -165,6 +181,8 @@ Rural and frontier communities are where the decline hits hardest and earliest. 
 Non-magical technology is being developed as a direct response to the decline. Mechanical engineering, chemistry, combustion, basic medicine — invented or rediscovered by people who can no longer rely on channeling.
 
 Technology carries social stigma in many circles. Using non-magical tools can be seen as an admission of weakness, a betrayal of tradition, or a sign of poverty. In other circles — particularly among the young, the poor, and the pragmatic — it's the future.
+
+**Printing (established Ch22):** Hand-press printing exists as a mechanical technology, using manual type rather than channeled inscription. Used by the Levelers for broadsheets. The distinction between hand-press and channeled inscription marks a class and political divide — mechanical printing is accessible to anyone with hands and effort; channeled inscription is faster but requires a pool.
 
 ## Geography
 

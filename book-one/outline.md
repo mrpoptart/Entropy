@@ -1,7 +1,7 @@
 # Book One Outline — "The Brightest Fire"
 
 **Question:** Who are you when you're extraordinary?
-**Reservoir:** 100% → ~50%
+**Reservoir:** 100% → ~44% (~2,200 elder-days remaining of ~5,000)
 **Time span:** Approximately eight weeks
 **Antagonistic force:** Dorenne (control/bargaining)
 
@@ -37,7 +37,7 @@ She offers him a position. His face — the real emotion breaking through the pe
 
 He walks home fast. He's almost running. He bursts through the door and tells his family. His mother cries — fierce, proud, relieved tears. His father grips his shoulder and holds on too long. The celebration is real: dinner is elaborate, his mother channels the stove to full heat, his father opens something they've been saving.
 
-Maren is there. She's radiant, congratulatory, genuinely happy for him. She channels casually during dinner — warming a dish, sealing a crack in a cup — in the efficient, disciplined way that defines her. She had something of her own today — a success, a recognition, something she earned. She starts to mention it and the conversation swings back to Ash's news. She lets it go. She always lets it go. Nobody notices. This happens all the time.
+Maren is there. She's radiant, congratulatory, genuinely happy for him. She channels casually during dinner — warming a dish, sealing a crack in a cup — in the efficient, disciplined way that defines her. She had something of her own today — a success, a recognition, something she earned. She starts to mention it and the conversation swings back to Ash's news. She lets it go. She always lets it go. Nobody notices. This happens all the time. *(This dinner — Maren's news settling to the bottom of the celebration like sediment in a glass — is a planted detail that pays off in Ch22 when Ash finally sees the pattern.)*
 
 **Establish:** The city of Solathis. Ash's disability in a magical world. The family dynamic — mother as fierce protector, father as quiet worrier, sister as the overlooked competent one. Dorenne as a complex figure with layered motivations. The cheerfulness as performance. The private exhaustion underneath.
 
@@ -347,7 +347,7 @@ She begins tracking his expenditures — not crudely, but as part of the infrast
 
 He agrees. It makes sense.
 
-A moment of friction: he spends power on something unplanned. Maybe he passes a failing structure on his way home and reinforces it — a small building, a few families. Dorenne's reaction the next morning is subtle: "I heard you reinforced a building on Threadneedle Lane. That was generous. The eastern aqueduct serves forty thousand people." Not angry. Disappointed. The calculus of allocation delivered as gentle correction.
+A moment of friction: he spends power on something unplanned. Maybe he passes a failing structure on his way home and reinforces it — a small building, a few families. Dorenne's reaction the next morning is subtle: "I heard you reinforced a building on Threadneedle Lane. That was generous. The Thornwall aqueduct serves forty-three thousand people." Not angry. Disappointed. The calculus of allocation delivered as gentle correction.
 
 He visits the workshop. The pump system is further along — other tinkerers have advanced the work in his absence. Haran is fitting a valve junction, a whisper of channeling guiding the piece into place so precisely it looks like luck. Ash watches and feels the distance between where he started and where he is now. Everything in this room is small and slow and collaborative. Everything in his life now is enormous and fast and singular.
 
@@ -373,7 +373,7 @@ She doesn't fight. She says: "I am happy for you." And then she's quiet. The sil
 
 A scene at home: Ash visits for dinner. The mother has prepared everything — his favorite meal, the house warm, the table set. But the conversation doesn't land. He's distracted, thinking about tomorrow's deployment. Maren asks about his channeling technique and he explains, and for a moment they're connected — two people talking about magic, which used to be her territory. Then his description of the scale of power he's working with makes her go quiet. The father fills the silence with gentle questions. The mother watches her son with an expression that's harder to read now — pride, loss, fear, love, all of it at once.
 
-He leaves early. Important work tomorrow.
+He leaves early. Important work tomorrow. *(In his quarters, the chapter closes with faint pre-earthquake unease — a vibration at the wrong frequency, a shift in stone too small to place. He's asleep before he identifies it.)*
 
 **Establish:** Ash is not a bad person. He's not cruel. He's intoxicated, and intoxication looks like selfishness from the outside.
 
@@ -477,15 +477,15 @@ Maren isn't home. She's working late — picking up maintenance shifts in the mi
 
 He sits down — alone, at night, in the quarters Dorenne gave him — and gets precise. He has been keeping track loosely, the way you track spending when you think you're rich: vaguely, without concern. Now he uses the analytical brilliance that was always his real weapon.
 
-He reconstructs his usage from memory and from Dorenne's records. The early experiments — wildly inefficient, joyful, costing ten or twenty times what they should have. The training period. The first deployments — district heating grids, water systems, structural work. Each one a genuine act of good, each one a withdrawal from a finite account.
+He reconstructs his usage from memory and from Dorenne's records, measuring everything in elder-days — one master elder's full daily output, the in-world unit that makes the numbers human. The early experiments — wildly inefficient, joyful, costing ten or twenty times what they should have. The training period (~300 elder-days). The first deployments (~550 elder-days) — district heating grids, water systems, structural work. Each one a genuine act of good, each one a withdrawal from a finite account.
 
-Then the earthquake. Days of continuous, maximum-output channeling. Holding up buildings. Sealing ruptures. Moving rubble. The most heroic thing he has ever done. The most expensive.
+Then the earthquake. Days of continuous, maximum-output channeling (~1,500 elder-days). Holding up buildings. Sealing ruptures. Moving rubble. The most heroic thing he has ever done. The most expensive.
 
-He adds it up. He projects forward. He accounts for improving efficiency — he channels better now than he did in the first week — and for Dorenne's planned deployments.
+He adds it up: ~2,830 elder-days spent. He projects forward. He accounts for improving efficiency — he channels better now than he did in the first week — and for Dorenne's planned deployments.
 
-The number is not infinite. It's not even comfortable. He has burned through roughly half of everything he will ever have — in eight weeks. And the early waste, the inefficiency of a novice with an ocean of power, accounts for a devastating fraction of the loss.
+The number is not infinite. It's not even comfortable. Of roughly 5,000 elder-days total, he has burned through over half — in eight weeks. And the early waste, the inefficiency of a novice with an ocean of power, accounts for a devastating fraction of the loss.
 
-The projection forward is terrifying: at Dorenne's current deployment rate, the reservoir empties in a definable, countable period of time. Not someday. Not eventually. *Then.*
+The projection forward is terrifying: at ~120 elder-days per week, the remaining ~2,200 elder-days last about eighteen weeks. At expanded deployment rates, eleven. Not someday. Not eventually. *Then.*
 
 He sits with the number. His greatest triumph — the earthquake, the heroism, the days of holding up a city — was also his greatest expenditure. The thing that made him a hero burned through power he will never get back. Every building he held, every life he saved, cost him a piece of his finite self. He doesn't regret the spending. He'd do it again. But the reservoir felt bottomless because he never bothered to check. Now he's checked, and he can see the bottom.
 
@@ -529,7 +529,7 @@ Ash doesn't have an answer. But the question reframes everything. The Wellspring
 
 He goes to her office. He tells her what he's found. The numbers. The projection. The finitude.
 
-Her reaction reveals the depth of the institutional logic — and how completely she operates within it. She doesn't panic. She doesn't grieve. She recalculates.
+Her reaction reveals the depth of the institutional logic — and how completely she operates within it. She doesn't panic. She doesn't grieve. She recalculates. The confrontation's core is identity ("I am not a resource"), not policy. Ash confronts her not about deployment bias but about the fact that she tracked his expenditure for weeks without telling him — managing the information the way she manages every resource. Both people right, both people wrong.
 
 Her mind goes immediately to allocation: how to ration the remaining power most efficiently. Which infrastructure projects to prioritize. Which districts to cut. She pulls up her deployment charts and begins re-sequencing. "If we reduce the western district work and focus on the three critical aqueducts, we can extend the useful output by—"
 
@@ -537,11 +537,11 @@ He listens. She's not wrong. From her framework — the framework of a Director 
 
 But Ash hears what it means: he's a budget line. A resource to be managed until depletion. Dorenne who gave him dignity when he had none, who saw a person when everyone else saw a charity case, who sat beside him in the transit hub when the world was collapsing — she sees a balance sheet with a diminishing total. She still cares about him. He can see it in the moments between the calculations — a flicker of something softer, quickly subsumed by the institutional reflex. She also cannot stop optimizing him. Both things are completely true and completely irreconcilable.
 
-He doesn't storm out. He doesn't make a speech. The break isn't dramatic — it's the quiet closing of a door. He tells her he needs time to think. She gives it, because she's not a monster, and because she's calculating that giving him space is the optimal play. She might even be right.
+He doesn't storm out. He doesn't make a speech. But the break includes a critical stumble: when Dorenne invokes the water-main analogy, Ash almost accommodates — the old people-pleasing reflex engaging — before "I'm not a water main" comes out as discovery, not prepared statement. The break is the quiet closing of a door. He tells her he needs time to think. She gives it.
 
-He walks out of the office. Dorenne sits alone with her charts and her diminishing projections, and for a brief moment — before the institutional mind reasserts itself — she looks like a woman who just lost something she didn't know she valued until it was walking away.
+In the entrance hall, before he's had time to process, Ryn is there — crossing on her own business, work jacket with the singed patch he made months ago. She reads his face without asking. She falls into step beside him for two blocks, saying nothing. Then she squeezes his arm and peels away. He almost calls after her. He doesn't.
 
-On the walk out of the Hall, he passes someone in the corridor. Ryn. She's there on her own business — her work brings her through the building — and she sees his face. She doesn't ask what happened. She falls into step beside him for a block, two blocks, saying nothing. Then she squeezes his arm and peels away. No words. No demands. Just presence. The person who sees him, seeing him at his lowest. He almost calls after her. He doesn't.
+He walks downhill. Finds a bench on a public overlook, watches a maintenance crew work a retaining wall — one young woman who works the way Maren works, precise and careful with a limited pool. He sits with the irreconcilable: Dorenne's rightness and Ryn's rightness, and the two kinds of rightness having nothing to do with each other. The chapter ends without resolution — he turns downhill and doesn't know where he's going.
 
 **Establish:** Dorenne as tragic figure, not villain. Her framework is her prison — the same institutional logic that made her effective makes her incapable of seeing Ash as anything other than a function. The break is devastating because both people are right and both people are wrong.
 
@@ -569,6 +569,8 @@ His workbench. His tools. The mechanical devices he was building before any of t
 
 He sits down. He picks up a tool. He doesn't channel. He doesn't have an answer to Haran's question yet — *what do you want to build?* But his hands remember the work. The work was always real.
 
+*(Draft structural note: Haran's question returns three times with increasing weight — at the broadsheet, at the Maren scene, and finally at the workbench. The triple structure is an improvement over the single-instance outline and should be preserved in revision. The celebration dinner memory — Maren's news going unheard — is Ch22's specific seed for B2's "unspoken conversation" with Maren.)*
+
 The question that drove Book One — *who are you when you're extraordinary?* — has cracked open to reveal the question underneath: *what should you build with what's left?*
 
 He doesn't know yet. But he's in the right place to start.
@@ -577,17 +579,19 @@ He doesn't know yet. But he's in the right place to start.
 
 ## Reservoir Tracking
 
-| Point in Story | Reservoir | Notes |
-|---|---|---|
-| Chapters 1-3 | 0% (dormant) | No access to power |
-| Chapter 4 (activation) | 100% | Dam breaks; first chaotic use |
-| Chapters 5-6 (public emergence) | ~98% | Testing, display; minimal but wasteful expenditure |
-| Chapters 7-9 (discovery) | ~90% | Household overloads, training with mentor and friend, spectacle testing; wildly inefficient |
-| Chapters 10-14 (the ascent) | ~75% | Patron-directed deployments, improving efficiency but increasing volume |
-| Chapters 15-17 (earthquake) | ~55% | Days of maximum-output channeling |
-| Chapter 18 (edges) | ~52% | Continued deployment, growing unease |
-| Chapter 19 (the math) | ~50% | The calculation confirms it |
-| Chapters 20-22 (reckoning) | ~50% | Minimal use; Ash stops spending freely |
+**Unit:** Elder-days (1 elder-day = one master elder's full daily output). Ash's total reservoir ≈ 5,000 elder-days.
+
+| Point in Story | Reservoir | Elder-days remaining | Notes |
+|---|---|---|---|
+| Chapters 1-3 | 0% (dormant) | — | No access to power |
+| Chapter 4 (activation) | 100% | ~5,000 | Dam breaks; first chaotic use |
+| Chapters 5-6 (public emergence) | ~98% | ~4,900 | Testing, display; ~100 elder-days spent wastefully |
+| Chapters 7-9 (discovery) | ~90% | ~4,500 | Household overloads, training, spectacle testing; wildly inefficient |
+| Chapters 10-14 (the ascent) | ~75% | ~3,700 | Patron-directed deployments (~550 elder-days), improving efficiency but increasing volume |
+| Chapters 15-17 (earthquake) | ~55% | ~2,580 | ~1,500 elder-days on earthquake response; days of maximum-output channeling |
+| Chapter 18 (edges) | ~52% | ~2,400 | Continued deployment (~120/week), growing unease |
+| Chapter 19 (the math) | ~44% | ~2,200 | The calculation confirms it; ~2,830 elder-days total spent |
+| Chapters 20-22 (reckoning) | ~44% | ~2,200 | Minimal use; Ash stops spending freely |
 
 ## Character Thread Summary
 
@@ -603,9 +607,9 @@ He doesn't know yet. But he's in the right place to start.
 
 ## Seeds Planted for Book Two
 
-- The Levelers: visible as background protest, broadsheets, young channeler frustration — not yet a movement, but the ingredients are assembled
+- The Levelers: visible as background protest, broadsheets, young channeler frustration — not yet a movement, but the ingredients are assembled. *(Ch22 establishes their visual identity: a circle with a line through it, hand-drawn, on broadsheets printed by mechanical hand press. Meeting dates and locations are listed. Ash encounters the symbol and does not yet know what it means.)*
 - The efficiency question: Ash's wasteful early channeling vs. Haran's micro-channeling mastery — the technique has been demonstrated but not yet learned. Ash glimpsed it in Ch 8, failed to replicate it in Ch 9, and abandoned the practice during the ascent. The principles are planted; the application awaits Book Two
-- The pump project: completed without Ash, running on distributed micro-channeling — proof that Haran's philosophy works at infrastructure scale. The model for what Ash will eventually need to build citywide
+- The pump project: completed without Ash, running on a mechanical crank-and-spring mechanism — three families, twenty minutes each at dawn. Proof that Haran's philosophy works at infrastructure scale without requiring a pool. *(Ch22 draft describes the pump as fully mechanical: "No pool. No reservoir. No deployment schedule. Just the physics of pressure." If a hybrid micro-channeling version is intended for B2's scaled-up district project, it should be distinct from this pump.)*
 - The proof-of-concept: the tinkerer workshop and its mechanical-plus-micro-channeling alternatives are established as working systems; they haven't yet become a building program
 - Ryn: shut out, not gone — the reconnection is owed
 - Maren's pool: already weakening, not yet a crisis

@@ -14,7 +14,7 @@
 ### The Surface
 A tinkerer. He runs a small workshop where he builds, repairs, and experiments with non-magical mechanisms — gears, levers, springs, combustion experiments, crude but functional devices that work without anyone channeling into them. The workshop is cluttered, warm, and perpetually in a state of productive disorder.
 
-He's known in the tinkerer community as the old man who actually knows what he's doing. Younger tinkerers come to him because he understands materials, forces, and systems at an intuitive level. He teaches by doing — handing you a problem and watching you fail at it until you understand, then showing you the elegant solution he saw from the beginning.
+He's known in the tinkerer community as the old man who actually knows what he's doing. Younger tinkerers come to him because he understands materials, forces, and systems at an intuitive level. He teaches by doing — handing you a problem and watching you fail at it until you understand, then showing you the elegant solution he saw from the beginning. He gave Ash a workshop key at fourteen — one of the few people in the city who treated Ash as someone worth investing in before the Wellspring.
 
 To the wider city, he's an eccentric at best, a crank at worst. A man with a perfectly good pool who spends his days building machines. People assume he's a failed channeler hiding behind a hobby. People are wrong.
 
@@ -70,7 +70,7 @@ Ash found the workshop the way most tinkerers do — drawn by curiosity and the 
 
 Haran recognized something in Ash immediately: a mind that works the way his does. Someone who understands systems, who thinks about *why* before *how*, who sees the elegant solution hiding inside the obvious one. Ash's lack of magic, which the rest of the world treats as a disability, is invisible in the workshop. What's visible is the intelligence and the work ethic.
 
-Their relationship is built on shared work. They don't have emotional heart-to-hearts — they have long afternoons of building things together, punctuated by Haran's sideways observations about how the world works. Ash absorbs Haran's way of thinking without realizing it's happening: resource management, long-term planning, building systems that don't depend on any single person, designing for failure.
+Ash found the workshop young — Haran gave him his own key at fourteen. Their relationship is built on shared work. They don't have emotional heart-to-hearts — they have long afternoons of building things together, punctuated by Haran's sideways observations about how the world works. Ash absorbs Haran's way of thinking without realizing it's happening: resource management, long-term planning, building systems that don't depend on any single person, designing for failure.
 
 Haran cares deeply about Ash but expresses it through attention and time, not words. He gives Ash harder problems. He trusts him with better tools. He makes space at the workbench without being asked. In a world that treats Ash as a burden, Haran treats him as a colleague.
 

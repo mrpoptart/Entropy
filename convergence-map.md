@@ -50,7 +50,7 @@ This document tracks 14 narrative threads across all three books. It is the sour
 #### Thread 6: Dorenne's Framework
 **Description:** Dorenne's institutional logic — care expressed as control, people seen as resources to optimize. She isn't a villain; she's a competent public servant trapped in a framework that can't distinguish managing from caring.
 **Planting:** B1 Ch1 (layered motivations — compassion, politics, the need for someone who'll stay)
-**Key Progressions:** B1 Ch6 (displays Ash publicly), B1 Ch10 (begins directing deployments), B1 Ch13 (the gentle correction — "the aqueduct serves forty thousand"), B2 (wants him back, gives him the district to claim credit)
+**Key Progressions:** B1 Ch6 (displays Ash publicly), B1 Ch10 (begins directing deployments), B1 Ch13 (the gentle correction — "the Thornwall aqueduct serves forty-three thousand"), B2 (wants him back, gives him the district to claim credit)
 **Convergence Points:** B1 Ch21 (the break — she recalculates, he's a budget line), B3 Act 3 (redemption — she lets go, throws weight behind building)
 **Cross-Thread Links:** Direct opposition to Thread 14 (Stewardship vs. Heroism) — her model is maintenance, not building. Intersects Thread 1 (Reservoir Countdown) — she was tracking expenditures before Ash was.
 
@@ -123,20 +123,20 @@ Legend: `—` dormant | `🌱` planted | `📈` progressing | `⚡` converging |
 | Thread | Ch1 | Ch2 | Ch3 | Ch4 | Ch5 | Ch6 | Ch7 | Ch8 | Ch9 | Ch10 | Ch11 | Ch12 | Ch13 | Ch14 | Ch15 | Ch16 | Ch17 | Ch18 | Ch19 | Ch20 | Ch21 | Ch22 |
 |--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|------|------|------|------|------|------|------|------|------|------|------|------|
 | 1. Reservoir | — | — | — | — | 🌱 | — | — | 🌱 | — | — | — | — | — | — | 📈 | 📈 | 📈 | ⚡ | ⚡ | ⚡ | ⚡ | ✅ |
-| 2. Infrastructure | 🌱 | 🌱 | — | 📈 | — | 📈 | — | — | — | 📈 | — | 📈 | 📈 | — | ⚡ | ⚡ | ⚡ | 📈 | 📈 | — | — | 📈 |
+| 2. Infrastructure | 🌱 | 🌱 | — | 📈 | — | 📈 | — | — | — | 📈 | 📈 | 📈 | 📈 | — | ⚡ | ⚡ | ⚡ | 📈 | 📈 | — | — | 📈 |
 | 3. Levelers | — | — | — | — | — | — | — | — | — | — | — | 🌱 | — | — | 🌱 | — | — | — | — | — | — | 📈 |
 | 4. District | — | — | — | — | — | — | — | 🌱 | — | — | — | 📈 | 📈 | — | — | — | — | — | — | ⚡ | — | ⚡ |
 | 5. Efficiency | — | — | 🌱 | — | — | — | — | 🌱 | 📈 | — | — | — | 📈 | — | — | — | — | — | — | 📈 | — | — |
 | 6. Dorenne | 🌱 | — | — | 📈 | 📈 | 📈 | — | — | — | 📈 | 📈 | 📈 | 📈 | — | 📈 | 📈 | 📈 | 📈 | — | — | ⚡ | 📈 |
 | 7. Haran | — | — | 🌱 | — | — | — | — | ⚡ | — | — | — | — | 📈 | — | — | — | — | — | — | ⚡ | — | ⚡ |
 | 8. Maren | 🌱 | — | — | 📈 | — | 🌱 | 📈 | — | — | — | 📈 | — | — | 📈 | — | — | — | 📈 | ⚡ | — | — | 📈 |
-| 9. Mother | 🌱 | — | — | 📈 | — | 📈 | 📈 | — | — | — | ⚡ | — | — | 📈 | — | — | — | 📈 | — | — | — | — |
+| 9. Mother | 🌱 | — | — | 📈 | — | 📈 | 📈 | — | — | — | ⚡ | 📈 | — | 📈 | — | — | — | 📈 | — | — | — | — |
 | 10. Father | 🌱 | — | — | 📈 | — | 📈 | 📈 | — | — | — | 📈 | — | — | ⚡ | — | — | — | 📈 | — | — | — | — |
 | 11. Ryn | — | 🌱 | — | — | — | 📈 | — | — | 📈 | — | — | 📈 | — | ⚡ | — | — | — | — | — | — | 📈 | — |
-| 12. Identity | 🌱 | 📈 | — | ⚡ | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | — | 📈 | 📈 | 📈 | 📈 | 📈 | ⚡ | ⚡ | ⚡ | ⚡ | ⚡ | ⚡ |
+| 12. Identity | 🌱 | 📈 | — | ⚡ | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | 📈 | ⚡ | ⚡ | ⚡ | ⚡ | ⚡ | ⚡ |
 | 13. Davan | — | — | — | — | — | — | — | — | — | — | — | 🌱 | — | — | — | — | — | — | — | — | — | — |
 | 14. Stewardship | — | — | 🌱 | — | — | — | — | 🌱 | — | — | — | — | 📈 | — | — | — | — | — | — | ⚡ | — | ⚡ |
-| **Active count** | **5** | **3** | **3** | **6** | **3** | **7** | **4** | **6** | **3** | **3** | **4** | **5** | **6** | **5** | **4** | **3** | **4** | **6** | **4** | **5** | **4** | **8** |
+| **Active count** | **5** | **3** | **3** | **6** | **3** | **7** | **4** | **6** | **3** | **3** | **6** | **6** | **6** | **5** | **4** | **3** | **4** | **6** | **4** | **5** | **4** | **8** |
 
 ### Book One Convergence Zone: Chapters 18–22
 

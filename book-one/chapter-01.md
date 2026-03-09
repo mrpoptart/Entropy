@@ -232,7 +232,7 @@ His father's hand tightened. Not a shake, not a pat — just pressure, sustained
 
 "Good," he said. "That's good, son."
 
-They ate. His mother had channeled the stove to its full capacity — more heat than the cooking warranted, the surplus radiating into the kitchen until the room was almost uncomfortably warm, a small extravagance that said *celebration* in the language of a household that measured comfort in kilojoules. The rice was fragrant with saffron. There was cheese and flatbread and a jar of pickled vegetables that Ash knew had been earmarked for the solstice. His father opened a bottle of plum wine that had been sitting on the high shelf for long enough to collect dust.
+They ate. His mother had channeled the stove to its full capacity — more heat than the cooking warranted, the surplus radiating into the kitchen until the room was almost uncomfortably warm, a small extravagance that said *celebration* in the language of a household that measured comfort in drops of pool. The rice was fragrant with saffron. There was cheese and flatbread and a jar of pickled vegetables that Ash knew had been earmarked for the solstice. His father opened a bottle of plum wine that had been sitting on the high shelf for long enough to collect dust.
 
 "To Ashlyn," his mother said, raising her cup. "Who has been carrying things uphill his entire life and deserves to set them down."
 

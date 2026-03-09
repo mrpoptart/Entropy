@@ -80,7 +80,17 @@ He studied the projection timeline and began planning his weeks around it.
 
 The building on Threadneedle Lane was three stories, brick and channeled stone, leaning slightly toward the street the way buildings leaned in the older districts where the foundation work was tired. Ash was walking back from a deployment in the lower terraces—late evening, the streets dimming, the transit shafts quiet. He took the side route through the Threadneedle neighborhood because it was shorter and because the evening air was cool and because walking felt better than riding the transit platform after hours of pressing his hands against stone.
 
-He heard it first. A sound in the walls—the particular low groan of stone under lateral stress, the kind of sound buildings made when the channeled reinforcement was giving way and gravity was beginning to win. He'd learned to hear it. Weeks of deployment had tuned his ears to the language of failing structures, the way a doctor's ears tuned to the particular quality of a bad cough.
+On the corner of a narrow lane, a woman was heating water in a stone basin set into the street wall — a public tap, one of the communal ones that served the buildings without interior plumbing. She was channeling with both hands pressed flat against the basin, her shoulders tight with effort, the water warming slowly under a pool that probably couldn't manage it twice in a day. A child stood beside her, holding a jug, waiting. The woman's face was drawn. The child looked cold.
+
+He slowed. His feet almost stopped. His hands almost—
+
+Twelve people. Maybe fifteen, in the buildings this tap served. The Thornwall aqueduct served forty-three thousand. Tomorrow morning, six-thirty, Sorren's crew. The western span junctions.
+
+He walked past. The woman didn't look up. The child shifted the jug to the other hand.
+
+He was a block away before he realized he'd done the calculation without deciding to. The population math had fired before anything else — before the impulse, before the instinct, before the part of him that would have knelt beside a struggling stranger eight weeks ago. The framework had answered for him, and the answer had felt like sense, and he hadn't noticed the moment when sense replaced something older.
+
+He heard it next. A sound in the walls—the particular low groan of stone under lateral stress, the kind of sound buildings made when the channeled reinforcement was giving way and gravity was beginning to win. He'd learned to hear it. Weeks of deployment had tuned his ears to the language of failing structures, the way a doctor's ears tuned to the particular quality of a bad cough.
 
 He stopped. The building's facade was unremarkable—residential, ground-floor shutters closed, light in two of the upper windows. A plant on a third-floor sill, something green and stubborn. A child's drawing taped to the inside of a second-floor pane—a house, a sun, figures holding hands.
 
@@ -114,7 +124,7 @@ Dorenne said it the next morning. She was at her desk, the morning briefing note
 
 She picked up her cup. Drank. Set it down. The motion was unhurried, the pause deliberate—the same technique she'd used in the Council chamber, the silence that let the point land.
 
-"The eastern aqueduct serves forty thousand people," she said.
+"The Thornwall aqueduct serves forty-three thousand people," she said.
 
 Not angry. Not sharp. The sentence delivered the way you delivered a fact that spoke for itself—a number against a number, a calculation so obvious that pointing it out was almost unnecessary. Almost.
 
@@ -122,7 +132,7 @@ Ash felt the words settle. They were correct. The aqueduct served forty thousand
 
 "It was on my way," he said. "It took twenty minutes."
 
-"Twenty minutes of Wellspring output at your current efficiency rate is roughly—" She stopped herself. Not abruptly—gracefully, the way she stopped when she'd made her point and pushing further would diminish it. "I'm not criticizing you. The building needed help. But we have a plan, and the plan works because the allocations are strategic. When you deploy outside the plan, even for good reasons, it introduces variance."
+"Twenty minutes of your output, spent on a building that holds thirty people—" She stopped herself. Not abruptly—gracefully, the way she stopped when she'd made her point and pushing further would diminish it. "I'm not criticizing you. The building needed help. But we have a plan, and the plan works because the allocations are strategic. When you deploy outside the plan, even for good reasons, it introduces variance."
 
 She opened the Thornwall briefing. Her fingers found the page without looking. "The western span junctions. Sorren's team will be on site at seven. I'd like you there by six-thirty for preliminary readings."
 
@@ -134,7 +144,9 @@ Thirty people. Written in the same hand that had written forty-three thousand.
 
 Ash looked at the number. The ledger. Every deployment counted, every hour weighted, every act of generosity measured against the acts of generosity it displaced. It made sense. It was the right way to manage a finite resource serving an enormous need. Dorenne was right to track it. He was right to agree.
 
-He didn't notice the moment when the building on Threadneedle Lane—the crack, the groan, the child's drawing, the plant on the sill—became thirty. A number on a chart. An allocation that could be measured, evaluated, and found wanting.
+Something in his chest resisted. The number thirty sat on the chart beside the number forty-three thousand, and for a moment the child's drawing pressed back — the sun, the figures holding hands, the green plant on the sill. He felt the pull of it. The impulse to say *those are people, not a number*.
+
+He let the impulse pass. Dorenne's logic was cleaner. Clearer. The allocation was correct and the framework was sound and the alternative was going back to being the person who wandered the streets reinforcing buildings at random, burning through the reservoir without strategy, without purpose, without the satisfying architecture of a plan that worked. He'd been that person. He'd been nothing.
 
 He picked up the Thornwall briefing and began reading.
 
@@ -144,11 +156,11 @@ The workshop smelled the same. It always smelled the same.
 
 Oil and sawdust and cut metal. The low ceiling. The workbenches in their permanent arrangement—Haran's central, the others radiating outward, each surface occupied by a project in some stage of becoming. Ash ducked through the doorway in the late afternoon, the light slanting in behind him, and stood in the entrance the way you stood in a room you used to know by feel and now had to relearn by sight.
 
-Three tinkerers were working. Petra at the far bench, a valve assembly spread before her in careful pieces. A teenager Ash didn't recognize at the window station, filing a gear blank with Davel's old patience—Davel must have taught him. And Haran.
+Three tinkerers were working. Petra at the far bench, a valve assembly spread before her in careful pieces. A teenager Ash didn't recognize at the window station, filing a gear blank with the same patience Davel had shown before his family moved to the outer districts. Davel must have taught him before he left. And Haran.
 
-Haran was at the central bench. He had a junction fitting in his left hand—brass, the size of a walnut, threaded on both ends. His right hand held it against a section of copper pipe that rose from a larger assembly. The pump. Not the pump Ash remembered—half-assembled, components spread across the surface in Haran's deliberate arrangement. This pump was further along. Almost finished. The housing was mounted, the cylinder in place, the inlet and outlet flanges fitted with the bayonet mounts that Haran built for maintenance. Piping ran from the outlet to a distribution manifold—new work, precise, the kind of fitting that came from someone who'd been at this for weeks without interruption.
+Haran was at the central bench. He had a junction fitting in his left hand—brass, the size of a walnut, threaded on both ends. His right hand held it against a section of copper pipe that rose from a larger assembly. The pump—the same pump that was already running in the district, pushing water at sixty percent of channeled capacity. But Haran wasn't finished with it. A secondary distribution line lay across the bench, half-plumbed, and a set of bypass valves waited in the parts bin. Refinements. The kind of work Haran did after something was functional—making it maintainable, making it last, making it the version he'd wanted all along.
 
-Haran was threading the junction fitting onto the pipe. His hands moved with the unhurried precision that made every motion look inevitable. And at the junction—at the exact point where brass met copper, where the threads engaged and the seal needed to be perfect—Ash felt it.
+Haran was threading the junction fitting onto the bypass line. His hands moved with the unhurried precision that made every motion look inevitable. And at the junction—at the exact point where brass met copper, where the threads engaged and the seal needed to be perfect—Ash felt it.
 
 A whisper.
 
@@ -162,7 +174,7 @@ Haran set the wrench down. Looked up. His expression didn't change—the mild, a
 
 "Ash."
 
-"The pump's nearly done."
+"The bypass line?"
 
 "Couple more fittings." Haran turned the assembly, examining the junction he'd just seated. "Petra did the manifold work. She's got steady hands."
 
@@ -172,7 +184,7 @@ Ash walked to the central bench. His workbench was beside it—the surface he'd 
 
 He didn't sit.
 
-The pump assembly took up most of the central bench's surface. Ash looked at it and saw the project the way you saw a conversation you'd stepped out of—the thread continued, the meaning shifted, and re-entering required a knowledge of what had happened in your absence that no one could give you in summary.
+The bypass components and distribution refinements took up most of the central bench's surface. Ash looked at them and saw the project the way you saw a conversation you'd stepped out of—the thread continued, the meaning shifted, and re-entering required a knowledge of what had happened in your absence that no one could give you in summary.
 
 The cam mechanism. Verant had mentioned it—the counterweight-driven pressure assist that replaced the spring system. It was mounted now. Ash could see the design: an offset cam turning against a follower, converting rotary motion into the reciprocating stroke that drove the piston. Simple. Elegant. The kind of solution Haran arrived at after discarding three complicated ones.
 
@@ -196,7 +208,7 @@ The reservoir pressed at his palms.
 
 He knew it would. He'd known since the moment he'd picked up the fitting. The Wellspring didn't distinguish between a retaining wall and a brass junction—it pressed with the same patient enormity, offering its vast store to every task, indifferent to scale. His hands had spent weeks pressing against stone, pouring force into systems that drank everything he could give. The muscle memory was deployment memory. The calibration was for volume, not precision.
 
-He tried to hold it back. The way he'd tried in Chapter 8—reaching for the thinnest thread, the smallest pulse, the micro-channeling that Haran had demonstrated with the gear blank. But weeks of deployment had retrained him. The channel between the reservoir and his hands was wider now, worn by use, the way a river wore its banks. The thin thread he reached for came through thick.
+He tried to hold it back. The way he'd tried in Haran's workshop that first time—reaching for the thinnest thread, the smallest pulse, the micro-channeling that Haran had demonstrated with the gear blank. But weeks of deployment had retrained him. The channel between the reservoir and his hands was wider now, worn by use, the way a river wore its banks. The thin thread he reached for came through thick.
 
 The fitting turned. The threads engaged. And then—a pulse. Not the catastrophic flood of his early days. Something smaller. But not small enough.
 
@@ -240,7 +252,11 @@ He stayed for an hour. Less than an hour.
 
 He helped where his hands could be useful without channeling—holding a pipe steady while Haran soldered, sorting fittings from the parts bin, tasks that required grip and patience and nothing from the reservoir. Workshop work. The work he'd done here for years, before any of this.
 
-But his mind was already elsewhere. The Thornwall aqueduct—Sorren's readings from that morning, the western span junctions, the three critical points Dorenne had circled. The numbers played behind his eyes the way numbers did now: population served, hours required, projected impact. The charts on Dorenne's wall, tallying the city's needs against his capacity.
+On the shelf beside Tavin's station, a half-assembled pressure regulator caught his eye. The design was different from anything he'd seen — a nested spring system, two coils working in opposition. His hands wanted to pick it up. Turn it over. Feel how the tolerances played against each other. He could see the problem in the geometry, the way the inner coil would bind at full compression, and he could see the fix — a spacer, ground to the right thickness, inserted at the fulcrum point. The kind of problem his hands had been made for.
+
+He looked at it for a moment. Then the Thornwall junctions reasserted themselves — Sorren's readings, the western span, the three critical points — and the regulator settled back into the shelf, unsolved, unclaimed.
+
+His mind was already elsewhere. The Thornwall aqueduct—Sorren's readings from that morning, the western span junctions, the three critical points Dorenne had circled. The numbers played behind his eyes the way numbers did now: population served, hours required, projected impact. The charts on Dorenne's wall, tallying the city's needs against his capacity.
 
 He caught himself calculating. The hour he was spending here—sorting fittings, holding pipe—measured against the hour he could spend at a junction box in the northern quarter. One hour at the northern quarter served twelve thousand people. One hour here served the workshop.
 
@@ -268,6 +284,8 @@ Ash looked at him. Haran looked at the street—at the buildings, the lamps, the
 
 No guilt. No chase. No ledger of missed visits or abandoned projects. Just the bench, and the door, and the steady patience of a man who had built his life on the principle that things worth doing were worth waiting for.
 
+Ash stood in the doorway. The evening light behind him, the workshop light in front. He could feel both — the warm pull of the bench and the deployment schedule in his head, the Thornwall junctions, Sorren's crew at seven, the population number that sat at the front of every thought now.
+
 "Thank you," Ash said.
 
 Haran nodded. He went back inside. The door stayed open behind him—the light falling across the threshold, the sounds of the workshop resuming, metal on metal, the low murmur of people building something that would work without magic.
@@ -294,9 +312,7 @@ He thought about the building on Threadneedle Lane. The crack. The plant on the 
 
 The math wasn't difficult. Forty-three thousand was larger than thirty. An hour at the aqueduct served more people than a night at a leaning building on a side street. The allocation was correct. The priority was correct. Dorenne was correct.
 
-He didn't notice that he was thinking about the building—about the families, the child's drawing, the groan in the walls—in terms of the number it represented. Didn't notice that the number had replaced the building the way a map replaced the territory: useful, accurate, and missing everything that mattered about the ground.
-
-The aqueduct gleamed in the afternoon light. The water ran. Forty-three thousand people would drink tonight.
+He didn't notice that he was thinking about the building—about the families, the child's drawing, the groan in the walls—in terms of the number it represented. The aqueduct gleamed in the afternoon light. The water ran. Forty-three thousand people would drink tonight.
 
 He went back to the Hall and updated Dorenne's chart. Green mark on the Thornwall western span. Estimated maintenance cycle: three months. Population served: 43,000.
 
@@ -320,8 +336,6 @@ The thought arrived without irony. Without the bitter edge it would have carried
 
 He was not performing usefulness. He was producing it. The distinction was important. The distinction was everything.
 
-He looked at the charts and saw his reflection in the numbers—not Ash, not the person who'd grown up without magic and found family in a tinkerer's workshop and laughed too loud at bad jokes and had a friend who ate seed cakes at market stalls. He saw capacity. Output. A resource allocated wisely, producing measurable results, serving the city's needs with strategic precision.
-
 He saw what Dorenne saw when she looked at him. And it felt, at last, like enough.
 
 * * *
@@ -330,13 +344,11 @@ A rest day. His third this month—Dorenne's schedule allowed one per week, thou
 
 In the afternoon, he walked to the market district. Not the Fourth Terrace market where Ryn had suggested the seed cakes—a different market, closer to the Hall, the one the engineers frequented. He bought bread and a jar of oil and ate at his desk.
 
-The resonance disc sat in the desk drawer. He hadn't moved it there deliberately. It had migrated—from the desktop to the corner to the drawer—the way objects migrated when you stopped interacting with them. He didn't think about Ryn. He didn't think about not thinking about Ryn. There was simply a place in his attention where she had been, and the place had been filled with deployment schedules and population numbers and the steady forward motion of Dorenne's framework.
+The resonance disc sat in the desk drawer. He hadn't moved it there deliberately. It had migrated—from the desktop to the corner to the drawer—the way objects migrated when you stopped interacting with them. He didn't think about Ryn.
 
 He opened the Ridgewall brief. The heating grid needed a second pass—the lattice in the residential blocks was drawing more heavily than projected, the stone's capacity degrading faster than Sorren's models predicted. Standard problem. Standard solution. His hands on stone, the reservoir flowing, the system drinking.
 
 He made a note: *Ridgewall heating grid, 2nd pass. Pop: 8,400. Est: 4 hours.*
-
-Population. Estimated time. The shorthand of a resource planning its own allocation.
 
 He closed the brief and opened the next one. The numbers were clean. The logic was sound. The framework held.
 

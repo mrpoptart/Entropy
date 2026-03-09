@@ -28,7 +28,7 @@ The word arrived in his mind with a clarity that cut through the roar. He'd read
 
 Ash was already moving. The floor bucked under him and he staggered, caught himself on the doorframe, felt the doorframe shift in its housing — stone grinding against stone, the joints that had been channeled true a hundred years ago losing their alignment in a single shuddering breath. He grabbed Dalla's arm. She was pressed against the wall, reports scattered around her feet, her face white. He pulled her toward the corridor.
 
-The corridor was wrong. The floor sloped where it shouldn't slope. The ceiling had cracked — a single clean line running the length of the hallway, plaster dust falling from it in a steady white rain. People were emerging from offices on both sides, stumbling, shouting, a man carrying a ledger as if the numbers inside it still mattered. The building shook again — a second wave, deeper than the first, and Ash felt it in the Wellspring, felt the seismic energy as a vibration in his own reservoir the way you felt someone else's voice through a shared wall. The Wellspring hummed. The ground hummed. Two frequencies, almost aligned, and the near-alignment was worse than dissonance because it made the shaking feel personal, feel like something happening *to him* rather than around him.
+The corridor was wrong. The floor sloped where it shouldn't slope. The ceiling had cracked — a single clean line running the length of the hallway, plaster dust falling from it in a steady white rain. People were emerging from offices on both sides, stumbling, shouting, a man carrying a ledger as if the numbers inside it still mattered. The building shook again — a second wave, deeper than the first, and Ash felt it in his chest, the Wellspring stirring as if the ground's shaking had reached something inside him. Not real resonance — not the reservoir responding to the quake — but the overwhelming wrongness of standing on moving ground while power pressed at his palms with nowhere to go.
 
 "Stairs," he said to Dalla. "Can you walk?"
 
@@ -62,15 +62,15 @@ Ash stood in the courtyard and the courtyard shook beneath him and the city spre
 
 The Hall of Infrastructure sat on the Third Terrace — the border between elder and middle districts, high enough to look down over the descending tiers of the city, all the way to the gorge rim where the poorest buildings clung to the edge of the plateau. On a normal morning, the view was the city at work: smoke from kitchens, the pale glow of heating lattices in walls, the movement of people on walkways and bridges, the vertical transit shafts rising and falling with their loads. Solathis in its daily rhythm, spending itself to survive.
 
-This morning, the city was coming apart. And it was coming apart unevenly.
+This morning, the city was coming apart.
 
-The elder districts held. He could see it — the First and Second Terraces above him, where the strongest residents lived, where daily pools of ten thousand kilojoules maintained buildings that had been reinforced for a century. Stone cracked and was repaired in the same breath. He watched an elderly man on a balcony three streets up press his palms to a fracturing wall and the fracture sealed itself in a pulse of warmth that Ash felt from fifty meters away — casual, practiced, a shrug of power that would cost the man a fraction of his morning. A bridge between two elder-district towers swayed and steadied, the residents at either end channeling in concert, their combined pools more than enough to absorb the stress. Dust rose from the elder districts. Damage was real. But the damage was met, answered, held.
+The elder districts held. He could see it — the First and Second Terraces above him, where the strongest residents lived, where the strongest residents maintained buildings that had been reinforced for a century. Stone cracked and was repaired in the same breath. He watched an elderly man on a balcony three streets up press his palms to a fracturing wall and the fracture sealed itself in a pulse of warmth that Ash felt from fifty meters away — casual, practiced, a shrug of power that would cost the man a fraction of his morning. A bridge between two elder-district towers swayed and steadied, the residents at either end channeling in concert, their combined pools more than enough to absorb the stress. Dust rose from the elder districts. Damage was real. But the damage was met, answered, held.
 
 The middle districts cracked.
 
-He could see it spreading. The Third Terrace — his terrace, Dorenne's terrace, the institutional heart of the city — taking hits that the residents could only partially absorb. A wall collapsed on Millward Street — he recognized the retaining wall he'd reinforced two weeks ago, and the reinforcement held, the stone solid where his power had fused it, but the buildings behind it lost their eastern faces, masonry sliding off like skin peeling from bone. Transit shafts buckled. He watched one of the vertical lift shafts — the one on Candle Street, near the market where he'd seen Ryn — crumple at its midpoint, the channeled column of force that held it rigid failing as the shaft operator's pool gave out, and the shaft folded like a bent reed, slowly, almost gently, dust blooming from the break point. A water main burst on the Fourth Terrace, sending a sheet of water across a residential street, the water catching the morning light and turning it silver.
+He could see it spreading. The Third Terrace — his terrace, Dorenne's terrace, the institutional heart of the city — taking hits that the residents could only partially absorb. A wall collapsed on Threadneedle Lane — he recognized the building he'd reinforced weeks ago, and the reinforcement held, the stone solid where his power had fused it, but the buildings behind it lost their eastern faces, masonry sliding off like skin peeling from bone. Transit shafts buckled. He watched one of the vertical lift shafts — the one near Soren's Crossing — crumple at its midpoint, the channeled column of force that held it rigid failing as the shaft operator's pool gave out, and the shaft folded like a bent reed, slowly, almost gently, dust blooming from the break point. A water main burst on the Fourth Terrace, sending a sheet of water across a residential street, the water catching the morning light and turning it silver.
 
-The maintenance workers were channeling. He could feel them — dozens, maybe hundreds of small pools flaring to life across the middle districts, desperate hands pressed against cracking walls, frantic effort poured into systems that were failing faster than any one person could hold them. Young workers. Middle-generation workers. People with pools of a thousand, two thousand kilojoules, spending everything they had in the first ninety seconds because the shaking wasn't stopping and the buildings were cracking and there was nothing else to do, no other option, no response that wasn't *pour yourself into the stone and hope it's enough.*
+The maintenance workers were channeling. He could feel them — dozens, maybe hundreds of small pools flaring to life across the middle districts, desperate hands pressed against cracking walls, frantic effort poured into systems that were failing faster than any one person could hold them. Young workers. Middle-generation workers. People with barely enough to warm a room, spending everything they had in the first ninety seconds because the shaking wasn't stopping and the buildings were cracking and there was nothing else to do, no other option, no response that wasn't *pour yourself into the stone and hope it's enough.*
 
 It wasn't enough.
 
@@ -124,11 +124,11 @@ He looked at her.
 
 The question landed in his chest. Not in his mind — in his chest, where the Wellspring sat, where the reservoir hummed with its deep, patient warmth. How much can you do. The question every channeler answered every day — how much is in your pool, how far will it stretch, what can you afford. For everyone else in the city, the answer was a daily calculation, a careful rationing. For Ash, the answer was—
 
-He reached inward. The Wellspring was there. Vast. Not infinite — he'd started to feel the shape of it in recent weeks, the edges he couldn't quite map — but vast. Tens of thousands of elder-days stored in his chest. More than any work crew. More than any department. More than any district.
+He reached inward. The Wellspring was there. Vast. Oceanic. Formless — no ceiling he could feel, no edges, just depth after depth after depth. More than any work crew. More than any department. More than any district.
 
 "A lot," he said. "I can do a lot."
 
-She nodded. Something moved behind her eyes — relief, recalculation, the machinery of her mind engaging with a new variable. She had the Wellspring. The city had the Wellspring. The worst day in Solathis's history, and she had the single most powerful tool any Director of Infrastructure had ever commanded.
+She nodded. Something moved behind her eyes — something he'd seen before when a resource came through at the last moment. She had the Wellspring. The city had the Wellspring. The worst day in Solathis's history, and she had the single most powerful tool any Director of Infrastructure had ever commanded.
 
 "The gorge rim first," she said. "Structural triage. Find what's still standing and hold it. Find who's trapped and get them out. I'll send crews behind you."
 
@@ -198,6 +198,8 @@ Ash held the cliff face until the last person was clear. Then he released it. Th
 
 Three buildings. Gone. Three addresses that would never exist again. The city was smaller now than it had been this morning.
 
+He reached inward — briefly, the way you touched a pocket to check its contents. The reservoir was there. Still vast. But it had a direction now. It went one way. He noted it and let it go.
+
 He turned back from the edge. The young channelers were standing in a rough group, the rescued residents behind them, and one of the young women was looking at Ash and her expression was — he couldn't read it. Not gratitude. Not awe. Something harder. Something that had a question in it.
 
 "Where were the reinforcement teams?" she said.
@@ -208,13 +210,13 @@ Ash blinked. "What?"
 
 "The fault monitoring teams have been—" He stopped. He'd read the reports. He'd filed the reports. Declining pool strength in the reinforcement crews. Reduced shift coverage. Budget constraints. Dorenne's assessments: *manageable*. "The crews have been understaffed."
 
-"Understaffed." The word came back at him like a thrown stone. She was young — his age, maybe younger, with dark hair cut short and callused hands and the particular anger of someone who was looking at the ruins of their neighborhood and seeing a pattern. "The upper terraces held. We collapsed. How is that understaffed? That's a choice. That's someone choosing where to send the crews and where not to. That's someone deciding which buildings get reinforced and which buildings get—" She waved at the rubble. "This."
+"Understaffed." The word came back at him like a thrown stone. She was young — his age, maybe younger, with dark hair cut short and callused hands and a smear of masonry dust across her forehead. Kael — he would learn the name later, from a broadsheet, from a quoted voice he recognized before he recognized the name. The particular anger of someone who was looking at the ruins of their neighborhood and seeing a pattern. "The upper terraces held. We collapsed. How is that understaffed? That's a choice. That's someone choosing where to send the crews and where not to. That's someone deciding which buildings get reinforced and which buildings get—" She waved at the rubble. "This."
 
 He opened his mouth to respond. The words that came were Dorenne's words — allocation, triage, resource constraints, the mathematics of insufficient pools distributed across too many systems. The words were accurate. The words were true. The words were also the words that a woman on the Third Terrace would say to a woman on the gorge rim, and the distance between those two terraces was everything that was wrong with the city, measured in broken stone.
 
 "I know," he said. It was all he could think of.
 
-"You know." She looked at his hands — at the power still crackling faintly around his fingers, the residual channeling visible as heat shimmer in the cool air. "You're the Wellspring. You could have reinforced every building on this rim. You reinforced the Millward wall instead. The heating grid in the eastern district. The southern cisterns. All up there." She pointed upward, toward the terraces above them. "All above us."
+"You know." She looked at his hands — at the power still crackling faintly around his fingers, the residual channeling visible as heat shimmer in the cool air. "You're the Wellspring. You could have reinforced every building on this rim. You reinforced the Threadneedle building instead. The heating grid in the eastern district. The southern cisterns. All up there." She pointed upward, toward the terraces above them. "All above us."
 
 His chest tightened. The Wellspring hummed behind his ribs and the hum felt different now — not warm, not reassuring, but heavy. She was wrong. The deployments had been chosen by need — by structural urgency, by population served, by Dorenne's triage calculations that weighed every system against every other system and chose the ones that mattered most. The gorge rim had been on the list. The gorge rim had been number fifteen. And number fifteen had collapsed while numbers one through ten were reinforced and fine.
 
@@ -226,7 +228,7 @@ Behind her, another young channeler — the man who'd helped evacuate the cliff-
 
 The young woman was still watching him. Waiting. Not for a speech. Not for a promise. Waiting the way you waited when you already knew the answer and wanted to hear someone say it out loud.
 
-"You're right," Ash said. "You're right that the deployments went to the upper terraces first. You're right that this district was underfunded. You're right that the pattern exists. I can see it." He looked at the rubble, at the dust, at the changed skyline of the gorge rim. "Everyone can see it now."
+"I know," he said.
 
 She held his gaze for a long moment. Then she turned away and went back to digging.
 
@@ -280,28 +282,16 @@ The thought arrived without ceremony. Not an accusation. Not a judgment. Just th
 
 *I could have been here. I could have reinforced these buildings. I had enough. I had more than enough. I was reinforcing heating grids and retaining walls and transit shafts while these buildings sat on Dorenne's list at number fifteen and nobody sent me down here because the numbers said other things mattered more.*
 
-The numbers were right. The Millward retaining wall held forty residential towers. The eastern heating grid served four thousand people. The southern cisterns supplied drinking water to six districts. The numbers were right and the numbers were monstrous and the numbers had left the gorge rim to die.
+The numbers were right. The Threadneedle building held eight families. The eastern heating grid served four thousand people. The southern cisterns supplied drinking water to six districts. The numbers were right and the numbers were monstrous and the numbers had left the gorge rim to die.
 
 Not die. That wasn't fair. The earthquake was a natural disaster. The Kharren Fault had released centuries of stress. No deployment plan could have prevented it. No amount of Wellspring power poured into the gorge rim would have stopped the ground from shaking.
 
 But it could have held the buildings up.
 
-He sat on the cold stone and the Wellspring hummed and the gorge rim was dark around him and something was changing. Not in the reservoir. In the space behind the reservoir, the space where Ash lived when the power was quiet, the space that was still the boy who couldn't channel, the boy who took the stairs, the boy who knew what it felt like to be number fifteen on a list that only funded ten.
+He sat on the cold stone and the Wellspring hummed and something was changing. Not in the reservoir. In the space behind the reservoir, where he was still the person he'd been before any of this. Something shifting there — a splinter he couldn't quite reach, couldn't quite name, couldn't quite ignore.
 
-He stood up. His legs ached. His back ached. His hands were filthy and warm and the warmth was his own waste heat, his own inefficiency, a reminder that he still didn't know what he was doing, not really, that he was the most powerful channeler alive and the least skilled and the gap between those two facts was measured in the energy he'd burned today that could have gone into saving one more person, holding one more building, buying one more hour.
+He stood up. His legs ached. His hands were filthy and warm with his own waste heat. The rescued families were huddled along the clear road, their faces lit by channeled lamps that floated above them like small, steady stars.
 
-But he was here. He was here and the Wellspring was here and the gorge rim needed both and tomorrow — tomorrow he would not wait for Dorenne's schedule. Tomorrow he would not stand at the deployment map and point to priorities. Tomorrow he would come back to this district and he would lift every stone and brace every wall and he would not stop until the people in the rubble were not in the rubble anymore.
+He looked at them. He looked at the dark gorge rim and the lit upper terraces and the line between them.
 
-The girl with the broken legs was at the medical station. The healer was still working. The rescued families were huddled in groups along the clear road, wrapped in whatever blankets the rescue crews had brought, their faces lit by the channeled lamps that floated above them like small, steady stars.
-
-Ash looked at them. Ten thousand people, the number from his morning calculation. Some of them dead. Some of them alive. All of them living in the rubble of a system that had been failing them for years, and the earthquake had just made the failure loud enough for everyone to hear.
-
-He could do something about this. Not all of it. Not the dead. Not the broken. Not the years of deferred maintenance and declining pools and institutional choices that had left the poorest district at the bottom of every list. He couldn't fix the Kharren Fault. He couldn't undo the decline. He couldn't stop the magic from weakening or the ground from shaking or the world from being the way the world was.
-
-But he could move stone. He could hold buildings. He could pull people from the wreckage and carry them to safety and pour his impossible, unprecedented, finite power into the broken places until the broken places held.
-
-He started walking. Back into the rubble. Back toward the sounds of people digging. The Wellspring burned behind his ribs and the burning felt different from the hum — fiercer, sharper, the difference between a candle and a forge fire, between a thing that warmed and a thing that worked.
-
-The ground had spoken.
-
-Now he would answer.
+The ground had spoken. He didn't have an answer yet.

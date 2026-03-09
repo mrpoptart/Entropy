@@ -68,7 +68,7 @@ She came down the terrace steps with Halsten at her side and two Council aides b
 
 "Ash." She stopped at the edge of the water-slicked stone and looked down at him. He was kneeling in an inch of water, his hands on the ruptured pipe, the metal sealing under his palms in a hiss of steam. "Report."
 
-He listed what he'd done since the earthquake began. Seven transit columns stabilized. The Saddler's Row bridge. Fourteen structural reinforcements on residential buildings in the lower terraces. The retaining wall in Threadneedle. Three — now four — water main repairs. The school building, the rubble excavation, the dozens of smaller interventions that had blurred together in the long night.
+He listed what he'd done since the earthquake began. Seven transit columns stabilized. The Saddler's Row bridge. 14 structural reinforcements on residential buildings in the lower terraces. The retaining wall in Threadneedle. Three — now four — water main repairs. The school building, the rubble excavation, the dozens of smaller interventions that had blurred together in the long night.
 
 Dorenne listened. He watched her face as she took it in — the numbers, the scope, the geography of his interventions — and he saw her expression change in a way that was subtle and enormous at the same time. It was not surprise, exactly. She had known he was powerful. She had known since the day the Wellspring activated that the scale of his reservoir was unlike anything the city had ever seen. But knowing a number and watching a person work through the night without sleep, sealing buildings and bridges and water mains across an entire quadrant of the city, doing the work of hundreds — these were different kinds of knowing, and the latter was settling into her face with the gravity of someone recalculating not just a resource allocation but an entire strategy.
 
@@ -140,7 +140,7 @@ She didn't turn. Her jaw was clenched, the tendons in her neck standing taut, he
 
 "Not continuously. I rest. Ten minutes on, five minutes off. My pool replenishes a little — just a little — if I stop and breathe and let it cycle. I can feel it pulling from..." She trailed off. Her hands shook. "It's not enough. Every time I stop, the fractures spread. I close one and two more open. The water pressure is—" Her voice caught. She breathed. Her hands steadied. "The water pressure is constant. It doesn't rest."
 
-Ash looked at the dam. He looked at the woman. She was holding eleven thousand people's water supply together with her pool — a pool that was, at best, a thousand kilojoules on a full day and was now, after hours of sustained channeling through the night, nearly dry. She had been cycling — pushing to empty, resting for five minutes of partial recharge, pushing again — stretching a young-generation pool across a task that would have challenged an elder. The technique she was using was the only reason the dam was still standing. If she had been sloppy, if she had flooded the wall the way Ash would have, her pool would have emptied in minutes and the wall would have failed hours ago.
+Ash looked at the dam. He looked at the woman. She was holding eleven thousand people's water supply together with her pool — a pool that was, at best, a full day's worth on a good morning and was now, after hours of sustained channeling through the night, nearly dry. She had been cycling — pushing to empty, resting for five minutes of partial recharge, pushing again — stretching a young-generation pool across a task that would have challenged an elder. The technique she was using was the only reason the dam was still standing. If she had been sloppy, if she had flooded the wall the way Ash would have, her pool would have emptied in minutes and the wall would have failed hours ago.
 
 Her skill was the reason she was still here. Her skill was also the reason she was alone — she was good enough to hold the dam by herself, barely, and so nobody had come to relieve her, because the city had a thousand other emergencies and a woman who could hold was a woman who could wait.
 
@@ -162,7 +162,7 @@ Or it was gratitude — but gratitude was only the top layer, the part that had 
 
 And he had walked up and done in seconds what she could not have done in days.
 
-The gratitude was for the eleven thousand people whose water supply was safe. The thing underneath it was for herself — for the gap between her best and his casual, for the mathematics of a world where her lifetime of skill and discipline and sacrifice could be rendered irrelevant by someone who had been channeling for weeks and did it badly and had enough power that doing it badly didn't matter.
+He didn't have a word for what he saw beneath the gratitude. It looked like something to do with herself — with the gap between her best and his casual, with the mathematics of a world where a lifetime of skill and discipline could be rendered irrelevant by someone who had been channeling for weeks and did it badly and had enough power that doing it badly didn't matter.
 
 "Thank you," she said. Her voice was steady. Her hands were shaking. The two facts existed simultaneously, the way the gratitude and the grief existed simultaneously, contradictions that the moment was large enough to hold.
 
@@ -238,7 +238,7 @@ Two hours. The second void.
 
 Ash held the building. His hands were on the stone and his attention was on the internal structure — the field of stabilizing force adjusting constantly, compensating for the debris removed above and the shifting stresses below. The effort had settled into a rhythm, a sustained pulse of channeling that required concentration but not the frantic intensity of the first minutes. He could feel the reservoir giving — a steady draw, not alarming, not yet, but present, the way you can feel water draining from a tub even when the level seems unchanged. He didn't think about it. He held the building and he didn't think about what it was costing because thinking about cost right now would mean weighing a number against the lives of the people still trapped below, and he had made his decision about that mathematics hours ago.
 
-The second void held a couple — a man and a woman in their sixties, both with elder-generation pools, both of them channeling when the crew reached them. They had been reinforcing the pocket around them for eighteen hours, their combined pools — large by any standard, ten thousand kilojoules each on a full day — spent and replenished and spent again in a continuous cycle of holding that had kept the rubble above them from completing its compression. The void they had maintained was larger than it should have been — they had pushed outward, using their pools to expand their pocket of survival, creating space for themselves where the geometry of collapse had provided almost none.
+The second void held a couple — a man and a woman in their sixties, both with elder-generation pools, both of them channeling when the crew reached them. They had been reinforcing the pocket around them for eighteen hours, their combined pools — elder-grade, vast by any standard — spent and replenished and spent again in a continuous cycle of holding that had kept the rubble above them from completing its compression. The void they had maintained was larger than it should have been — they had pushed outward, using their pools to expand their pocket of survival, creating space for themselves where the geometry of collapse had provided almost none.
 
 They had saved themselves. Their pools — elder-grade, powerful — had been enough. In the districts above, where the elders lived, the earthquake had cracked facades and toppled ornaments and done nothing that couldn't be repaired in an afternoon. Here, in the lower districts, two elders had survived because they carried with them the same power that made the upper districts safe.
 
@@ -304,7 +304,7 @@ The Council briefing was held in a chamber on the Hall's lower level — the mai
 
 There was a lot of red. There was a lot of black.
 
-Ash stood beside her. She had asked him to, and he understood why — his presence in the room was a statement, the Wellspring positioned beside the Director of Infrastructure, the force and the framework, the solution and the strategy. The Councillors looked at him. They looked at the charts. They looked at Dorenne. The calculation was visible on every face: *this woman has the Wellspring, and the Wellspring is holding the city together, and whoever controls the allocation of that power controls the recovery*.
+Ash stood beside her. She had asked him to, and he understood why — his presence in the room was a statement, the Wellspring positioned beside the Director of Infrastructure, the force and the framework, the solution and the strategy. The Councillors looked at him. They looked at the charts. They looked at Dorenne. The calculation was visible on every face — this woman had the Wellspring, and the Wellspring was holding the city together, and whoever controlled the allocation of that power controlled the recovery.
 
 Dorenne briefed them. Her voice was clear and steady and carried the authority of a woman who had been awake for forty hours and had spent every one of them managing a crisis that would have broken someone less prepared. She described the damage — the scope, the distribution, the precise cartography of destruction that mapped the city's magical inequality onto the physical world. She described the response — the rescue crews, the water repairs, the structural reinforcements, the coordination between districts that had functioned because her office had built the communication framework years ago and it was holding now, stressed but intact, the institutional architecture she had spent her career constructing proving its value at the moment it mattered most.
 
@@ -336,6 +336,8 @@ She looked at him. The correction had been quiet — not confrontational, not an
 
 The briefing continued. Details, schedules, resource allocations. Ash stood beside Dorenne and listened and understood that what was happening in this room was the construction of a machine — a machine that would deploy him across the city in a coordinated sequence of maximum impact, his power directed by her strategy, his force shaped by her architecture. The machine was efficient. It was rational. It would save lives.
 
+Somewhere beneath the agreement, a splinter. Kael's voice on the gorge rim — *Where were our reinforcements?* — and the fact that he was standing here, beside the woman who had written the list that left the gorge rim at number fifteen, and he was nodding. He noticed the splinter. He did not pull it out.
+
 It was also, he understood with a clarity that surprised him, the thing he wanted. Not the machine itself — the saving. The holding. The walking into a street where buildings had fallen and people were trapped and being the person who could do something about it. The eleven people on Harrier Street. The young channeler at the dam. The child with the stone. These were not abstractions. They were faces and voices and the specific weight of a building held for five and a half hours, and they were the reason he was standing in this room, and they were enough.
 
 Dorenne's plan was good. Her strategy was sound. Her machine would deploy him where he was needed most, and the people who needed him would be helped, and the city would stand.
@@ -350,7 +352,9 @@ The briefing ended. The Councillors filed out. Dorenne turned to him, and for a 
 
 "I told the truth."
 
-"You told them what they needed to hear. Sometimes that's the same thing." She gathered her charts. Her movements were precise, efficient, the gestures of a person who had not wasted a motion in forty years of public service. "Tomorrow. The Millworks district. The residential blocks along the southern terrace are the worst — three buildings on the verge of collapse, two hundred people displaced. I want you there at first light."
+"You told them what they needed to hear. Sometimes that's the same thing."
+
+The sentence landed slightly off. He filed it somewhere he didn't examine. She gathered her charts. Her movements were precise, efficient, the gestures of a person who had not wasted a motion in forty years of public service. "Tomorrow. The Millworks district. The residential blocks along the southern terrace are the worst — three buildings on the verge of collapse, two hundred people displaced. I want you there at first light."
 
 "I'll be there."
 
@@ -376,20 +380,10 @@ He looked at his hands. Raw and pink and tender, the physical evidence of hours 
 
 His hands. The Wellspring. The thing he could do that no one else could.
 
-He closed his eyes. The reservoir hummed, vast and deep and warm, and the edges he had felt were distant and immaterial, and the power was there, as it had been there every day since the activation, waiting to be used, waiting to be spent, waiting to flow through his palms and into the broken stone of a city that needed it more than he had ever needed anything.
+He closed his eyes. The reservoir hummed, vast and deep and warm. The edges he had felt were still there — faint, distant, but there, the way you could feel the walls of a room in the dark. He didn't examine them. He didn't want to. But they didn't go away.
 
 Tomorrow. The Millworks district. Three buildings on the verge of collapse.
 
-He opened his eyes. The stars were coming out above Solathis, faint through the residual dust, and the city below him was settling into the particular darkness of a place where the heating lattices had failed and the channeling strips were dead and the people inside their cooling homes were wrapping themselves in blankets and waiting for dawn. He would go down there in the morning. He would go down and he would hold their buildings and seal their pipes and reinforce their walls and be, for as long as the reservoir lasted and his hands could touch the stone, the thing that stood between them and the slow collapse of the world they had been given.
-
-He was meant for this.
-
-The thought arrived without fanfare — not a revelation, not a dramatic realization, but the quiet settling of something that had been building for two days and finally found its shape. He was meant for this. The Wellspring, the power, the vast reservoir that had been sealed inside him for twenty years while he climbed stairs and struck flint and performed his cheerfulness and carried the private weight of a life that didn't fit — all of it had been leading here. To this terrace. To this evening. To a city that was broken and a pair of hands that could hold it together.
-
-The cheerfulness wasn't a performance anymore. The smile that came to his face as he sat on the terrace wall and looked out at the city was not the smile he had worn for twenty years — the one that said *I'm fine, I'm okay, I'm worth the trouble of keeping*. This smile was different. This smile was the expression of a person who had spent two days pulling people from rubble and holding dams together and sealing the broken infrastructure of a city that had been failing long before the earthquake made the failure visible, and who had discovered in the doing of it that the doing of it was the point. Not the power. Not the recognition. Not the political machinery of Dorenne's deployment framework or the Councillors' calculations or the city's gratitude. The doing. The holding. The being there when the ceiling fell and the dark closed in and a mother needed to keep talking about bakers and bread to keep her daughter's world intact.
-
-The stars brightened as the dust continued to clear. The city settled. The reservoir hummed.
+He opened his eyes. The stars were coming out above Solathis, faint through the residual dust, and the city below him was settling into the particular darkness of a place where the heating lattices had failed and the channeling strips were dead and the people inside their cooling homes were wrapping themselves in blankets and waiting for dawn.
 
 Tomorrow, he would go back down. Tomorrow, and the day after, and the day after that.
-
-He was ready.

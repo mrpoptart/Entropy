@@ -105,6 +105,8 @@ Each step feels justified from within the movement. Each step alienates potentia
 ### The Name
 They call themselves **the Levelers** — evoking equality, flattening of hierarchy, the leveling of an uneven field. The establishment calls them radicals. The truth, as usual, is more complicated.
 
+**Visual identity (established Ch22):** A circle with a line through it — rough, hand-drawn. First seen on a broadsheet posted on a wall, printed by hand press (mechanical type, not channeled inscription). The symbol appears alongside meeting dates and locations. Ash encounters it on his walk home and does not yet know what it means.
+
 ### Relationship to Ash
 Ash's relationship with the Levelers moves through distinct phases in Book Two:
 

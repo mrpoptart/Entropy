@@ -24,11 +24,13 @@ He pulled his hands away and stood. The wall was solid. A generation's worth of 
 
 The crew chief marked it on her clipboard. Ash watched her write the number—a duration, a date, a shorthand note he couldn't read from this distance. Another hash mark for Dorenne's chart.
 
-He moved to the second site. A water conduit junction, two streets south. The same process—hands on stone, reservoir through, fractures sealed, flow restored. Twenty minutes. The crew chief followed, clipboard in hand.
+He moved to the second site. A water conduit junction, two streets south. He knelt at the manifold and pressed his palms flat. For a moment — just a moment — he tried the other way. Haran's way. The thin thread, the nudge at the point of least resistance. His fingers found the fracture line and he pushed a micro-pulse at the narrowest point, the way Haran would have nudged a valve seat.
+
+The pulse came through too wide. Not catastrophically — he could feel the shape of what Haran did, the precision that made force look like luck — but his hands defaulted to deployment scale before the pulse was half-formed. He let the reservoir take over, sealed the fractures the usual way, and moved on. Twenty minutes. The crew chief followed, clipboard in hand.
 
 Third site. A bridge support in the lower terrace, where the foot traffic of reconstruction supply wagons had widened a crack that predated the earthquake. Fifteen minutes. Another mark on the clipboard.
 
-He finished by midmorning. Three sites, three deployments, each one a withdrawal from an account he'd never bothered to check. The reservoir sat in his chest, warm and vast—but the quality of it had shifted again since the end of Chapter 17. The ghost of geometry he'd felt on the terrace overlook was clearer now. Not walls, exactly. Not edges he could touch or measure. But the sense that the reservoir had a shape—that it existed inside something rather than simply existing—was stronger than it had been a week ago. Stronger than it had been yesterday.
+He finished by midmorning. Three sites, three deployments, each one a withdrawal from an account he'd never bothered to check. The reservoir sat in his chest, warm and vast—but the quality of it had shifted again since the night on the overlook. The ghost of geometry he'd felt on the terrace overlook was clearer now. Not walls, exactly. Not edges he could touch or measure. But the sense that the reservoir had a shape—that it existed inside something rather than simply existing—was stronger than it had been a week ago. Stronger than it had been yesterday.
 
 He reached for the feeling. Tried to hold it.
 
@@ -80,8 +82,6 @@ He left. Walked two streets north, found a house with a sagging lintel—a home,
 
 A man opened the door. Ash was already walking away.
 
-He did three more. A cracked step on a stairway between terraces. A buckling retaining wall behind a row of houses—small, not structural, the kind of wall that kept a garden from sliding into a neighbor's kitchen. A workshop two streets from the first one, where the back wall had separated from the foundation by an inch.
-
 Small things. Unstrategic. Each one a withdrawal he could feel now—not as depletion, not as loss, but as presence. Each time he channeled, he was aware of the reservoir in a way he hadn't been before. Aware of its size. Aware that size was a number, and numbers had limits, and limits meant edges.
 
 He pushed the awareness down and kept working.
@@ -98,7 +98,7 @@ Dorenne crossed the courtyard with the particular stride she used when she was c
 
 "I know."
 
-"Verin's crew has been waiting since ten."
+"Verin's crew—the eastern wall team—has been waiting since ten."
 
 "I'll go this afternoon."
 
@@ -106,17 +106,17 @@ Dorenne crossed the courtyard with the particular stride she used when she was c
 
 "Here." He gestured at the district around them. "The tinkerer workshop on the south edge had a cracked wall. The house on Colter Street—"
 
-"I know which buildings you repaired. The crew chiefs report to me." She unclasped her hands and pulled a folded paper from her jacket—a list, shorter than his, written in her own hand. "Six sites. None of them on the deployment schedule. None of them priority-flagged."
+"I know which buildings you repaired. The crew chiefs report to me." She unclasped her hands and pulled a folded paper from her jacket—a list, shorter than his, written in her own hand. "Two sites. Neither on the deployment schedule. Neither priority-flagged."
 
 "They needed it."
 
-"Everything needs it." She unfolded the paper. He could see the writing from where he sat—building addresses, durations, the same shorthand the crew chiefs used. She'd already calculated what he'd spent. "The workshop wall. The lintel on Colter. The stairway. The garden retaining wall. The second workshop." She folded the paper again. "Roughly twelve minutes of active channeling. At your current efficiency, that's—" She paused, not for drama but for accuracy. "That's a significant expenditure, Ash. Equivalent to a quarter of what the eastern wall would have cost."
+"Everything needs it." She unfolded the paper. He could see the writing from where he sat—building addresses, durations, the same shorthand the crew chiefs used. She'd already calculated what he'd spent. "The workshop wall. The lintel on Colter Street." She folded the paper again. "Roughly five minutes of active channeling. At your current efficiency, that's—" She paused, not for drama but for accuracy. "That's not negligible, Ash. Time and output you could have given the eastern wall."
 
 He looked at her. The bread was still in his hand. He set it down on the wall beside him.
 
 "Those were homes," he said. "Workshops. Places where people live and work."
 
-"The eastern retaining wall protects four thousand people." She said it without emphasis, without judgment. A fact placed beside a fact. "The slope behind it shifted three centimeters during the earthquake. If it fails, the entire lower-east district slides. Every home in that district. Every workshop." She held his gaze. "You could have reinforced it with what those six repairs cost you."
+"The eastern retaining wall protects four thousand people." She said it without emphasis, without judgment. A fact placed beside a fact. "The slope behind it shifted three centimeters during the earthquake. If it fails, the entire lower-east district slides. Every home in that district. Every workshop." She held his gaze. "You could have been there an hour earlier."
 
 The silence between them was the kind that had weight. Not hostile. Not warm. The silence of two people who were both right and who both knew it.
 
@@ -142,8 +142,6 @@ Smaller.
 
 Not by much. Not by any amount he could measure or name. But the sense of it had changed again—not the ghost of edges now, but something more solid. The reservoir had a shape, and the shape had dimensions, and the dimensions were not infinite. He could feel the floor the way you could feel the bottom of a deep lake when you dove far enough—not touching it, not close to touching it, but knowing it was there. Knowing the water ended somewhere.
 
-*It was always finite.*
-
 The thought surfaced and he let it sit. He'd known this. Dorenne had said it in the Council chamber—"unprecedented but not infinite." The examiners had hedged. Haran had asked, months ago, a question about cost that Ash had shrugged away. Everyone had been telling him, and he'd listened, and he'd heard, and he hadn't believed. Because the reservoir had felt like an ocean, and oceans didn't have floors. That was what made them oceans.
 
 But this ocean had a floor. And he could feel it now, every day, a little closer than the day before. Not because the floor was rising but because the water was going down.
@@ -160,9 +158,9 @@ His mother opened the door before he knocked. She'd seen him from the window—t
 
 "Ashlyn," she said. "Come in."
 
-The kitchen smelled like root broth—the thick, peppery kind she made in winter, though winter was months away. She made it because she always had. Because the recipe was her mother's, and her mother's mother's, and the kitchen was the one room in the house where time moved the way she wanted it to.
+The kitchen smelled like root broth—the thick, peppery kind she made in winter, though the cold season hadn't properly arrived. She made it because she always had. Because the recipe was her mother's, and her mother's mother's, and the kitchen was the one room in the house where time moved the way she wanted it to.
 
-He sat at the table. The same table. The same chairs, one with the short leg his father had shimmed with a folded piece of leather years ago. The shim was still there. He could see it, a darker strip against the floor.
+He sat at the table. The same table. The same chairs.
 
 His mother moved to the stove. On the counter beside it, a kettle steamed—the old one. Dented tin, the handle wrapped with cord where the original grip had worn through. He recognized it the way he recognized his own hands. That kettle had heated every cup of tea he'd drunk in this house for twenty years. The dent on its left side was from the time Maren had knocked it off the counter as a child. The cord on the handle was his father's repair, careful and functional, the work of a man who fixed things because things were worth fixing.
 
@@ -176,7 +174,9 @@ She poured two cups. Set one in front of him. The tea was dark, oversteeped the 
 
 "I'm eating."
 
-"You look thin," she said again, as if repetition could make him hear it differently.
+"You look thin," she said again, as if repetition could make him hear it differently. "When did you last sit down for a meal?"
+
+He couldn't remember. The deployment days blurred together—bread eaten standing, water between sites, the body forgotten in the work.
 
 He drank the tea. Too bitter, too hot. He drank it anyway.
 
@@ -202,27 +202,33 @@ The front door opened. His father came in, carrying a canvas bag—tools, from t
 
 His father sat at the table. His mother poured a third cup without being asked—the choreography of a household, decades of practice compressed into gesture. His father wrapped both hands around the cup and sighed the sigh of a man whose body was tired and whose chair was exactly where it should be.
 
-"Passed by Toreth's place on the way home," his father said. "That shelf you built—the one in his workshop. Still standing."
+"Passed by Comyn's place on the way home," his father said. "That shelf you built—the one in his workshop. Still standing."
 
 Ash looked at him. "That was years ago."
 
 "Seven. He had a load of iron stock fall on it during the quake. Shelf held. The brackets bent but the joints didn't crack." His father sipped his tea with the satisfaction of a man delivering good news. "He told me to tell you. Said you'd want to know."
 
-Ash remembered the shelf. Haran's workshop, a rainy afternoon, sixteen years old and looking for something to do with his hands because he couldn't do anything with his pool. Toreth—Haran's neighbor, another tinkerer, an old man with a workshop full of scrap metal and a patience for teaching that bordered on stubbornness—had needed a shelf for his stock. Ash had built it. Mortise and tenon joints, no channeling, no reinforcement, just wood and precision and a boy who wanted to prove he could make something that stood.
+Ash remembered the shelf. Haran's workshop, a rainy afternoon, sixteen years old and looking for something to do with his hands because he couldn't do anything with his pool. Comyn—Haran's neighbor, another tinkerer, an old man with a workshop full of scrap metal and a patience for teaching that bordered on stubbornness—had needed a shelf for his stock. Ash had built it. Mortise and tenon joints, no channeling, no reinforcement, just wood and precision and a boy who wanted to prove he could make something that stood.
 
 Seven years. A load of iron. An earthquake. The shelf held.
 
 "Good joints," his father said. "You always had good joints."
 
-His mother was watching him. He could feel it without looking—the quality of her attention, the way she held herself when she wanted to say something and chose not to. She wanted to ask him to stay for dinner. She wanted to touch his face. She wanted to tell him that the shelf mattered more than the buildings, that the boy who built it was the one she missed, that the man who held up the city was someone she loved but couldn't reach.
+His mother was watching him. He could feel it without looking—the quality of her attention, the way she held herself when she was choosing not to speak. Her hands were tight around her cup. Her mouth was set in the line that meant she was holding something back—something that lived in the way she looked at his hands, at the shelf, at the distance between the boy who had built it and the man sitting at her table.
 
-She didn't say any of it. She sipped her tea and let the silence carry what she couldn't.
+She sipped her tea and let the silence carry what she couldn't.
 
 "Maren working tonight?" Ash asked.
 
 His mother's expression shifted—not much, a tightening around the eyes. "She's been picking up extra shifts. Maintenance work, the middle districts. They're shorthanded since the earthquake."
 
 He hadn't known that. He hadn't asked, before now. Maren, working extra maintenance shifts—spending her pool, her small and precise and diminishing pool, covering for crews that were stretched thin because the infrastructure demanded more channeling than the available workers could provide. Doing the math of her own capacity every day, the way everyone in her generation did, the way everyone except him did.
+
+The thought caught and held. He sat with it — Maren's pool against his reservoir. Her daily budget, rationed down to the last useful drop, stretched across shifts and repairs and the quiet maintenance that nobody thanked her for. His ocean, with its new geometry of edges. She spent what an elder produced in a day and called it a full shift. He spent what an elder produced in a year and called it Tuesday.
+
+The disproportion was grotesque. He'd known it intellectually — had known it since the activation, since the numbers started. But knowing it as arithmetic and feeling it as his sister's hands flexing in the dark were different things. She came home tired the way he came home tired, except her tired meant the well was dry and his tired meant he'd used a cupful of the sea.
+
+He pushed the thought away. Not gently — with the practiced force of a person who had learned that some comparisons, followed to their conclusion, made the work impossible.
 
 "She'll be sorry she missed you," his mother said.
 
@@ -304,7 +310,7 @@ That evening, in his quarters at the command post, he sat on the cot and pressed
 
 It was there. Warm. Present. Vast—still vast, still more than anyone alive had ever held, still enormous by any measure except the one that mattered: his own. He held the feeling the way he'd learned to hold channeled force—with attention, with precision, with the awareness of dimension that came from weeks of practice.
 
-The edges were there. Not close. Not crowding him. But present, the way the walls of a large room were present even when you stood in the center—invisible if you didn't think about them, undeniable once you did. The reservoir had a shape. The shape had limits. The limits were real.
+The edges were there. Not close. Not crowding him. But present, the way the walls of a large room were present even when you stood in the center—invisible if you didn't think about them, undeniable once you did. The reservoir had a shape. The shape had limits. He didn't look at them too closely.
 
 He thought about the chart. The columns climbing forward across months. The hash marks multiplying. The sum at the bottom of Dorenne's attachment, a number he would carry now the way he carried the reservoir itself—not visible to anyone, not measurable from outside, but present. Always present.
 

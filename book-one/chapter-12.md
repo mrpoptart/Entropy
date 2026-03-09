@@ -28,7 +28,7 @@ He opened the wardrobe. It smelled like clean wood. He hung his coat inside and 
 
 Four districts in two weeks. Northern quarter, Ridgewall, the lower terraces twice. Each deployment followed the pattern Dorenne had built: briefing at dawn, engineering team on site, Ash at the junction boxes or the retaining walls or whatever piece of the city was failing that day. Each deployment ended the same way—the broken thing worked, the engineers took readings, Dorenne added a green mark to her map.
 
-The northern quarter retaining walls were the worst. Three fractures in a fifty-meter span, each one deeper than Sorren's initial assessment had estimated. Ash pressed his palms to the stone and channeled for four hours. The fractures stabilized. The buildings above stopped settling. Sorren documented the readings with the concentrated attention of a man who was still recalibrating what he expected from a single channeler.
+The northern quarter retaining walls were the worst. Three fractures in a fifty-meter span, each one deeper than Sorren's initial assessment had estimated. Ash pressed his palms to the stone and channeled for four hours. The fractures stabilized. The buildings above stopped settling. Sorren documented the readings with the concentrated attention of someone who was still recalibrating what he expected from a single channeler.
 
 "The wall needs monthly maintenance now," Sorren said, marking her notebook. "Standard reinforcement, sustained output. We can schedule a crew—"
 
@@ -136,9 +136,7 @@ He flexed his hands. The soreness felt good. The earned ache of work that matter
 
 Dorenne's schedule had the next deployment marked for two days from now—the Thornwall aqueduct, second pass, the pressure junctions in the upper reaches that Torath had flagged for follow-up. Two days of rest. He could visit the family. He could walk to the workshop. He could send Ryn a message and reschedule the market morning he'd canceled.
 
-He went back to his quarters. Read the deployment brief for Thornwall. Made notes on the pressure junction sequence. The notes were detailed—junction order, estimated flow rates, the particular characteristics of each interface stone that he'd learned from the first pass. He was thinking in systems now. Dorenne's systems, mapped onto the city's bones, each deployment a node in a network of maintenance that kept the city standing.
-
-He fell asleep with the notes on his chest and the reservoir humming and the two free days ahead of him, and in the morning, when Dorenne knocked on his door at dawn to ask if he could assess a failing storm drain on the Sixth Terrace—"just a quick assessment, two hours at most"—he said yes.
+He went back to his quarters. Read the deployment brief for Thornwall. Made notes on the pressure junction sequence. The notes were detailed—junction order, estimated flow rates, the particular characteristics of each interface stone that he'd learned from the first pass. He fell asleep with the notes on his chest and the reservoir humming and the two free days ahead of him, and in the morning, when Dorenne knocked on his door at dawn to ask if he could assess a failing storm drain on the Sixth Terrace—"just a quick assessment, two hours at most"—he said yes.
 
 The storm drain took four hours. The assessment became a repair. The repair became a reinforcement. He was back in his quarters by midafternoon, and by then the day had the particular quality of a day half-used, too late to start something new, too early to sleep.
 
@@ -198,9 +196,7 @@ A woman was watching from a doorway. She held a child against her hip—small, b
 
 He walked to the next junction.
 
-The power felt like an extension of himself. Not a gift, not an accident, not something that had happened to him. It felt like a limb he'd been missing—a hand he'd always known was supposed to be there, and now it was, and every time he used it the rightness deepened. He thought in terms of what he could do. Not what he might do, not what he should do—what he *could* do. The grammar of his inner life had shifted. He was a person with capacity. A person who was enough.
-
-He finished the Ridgewall circuit. Five junctions. Four hours. The district breathed warm air into the evening.
+The power felt like an extension of himself. Not a gift, not an accident, not something that had happened to him. It felt like a limb he'd been missing—a hand he'd always known was supposed to be there, and now it was, and every time he used it the rightness deepened. He thought in terms of what he could do. Not what he might do, not what he should do—what he *could* do. The grammar of his inner life had shifted. He finished the Ridgewall circuit. Five junctions. Four hours. The district breathed warm air into the evening.
 
 Walking back to the Hall, he passed through the lower market district. The streets were busy—evening crowds, the particular density of people moving between work and home. He walked easily, his stride long, the reservoir a steady warmth behind his ribs. People recognized him. Not everyone—he wasn't famous the way a public figure was famous. But the infrastructure workers knew his face, and the district managers knew his name, and occasionally someone in the crowd would glance twice, the way you glanced at a person you'd heard about and were seeing for the first time.
 
@@ -214,15 +210,11 @@ A woman in the group saw Ash looking. She held his gaze for a moment—direct, a
 
 Ash walked on.
 
-Two blocks further, he passed a community hall with its doors open. The sound of voices came through—not angry, exactly, but heated, the particular register of people arguing about something that affected them personally. He caught fragments as he passed.
+Two blocks further, he passed a community hall with its doors open. The sound of voices came through—not angry, exactly, but heated, the particular register of people arguing about something that affected them personally. He caught a fragment as he passed.
 
-"—dependent on one person. What happens when he's not available? When Kharren decides our district isn't a priority—"
+"—dependent on one person. What happens when he's not available?"
 
-"—the Wellspring isn't a solution, it's a bandage. The same systems keep failing—"
-
-"—our grandparents built these systems with their own pools. Our pools can't maintain them. Whose fault is that?"
-
-The voices faded as he walked. The evening crowd absorbed the sound. He turned onto the main avenue and the Hall of Infrastructure rose ahead of him, its corridors lit, Dorenne's window a bright square on the third floor.
+The voice faded as he walked. The evening crowd absorbed the sound. He turned onto the main avenue and the Hall of Infrastructure rose ahead of him, its corridors lit, Dorenne's window a bright square on the third floor.
 
 A broadsheet was pasted to a wall near the avenue's entrance. He glanced at it—hand-printed, the ink still fresh, the kind of rough printing that came from a tinkerer's press rather than a channeler's resonance plate. The headline read: MECHANICAL ALTERNATIVES FOR A POST-CHANNELING FUTURE. Below it, a diagram—something with gears and levers, a schematic he recognized as similar to the pump designs in Haran's workshop.
 
@@ -234,7 +226,7 @@ He climbed the stairs to the third floor. Passed Dorenne's office—she was at h
 
 He sat at the desk. Opened the brief for tomorrow's deployment. A water junction in the southern quarter, three buildings, approximately eight hundred residents.
 
-He read the brief. Made notes. The reservoir hummed. Outside, the city settled into evening, and the broadsheet dried on the wall, and Ryn didn't call, and the workshop's pump ran without him, and the cracks in the world were visible to everyone except the person standing in the middle of them, pressing his hands to the stone, filling them with an ocean that felt like it would never run out.
+He read the brief. Made notes. The reservoir hummed. Outside, the city settled into evening, and the broadsheet dried on the wall, and Ryn didn't call, and the workshop's pump ran without him, and the ocean felt like it would never run out.
 
 * * *
 
@@ -390,7 +382,7 @@ The workshop's light dimmed behind him as the street curved. The sound of metal 
 
 His workbench stayed clear. His tools stayed arranged. The workshop continued without him, the way the pump continued without him, the way Haran's philosophy continued without him—patient, steady, built on the principle that no single person should be necessary for the system to work.
 
-The principle was a lesson. He didn't notice it. He was too busy being necessary.
+He kept walking.
 
 * * *
 
@@ -408,7 +400,7 @@ He was one of them now. Not the largest part, but the strongest. The one whose h
 
 He closed his eyes. The deployment brief sat on his desk. Ryn's silence sat on the resonance disc. Haran's patience sat in a workshop across the city. His mother's tea sat in a cup she'd poured and not drunk.
 
-He didn't think about any of it. He thought about what he could do.
+He thought about what he could do.
 
 The list was long. The reservoir was deep. The city was full of things that needed him, and he needed to be needed the way the heating lattice needed power—structurally, fundamentally, in the load-bearing walls of who he was.
 
