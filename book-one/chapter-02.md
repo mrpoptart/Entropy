@@ -354,7 +354,7 @@ Ash stood in the corridor with the folio in his hands and the conversation settl
 
 He knew what that felt like. He'd been the gap.
 
-He brought the folio back to Dorenne's desk and said nothing about what he'd overheard. But the something that had settled into him didn't leave. It stayed, the way things stayed when they were too heavy to carry consciously and too important to put down.
+He brought the folio back to Dorenne's desk and set it down and said nothing. He went back to his work. He sorted the afternoon deliveries. He checked the list Tessaly had given him. The numbers on the chart were still in his head — forty years, thirty-seven, thirty-four — and they didn't move to make room.
 
 * * *
 
