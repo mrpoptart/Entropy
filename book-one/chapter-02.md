@@ -416,7 +416,7 @@ She was laughing — the low one, the one that arrived slightly uneven, as if on
 
 They ate. The fried bread was from the vendor on the lower terrace, the one who worked late because her pool was too weak to compete with the morning market channelers and their glowing displays and sealed cases. Ryn bought from her every time, and if you asked her why, she'd say the bread was good.
 
-After the food was gone and they were sitting in the last of the twilight, the gorge below them a darkness that the city's fading channeling couldn't reach, she went quiet for a while. Then, without looking at him: "Is it going to be okay? The job. All the—" She waved a hand, a gesture that encompassed everything she didn't want to list.
+After the food was gone and they were sitting in the last of the twilight, the gorge below them a darkness that the city's fading channeling couldn't reach, she went quiet for a while. Then, without looking at him: "Is it going to be okay? The job. All the—" She waved a hand toward the building, the ramp, the dark.
 
 "It's going to be fine."
 
