@@ -32,11 +32,11 @@ Her name was Tessaly, and she was Dorenne's senior scheduler, a lean, sharp-feat
 
 "New aide."
 
-It wasn't a question. Not a greeting either, but a classification. She was filing him before she'd finished walking through the door.
+It wasn't a question. Not a greeting either, but a classification. She set her ledgers on the central table without breaking stride.
 
 "Since yesterday," he said.
 
-"The one who can't—" She caught herself with the smooth recovery of someone who'd been in institutional settings long enough to know which words landed badly. "Right. Dorenne mentioned." She set her ledgers on the central table and glanced at the cleared surface: the aligned edges, the clean wood, the absent teacup. The look was brief and evaluating. She turned away before he could decide how it had landed. "You're the fourth."
+"The one who can't—" She caught herself with the smooth recovery of someone who'd been in institutional settings long enough to know which words landed badly. "Right. Dorenne mentioned." She set her ledgers on the central table and glanced at the cleared surface: the aligned edges, the clean wood, the absent teacup. The look was brief and evaluating. She turned away. "You're the fourth."
 
 "Fourth?"
 
@@ -50,7 +50,7 @@ Tessaly's briefing ran fifty minutes without a pause and covered six systems, fo
 
 "How do I chase them if I can't use the resonance stones?"
 
-Tessaly's finger stopped. He watched her recalculate, a brief, visible adjustment as she accounted for a limitation she wasn't used to working around. Resonance stones were the office's communication backbone: palm-sized stones attuned to each other, activated by channeling, carrying brief messages between paired sets. Every desk had one. Every team lead carried one. The entire logistics of the office flowed through them.
+Tessaly's finger stopped. She looked at the stones, looked at him, looked at the stones again. Resonance stones were the office's communication backbone: palm-sized stones attuned to each other, activated by channeling, carrying brief messages between paired sets. Every desk had one. Every team lead carried one. The entire logistics of the office flowed through them.
 
 Her brow furrowed, not with irritation, but with the practical expression of someone encountering a constraint she hadn't budgeted for. "That's going to slow us down."
 
@@ -102,7 +102,7 @@ The morning brief was at seventh bell, and Ash had spent the intervening hour ca
 
 He sat in the corner of the briefing room with a notebook and tried to follow what was happening.
 
-Dorenne presided from the head of the central table, her staff arrayed around her in an order that Ash recognized, after twenty minutes of observation, as a hierarchy of function rather than rank. The people closest to her weren't the most senior; they were the ones whose systems were currently in crisis. Today that meant the water team and the structural reinforcement team, whose leads sat at Dorenne's right and left like anxious bookends.
+Dorenne presided from the head of the central table. After twenty minutes, Ash understood the seating: not by rank. The people closest to her weren't the most senior — they were the ones whose systems were currently in crisis. Today that meant the water team and the structural reinforcement team, whose leads sat at Dorenne's right and left like anxious bookends.
 
 The water team's report was bad. The main aqueduct serving the western districts, the Thornwall line, had developed a channeling fracture at a junction point, reducing flow by a third. The repair required a sustained channeling effort that would pull resources from two other maintenance schedules. The structural team's report was worse: three buildings in the lower districts had been flagged for emergency reshoring, and they didn't have the channelers to cover all three before the weather turned.
 
@@ -294,7 +294,7 @@ The argument continued. Nobody was talking about the actual problem, which was t
 
 Ash watched Aldren's frustration building: the set of his shoulders, the way his hands moved when he talked, the flush rising in his neck. In another minute, he was going to say something personal. Dorenne was going to respond with something precise and devastating. And the meeting was going to end with both of them less willing to cooperate than when it started.
 
-He thought of Dorenne's repertoire, the tools she used. Silence, questions, rearrangement. She changed temperatures. He couldn't do what she did; he didn't have her authority, her position, her thirty years of knowing when to stop talking. But he had hands. He had hospitality. His interruption would cost nothing. Nobody in that room was afraid of him.
+He thought of Dorenne's repertoire, the tools she used. Silence, questions, rearrangement. She changed temperatures. He couldn't do what she did; he didn't have her authority, her position, the way she'd held the last pause three beats past the point where anyone else would have filled it. But he had hands. He had hospitality. His interruption would cost nothing. Nobody in that room was afraid of him.
 
 He stood up. He crossed to the side table where the tea service sat—the kettle on its channeled warming plate, and poured three cups. He brought them to the central table on a tray.
 
@@ -376,7 +376,7 @@ Ryn was sitting on the low wall at the base of the stairwell where it opened ont
 
 He sat down beside her on the wall and took the bag.
 
-They'd grown up three doors apart. Ryn's family lived in the same building as his, upper floor, better heating, her parents' pools strong enough to maintain their apartment without the daily struggle that defined his family's existence. She'd been the girl down the hall before she'd been anything else: the first child his age who'd knocked on his door without her parents making her, the first friend who'd beaten him at a game and not apologized for it, the first person outside his family who'd learned what he couldn't do and never once made it into a thing she was doing for him.
+They'd grown up three doors apart. Ryn's family lived in the same building as his, upper floor, better heating, her parents' pools strong enough to maintain their apartment without the daily struggle that defined his family's existence. She'd been the girl down the hall before she'd been anything else: the first child his age who'd knocked on his door without her parents making her, the first friend who'd beaten him at a game and not apologized for it, the first person outside his family who'd learned what he couldn't do and the next morning acted like she'd forgotten.
 
 She warmed his cup when it went cold. She lit the path when they walked home late. She channeled the door open when his arms were full. She did it without looking up, without pausing the conversation, without marking the moment in any way that could be acknowledged or thanked.
 
