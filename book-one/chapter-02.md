@@ -28,7 +28,7 @@ He was wiping down the table for the second time when the first of the staff arr
 
 * * *
 
-Her name was Tessaly, and she was Dorenne's senior scheduler, a lean, sharp-featured woman in her forties who walked into the office carrying two leather-bound ledgers and the expression of someone who had already completed three tasks in her head before her body arrived. She stopped when she saw Ash standing at the central table with a cloth in his hand.
+Her name was Tessaly, and she was Dorenne's senior scheduler, a lean, sharp-featured woman in her forties who walked into the office carrying two leather-bound ledgers, already scanning the central table before she cleared the doorframe. She stopped when she saw Ash standing at the central table with a cloth in his hand.
 
 "New aide."
 
@@ -36,7 +36,7 @@ It wasn't a question. Not a greeting either, but a classification. She was filin
 
 "Since yesterday," he said.
 
-"The one who can't—" She caught herself with the smooth recovery of someone who'd been in institutional settings long enough to know which words landed badly. "Right. Dorenne mentioned." She set her ledgers on the central table and glanced at the cleared surface: the aligned edges, the clean wood, the absent teacup. The look was brief and evaluating, the kind that noticed everything and withheld approval on principle. "You're the fourth."
+"The one who can't—" She caught herself with the smooth recovery of someone who'd been in institutional settings long enough to know which words landed badly. "Right. Dorenne mentioned." She set her ledgers on the central table and glanced at the cleared surface: the aligned edges, the clean wood, the absent teacup. The look was brief and evaluating. She turned away before he could decide how it had landed. "You're the fourth."
 
 "Fourth?"
 
@@ -178,7 +178,7 @@ The pretense was useful. The maintenance notices were informational: work orders
 
 He didn't write it down. His feet had already memorized the stairwell patterns; his hands knew which tools went where. The notices went in somewhere the same. It didn't feel important. It was just the texture of the building, absorbed through proximity.
 
-On the sixth level, his right calf locked. He stopped in the corridor, his weight on his left leg, his jaw tight against the pain. He pressed his palm against the muscle and kneaded, hard, the way his father had taught him to work out cramps from climbing. A staffer passed him, a young woman carrying a resonance stone, walking easily in the way people walked when their bodies had never been their primary tool. She glanced at him. He straightened before she could ask.
+On the sixth level, his right calf locked. He stopped in the corridor, his weight on his left leg, his jaw tight against the pain. He pressed his palm against the muscle and kneaded, hard, the way his father had taught him to work out cramps from climbing. A staffer passed him, a young woman carrying a resonance stone, her stride loose, not watching her feet. She glanced at him. He straightened before she could ask.
 
 That afternoon, Tessaly appeared at his desk with a revised errand schedule. She set it down without comment, a sheet of paper with his afternoon deliveries reorganized. The sixth-level drop-offs had been grouped together. The third-level pickups had been consolidated into a single trip. The routing was efficient in a way that his original schedule hadn't been, saving him roughly four ramp transits.
 
@@ -278,7 +278,7 @@ He sat at the table and nobody commented.
 
 The second week brought Councilor Aldren.
 
-By now Ash had sat through eight morning briefs and three afternoon sessions with visiting officials. He'd watched Dorenne manage complaints, absorb political pressure, redirect anger, and deploy silence the way other people deployed arguments. She had a repertoire: the measured pause that let a person hear their own unreasonableness; the question that reframed the conversation without appearing to; the subtle rearrangement of seating that put the most agitated person next to the calmest staffer, changing the room's temperature through proximity.
+By now Ash had sat through eight morning briefs and three afternoon sessions with visiting officials. He'd watched Dorenne manage complaints, absorb political pressure, redirect anger, and deploy silence the way other people deployed arguments. She had a repertoire: the measured pause, held two beats past comfort; the question that reframed the conversation without appearing to; the subtle rearrangement of seating that put the most agitated person next to the calmest staffer.
 
 He'd been watching. Which chair Aldren's aides took before Aldren sat. The way the councilor's jaw set when he was about to interrupt. Where his eyes went when he was performing indignation rather than feeling it.
 
@@ -294,7 +294,7 @@ The argument continued. Nobody was talking about the actual problem, which was t
 
 Ash watched Aldren's frustration building: the set of his shoulders, the way his hands moved when he talked, the flush rising in his neck. In another minute, he was going to say something personal. Dorenne was going to respond with something precise and devastating. And the meeting was going to end with both of them less willing to cooperate than when it started.
 
-He thought of Dorenne's repertoire, the tools she used. Silence, questions, rearrangement. She changed temperatures. He couldn't do what she did; he didn't have her authority, her position, her decades of calibrated presence. But he had hands. He had hospitality. His interruption would cost nothing. Nobody in that room was afraid of him.
+He thought of Dorenne's repertoire, the tools she used. Silence, questions, rearrangement. She changed temperatures. He couldn't do what she did; he didn't have her authority, her position, her thirty years of knowing when to stop talking. But he had hands. He had hospitality. His interruption would cost nothing. Nobody in that room was afraid of him.
 
 He stood up. He crossed to the side table where the tea service sat—the kettle on its channeled warming plate, and poured three cups. He brought them to the central table on a tray.
 
@@ -412,7 +412,7 @@ She stared at him. "You bluffed a sitting Council member."
 
 "Tea." She was grinning now. "Ash."
 
-She was laughing, the real laugh, the one that came from her chest and not from politeness, the one she used when something genuinely surprised her. He'd been cataloging her laughs for years. The polite laugh was short and high. The real laugh was low and slightly uneven, as if one side of it arrived before the other.
+She was laughing — the low one, the one that arrived slightly uneven, as if one side of it was faster than the other. He'd been cataloging her laughs for years. The polite version was short and high. This one came from somewhere else.
 
 They ate. The fried bread was from the vendor on the lower terrace, the one who worked late because her pool was too weak to compete with the morning market channelers and their glowing displays and sealed cases. Ryn bought from her every time, and if you asked her why, she'd say the bread was good.
 
@@ -432,7 +432,7 @@ He stopped. He'd gone further than he meant to. Two weeks' exhaustion had thinne
 
 "I drew a map. Of which doors have handles." He laughed, and it came out wrong, hollow, the sound of someone describing a coping mechanism and hearing how small it sounded. "That's my big contribution. A map of the doors I can open."
 
-Ryn didn't fill the silence. She was good at that, at letting a pause be a pause instead of rushing to comfort or deflect. She sat with her arms around her knees and waited.
+Ryn didn't fill the silence. She sat with her arms around her knees and waited.
 
 "But today someone asked me for my opinion," he said. "And I had one. And it was the right one. And nobody looked at me like I'd performed a trick."
 
@@ -472,7 +472,7 @@ In his room, his childhood room, the narrow bed, the window that looked out over
 
 He thought about the engineers and the Kharren Fault. About the numbers that moved in the wrong direction, the gap that widened, the geological patience of stone. He knew more vocabulary now than he had on Day One. Enough to understand the shape of what the engineer had said, if not the precision. Enough to be scared by it.
 
-He thought about Dorenne's nod, the cataloging nod, the one that said *asset identified*. He'd seen his mother nod that way at a cut of meat in the market, assessing value against cost. The comparison was uncomfortable. He'd been seeing it more clearly as the weeks passed, the way Dorenne's attention tracked not just his work but his potential, the way her praise always pointed somewhere, always had a direction. *Well handled* meant *do it again.* *Sit at the table* meant *be available.* He didn't know yet what she'd expect when the returns came due.
+He thought about Dorenne's nod, the cataloging nod, the one that said *asset identified*. He'd seen his mother nod that way at a cut of meat in the market, assessing value against cost. The comparison was uncomfortable. He'd been seeing it more clearly as the weeks passed. *Well handled* meant *do it again.* *Sit at the table* meant *be available.* He didn't know yet what she'd expect when the returns came due.
 
 He let it go. Not because it didn't matter, but because the alternative, examining it too closely, following it to its conclusion, would cost him the happiness he'd earned tonight, and he wasn't ready to pay that price.
 
