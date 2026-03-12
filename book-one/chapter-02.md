@@ -380,7 +380,7 @@ They'd grown up three doors apart. Ryn's family lived in the same building as hi
 
 She warmed his cup when it went cold. She lit the path when they walked home late. She channeled the door open when his arms were full. She did it without looking up, without pausing the conversation, without marking the moment in any way that could be acknowledged or thanked.
 
-He'd loved her since he was twelve. He'd never said so. The reasons were practical and terrible: romantic relationships in Solathis were built partly on shared magical intimacy: the vulnerability of letting someone feel your pool, the domestic magic of shared channeling, the physical closeness that came with attuning to another person's energy. He couldn't offer that. The absence was a wall between them. They'd both stopped bumping into it years ago.
+He'd loved her since he was twelve. He'd never said so. Romantic relationships in Solathis were built partly on shared magical intimacy: the vulnerability of letting someone feel your pool, the domestic magic of shared channeling, the physical closeness that came with attuning to another person's energy. He couldn't offer that. The absence was a wall between them. They'd both stopped bumping into it years ago.
 
 Tonight, though, the wall was thin. Tonight everything was thin: the barriers between the person he performed and the person he was, the careful architecture of managed expectations and preemptive self-deprecation that he wore like a second skin. Two weeks had stripped something away. Not the armor (he wasn't ready to lose the armor) but some of the weight behind it.
 
