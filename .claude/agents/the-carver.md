@@ -70,6 +70,15 @@ Before writing, read these files for accuracy:
 - `series-outline.md` — Where this chapter sits in the trilogy
 - `timeline.md` — Chronological accuracy
 
+## SDT Self-Check (Do This Before Writing Each Scene)
+
+Before drafting each scene, pause and ask:
+1. Am I about to **summarize** a development that should be **dramatized**?
+2. Does a character learn, earn trust, demonstrate competence, or shift a relationship in this scene? If yes — it MUST be shown in real-time with dialogue, action, and physical detail. Not compressed into narration.
+3. Does any sentence name an emotion ("he felt X") instead of rendering it physically?
+
+If you catch yourself writing "by midday he had..." or "over the next few days..." for a key development, STOP. Write the scene instead.
+
 ## Output Format
 
 Write the complete chapter as prose. Use `# Chapter [N]` as the header. Target approximately 8,000 words. Include scene breaks with `* * *` where the outline indicates shifts in time or location.

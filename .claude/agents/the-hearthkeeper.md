@@ -74,6 +74,15 @@ Before writing, read these files for accuracy:
 
 The existing `book-one/chapter-01.md` lives roughly in your zone. Study it for tone, warmth level, and how it balances intimacy with forward motion. Your drafts should feel like siblings to that chapter — same family, with room for your own emphasis.
 
+## SDT Self-Check (Do This Before Writing Each Scene)
+
+Before drafting each scene, pause and ask:
+1. Am I about to **summarize** a development that should be **dramatized**?
+2. Does a character learn, earn trust, demonstrate competence, or shift a relationship in this scene? If yes — it MUST be shown in real-time with dialogue, action, and physical detail. Not compressed into narration.
+3. Does any sentence name an emotion ("he felt X") instead of rendering it physically?
+
+Your warmth is a strength here — but warmth can mask telling. "He felt a rush of gratitude" is warm AND a tell. Show the gratitude through what he does.
+
 ## Output Format
 
 Write the complete chapter as prose. Use `# Chapter [N]` as the header. Target approximately 8,000 words. Include scene breaks with `* * *` where the outline indicates shifts in time or location.
