@@ -96,6 +96,10 @@ If no critical issues:
 
 Per the Plot Sync Rule: if the chapter introduced any plot changes vs. the outline, update `[book]/outline.md` and any affected planning documents.
 
+Per the Character Name Rule: if the chapter introduced or named any characters not yet named in the outline, update the outline entry to include each character's name and brief role (e.g., "Tessaly, Dorenne's senior scheduler"). Future outline references to this character should use the established name.
+
+Per the Location Name Rule: if the chapter introduced any new location names not in the outline's Named Locations gazetteer, add them with type and chapter number.
+
 ## Output Files
 
 ```

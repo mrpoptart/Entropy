@@ -1,6 +1,8 @@
 ---
 title: "The Brightest Fire"
 subtitle: "Entropy: Book One"
-creator: []
+creator:
+  - role: author
+    text: Arthur F. Isman
 language: en
 ---

@@ -7,6 +7,58 @@
 
 ---
 
+## Named Locations (Quick Reference)
+
+Writer agents: use these established names. Do not invent new district, building, or infrastructure names without checking this list first. When a chapter draft introduces a new location name, add it here in the same pass.
+
+### City & Geography
+| Name | Type | Established |
+|------|------|-------------|
+| Solathis | City (primary setting) | Ch1 |
+| Verenthi Range | Mountains north of city | Ch1 |
+| Kharren Fault | Seismic fracture beneath eastern Solathis | Ch2 |
+
+### Districts & Neighborhoods
+| Name | Type | Established |
+|------|------|-------------|
+| Elder districts | Upper-city wealthy districts (unnamed individually) | Ch1 |
+| Market district | Commercial terrace near city center | Ch1 |
+| The Splits | Lower district where Haran's workshop is, Fifth Terrace | Ch3 |
+| Thornwall | Lower-middle district | Ch2 |
+| Ridgewall | Overflow district | Ch12 |
+| Verengate | District | Ch17 |
+| Ashward | District (renamed after earthquake) | Ch18 |
+| Northridge Terrace | District/terrace | Ch10 |
+| Millworks | District | Ch16 |
+
+### Buildings & Landmarks
+| Name | Type | Established |
+|------|------|-------------|
+| Hall of Infrastructure | Government building housing Dorenne's office; also called "the annex" or "Council annex" | Ch1 |
+| Council Hall | Separate government building for Council sessions | Ch17 |
+| Velden building | Landmark building | Ch8 |
+| Grayspire | Tower/landmark | Ch10 |
+| Threadneedle building | Building | Ch15 |
+
+### Streets & Infrastructure
+| Name | Type | Established |
+|------|------|-------------|
+| Thornwall aqueduct | Major water infrastructure, western districts | Ch2 |
+| Bridgeway | Aqueduct junction/secondary line | Ch2 |
+| Karrath Street | Street | Ch4 |
+| Terrace Road | Street/district road | Ch6 |
+| Meridian Street | Street | Ch10 |
+| Harrier Street | Street | Ch16 |
+| Saddler's Row | Street | Ch16 |
+| Coppersmiths' Terrace | Street/area | Ch16 |
+| Kelleren aqueduct | Aqueduct | Ch16 |
+| Colter Street | Street | Ch18 |
+| Ridgeline feed | Infrastructure | Ch21 |
+| Comyn's place | Neighbor's workshop | Ch18 |
+| Weaver's Terrace | Street/area | Ch16 |
+
+---
+
 ## ACT ONE — The Ordinary World & Activation
 
 ### Chapter 1 — The Best Day in a Long Time
@@ -49,13 +101,17 @@ Maren is there. She's radiant, congratulatory, genuinely happy for him. She chan
 
 **POV:** Ash's first days on the job. Slice of life with purpose.
 
-Ash arrives at the Hall of Infrastructure before dawn — he needs extra time for the stairs, and he's not going to be late on his first day. Dorenne's office is a high-ceilinged chamber where the Director manages the systems that keep Solathis functioning: water, heating, transit, structural reinforcement. Charts on the walls. Reports stacked on every surface. A staff of channelers and administrators who've been running on too little for too long.
+Ash arrives at the Hall of Infrastructure before dawn — he needs extra time for the ramp, and he's not going to be late on his first day. Dorenne's office is a high-ceilinged chamber where the Director manages the systems that keep Solathis functioning: water, heating, transit, structural reinforcement. Charts on the walls. Reports stacked on every surface. A staff of channelers and administrators who've been running on too little for too long.
+
+**Office staff introduced:** Tessaly (Dorenne's senior scheduler, sharp, efficient, manages the daily brief and crew rotations), Voss (senior engineer, gray-haired, been in the office longer than the furniture), Caelen (district liaison, southern quarter, young, exhausted from maintenance shifts). Osten (elderly records keeper, monologuist, has been filing reports for thirty years). These are Ash's daily colleagues going forward.
 
 He learns the job. It doesn't require channeling — it requires organization, memory, judgment, and the ability to make people feel heard. He carries documents, takes notes, manages Dorenne's schedule, sits in on briefings he doesn't fully understand yet. He watches and listens with the attentiveness of someone who's spent his whole life reading rooms because he couldn't participate in them any other way.
 
-Small problems arise that show his strengths. A scheduling conflict between two district maintenance teams — he sees a solution neither team considered, reorganizing the sequence so both crews get what they need. A report that doesn't add up — his analytical mind catches the discrepancy before the senior staff do. A visiting official who's frustrated and dismissive — Ash disarms him with warmth and patience, turning a confrontation into a conversation. Dorenne watches this. She made a good hire. She knows it.
+Small problems arise that show his strengths. A scheduling conflict between two district maintenance teams — Ash asks the right question about the Thornwall conduit recovery window, and the team leaders work the solution from his observation. A report that doesn't add up — his analytical mind catches the discrepancy. A visiting Council official who's frustrated and dismissive — Ash de-escalates with warmth, though the sealed channeling door he can't knock through adds friction. Dorenne watches this. She made a good hire. She knows it. He also fails: gets lost navigating corridors he can't feel by resonance, misreads a priority code and misroutes a report (Tessaly catches it).
 
-Foreshadowing: during a briefing, Ash overhears engineers discussing the Kharren Fault — the seismic zone beneath the city. Channeled reinforcements that have absorbed geological stress for generations are weakening faster than projected. He doesn't understand the full implications, but his mind catches on the math: the rate of decline, the gap between what's needed and what's available. He files it away. He'll think about it later.
+**District crew leads referenced:** Venn (structural team lead, worried), Laris (water team lead, performs confidence), Parren (Thornwall district lead), Sevin (transit).
+
+Foreshadowing: during a briefing, Voss mentions the Kharren Fault — the seismic zone beneath the city. Ash finds a reference in the briefing folders afterward. Channeled reinforcements that have absorbed geological stress for generations are weakening faster than projected. He doesn't understand the full implications, but his mind catches on the numbers: the gap between projected and actual maintenance capacity. He writes a question in his notebook. He'll come back to it later.
 
 At the end of the day, he meets Ryn. They sit somewhere familiar — a wall above the gorge, a bench in a district they grew up in, somewhere that belongs to the time before. He tells her about the job. She's happy for him — really happy. Not performing it, not qualifying it. Just glad.
 
@@ -81,7 +137,7 @@ Ash is buzzing. He talks about Dorenne's office — the scale of it, the respons
 
 Haran listens. He's happy that Ash is happy — this is visible, genuine. He doesn't dampen the mood. But the chapter's central comedy is *shown*, not named: Ash says "For the first time I feel like I'm actually contributing something," and Haran's eyes move to the mechanical water pump Ash designed last month — the one currently running in three homes in the district, its brass darkened from kitchen steam, the crank worn smooth by daily use — and he says nothing. He asks Ash to fix the Vellan widow's pump. Ash looks at the pump on the shelf, then at the deployment brief from Dorenne's office sitting on his oil-stained bench, and the two objects occupy the same line of sight for a moment before he turns away. Ash doesn't catch it. The reader should.
 
-Other tinkerers drift through: a young woman whose pool is too weak for her maintenance job, an older man who likes the puzzles, a teenager who thinks mechanisms are the future. A small community of people who, for various reasons, have stepped outside the magical economy. Ash fits here. He has always fit here. The difference is that now he has something *else* too — and the something else is already pulling his attention.
+Other tinkerers drift through: Lenne (young woman whose pool is too weak for her maintenance job), an older man who likes the puzzles, Tal (teenager who thinks mechanisms are the future, Ash's informal apprentice). A small community of people who, for various reasons, have stepped outside the magical economy. Ash fits here. He has always fit here. The difference is that now he has something *else* too — and the something else is already pulling his attention.
 
 Ash works on a mechanical timer designed to regulate water distribution through the district's gravity-fed cistern system — the kind of focused, hands-on problem-solving that engages his mind completely. The escapement he's been filing for a month finally ticks in perfect rhythm. His hands are confident. His smile is small and unguarded — different from the one he wears at the Hall. He teaches Tal to cut gear teeth. This is who he is when nobody needs him to perform.
 
@@ -229,7 +285,7 @@ He does this repeatedly — breaks small household systems with too much force, 
 
 He arrives at the tinkerer workshop buzzing with energy — the testing, the press event, the public attention. He wants to share this with Haran. He's also physically restless; the power is in him and he wants to use it.
 
-The workshop is busy. Haran is leading a community project: a mechanical pump system designed to address the district's water rationing. The lower district has been on reduced flow for months — the city's aqueducts require teams of channelers pushing water uphill daily, and the weakest districts get cut first. People carry water from a communal tap that runs a few hours a day. Not a crisis in the dramatic sense — nobody's dying. The grinding, daily indignity of scarcity in a city that used to have abundance.
+The workshop is busy. **Named characters introduced:** Petra (female tinkerer, skilled with a loupe, observant), Davel (male tinkerer, works on gears, practical). Haran is leading a community project: a mechanical pump system designed to address the district's water rationing. The lower district has been on reduced flow for months — the city's aqueducts require teams of channelers pushing water uphill daily, and the weakest districts get cut first. People carry water from a communal tap that runs a few hours a day. Not a crisis in the dramatic sense — nobody's dying. The grinding, daily indignity of scarcity in a city that used to have abundance.
 
 The pump is ingenious: pipes, valves, a hand-crank mechanism, a gravity-fed reservoir on a building's roof. Physical infrastructure does the heavy work. But at three critical junctures — where friction or elevation would defeat the mechanics — the design calls for tiny channeling inputs. A pulse at the valve junction. A nudge at the elevation bend. Micro-channeling so small that anyone with even a weak pool could provide it. The system doesn't depend on one powerful person. It depends on a community of people each contributing almost nothing. This is Haran's philosophy made physical: build systems that distribute the cost so thinly that anyone can bear it.
 
@@ -291,7 +347,7 @@ Ash goes. He channels raw force into the heating lattices — crude, inefficient
 
 He walks through the district afterward. The lights work. The walls are warm. Because of him. After twenty-three years of being the person who couldn't contribute, he fixed a neighborhood in an afternoon. The feeling is beyond intoxication — it's redemption.
 
-Dorenne schedules the next deployment. And the next. Water systems in the southern quarter. Structural reinforcement in a crumbling residential tower. A transit shaft that hasn't functioned in two years. Each one is a genuine crisis, a real community helped. Each one deepens the pattern: Dorenne identifies the need, Ash fills it, the city benefits, and Dorenne's political position strengthens.
+Dorenne schedules the next deployment. And the next. Water systems in the southern quarter. Structural reinforcement in a crumbling residential tower. **Named character introduced:** Verant (female engineer, middle-aged, assesses infrastructure and tracks measurements, patient teacher — becomes a recurring presence through Ch14). A transit shaft that hasn't functioned in two years. Each one is a genuine crisis, a real community helped. Each one deepens the pattern: Dorenne identifies the need, Ash fills it, the city benefits, and Dorenne's political position strengthens.
 
 He begins to channel better — not with Haran's precision, but with raw practice. He wastes less. Still enormously inefficient by any trained standard, but improving. The reservoir feels oceanic, infinite. He doesn't count. He doesn't need to count. There's always more.
 
@@ -305,7 +361,7 @@ He begins to channel better — not with Haran's precision, but with raw practic
 
 **POV:** The family dynamic reconfigures. Everyone adjusts to the new reality except Ash, who doesn't see there's anything to adjust to.
 
-The mother struggles. Her son doesn't need her fierce protection anymore — he's the most powerful person in the city. She still makes his meals, still worries, still tries to shield him from Dorenne's demands. But her movements have an uncertain quality, as though she's performing a role whose script was taken away. She picks fights about small things — his schedule, his eating, whether he's sleeping enough — because the big thing (his safety, his future) is no longer hers to manage. A scene where she tries to intervene between him and Dorenne, and Dorenne politely makes clear that Ash is no longer a child to be protected. The mother's face. Ash, caught between them, choosing Dorenne.
+The mother struggles. Her son doesn't need her fierce protection anymore — he's the most powerful person in the city. She still makes his meals, still worries, still tries to shield him from Dorenne's demands. But her movements have an uncertain quality, as though she's performing a role whose script was taken away. She picks fights about small things — his schedule, his eating, whether he's sleeping enough — because the big thing (his safety, his future) is no longer hers to manage. A scene where she tries to intervene between him and Dorenne, and Dorenne politely makes clear that Ash is no longer a child to be protected. **Named character introduced:** Dalla (staff member in Dorenne's office, present during the exchange). The mother's face. Ash, caught between them, choosing Dorenne.
 
 The father adapts more quietly. His pride is genuine — enormous, visible, the kind that makes his eyes bright at dinner. But there's a question underneath that he can't quite ask: did you know I loved you before this? Did you know I was proud of you before? He expresses it sideways — mentions old accomplishments, things Ash built with his hands, as though trying to remind both of them that the boy before the Wellspring was worth something too. Ash, high on power, misses the point entirely.
 
@@ -341,7 +397,7 @@ Background details he walks past without seeing: a protest by young channelers o
 
 **POV:** The relationship between Ash and Dorenne deepens. We see it from inside.
 
-Dorenne gives him more access — to strategy meetings, to her inner circle, to the real conversations about the city's future. He sits in on a Council session where she argues for emergency infrastructure funding. He sees her fight for the city with brilliance and ferocity. He admires her. He's learning from her.
+Dorenne gives him more access — to strategy meetings, to her inner circle, to the real conversations about the city's future. He sits in on a Council session where she argues for emergency infrastructure funding. **Named characters introduced:** Alderman Vesk (Council chair of infrastructure committee), Councilor Thane, Councilor Bareth (skeptical). He sees her fight for the city with brilliance and ferocity. He admires her. He's learning from her.
 
 She begins tracking his expenditures — not crudely, but as part of the infrastructure planning. Charts on her wall showing which districts received Wellspring reinforcement, which are next in line, projected timelines. She presents this as partnership: "We should be strategic about this. Your power is significant, but the city's needs are enormous. If we allocate wisely, we can stabilize the most critical systems first."
 
@@ -411,7 +467,7 @@ In the wreckage of the poor districts, a detail Ash doesn't linger on: young cha
 
 He works. For days, he works. Dorenne manages the response — coordinating rescue teams, directing resources, briefing the Council, managing public communication. She is genuinely brilliant at this. Ash provides the force.
 
-He stabilizes collapsing structures — holding up residential blocks with nothing but channeled power while rescue teams pull families from the wreckage. He seals a rupture in the water system that would have flooded an entire district. He reinforces bridges that carry evacuation routes. He clears rubble from streets where people are trapped. He does things that would take a hundred channelers working together, and he does them alone.
+**Named character introduced:** Halsten (rescue coordinator, middle-aged, handles emergency response). He stabilizes collapsing structures — holding up residential blocks with nothing but channeled power while rescue teams pull families from the wreckage. He seals a rupture in the water system that would have flooded an entire district. He reinforces bridges that carry evacuation routes. He clears rubble from streets where people are trapped. He does things that would take a hundred channelers working together, and he does them alone.
 
 Scene: a residential building in a poor district. Three floors have pancaked. There are people alive in the gap between the second and third floor — he can hear them. The building is unstable; any attempt to dig could bring the rest down. He plants his hands against the stone and channels pure stabilizing force into the structure — holding every beam, every wall, every fractured joint in place while a rescue team cuts through from the side. It takes hours. He doesn't move. He doesn't waver. Eleven people are pulled out alive.
 

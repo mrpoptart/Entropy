@@ -80,6 +80,10 @@ Show the author:
 2. How many critical vs. important vs. polish items
 3. Ask: "Ready to revise, or want to discuss any of these?"
 
+### 5b. Update Outline (Character Names)
+
+Per the Character Name Rule in CLAUDE.md: if the chosen draft introduced or named any characters not yet in the outline, update the outline entry to include each character's name and brief role. Future outline references should use the established name.
+
 ### 6. Revision (if requested)
 
 If the author wants to revise:
