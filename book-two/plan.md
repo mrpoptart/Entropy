@@ -102,10 +102,10 @@ End of Book Two: the Levelers have peaked and begun fragmenting. Davan is cracki
 - **The unspoken conversation:** Late Book Two — the sibling reckoning about growing up on opposite sides of the gap
 - **Antagonist:** The Levelers, led by Davan. See characters/antagonists.md.
 
-## Open Questions
-- How much time passes between Book One and Book Two? (Continuous or time gap?)
-- When does the public learn about the reservoir being finite?
-- What is Maren's specific career that's being threatened by her declining pool?
-- How does Ash's relationship with his parents evolve through Book Two?
-- Does Ash visit the rural community firsthand or receive reports?
-- What specific secondary characters emerge in the proof-of-concept district?
+## Resolved Questions
+- **Time gap:** A few weeks after the break with Dorenne — effectively continuous with Book One. No significant time gap.
+- **Public knowledge of reservoir:** The reservoir's finitude remains private knowledge through Book Two. Ash told Dorenne in Book One; the Levelers target the reservoir as a symbol of hoarding but don't know it's depleting. Public knowledge is a Book Three question.
+- **Maren's career:** Left deliberately unspecified — she channels professionally in a role that demands precision and reliability. The specific discipline matters less than the arc: her pool's decline erodes her professional standards. Can be specified during drafting if a scene requires it.
+- **Parents' evolution:** Mother searches for her role in Ash's third reinvention (Ch6), offers to help, carries the old home into the new apartment. Father connects through shared craft knowledge (Ch6). Both present at family dinners (Ch6, Ch11, Ch20). Mother gets a solo helplessness scene (Ch11). Father remains the quiet constant. Neither is a major thread in Book Two — they hold the family shape while the siblings' reckoning takes center stage.
+- **Rural community visit:** Ash does NOT visit. He learns about Ardenmere's collapse and the adapted communities through Haran's correspondence network (Ch16). Haran stops him from going: "What would you do when you got there? Pour the reservoir into their fields until you left, and then what?" The information arrives through letters and secondhand accounts — fitting the lesson that Ash doesn't need to be physically present to matter.
+- **Secondary characters in the district:** **Tesha** — a district worker introduced Ch4 as the first to engage with the mechanical pump. Asks structural questions, learns fast. Asks "why can't we do both?" (Ch12), becomes Ash's collaborative partner (Ch18), and emerges as an independent builder and teacher by Book Two's close. **Sera** — an elder channeler who collapses during a Leveler "accountability session" (Ch13), the incident that triggers Ash's break with Davan. **Felden** (Dorenne's workforce liaison) — a mid-level administrator who tours the district and asks the key institutional question (Ch5). A **teenage girl** who becomes the fastest pump operator (Ch5). A **rural liaison** from Haran's network (Ch7).

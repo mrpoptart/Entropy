@@ -1,9 +1,54 @@
 # Book Two Outline — "The Long Shadow"
 
 **Question:** What is change worth if it can't outlast you?
-**Reservoir:** ~50% → ~15-20%
+**Reservoir:** ~44% → ~15-20%
 **Time span:** Approximately one year
 **Antagonistic force:** The Levelers (righteous force/anger)
+
+---
+
+## Named Locations (Quick Reference)
+
+Writer agents: use these established names. Do not invent new district, building, or infrastructure names without checking this list first. When a chapter draft introduces a new location name, add it here in the same pass. Book One locations (Solathis, The Splits, Hall of Infrastructure, etc.) remain canonical — see `book-one/outline.md` for the full Book One gazetteer.
+
+### City & Geography (Book Two additions)
+| Name | Type | Established |
+|------|------|-------------|
+| Ardenmere | Rural farming community — first to fully lose magic | Ch16 |
+
+### Districts & Neighborhoods
+| Name | Type | Established |
+|------|------|-------------|
+| Stonecurve | Lower-city neighborhood devastated by earthquake, retrofitted with mechanical infrastructure. Named for the main street's curve along a limestone shelf. | Ch4 |
+
+### Buildings & Internal Locations
+| Name | Type | Established |
+|------|------|-------------|
+| Haran's workshop | Primary workshop in The Splits (from Book One) | B1 Ch3 |
+| District workshop | Secondary workshop Haran sets up in a cleared ground-floor space in the proof-of-concept district | Ch5 |
+| Building Four | District building — heating system keeps failing | Ch7 |
+| Building Six | District building — pump seal fails, site of the 80% repair | Ch10 |
+| Block Three | District block — heating chimney draws poorly | Ch10 |
+| Eastern block / eastern row | District area — pump needs unfabricable part (Ch7); insulation panel cracks (Ch10) | Ch7 |
+| Tesha's workshop | Converted storage room in the district where Tesha teaches maintenance | Ch18 |
+
+### Infrastructure & Civic
+| Name | Type | Established |
+|------|------|-------------|
+| Hall of Infrastructure | Government building housing Dorenne's office (from Book One) | B1 Ch1 |
+| Communal heating grids | Leveler-established street-level heating infrastructure using pooled channeling | Ch13 |
+
+### Rural & External (referenced, not visited)
+| Name | Type | Established |
+|------|------|-------------|
+| Hill country settlements | Farming communities that adopted mechanical irrigation via Haran's network | Ch16 |
+| Coastal village | Community that rebuilt fishing fleet with sail designs | Ch16 |
+| Highland community | Settlement with non-channeled insulation techniques | Ch16 |
+
+### Naming Notes
+- **Stonecurve** is the resident name for the proof-of-concept district, established Ch4. Named for the main street's curve along a limestone shelf at the terrace edge.
+- Ardenmere is the only named rural location. Other rural communities are described by geography (hill country, coastal, highland) and can be named during drafting if scenes require it.
+- All Book One locations remain valid. Key recurring locations in Book Two: Haran's workshop, Hall of Infrastructure, the family apartment (post-earthquake, Dorenne-arranged).
 
 ---
 
@@ -75,11 +120,11 @@ Dorenne receives him. The conversation is layered and careful — two intelligen
 
 She doesn't say any of this directly. She asks how he's been. She offers tea.
 
-He explains the plan. The proof-of-concept district. Mechanical infrastructure. Catalytic Wellspring expenditure. A model for post-magic life. She listens with the attentiveness of someone evaluating a proposal, not a person hearing a friend's dream.
+He explains the plan. The proof-of-concept district. Mechanical infrastructure. Using the Wellspring to build rather than maintain. She listens with the attentiveness of someone evaluating a proposal, not a person hearing a friend's dream. She names the concept before he does — "catalytic expenditure," Haran's term from a paper he submitted to the Engineering Council twenty years ago that nobody read. She read it.
 
 Her response is complex. She sees the value — if it works, it validates her leadership and provides a framework for managing the decline she's been fighting alone. She also sees the threat: this is Ash building *without her*, using her systems as scaffolding for a vision that doesn't need her once it's standing. The proof-of-concept, if it succeeds, proves that Dorenne's model — centralized maintenance powered by channelers and Wellspring force — was always the wrong answer. She's smart enough to see this immediately.
 
-She gives him the district. Not generously — strategically. It's a neighborhood she's already written off: too damaged, too expensive to rebuild conventionally, too politically marginal to justify major resource allocation. If Ash succeeds, she claims credit for approving an innovative pilot program. If he fails, it cost her nothing. She provides permits, limited material access, and a workforce liaison. She does not provide her full institutional weight. She holds that in reserve, watching.
+She gives him the district. Not generously — strategically. It's a neighborhood she's already written off: too damaged, too expensive to rebuild conventionally, too politically marginal to justify major resource allocation. If Ash succeeds, she claims credit for approving an innovative pilot program. If he fails, it cost her nothing. She provides permits, limited material access, and a workforce liaison — Felden, copied on all correspondence. Tessaly (Dorenne's senior scheduler, established Book One) tracks the tinkerer pump installations from the office side. Dorenne does not provide her full institutional weight. She holds that in reserve, watching.
 
 The conditions, spoken and unspoken: he doesn't use Wellspring power on other projects without consulting her. He doesn't undermine her reconstruction program publicly. He reports progress. He remains, at least nominally, within her institutional framework. He's free, but the freedom has walls she built.
 
@@ -97,15 +142,17 @@ On his way out, she says: "Ash. If this works — what you're building — it me
 
 **POV:** First days in the district. Ash begins the work of building rather than saving.
 
-The proof-of-concept district has a name — the residents call it something; Ash learns it on his first day and uses it from then on. Not "the project" or "the proof-of-concept." A place name, because it's a place where people live.
+The district is called Stonecurve — Ash learns the name casually from a resident. Not "the project" or "the proof-of-concept." A place name, because it's a place where people live.
 
 He starts with water. The district's channeled aqueduct feed hasn't reliably served the lower blocks since before the earthquake — the channelers assigned to the route are young, their pools thin, and the elevation change from the main reservoir to the district's lowest streets defeats them by mid-afternoon. Haran's mechanical solution: a gravity-fed pipe system running from a rooftop cistern, filled by a hand-crank pump at a high-point tap. The physics are simple. The construction is not.
 
-Ash channels. For the first time since the break with Dorenne, he spends reservoir — and the expenditure feels different than it ever has before. During the ascent, channeling was intoxication: raw force poured into problems, the thrilling excess of power without limit. During the earthquake, it was desperation: everything he had, thrown at catastrophe. Now it's precision. Not Haran's micro-pulse precision — he's still far from that — but deliberate, considered, purposeful. He channels reinforcing force into a foundation wall. He fuses pipe joints that would take a crew of workers days to seal by hand. He reshapes a stone cistern into a water-tight reservoir in an afternoon of focused work.
+Ash channels. For the first time since the break with Dorenne, he spends reservoir — and the expenditure feels different than it ever has before. During the ascent, channeling was intoxication: raw force poured into problems, the thrilling excess of power without limit. During the earthquake, it was desperation: everything he had, thrown at catastrophe. Now he's trying for precision. Not Haran's micro-pulse precision — he's still far from that — but deliberate, considered, purposeful.
+
+His first channeling succeeds: he seals the cracked cistern on the rooftop, fusing the limestone fractures with controlled precision. A small draw, maybe two percent. Then the pipe system: he fuses joints for two days, elegant and seamless — but when they test the full system, the pressure is wrong. He didn't account for friction loss in the branching junctions. Water trickles where it should flow. Haran: "Beautiful joints. Wrong diameter." They tear out the lower sections and rebuild with wider pipe. The waste stings — reservoir spent twice on the same work. The second attempt works. Water flows by gravity. The lesson is physical: even brilliant design fails on first contact with reality. Test before you seal.
 
 Each expenditure has a number now. He tracks it — roughly, mentally, the way Dorenne taught him to think about allocation. The difference is that Dorenne tracked expenditure against institutional need. Ash tracks expenditure against permanence. *Will this still be here when the reservoir is gone?* The pipe joint: yes. The cistern: yes. The wall reinforcement: yes. These are things that, once built, work on physics alone. Catalytic expenditure — Haran's phrase, now Ash's operating principle.
 
-District workers arrive — people Dorenne's liaison assigned, mostly young residents from the neighborhood itself. They don't know mechanical systems. Most of them have spent their working lives channeling — pushing water through pipes with pool force, heating walls with channeled warmth, maintaining structures through daily magical upkeep. The idea that a pipe could carry water by gravity alone, without anyone channeling it, is not intuitive. Some are skeptical. Some are insulted — is this what the Wellspring thinks of them? Relegated to hand tools and crank pumps while the elder districts hum with channeled comfort?
+District workers arrive — six people Felden assigned, mostly young residents. Tesha (quick-learning, asks structural questions, the first to engage with the pump), Dael (skeptic, arms folded, resists the mechanical approach), Corren (construction crew lead). They don't know mechanical systems. Most of them have spent their working lives channeling — pushing water through pipes with pool force, heating walls with channeled warmth, maintaining structures through daily magical upkeep. The idea that a pipe could carry water by gravity alone, without anyone channeling it, is not intuitive. Some are skeptical. Some are insulted — is this what the Wellspring thinks of them? Relegated to hand tools and crank pumps while the elder districts hum with channeled comfort?
 
 Ash recognizes the reaction because he lived it. He was the hand-tool person in a channeling world for twenty-three years. He knows how it feels to be offered the mechanical alternative — like being told you're not good enough for the real thing. He doesn't argue. He shows them the pump system Haran installed in the workshop district. He turns the crank. Water rises. No pool required. "This works when nobody's channeling it. This works at three in the morning when everyone's asleep. This works for your children, whose pools will be weaker than yours."
 
@@ -131,7 +178,7 @@ The reservoir tracks. He's spending roughly 1-2% per week on construction — su
 
 Haran teaches. Not channeling — mechanical maintenance, troubleshooting, the intuition for how physical systems behave. He teaches the way he's always taught: by doing, by handing tools, by asking questions and letting people find the answers. A few workers become genuinely good at it. Most are adequate. Some never take to it. Haran doesn't force it. "You can't train everyone," he tells Ash. "You train enough, and the enough train more."
 
-A scene: Ash watches Haran repair a broken pump valve. The old man's hands move with decades of practice — physical dexterity layered with the nearly invisible micro-channeling that Ash glimpsed in Book One. The repair takes minutes. A worker tries to replicate it. It takes an hour and the result is rougher. Haran approves it. "Works," he says. The worker is proud. Ash sees the gap between Haran's mastery and what can be taught in weeks, and files it away.
+A scene: Ash watches Haran repair a broken pump valve. The old man's hands move with decades of practice — physical dexterity layered with the nearly invisible micro-channeling that Ash glimpsed in Book One. The repair takes minutes. Ash tries to watch the channeling itself, the way he's been learning to see the flow. Haran's expenditure is vanishingly small — a whisper where Ash would use a shout. He files this away without fully understanding it yet: there's something Haran knows about precision that goes beyond technique. A worker tries to replicate the repair. It takes an hour and the result is rougher. Haran approves it. "Works," he says. The worker is proud. Ash sees the gap between Haran's mastery and what can be taught in weeks, and the gap between Haran's channeling and his own, and files both away.
 
 Dorenne's liaison visits. He's a mid-level administrator — competent, cautious, reporting back. He tours the water system, asks questions, takes notes. He's impressed despite himself. He also asks the question Dorenne would ask: "What happens when the Wellspring isn't here to install the next system?"
 
@@ -165,7 +212,9 @@ Then she tries the hand-crank pump. She's strong, coordinated — she should hav
 
 She doesn't mention it. She talks about the project, about the potential, about scaling. She's excited for him. When she leaves, she hugs him again, and he feels how thin her shoulders have gotten. He files it away under *Maren's working too hard* and doesn't look at it more closely. He's not ready to see what's happening to his sister.
 
-**Establish:** The family as living, complicated people adjusting to Ash's third reinvention (magicless → Wellspring → builder). The mother's displaced protectiveness. The father's quiet connection through craft. Maren's pool weakening — planted here as texture, not crisis. The emotional pattern: Ash absorbed in good work, still drifting from the people who love him, the form different but the distance familiar.
+A small moment: his mother asks if he's seen Ryn lately. He hasn't. He's been meaning to — the intention sits alongside his other deferred obligations, filed under things he'll get to when the work allows. His mother's expression says what she doesn't: *you're doing it again.*
+
+**Establish:** The family as living, complicated people adjusting to Ash's third reinvention (magicless → Wellspring → builder). The mother's displaced protectiveness. The father's quiet connection through craft. Maren's pool weakening — planted here as texture, not crisis. Ryn's absence noted — the pattern of drifting from people who ground him, redirected but not broken. The emotional pattern: Ash absorbed in good work, still drifting from the people who love him, the form different but the distance familiar.
 
 **Emotional beat:** Warmth shot through with worry. The dinner scene should feel like a real family navigating real change — not dysfunction, just the ordinary difficulty of people who love each other trying to keep up with who each of them is becoming. And Maren's hesitation at the tea — the smallest possible signal of the crisis that will consume her arc.
 
@@ -205,13 +254,13 @@ But even as he watches, he sees what the scene doesn't show: the worker explaini
 
 | Point in Story | Reservoir | Notes |
 |---|---|---|
-| Chapter 1 (the workshop) | ~50% | Ash is not channeling; processing, planning |
-| Chapter 2 (district survey) | ~50% | No expenditure; observation and design |
-| Chapter 3 (negotiation) | ~50% | No expenditure; political groundwork |
-| Chapter 4 (construction begins) | ~48% | First catalytic expenditure: foundations, pipe joints, cistern work |
-| Chapter 5 (blueprints) | ~46% | Continued construction: insulation, window frames, chimney flues. ~1-2% per week |
-| Chapter 6 (home) | ~45% | Minimal expenditure during family visit |
-| Chapter 7 (what's growing) | ~44% | Ongoing construction and maintenance support |
+| Chapter 1 (the workshop) | ~44% | Ash is not channeling; processing, planning. Carries forward from Book One's ~44% endpoint |
+| Chapter 2 (district survey) | ~44% | No expenditure; observation and design |
+| Chapter 3 (negotiation) | ~44% | No expenditure; political groundwork |
+| Chapter 4 (construction begins) | ~42% | First catalytic expenditure: foundations, pipe joints, cistern work |
+| Chapter 5 (blueprints) | ~40% | Continued construction: insulation, window frames, chimney flues. ~1-2% per week |
+| Chapter 6 (home) | ~39% | Minimal expenditure during family visit |
+| Chapter 7 (what's growing) | ~38% | Ongoing construction and maintenance support |
 
 ## Character Thread Summary — Act One
 
@@ -326,6 +375,8 @@ This is harder than building. Watching someone take an hour on a repair he could
 
 He lets it stand. It's the hardest thing he's done since the earthquake.
 
+A parallel thread: Davan visits the district during the redesign. He watches Ash tear apart his own elegant pipe joints and rebuild them rougher. They work side by side for an afternoon — Davan genuinely helping, asking good questions, showing the practical curiosity that makes him more than a rhetorician. Over a shared meal afterward, the conversation turns personal for the first time. Davan talks about his younger sister, who channels so weakly she's already living a near-mechanical life. "She doesn't need your proof-of-concept," he says. "She needs the people who still have power to share it while there's time." The warmth between them is real. The disagreement underneath is growing. Ash tries to explain the efficiency gap he noticed watching Haran — that most channeling wastes enormous energy, that there might be ways to do more with less. Davan hears this and says: "You're describing a solution for people who still have something. My sister has nothing to be efficient with." The evening ends well. The fault line is visible.
+
 **Establish:** The core lesson of Act Two made concrete: building systems is not the same as building people. Ash's catalytic model — Wellspring power creating permanent infrastructure — is technically sound and humanly flawed. The dependency problem as structural, not personal: the workers aren't incompetent; the training was wrong. Haran's teaching method vs. Ash's building method: Haran builds with and alongside people; Ash built for them. The redesign as humbling: tearing apart your own work to make it less elegant and more useful.
 
 **Emotional beat:** The specific pain of discovering that your best work contained your worst assumption. Ash believed he was building something independent of him. He was building a monument to his own competence. The moment he lets the imperfect repair stand — 80% instead of his 100% — is a small death of the ego and a birth of something more important. He's learning to value function over perfection, people over systems.
@@ -354,7 +405,7 @@ She breaks first: "Don't."
 
 "Whatever you're about to say. I know what you're noticing. Don't."
 
-The silence between them fills with twenty years of carefully balanced choreography — him not mentioning her magic, her not mentioning his absence of it, both of them pretending the gap didn't define every interaction they've ever had. Now the gap is closing and it's terrifying for the person who was always on the safe side of it.
+The silence between them fills with twenty-three years of carefully balanced choreography — him not mentioning her magic, her not mentioning his absence of it, both of them pretending the gap didn't define every interaction they've ever had. Now the gap is closing and it's terrifying for the person who was always on the safe side of it.
 
 He doesn't push. Not tonight. But something has shifted. He can see now — clearly, without the protective filter of *she's just tired* — that Maren's pool is declining faster than the generational average. She's not adjusting to a gradual fade. She's losing ground week by week. The discipline that made her exceptional — the skill that squeezed more from less — is running out of material to squeeze.
 
@@ -520,13 +571,13 @@ He comes back on Tuesday.
 
 | Point in Story | Reservoir | Notes |
 |---|---|---|
-| Chapter 8 (the voice) | ~43% | Ongoing district maintenance; minimal new expenditure |
-| Chapter 9 (the diagnosis) | ~42% | Continued construction and repair work |
-| Chapter 10 (the cracks) | ~39% | Accelerated drain — Ash reverting to fixing things himself before the redesign |
-| Chapter 11 (the shell) | ~38% | Reduced expenditure as Ash steps back from repairs; workers taking over |
-| Chapter 12 (the tide) | ~37% | Minimal channeling; political turmoil, not construction |
-| Chapter 13 (the break) | ~36% | No significant expenditure; the chapter is emotional, not physical |
-| Chapter 14 (the anchor) | ~35% | No expenditure; reconnection, reflection |
+| Chapter 8 (the voice) | ~37% | Ongoing district maintenance; minimal new expenditure |
+| Chapter 9 (the diagnosis) | ~36% | Continued construction and repair work |
+| Chapter 10 (the cracks) | ~34% | Accelerated drain — Ash reverting to fixing things himself before the redesign |
+| Chapter 11 (the shell) | ~33% | Reduced expenditure as Ash steps back from repairs; workers taking over |
+| Chapter 12 (the tide) | ~32% | Minimal channeling; political turmoil, not construction |
+| Chapter 13 (the break) | ~31% | No significant expenditure; the chapter is emotional, not physical |
+| Chapter 14 (the anchor) | ~30% | No expenditure; reconnection, reflection |
 
 ## Character Thread Summary — Act Two
 
@@ -563,37 +614,33 @@ He comes back on Tuesday.
 
 Weeks have passed since the reconnection with Ryn. Ash has been visiting the district, but differently now — asking questions instead of fixing things, watching instead of channeling. Ryn's critique is working on him like an acid, dissolving assumptions he didn't know he was making. He built a water system nobody asked for. He trained people to operate his design. He never asked what *they* would have designed.
 
-At the workshop, he's been studying the problem that kept him awake: the math of the reservoir against the math of the scaling problem. One district works imperfectly. The city has dozens. The rural communities Haran mentions are struggling. The reservoir at ~35% cannot do what the reservoir at 50% failed to do — not by working harder, not by being smarter, not by sheer determination.
+At the workshop, he's been studying the problem that kept him awake: the math of the reservoir against the math of the scaling problem. One district works imperfectly. The city has dozens. The rural communities Haran mentions are struggling. The reservoir at ~30% cannot do what the reservoir at 44% failed to do — not by working harder, not by being smarter, not by sheer determination.
 
-Haran watches him circle the problem for days. Then, one evening, without fanfare, he sits down beside Ash and shows him something.
+Haran watches him circle the problem for days. Then Ash notices something — the thing he's been half-seeing since Ch5. Haran lights the workshop forge, and this time Ash watches the channeling itself rather than the result. The expenditure is vanishingly small. A whisper where any trained channeler would use a voice.
 
-Not a technique, exactly. A discipline. Haran demonstrates with his own pool — a routine channeling task, lighting the workshop forge. But he does it *differently*. Instead of the broad, intuitive push that most channelers use — pouring energy at the problem until it yields — Haran narrows. Focuses. Finds the precise threshold where the channeling accomplishes the task with nothing wasted. The forge lights with what looks like a fraction of the effort.
+"How do you do that?" Ash asks. Not a polite question. An urgent one.
 
-Ash has seen Haran light the forge a thousand times. He never noticed this. He assumed Haran was weak — a small pool, carefully husbanded. Now he watches the old man's face during the channeling and sees something that rewrites every assumption: *concentration*, not strain. *Precision*, not limitation.
+Haran pauses. Looks at him. Sees that the question is real — that Ash has arrived at it himself, through months of tracking his own expenditure, through the gap he noticed watching Haran's pump repair, through the growing awareness that there's something about Haran's channeling he doesn't understand.
 
-"How long have you been doing it that way?" Ash asks.
+"Thirty years of practice," Haran says. "Give or take."
 
-"Thirty years. Give or take."
+Then he shows him. Not a technique, exactly. A discipline. The forge again — but slowed down, made visible. Instead of the broad, intuitive push that most channelers use, Haran narrows. Focuses. Finds the precise threshold where the channeling accomplishes the task with nothing wasted. He explains as he works: most channelers waste roughly sixty percent of their expenditure on imprecision. The channeling traditions are built around abundance — pour until the job is done, refill overnight, pour again. Nobody optimized because nobody needed to.
 
-Haran explains — not as a lesson, but as information. Early in his career, when he first started questioning the world's dependence on magic, he began experimenting with efficiency. Not to hoard — to understand. What is the minimum expenditure that accomplishes a given task? How much of what channelers spend is actually necessary, and how much is waste, habit, the magical equivalent of leaving every light on in a house because you've never thought about the electricity bill?
+Haran's thirty years of careful practice reduced his effective expenditure to a fraction of what a conventionally trained channeler requires. Not because he's stronger. Because he's *precise*.
 
-The answer, it turned out, was staggering. Most channelers waste eighty to ninety percent of their expenditure on imprecision. The channeling traditions are built around abundance — pour until the job is done, refill overnight, pour again. Nobody optimized because nobody needed to. The decline wasn't visible enough to demand it.
+He offers the discipline to Ash — not as temptation but as information. *"You should know what your choices are."*
 
-Haran's discipline — his thirty years of careful practice — reduced his effective expenditure to a fraction of what a conventionally trained channeler requires. He does more with his pool than most people do with twice his power. Not because he's stronger. Because he's *precise*.
+Ash tries it immediately. He fails. Badly. Attempting Haran's precision, he narrows his channeling too far — the forge doesn't light at all. He adjusts, overcompensates, and dumps three times the energy needed. The forge flares and scorches the bench. Haran brushes ash off his sleeve without comment. Ash tries again. Slightly better — the forge lights, but the expenditure is barely different from his conventional approach. The precision is a muscle he doesn't have. "Thirty years," Haran repeats, dry.
 
-He offers it to Ash. Not as temptation — as information. *"You should know what your choices are."*
+But even his fumbling reveals the shape of the possibility. The discipline is real. The waste in conventional channeling is enormous. If he could learn even a fraction of Haran's efficiency — even halving his waste — the math of the reservoir changes. Not by an order of magnitude, not overnight, but meaningfully. And if he kept practicing — months, years — and approached what Haran can do...
 
-The implications land immediately. Ash's analytical mind runs the numbers before the conversation is over. If he applies this discipline to his remaining reservoir — learns to channel with Haran's precision instead of his own trained-but-conventional approach — the math changes completely. Not by a little. By an order of magnitude.
+The chapter ends with Ash alone in the workshop after Haran has gone to bed. The forge is dark. He sits with the numbers and the fear and the knowledge that he now has a real choice. Not a choice available today — he's nowhere near Haran's level. But the *path* is real. With enough discipline, enough practice, the remaining reservoir could last years instead of months. He could stay extraordinary. Never ordinary. Never *that person* again. He just has to stop building and start preserving.
 
-He could stretch what remains for *years*. Not months. Years. He could stay extraordinary for the rest of a natural lifetime if he chose preservation. He could remain the Wellspring — diminished, careful, rationed — but still the most powerful person alive. Never ordinary. Never *that person* again.
+The terror of being ordinary again — the terror he's carried since the math scene in Book One — is suddenly not inevitable. He can see the escape route, even if he can't walk it yet. He just has to stop building.
 
-The chapter ends with Ash alone in the workshop after Haran has gone to bed. The forge is dark. He sits with the numbers and the fear and the knowledge that he now has a real choice — not the theoretical choice between spending and saving, but a practical, achievable path to keeping the power forever.
+**Establish:** The efficiency technique as both tool and temptation. Haran's thirty-year discipline recontextualized — not eccentricity but mastery. Ash's failed first attempts — this is a discipline that takes years, not days. The genuine, rational case for preservation, even at his beginner level. The fear that drives the temptation: not selfishness but the deep, legitimate terror of returning to powerlessness.
 
-The terror of being ordinary again — the terror he's carried since the math scene in Book One — is suddenly not inevitable. He can escape it. He just has to stop building.
-
-**Establish:** The efficiency technique as both tool and temptation. Haran's thirty-year discipline recontextualized — not eccentricity but mastery. The precision/waste framework that will reshape everything. The genuine, rational case for preservation. The fear that drives the temptation: not selfishness but the deep, legitimate terror of returning to powerlessness.
-
-**Emotional beat:** The seduction of safety. For the first time since the math scene, Ash can see a future where the countdown stops. The relief is enormous — and the relief itself is the danger. He wants this so badly that he almost can't think clearly about it. The chapter should let the reader feel the pull, should make preservation seem not just understandable but *wise*.
+**Emotional beat:** The seduction of safety. For the first time since the math scene, Ash can see a future where the countdown might stop — not today, but if he committed to the discipline. The relief is enormous — and the relief itself is the danger. He wants this so badly that he almost can't think clearly about it. The chapter should let the reader feel the pull, should make preservation seem not just understandable but *wise*.
 
 ---
 
@@ -619,7 +666,9 @@ The contrast devastates Ash. Ardenmere had every advantage — strong elder chan
 
 Ryn is with him when this sinks in — she's been visiting the workshop more often, and her presence has become a quiet fixture. She doesn't say anything profound. She says: "So the question isn't whether your approach works. It's whether you can get out of the way fast enough for other people to do it themselves."
 
-**Establish:** The rural communities as proof of concept — not Ash's proof, but proof that arrived independently, without him. Haran's network revealed as the connective tissue that will matter most. The contrast between communities that adapted and those that didn't. The efficiency technique reframed: the question isn't whether to use it, but *what for*.
+Later, a message from Maren — she's heard about Ardenmere through professional channels. Her note is clinical, factual, listing the infrastructure failures with the precision of someone who understands exactly what those systems require. But the final line isn't clinical: "This is what it looks like." She means: this is what's coming for all of us. She means: this is what's coming for me.
+
+**Establish:** The rural communities as proof of concept — not Ash's proof, but proof that arrived independently, without him. Haran's network revealed as the connective tissue that will matter most. The contrast between communities that adapted and those that didn't. The efficiency technique reframed: the question isn't whether to use it, but *what for*. Maren's brief note — a bridge between her Ch11 crack and the Ch20 reckoning.
 
 **Emotional beat:** Humility. Not the humiliation of Act Two — the quieter, more productive recognition that the answer was never going to come from one person's reservoir. The tinkerer philosophy, which has been the story's quiet backbone since Chapter 1, steps into the foreground as the only approach that actually survived contact with the decline. Ash's role isn't to be the solution. It's to be the catalyst — and catalysts, by definition, aren't consumed by the reaction they enable.
 
@@ -629,9 +678,9 @@ Ryn is with him when this sinks in — she's been visiting the workshop more oft
 
 **POV:** The temptation crystallizes. Ash faces the genuine, agonizing decision between preservation and expenditure.
 
-Days after the Ardenmere news. Ash has been practicing the efficiency technique — alone, in the workshop, in the early hours before anyone else arrives. The discipline is difficult. Thirty years of Haran's practice reduced to fumbling first attempts. But even his fumbling shows results. A channeling task that would have cost him a measurable fraction of the reservoir now costs half that. With practice — months, maybe a year — he could approach Haran's precision.
+Days after the Ardenmere news. Ash has been practicing the efficiency technique — alone, in the workshop, in the early hours before anyone else arrives. The discipline is difficult. Most sessions end in frustration — he narrows too far and nothing happens, or he overcompensates and wastes more than conventional channeling would have. But occasionally, for a few seconds, he finds something close to Haran's precision. The improvement is marginal. On his best attempts, he wastes perhaps a third less than before. It's enough to see the shape of the possibility, not enough to change the math.
 
-The temptation sharpens as the technique improves. Every successful practice session makes the preservation path more real. He can feel the math shifting: the remaining ~33% of the reservoir, channeled with increasing precision, could last five years. Ten. Possibly longer. He would never be as powerful as he was in the earthquake — but he would never be powerless either. A carefully managed Wellspring, spending frugally, staying extraordinary in a world where extraordinary is increasingly rare.
+The temptation sharpens not because the technique works well but because it works *at all*. Even his clumsy attempts reveal how much waste is built into conventional channeling. The remaining ~28% of the reservoir, channeled with even his current marginal improvements, might last a little longer. And if he kept practicing — months, years, approaching what Haran can do — the math could shift dramatically. He would never be as powerful as he was in the earthquake — but he would never be powerless either.
 
 He catches himself planning it. Unconsciously, in the spaces between intention and action — calculating what he'd need to maintain, what he could let go, how to ration the remaining power across decades. The planning feels rational. Responsible, even. Isn't this what Haran did? Didn't the old man choose restraint?
 
@@ -654,6 +703,8 @@ The reframing is quiet. No dramatic speech. No audience. Just Ash in the worksho
 **Establish:** The temptation as the deepest emotional crisis of Book Two — harder than the break with Davan, harder than the dependency revelation. The efficiency technique's dual nature: preservation tool or capability enhancer, depending on the choice. The rejection as quiet, deliberate, and costly. The reframing that transforms what could have been Ash's greatest weakness into his greatest asset going forward.
 
 **Emotional beat:** Fear confronted but not defeated. Ash chooses to become ordinary, but the fear of it doesn't vanish — it sits beside the choice like a shadow. The courage isn't in the absence of fear. It's in building anyway. The reader should feel both the weight of what he's giving up and the rightness of the decision, and the tension between those two feelings is the chapter's heart.
+
+**Causal hook → Ch18:** The choice demands immediate testing. Ash made the decision alone in the workshop — now he has to prove it means something in the district, with real people and real problems, using the technique he's barely begun to learn.
 
 ---
 
@@ -681,9 +732,17 @@ The chapter ends with Ash walking through the district at evening. The heating i
 
 He passes Tesha's workshop — she's converted a storage room into a workspace, teaching two neighbors how to maintain the pressure valves. She didn't ask permission. She didn't wait for a training program. She saw a need and filled it. Ash watches from the doorway for a moment, unseen, and feels something he hasn't felt since the earthquake: the world doesn't need him to be extraordinary. It needs him to start and then step back.
 
+But outside the district, the city is getting worse. Reports reach the workshop daily now — districts where the heating has failed entirely, neighborhoods petitioning the Levelers for help the Levelers can no longer provide. And a letter from Maren, brief and uncharacteristic: she's taken a leave from work. She doesn't say why. The handwriting is steady. The fact that she wrote at all says everything.
+
 **Establish:** The methodological shift from building FOR to building WITH. The efficiency technique in practical application — catalytic expenditure, precision, less waste. Tesha as the answer to the worker's question: someone who combines the Levelers' communal ethos with the tinkerer's practical approach, without the ideology of either. The hybrid model — channeling AND mechanics — as the genuine synthesis Ash couldn't see when he was standing inside his own framework.
 
-**Emotional beat:** The satisfaction of getting out of the way. For the first time since the proof-of-concept began, Ash sees the district working *without* him and feels relief rather than anxiety. The instinct to be the solution — the instinct that drove him through the earthquake, through the ascent, through the building phase — is still there. But it's quieter now. What's louder is the recognition that his job was never to be the answer. It was to help people find their own.
+Late in the chapter, an unexpected visitor: Dorenne. She comes to the district not as patron, not as administrator — she comes because the Levelers have called a vote to dissolve her infrastructure authority, and for the first time in her career, she might lose. She walks through the district and sees the mechanical pumps, the resident-maintained heating, the hybrid systems — everything she dismissed as tinkerer nonsense a year ago, working. Not well. But working.
+
+She and Ash stand in the alley behind the workshop. No masks. No maneuvering. She says: "I spent thirty years building systems that are going to die with the magic. You spent six months building systems that might not." A pause. "I hate that." He says: "I know." She says: "I don't know how to do what you're doing. I don't know how to build things I can't control." The admission costs her visibly. She leaves without asking for anything. But something has shifted — not an alliance, not forgiveness, but mutual recognition between two people watching the same thing end and choosing different griefs.
+
+**Emotional beat:** The satisfaction of getting out of the way. For the first time since the proof-of-concept began, Ash sees the district working *without* him and feels relief rather than anxiety. The instinct to be the solution — the instinct that drove him through the earthquake, through the ascent, through the building phase — is still there. But it's quieter now. What's louder is the recognition that his job was never to be the answer. It was to help people find their own. The Dorenne scene adds a second register — the quiet shock of an adversary acknowledging the ground has shifted.
+
+**Causal hook → Ch19:** The Levelers' vote on Dorenne's authority is pending. The district's success is spreading as proof that alternatives work. Davan's movement is about to collide with the evidence that redistribution alone isn't enough — and Dorenne's potential fall removes the establishment enemy that held the Levelers together.
 
 ---
 
@@ -719,6 +778,8 @@ Davan walks away. The conversation isn't enough to bridge anything, but the ackn
 
 **Emotional beat:** The bittersweet satisfaction of being right. Ash's approach is working — not his original approach, but the approach that evolved through failure, through Ryn's critique, through the workers' independence. And the cost of being right is watching Davan — someone he genuinely respected, someone who fought harder and sacrificed more than Ash ever did — begin to break. The success and the loss are inseparable.
 
+**Causal hook → Ch20:** The Levelers' fracture has exposed something Ash didn't expect — the personal cost of systemic change. Watching Davan crack opens the old wound: the guilt of having power when others don't. He goes to the family apartment carrying that weight, and finds Maren — the person who lived the mirror image of that guilt his entire life.
+
 ---
 
 ### Chapter 20 — The Conversation
@@ -735,7 +796,7 @@ The conversation starts with nothing. With tea. With the small talk of siblings 
 
 Ash notices she's making tea by hand. Not channeling the heat. Using the stove. He doesn't comment. She doesn't explain.
 
-The silence between them fills with everything they've never said. Twenty-five years of choreography — his cheerfulness and her competence, his performed ease and her performed excellence, his unspoken grief and her unspoken guilt — all of it present in the kitchen, taking up space like furniture neither of them chose.
+The silence between them fills with everything they've never said. A lifetime of choreography — his cheerfulness and her competence, his performed ease and her performed excellence, his unspoken grief and her unspoken guilt — all of it present in the kitchen, taking up space like furniture neither of them chose.
 
 She breaks first. Not with a dramatic confession. With a question.
 
@@ -751,7 +812,7 @@ He knows what she means. He doesn't pretend otherwise.
 
 She sets down her cup. Her hands are shaking — slightly, the way they wouldn't have shaken a year ago. She notices him noticing. The performance flickers. For one moment, she's not the competent sister, the overachiever, the one who never needed anything. She's a woman watching her world contract, and she's terrified.
 
-"I don't know how to do this," she says. "You — you spent twenty years learning how to live without it. I don't know how. I never learned. I never had to learn. I was so busy being grateful I had it that I never imagined—"
+"I don't know how to do this," she says. "You — you spent twenty-three years learning how to live without it. I don't know how. I never learned. I never had to learn. I was so busy being grateful I had it that I never imagined—"
 
 She stops. The guilt surfaces — not as a confession, not as a performance of virtue, but as the raw, unprocessed thing it's always been.
 
@@ -769,7 +830,7 @@ The conversation opens. Not all at once — in surges and retreats, the way real
 
 She tells him what the competence cost. The exhaustion of never being allowed to fail, because failure would mean the magic was wasted on her. The loneliness of being the easy child, the one nobody worried about, the one whose struggles were invisible because she'd trained everyone — including herself — not to see them.
 
-He tells her the thing he's never said to anyone: that some part of him hated her for having the pool. Not her — the fact of her having it. The cosmic unfairness that divided them at birth, giving her the thing that defined worth in their world and giving him nothing. He hated it and loved her and lived in the impossible tension between the two feelings for twenty years.
+He tells her the thing he's never said to anyone: that some part of him hated her for having the pool. Not her — the fact of her having it. The cosmic unfairness that divided them at birth, giving her the thing that defined worth in their world and giving him nothing. He hated it and loved her and lived in the impossible tension between the two feelings for twenty-three years.
 
 She cries. He cries. They sit in the kitchen of their childhood and grieve — not for each other, but for the children they were, the ones who divided themselves into complementary shapes to survive a family that loved them but couldn't fix them.
 
@@ -783,45 +844,43 @@ The chapter ends quietly. Their parents come home. The four of them have dinner.
 
 **Emotional beat:** Devastation and relief in the same breath. This should be the most emotionally intense chapter in Book Two — not the most dramatic (that's the Sera incident, the break with Davan) but the most *personal*. The reader has watched these two orbit each other for two books, seen the unspoken thing hovering between them, felt its weight in every careful interaction. When it finally breaks open, the release should feel earned, necessary, and incomplete — because the full reckoning continues into Book Three, where Ash helps Maren find her post-magic identity the way no one else can.
 
+**Causal hook → Ch21:** The Maren conversation stripped away the last performance. Ash walks into the final chapter without armor — the cheerfulness is gone, the savior complex is gone, the fear of ordinary is still there but named. He's ready to see clearly what he's built and what remains.
+
 ---
 
 ### Chapter 21 — The Turn
 
-**POV:** Ash sees the shape of what comes next. Not the whole picture — the outline. The proof-of-concept, imperfect and human, is working without him. The efficiency technique has changed the math. The question has shifted from "I must fix this" to "I must build something that works without me."
+**POV:** The final chapter is a single day in which the threads collide — not resolved, but interlocking, revealing the shape of what Book Three must carry.
 
-The final chapter of Book Two is a counterpoint to the first. Chapter 1 opened with Ash at the workshop, alone, carrying a question he couldn't answer: *what do you want to build with it?* Chapter 21 opens at the workshop too, but it's not empty. Haran is there, working as always. Ryn is there — she's been coming by more often, learning mechanical basics, bringing the practical questions of someone whose daily work intersects with the failing infrastructure. Tesha has visited twice, bringing sketches of a modified heating element her district crew designed without Ash's input.
+The chapter opens at the workshop, early morning. Ash arrives to find Haran reading a letter. The rural network has sent word: two more communities have gone dark. Not Ardenmere-style collapses — quieter. Communities that were adapting, that had mechanical systems half-built, that ran out of time. The adaptation works, but it's a race, and the decline is accelerating.
 
-The workshop is becoming something it wasn't before: a hub. Not because Ash made it one — because people found it. Haran's decades of patient, quiet work created a gravitational pull that the crisis is finally strong enough to activate. Tinkerers. Former Levelers. Workers from the proof-of-concept district. People from Haran's rural network who've traveled to the city with techniques that work. The workshop is too small for all of them. They spill into the alley, the neighboring storage room, the street. The conversations are practical — how to seal a joint, how to maintain a pressure valve, how to insulate a wall without channeling — and the people having them are learning from each other, not from Ash.
+Before Ash can absorb this, Tesha arrives from the district with a problem and a success tangled together. The modified heating system — her design, the hybrid model — has spread to a neighboring block without anyone organizing it. Residents copied the approach themselves. But the copied version is failing because they didn't understand the mechanical principles, just the visible steps. They need training, and Tesha can't train them fast enough alone. The scaling problem, made concrete: the approach works, but it can't spread as fast as the decline.
 
-Ash takes stock. Not dramatically — the way he did in the Book One math scene, quantifying loss. Quietly, practically, the way Haran would.
+Mid-morning. Ryn comes by. She's been hearing things in the city — Davan spoke at a public gathering last night, and his rhetoric has turned. No longer "we must redistribute" but "we must be honest about what's coming." The crowd was smaller than before but more intense. He named Ash specifically: "The Wellspring chose to build water pumps while the world goes dark. History will judge the scale of that miscalculation." Ryn doesn't editorialize. She just tells him. Her expression says she's worried — not about the accusation, but about Davan. She saw the same look on her father's face the year he stopped trying to find work.
 
-The reservoir: ~20%. The efficiency technique has slowed the drain, but the drain continues. Every catalytic expenditure in the district, every foundation reinforcement, every structural test — each one smaller and more precise than it would have been a month ago, but each one real, each one a choice. He can feel the bottom now. Not as an abstraction but as a physical sensation — a lightness where the weight used to be, a thinning of something he once thought was infinite.
+Ash goes to the district. The pump in Building Six runs — relocated, resident-maintained, imperfect. The heating is on, the patchwork hybrid of mechanical and pooled contributions. He watches the workers he trained teaching workers he didn't. Three weeks since he last channeled here. The district breathes without him. But the neighboring block — the one that copied the system badly — is cold. The gap between "it works here" and "it works everywhere" is vast, and every day it isn't bridged, more people are cold.
 
-The proof-of-concept district: working. Imperfectly. The water pump runs at seventy-five percent. The heating is a patchwork of mechanical elements and contributed pools. Maintenance is handled by residents who learned on the job and teach each other. It's rougher than Ash's design. It's also more resilient, because when something breaks, five people understand the system well enough to improvise a fix. Ash hasn't channeled in the district in three weeks.
+Afternoon. A message arrives at the workshop from Dorenne — formal, institutional, but the subtext is personal. The Levelers' vote stripped her infrastructure authority. She's offering to redirect her remaining administrative resources — the logistics networks, the supply chains, the institutional knowledge — to the building efforts. Not a partnership. A concession. She's choosing relevance over control. The offer is real and it's bitter and it changes the math of the scaling problem, if Ash can trust it.
 
-The Levelers: fragmenting. The movement that shook the city's political foundations is dissolving into its constituent parts — some members joining the building efforts, some withdrawing into private life, some following Davan toward an argument that sounds increasingly like despair dressed in rhetoric. The mandatory redistribution laws remain on the books but enforcement has softened as the political energy behind them dissipates. The communal heating grids — the Levelers' proudest achievement — still operate, but the communities maintaining them have quietly started incorporating mechanical backups. Nobody announces this. Nobody marks the transition. It just happens.
+He sits with Haran in the workshop, turning over the day's accumulation. The rural collapses. The scaling gap. Davan's descent. Dorenne's offer. The reservoir at ~18%, each expenditure more precise than the last but the bottom closer than ever. Haran says nothing for a long time. Then: "You're not going to solve all of this." Ash: "I know." Haran: "You're not going to solve most of it." Ash: "I know that too." Haran picks up a gear mechanism, examines it, sets it down. "Good. That's a start."
 
-Davan: cracking. Ash hears reports, secondhand. Davan is still speaking publicly — his arguments sharper, his rhetoric more polished, his conclusions darker. He's moved from "we must redistribute" to "we must be honest about what's coming." The people who followed him for hope are drifting away. The ones who remain are the ones who find his honesty more comforting than anyone else's optimism. Ash recognizes this as the beginning of the despair arc that will consume Book Three, and the recognition hurts — not because Davan is wrong, but because some part of Ash understands the temptation of surrendering to honest hopelessness. He rejected that temptation in Chapter 17. Davan is walking toward it.
+Evening. The workshop empties. Ryn is the last to leave. At the door, she pauses. "You look different than you did six months ago." He asks how. She considers it. "Like someone who's going to lose something and knows it and isn't running." She leaves.
 
-Dorenne: isolated. The institutional framework she built is being outflanked, not by enemies but by citizens who've stopped waiting for permission. The street-level merger of builders and former Levelers doesn't need her coordination, her permits, her organizational structure. She still holds formal authority, but the authority is hollow — a title over a system that's being rebuilt from the ground up without her. The cornering that began in Act Two is nearly complete. What she does with it — whether she adapts or breaks — is a question for Book Three.
+Ash alone at the workbench — the same bench from Chapter 1, Haran's question still echoing. He picks up Tesha's spring mechanism, her improvement on his improvement. Clumsy where his would have been elegant. Better where his would have been wrong. He turns it in his hands.
 
-Ryn: present. She's there in a way that's neither dramatic nor performed — she shows up, she works, she tells him when he's being an idiot, she goes home. The friendship has settled into something new: not the old childhood choreography, not the Wellspring-era distance, but a partnership built on shared reality and mutual honesty. She sees him clearly. She always has. The difference now is that he's stopped flinching from being seen.
+The reservoir sits inside him, lighter than before, finite and real. He can feel the bottom now — not as an abstraction but as a physical sensation, a thinning of something he once thought infinite. The fear is there. The old fear: *ordinary means worthless, powerless means purposeless*. It hasn't disappeared. It won't.
 
-The chapter's final scene. Ash in the workshop, late evening, after everyone has gone. He's at his workbench — the same bench he sat at in Chapter 1, carrying Haran's question. The mechanical devices around him are different now: not his prototypes but the district's adaptations, brought back for improvement, modified by hands he trained, refined by minds he didn't. The room smells the same — oil and metal and the cold draft from the alley. The tools are the same.
+But something else is there too, harder to name. Not peace — the problems are too large for peace. Not resolve — he's been resolved before and it broke. Something quieter. The willingness to keep building knowing it isn't enough. The willingness to become ordinary knowing it terrifies him. The willingness to trust that the people in the district and the hill country and Tesha's makeshift workshop can carry what he can't.
 
-He is different.
+He banks the forge by hand. He walks home through dark streets. Past districts that are warm and districts that aren't yet. Past the cold blocks and the mending ones. Past a wall where someone has scratched out the Levelers' circle-and-line symbol and written beneath it, in chalk: *WHAT NOW?*
 
-He picks up a spring mechanism — Tesha's design, an improvement on his improvement. It's clumsy in places where his would have been elegant. It's also better in places where his would have been wrong. He turns it in his hands and feels the shift complete: the question is no longer "what do I build with what's left?" It's "what have I started that can continue without me?"
+He doesn't have an answer. The city doesn't have an answer. The question is honest and the night is cold and the power inside him is almost gone.
 
-The reservoir sits inside him, lighter than before, finite and real. The fear is still there — the old fear, the one that says *ordinary means worthless, powerless means purposeless*. It hasn't disappeared. It won't disappear. But it's quieter now, and beside it, growing louder with each day he spends building things that work without him, is something harder to name: the beginnings of peace with who he'll become when the power is gone.
+He keeps walking.
 
-He sets down Tesha's mechanism. He banks the workshop forge — by hand, the way Haran does it. He walks home through the dark streets of the city, past the districts that are warm and the ones that aren't yet, past the communal grids and the mechanical pumps, past the broken and the mending, and for the first time in the story, he doesn't calculate what he could fix if he channeled. He just walks.
+**Establish:** Every thread present and interlocking in a single day: the scaling crisis (rural collapses + neighboring block failure), Davan's public turn toward despair, Dorenne's institutional concession, the district's independent success, Ryn's steady presence, Haran's final reframing, the reservoir at ~18%. Not a status report but a convergence — each thread pressing against the others, creating the pressure that Book Three must resolve.
 
-The city is breaking. The city is building. Both things are true. Both things are his.
-
-**Establish:** The state of play at Book Two's close. Every major thread accounted for: the proof-of-concept working without Ash, the Levelers fragmenting, Davan's descent beginning, Dorenne's isolation complete, Maren's reckoning begun, Ryn's presence steady. The reservoir at ~20%, the efficiency technique making each remaining drop count. The question shifted: not "I must fix this" but "I must build something that works without me."
-
-**Emotional beat:** Quiet resolve. Not triumph — the problems are enormous and unsolved. Not despair — the building is working, imperfectly, humanly. The feeling of a person who has looked at the worst possible future and chosen to build anyway, not because he's certain it will work but because building is the only response to decline that isn't surrender. The closing image — Ash walking through the city without calculating what he could fix — is the measure of how far he's come. He's learning, finally, to let the city be broken and trust that other people will mend it.
+**Emotional beat:** Darker than quiet resolve. The chapter should leave the reader with the feeling that Ash has grown enormously and it might not be enough. The building works but can't scale fast enough. The decline is accelerating. Davan is breaking. The question on the wall — *WHAT NOW?* — is the reader's question too. Book Two ends not with satisfaction but with the honest weight of a person who chose the harder path and is only beginning to understand how hard it is. The fear and the willingness exist side by side, and neither wins.
 
 ---
 
@@ -829,23 +888,23 @@ The city is breaking. The city is building. Both things are true. Both things ar
 
 | Point in Story | Reservoir | Notes |
 |---|---|---|
-| Chapter 15 (the discipline) | ~33% | Minimal expenditure; learning the efficiency technique. Ongoing maintenance of district systems by workers, not Ash |
-| Chapter 16 (the dark) | ~32% | No direct channeling; processing the Ardenmere news. Reservoir drain from background maintenance of personal-scale channeling only |
-| Chapter 17 (the choice) | ~28% | Significant early expenditure as Ash practices and tests the technique with conventional (wasteful) channeling before the reframing. The temptation period includes experimentation. Post-choice, drain rate drops as efficiency is applied |
-| Chapter 18 (the answer) | ~25% | Catalytic expenditures in the district — foundation work, heating infrastructure — but now with efficiency discipline. Each act costs less than equivalent work in Acts One and Two |
-| Chapter 19 (the fracture) | ~23% | Continued catalytic work. The efficiency technique is improving with practice. Expenditure is strategic and precise |
-| Chapter 20 (the conversation) | ~22% | No significant channeling. The chapter is entirely emotional and personal |
-| Chapter 21 (the turn) | ~20% | Minimal expenditure. Three weeks since last district channeling. The drain is from the technique itself — efficiency practice has a small ongoing cost as the discipline becomes habitual |
+| Chapter 15 (the discipline) | ~28% | Minimal expenditure; learning the efficiency technique. Ongoing maintenance of district systems by workers, not Ash |
+| Chapter 16 (the dark) | ~27% | No direct channeling; processing the Ardenmere news. Reservoir drain from background maintenance of personal-scale channeling only |
+| Chapter 17 (the choice) | ~24% | Expenditure as Ash practices the technique — fumbling attempts waste more than conventional channeling at first. Post-choice, drain rate begins to slow as early efficiency gains apply |
+| Chapter 18 (the answer) | ~22% | Catalytic expenditures in the district — but now with beginner-level efficiency discipline. Noticeable improvement, not transformation |
+| Chapter 19 (the fracture) | ~20% | Continued catalytic work. The efficiency technique is slowly improving with practice. Expenditure is more strategic |
+| Chapter 20 (the conversation) | ~19% | No significant channeling. The chapter is entirely emotional and personal |
+| Chapter 21 (the turn) | ~18% | Minimal expenditure. Three weeks since last district channeling. The technique's gains are real but modest — he's a beginner, not a master |
 
 ## Character Thread Summary — Act Three
 
 | Character | Arc in Act Three | Status at Book Two Close |
 |---|---|---|
-| **Ash** | Confronted the temptation to preserve power, rejected it, reframed the efficiency technique as capability enhancement. Shifted from building FOR to building WITH. The sibling reckoning. | Quietly resolved. The question has shifted from "I must fix this" to "I must build something that works without me." ~20% reservoir. The fear of ordinary life remains, but it's quieter. |
+| **Ash** | Confronted the temptation to preserve power, rejected it, reframed the efficiency technique as capability enhancement. Shifted from building FOR to building WITH. The sibling reckoning. | Honest and afraid. The question has shifted from "I must fix this" to "I must build something that works without me." ~18% reservoir. The fear of ordinary life remains. The building works but can't scale fast enough. He chose the harder path and is only beginning to understand how hard it is. |
 | **Haran** | Revealed the efficiency technique — his thirty years of discipline recontextualized as mastery, not eccentricity. His workshop becoming a hub. His rural networks activated. | Vindicated without fanfare. The quiet work of decades is bearing fruit. His role as philosophical spine has expanded into practical backbone — the networks, the workshop, the technique. |
-| **Dorenne** | Increasingly isolated as the street-level merger of builders and Levelers bypasses her institutional framework. Formal authority hollowing out. | Cornered and alone. The institutions she built her life on are being rebuilt without her. The path to Book Three's redemption — or breakdown — begins here. |
-| **Davan** | Watches the Levelers fragment as redistribution meets reality. His rhetoric sharpens toward despair. Unable to adapt, unable to join the merger. | Cracking. The hope that drove the movement is failing, and Davan's identity was the hope. The despair arc for Book Three is loaded and ready. |
-| **Maren** | The full unspoken conversation. Twenty-five years of guilt and grief laid bare. The competence shell broken open — not destroyed, but no longer necessary. | Changed. The performance is over. The reckoning with her declining pool continues, but she's no longer facing it alone or pretending it isn't happening. Book Three will complete her arc. |
+| **Dorenne** | Increasingly isolated, then a masks-down moment with Ash (Ch18). Formal authority stripped by Leveler vote (Ch19). Offers institutional resources to building efforts (Ch21). | Adapting painfully. She's lost formal authority but made the first genuine concession — offering her institutional knowledge to a movement she didn't build. The path to Book Three's redemption begins with this choice. |
+| **Davan** | Watches the Levelers fragment as redistribution meets reality. His rhetoric sharpens toward despair. Names Ash publicly in Ch21 — "History will judge the scale of that miscalculation." | Cracking publicly. The hope that drove the movement is failing, and Davan's identity was the hope. His rhetoric has turned from redistribution to honest hopelessness. The despair arc for Book Three is loaded and ready. |
+| **Maren** | The full unspoken conversation. A lifetime of guilt and grief laid bare. The competence shell broken open — not destroyed, but no longer necessary. | Changed. The performance is over. The reckoning with her declining pool continues, but she's no longer facing it alone or pretending it isn't happening. Book Three will complete her arc. |
 | **Ryn** | Steady, present, increasingly embedded in the workshop community. Her critique reshaped Ash's approach. The friendship is real and tested. | The anchor. She's there — not waiting, not orbiting, just *there*. The unexamined romantic dimension is closer to the surface than it's ever been. Book Three brings it home. |
 | **The Mother** | Present but offstage — the family dinner at the end of Chapter 20, unaware of what shifted between her children. | Still displaced from her protective role. Still fierce. The ground beneath her family is shifting in ways she can sense but can't name. |
 | **The Father** | The quiet constant. Present at dinner. His stability continues to be the gift he doesn't know he's giving. | Unchanged and invaluable. The family member who holds the shape of things together without drama or acknowledgment. |
@@ -854,7 +913,7 @@ The city is breaking. The city is building. Both things are true. Both things ar
 
 ## What Act Three Carries Into Book Three
 
-- **The efficiency technique as ongoing capability.** Ash's channeling is now precise and purposeful. Every remaining expenditure counts for more — but the reservoir is critically low at ~20%, and every act of channeling is a visible, conscious choice.
+- **The efficiency technique as ongoing capability.** Ash's channeling is now precise and purposeful. Every remaining expenditure counts for more — but the reservoir is critically low at ~18%, and every act of channeling is a visible, conscious choice.
 - **The workshop as hub.** Haran's space is becoming the center of the transition — not by design but by gravity. The scaling challenge for Book Three: can this organic, bottom-up approach spread fast enough?
 - **Davan's despair trajectory loaded.** He's cracking, not broken. The full descent — taking a community, trying the communal model, watching it fail — belongs to Book Three.
 - **Dorenne's redemption or breakdown.** She's isolated but not yet defeated. The choice to adapt — to throw institutional weight behind something she didn't build — is the hardest decision of her life, and it's ahead of her.

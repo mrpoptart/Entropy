@@ -6,7 +6,7 @@ This document maps the full plot across all three books, showing how each book's
 
 A young man born without magic in a magical world becomes the most powerful channeler alive — then watches that power drain away while the world's magic dies around him. His journey from euphoria through crisis to acceptance mirrors the civilization's journey, and his answer to the question "who am I without power?" becomes the template for how everyone else will eventually need to answer it too.
 
-**The Series Clock:** Ash's reservoir drains across three books — 100% → ~50% (Book One) → ~15-20% (Book Two) → 0% (Book Three). The world's magic declines on a generational timescale, but accelerates visibly across the trilogy.
+**The Series Clock:** Ash's reservoir drains across three books — 100% → ~44% (Book One) → ~15-20% (Book Two) → 0% (Book Three). The world's magic declines on a generational timescale, but accelerates visibly across the trilogy.
 
 **The Grief Progression:** The antagonists embody stages of grief in response to the decline:
 - Book One: **Control/Bargaining** (Dorenne) — "I can manage this."
@@ -75,7 +75,7 @@ The aftermath: the city loves him. Dorenne's position is unassailable. Ash feels
 ## BOOK TWO — "The Long Shadow"
 
 **Question:** What is change worth if it can't outlast you?
-**Reservoir:** ~50% → ~15-20%
+**Reservoir:** ~44% → ~15-20%
 **Time span:** Roughly a year
 **Antagonistic force:** The Levelers (righteous force)
 
@@ -95,7 +95,7 @@ The key insight from Haran: use Wellspring power not to maintain (Dorenne's mode
 
 **The Levelers emerge.** The earthquake's aftermath radicalized a generation. Young channelers who watched their districts collapse while elder neighborhoods held are organizing. Davan crystallizes their argument: the decline isn't falling equally, and the powerful — including Ash — are choosing who suffers. They want mandatory redistribution: elder pools taxed for public works, the Wellspring's reservoir under collective direction.
 
-**Ash meets Davan.** Electric conversations. They agree on nearly everything — the inequality, the injustice, the establishment's denial. Two people of roughly equal intelligence from radically different experiences of the same broken world. Ash respects their brilliance, their organizing skill, their genuine selflessness. Davan respects Ash's lived experience of powerlessness. For a stretch, they're allies in spirit if not in method.
+**Ash meets Davan.** Electric conversations. They agree on nearly everything — the inequality, the injustice, the establishment's denial. Two people of roughly equal intelligence from radically different experiences of the same broken world. Ash respects his brilliance, his organizing skill, his genuine selflessness. Davan respects Ash's lived experience of powerlessness. For a stretch, they're allies in spirit if not in method.
 
 **The proof-of-concept starts failing.** Not dramatically — grindingly. Mechanical systems require maintenance skills people don't have yet. Workers do things imperfectly. A water pump breaks and nobody can fix it without him. A heating system works but less efficiently than channeling, and residents resent the downgrade. Ash starts fixing things himself — pouring Wellspring power into problems, reverting to being the solution. His reservoir drops faster than planned.
 
@@ -158,9 +158,9 @@ This reframing also retroactively illuminates Haran: the old man who seems to us
 
 **Haran's networks come alive.** The tinkerer has been quietly connected to rural communities, independent builders, and pragmatic technologists for decades. These networks — which looked like a crank's hobby in Book One — are now the circulatory system of the transition. Ash plugs into them. Haran's vindication is quiet and unremarked upon, which is exactly how he'd want it.
 
-**Davan's descent.** The Levelers have fragmented. Most members adapt, grieve, move on — some join Ash's building efforts. But Davan doesn't pivot. They've run the numbers. Redistribution failed. Ash's building projects are fragile. The decline is accelerating. They arrive at the logical endpoint of fighting an unwinnable battle: calm, evidence-armed despair.
+**Davan's descent.** The Levelers have fragmented. Most members adapt, grieve, move on — some join Ash's building efforts. But Davan doesn't pivot. He's run the numbers. Redistribution failed. Ash's building projects are fragile. The decline is accelerating. He arrives at the logical endpoint of fighting an unwinnable battle: calm, evidence-armed despair.
 
-They begin speaking publicly. Not ranting — articulating. *"Be honest. Ash's mechanical systems break. His trained workers make mistakes. The transition will be brutal. Most of what he's building won't last. Stop lying to people about a future that isn't coming."*
+He begins speaking publicly. Not ranting — articulating. *"Be honest. Ash's mechanical systems break. His trained workers make mistakes. The transition will be brutal. Most of what he's building won't last. Stop lying to people about a future that isn't coming."*
 
 **Dorenne at a crossroads.** The institutions she built her life on are transforming or dissolving. The city's political structure is fracturing as the decline makes centralized management impossible. She faces what Ash already learned: control is not stewardship.
 
@@ -170,11 +170,11 @@ They begin speaking publicly. Not ranting — articulating. *"Be honest. Ash's m
 
 This is harder than the earthquake. Harder than rejecting the temptation. Watching someone struggle with a problem you could solve in seconds, and staying quiet because they need to learn to solve it themselves.
 
-**Davan's despair spreads.** People Ash needs — young builders, potential organizers, communities considering the transition — hear Davan's arguments and pull back. Why invest in a fragile future? Davan's credibility makes their despair contagious.
+**Davan's despair spreads.** People Ash needs — young builders, potential organizers, communities considering the transition — hear Davan's arguments and pull back. Why invest in a fragile future? Davan's credibility makes his despair contagious.
 
 Ash can't argue them down with logic. Davan's logic is sound. The plans ARE imperfect. His only counter is harder to articulate: that building in the face of uncertainty is itself the point. That an imperfect future is worth more than a perfect surrender.
 
-**Davan takes a community.** Davan, still organizing, still charismatic, gathers followers — people who believe in the communistic sharing of remaining resources rather than building for a post-magic future. They take a small district or settlement and run it their way: mandatory pooling of pools, collective distribution, even convincing a few elder channelers to join and contribute their stronger power. It's the Levelers' philosophy in miniature, a sincere attempt to prove their model works.
+**Davan takes a community.** Davan, still organizing, still charismatic, gathers followers — people who believe in the communistic sharing of remaining resources rather than building for a post-magic future. He takes a small district or settlement and run it their way: mandatory pooling of pools, collective distribution, even convincing a few elder channelers to join and contribute their stronger power. It's the Levelers' philosophy in miniature, a sincere attempt to prove their model works.
 
 Ash has to let them try. This is stewardship's hardest test — letting people choose a path you believe will fail, because the alternative is becoming Dorenne. Controlling them would be the Book One answer. He lets them go.
 
@@ -204,7 +204,7 @@ Ash does not gloat. He helps. Now ordinary and powerless, he offers what he can 
 
 **The confrontation with Davan.** Ash — now powerless, ordinary — finds Davan. He can't argue. He can't demonstrate. He can only be present as proof: a person who had everything, spent it all, and is still here. Still choosing to build. Still finding it worth doing.
 
-Davan remains broken. They cannot make the leap to ordinary life. They cannot find meaning in less. Their intelligence, their conviction, their selflessness — all the things that made them extraordinary — become the walls of a prison. They are the cost of the story. Not every wound heals. Not every grief reaches acceptance. Davan's unresolved despair is the honest acknowledgment that Ash's journey, while real, is not guaranteed. Some people break and stay broken.
+Davan remains broken. He cannot make the leap to ordinary life. He cannot find meaning in less. His intelligence, his conviction, his selflessness — all the things that made him extraordinary — become the walls of a prison. He is the cost of the story. Not every wound heals. Not every grief reaches acceptance. Davan's unresolved despair is the honest acknowledgment that Ash's journey, while real, is not guaranteed. Some people break and stay broken.
 
 ### The Epilogue
 

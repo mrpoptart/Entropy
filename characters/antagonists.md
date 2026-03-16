@@ -49,9 +49,9 @@ When the Levelers' campaign fails — because redistribution can't stop the decl
 
 The Book Three antagonist is not a new threat. It's a person the reader already knows, whose trajectory they watched through Book Two, who arrives at the logical endpoint of fighting a battle that cannot be won: exhaustion, grief, and the conviction that the future isn't worth the pain of building it.
 
-**Why it's sympathetic:** This isn't nihilism for its own sake. It's the despair of someone who tried everything and failed. They carried hope longer than most people could, and when it broke, it broke completely.
+**Why it's sympathetic:** This isn't nihilism for its own sake. It's the despair of someone who tried everything and failed. He carried hope longer than most people could, and when it broke, it broke completely.
 
-**Why it's dangerous:** Despair is contagious. In a world already frightened and grieving, someone who articulates "there's no point" with intelligence and earned authority can paralyze the people Ash needs most. You can't argue someone out of despair with logic — they've already run the logic and come up empty.
+**Why it's dangerous:** Despair is contagious. In a world already frightened and grieving, someone who articulates "there's no point" with intelligence and earned authority can paralyze the people Ash needs most. You can't argue someone out of despair with logic — he's already run the logic and come up empty.
 
 **Ash's version of this fear:** This is his deepest fear given a voice. The terror that he'll spend everything he has and it won't matter. That the ordinary life waiting for him on the other side isn't livable. Davan is who Ash becomes if he can't find meaning beyond power.
 

@@ -158,36 +158,85 @@ Legend: `—` dormant | `🌱` planted | `📈` progressing | `⚡` converging |
 
 ## Section 3 — Book Two Thread Map
 
-Book Two does not yet have chapter-level granularity in the outline. Thread tracking is mapped to **act-level beats** and will be refined to chapter level when the Book Two outline is developed.
+Legend: `—` dormant | `→` carries forward | `🌱` planted | `📈` progressing | `⚡` converging | `✅` resolved (for this book)
 
-Legend: `→` carries forward from Book One | `🌱` newly planted | `📈` progressing | `⚡` converging | `✅` resolved
+### Act One — The Builder's Hubris (Chapters 1–7)
 
-| Thread | Act 1: Builder's Hubris | Act 2: The Collision | Act 3: Temptation & Turn |
-|--------|------------------------|---------------------|-------------------------|
-| 1. Reservoir | → 📈 (spending catalytically, drops faster than planned) | 📈 (each expenditure a choice) | ⚡ (efficiency technique changes the math — ~15-20% remains) |
-| 2. Infrastructure | → 📈 (post-quake reconstruction, rural decline in background) | 📈 (rural community goes dark) | ⚡ (adapted communities survive — future isn't theoretical) |
-| 3. Levelers | → 📈 (Davan crystallizes the movement) | ⚡ (escalation, coerced elder expenditure, break with Davan) | 📈 (peaked and fragmenting) |
-| 4. District | → 📈 (proof-of-concept built with catalytic expenditure) | ⚡ (starts failing — built systems, not people) | ✅ (works imperfectly but humanly, without Ash) |
-| 5. Efficiency | → 📈 (Ash improving through Haran's guidance) | 📈 | ⚡ (temptation: use for preservation? Rejected, reframed as capability) |
-| 6. Dorenne | → 📈 (wants him back, offers formal partnership) | 📈 (wants him to oppose Levelers publicly) | 📈 (institutional framework under severe strain) |
-| 7. Haran | → 📈 (blueprints become district plans, networks forming) | 📈 | 📈 (decades of tinkering become the backbone) |
-| 8. Maren | → 📈 (visibly more tired, pool weakening) | ⚡ (snaps at Ash — first crack in competence shell) | ⚡ (the unspoken conversation — guilt and grief) |
-| 9. Mother | → 📈 | 📈 | — |
-| 10. Father | → 📈 | — | — |
-| 11. Ryn | — | ⚡ (reconnection — "you became someone else") | 📈 (grounding him, making the macro personal) |
-| 12. Identity | → 📈 (shifted to builder — still fused with power) | 📈 (caught between factions, humbled) | ⚡ (temptation = identity preservation. Rejected.) |
-| 13. Davan | 🌱 (introduced as intellectual equal, ally) | ⚡ (break — coerced expenditure, irreconcilable methods) | 📈 (cracking, movement fragmenting) |
-| 14. Stewardship | → 📈 (catalytic building, not maintaining) | 📈 (core lesson: built systems, not people) | ⚡ ("I must build something that works without me") |
+| Thread | Ch1 | Ch2 | Ch3 | Ch4 | Ch5 | Ch6 | Ch7 |
+|--------|-----|-----|-----|-----|-----|-----|-----|
+| 1. Reservoir | → 📈 | — | — | 📈 | 📈 | — | 📈 |
+| 2. Infrastructure | → 📈 | 📈 | 📈 | 📈 | 📈 | — | 📈 |
+| 3. Levelers | → 📈 | — | — | — | — | — | 📈 |
+| 4. District | — | 🌱 | — | 📈 | 📈 | 📈 | 📈 |
+| 5. Efficiency | — | — | — | — | 🌱 | — | — |
+| 6. Dorenne | — | — | 📈 | — | 📈 | — | 📈 |
+| 7. Haran | 📈 | 📈 | — | 📈 | 📈 | — | 📈 |
+| 8. Maren | — | — | — | — | — | → 📈 | — |
+| 9. Mother | — | — | — | — | — | 📈 | — |
+| 10. Father | — | — | — | — | — | 📈 | — |
+| 11. Ryn | — | — | — | — | — | — | — |
+| 12. Identity | 📈 | 📈 | 📈 | 📈 | 📈 | — | 📈 |
+| 13. Davan | — | — | — | — | — | — | — |
+| 14. Stewardship | 📈 | 📈 | — | 📈 | 📈 | — | 📈 |
+| **Active count** | **5** | **4** | **3** | **5** | **7** | **4** | **6** |
 
-### Book Two Convergence Zone: Act 3 (Temptation and Turn)
+### Act Two — The Collision (Chapters 8–14)
 
-**Avalanche pattern:** Multiple threads crash together around the temptation and its rejection:
+| Thread | Ch8 | Ch9 | Ch10 | Ch11 | Ch12 | Ch13 | Ch14 |
+|--------|-----|-----|------|------|------|------|------|
+| 1. Reservoir | 📈 | 📈 | 📈 | — | 📈 | — | — |
+| 2. Infrastructure | 📈 | — | 📈 | — | 📈 | 📈 | 📈 |
+| 3. Levelers | 📈 | 📈 | — | — | ⚡ | ⚡ | — |
+| 4. District | 📈 | 📈 | ⚡ | — | 📈 | 📈 | — |
+| 5. Efficiency | — | — | — | — | — | — | — |
+| 6. Dorenne | — | — | — | — | 📈 | — | — |
+| 7. Haran | — | 📈 | 📈 | — | — | — | — |
+| 8. Maren | — | — | — | ⚡ | — | — | — |
+| 9. Mother | — | — | — | 📈 | — | — | — |
+| 10. Father | — | — | — | 📈 | — | — | — |
+| 11. Ryn | — | — | — | — | — | — | ⚡ |
+| 12. Identity | 📈 | 📈 | 📈 | 📈 | 📈 | ⚡ | 📈 |
+| 13. Davan | 🌱 | 📈 | — | — | 📈 | ⚡ | — |
+| 14. Stewardship | 📈 | 📈 | ⚡ | — | 📈 | 📈 | 📈 |
+| **Active count** | **6** | **7** | **6** | **4** | **7** | **6** | **4** |
 
-1. Thread 5 (Efficiency Technique) presents the temptation → intersects Thread 1 (Reservoir) and Thread 12 (Identity) — preservation of power = preservation of self.
-2. Thread 2 (Infrastructure) provides the counter-evidence — rural communities that adapted are surviving.
-3. Thread 8 (Maren) peaks — the unspoken conversation strips away pretense between siblings.
-4. Thread 14 (Stewardship) reframes the decision: not preservation vs. spending, but building vs. maintaining.
-5. Thread 5 gets reframed: the technique becomes capability, not preservation → retroactively enriches Thread 7 (Haran).
+### Act Three — The Temptation and Turn (Chapters 15–21)
+
+| Thread | Ch15 | Ch16 | Ch17 | Ch18 | Ch19 | Ch20 | Ch21 |
+|--------|------|------|------|------|------|------|------|
+| 1. Reservoir | 📈 | — | ⚡ | 📈 | 📈 | — | ⚡ |
+| 2. Infrastructure | — | ⚡ | — | 📈 | — | — | 📈 |
+| 3. Levelers | — | — | 📈 | 📈 | ⚡ | — | 📈 |
+| 4. District | — | — | 📈 | ⚡ | 📈 | — | ✅ |
+| 5. Efficiency | ⚡ | — | ⚡ | 📈 | — | — | 📈 |
+| 6. Dorenne | — | — | — | ⚡ | 📈 | — | ⚡ |
+| 7. Haran | ⚡ | 📈 | 📈 | — | — | — | 📈 |
+| 8. Maren | — | 📈 | — | 📈 | — | ⚡ | — |
+| 9. Mother | — | — | — | — | — | 📈 | — |
+| 10. Father | — | — | — | — | — | 📈 | — |
+| 11. Ryn | — | 📈 | — | — | — | — | 📈 |
+| 12. Identity | 📈 | 📈 | ⚡ | 📈 | — | ⚡ | ⚡ |
+| 13. Davan | — | — | 📈 | — | ⚡ | — | ⚡ |
+| 14. Stewardship | — | 📈 | ⚡ | ⚡ | 📈 | — | ⚡ |
+| **Active count** | **4** | **7** | **8** | **8** | **6** | **4** | **10** |
+
+### Book Two Convergence Zone: Chapters 17–21
+
+**Avalanche pattern:** Threads collide across five chapters, building toward the resolution wave:
+
+1. **Ch17 (The Choice):** The temptation crystallizes. Thread 5 (Efficiency) presents the preservation path → intersects Thread 1 (Reservoir) and Thread 12 (Identity) — preservation of power = preservation of self. Thread 14 (Stewardship) provides the counter: Haran chose the workbench, not preservation. Thread 4 (District) — the imperfect 80% repair becomes the answer. The rejection is quiet and costly.
+
+2. **Ch18 (The Answer):** Thread 4 (District) pays off — Ryn's critique becomes method, Tesha emerges as independent builder. Thread 5 (Efficiency) finds practical application: catalytic precision, not preservation. Thread 14 (Stewardship) shifts from building FOR to building WITH. Thread 6 (Dorenne) converges — masks-down scene in the alley, mutual recognition of what's ending. Thread 8 (Maren) — her letter about Maren's leave from work. Thread 12 (Identity) begins releasing — Ash sees the district working without him and feels relief, not anxiety. The Dorenne concession sets up the Leveler vote in Ch19.
+
+3. **Ch19 (The Fracture):** Thread 3 (Levelers) converges — redistribution meets declining reality, the movement fragments. Thread 4 (District) — the organic merger of builders and former Levelers happens at street level, not by design. Thread 13 (Davan) — he watches the merger and can't join it. Thread 6 (Dorenne) — her institutional framework is being bypassed.
+
+4. **Ch20 (The Conversation):** Thread 8 (Maren) detonates — the full sibling reckoning. A lifetime of guilt and grief laid bare. Thread 12 (Identity) — both siblings' performances (his cheerfulness, her competence) revealed as survival strategies. Threads 9/10 (Parents) — present at dinner afterward, unaware of the shift. The most emotionally intense chapter in the book. Low density by design — the scene demands singular focus, with parental presence as quiet frame.
+
+5. **Ch21 (The Turn):** Interlocking convergence — threads collide within a single day rather than being inventoried sequentially. Thread 2 (Infrastructure) — rural collapses accelerating, scaling gap made concrete. Thread 6 (Dorenne) converges — institutional concession, offering resources to the building efforts. Thread 13 (Davan) converges — public speech naming Ash, rhetoric turned toward despair. Thread 4 (District) — working without Ash but can't scale fast enough. Thread 7 (Haran) — "You're not going to solve most of it." Thread 11 (Ryn) — "Like someone who's going to lose something and knows it and isn't running." Thread 1 (Reservoir) at ~18%. Thread 12 (Identity) and Thread 14 (Stewardship) — the final image: Ash walking past the chalked question *WHAT NOW?* without an answer. Density at 10 active threads — threads present through dramatized scenes, not summary.
+
+**Compression targets:** Ch17–21 should trend shorter than the book's average chapter. Ch20 is the exception — the Maren conversation earns its length through emotional density rather than thread density. Ch21 should feel pressurized: many threads colliding in real time within a single day, the reader carried forward into Book Three not by resolution but by the honest weight of unsolved problems.
+
+**Contrast with Book One's convergence zone:** Book One's avalanche (Ch18–22) was about *cracking open* — revelations that broke the fantasy. Book Two's avalanche (Ch17–21) is about *reframing* — the temptation rejected, the approach transformed, relationships laid bare. Same structural pattern, different emotional direction: Book One ended in crisis; Book Two ends darker than expected — not despair, but the honest cost of choosing to build when building might not be enough.
 
 ---
 
