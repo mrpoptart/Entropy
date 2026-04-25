@@ -40,7 +40,7 @@ A pause. The examiner's pen hovered. The woman at the far table glanced up for t
 
 "None," the examiner repeated. "No childhood emergence, no adolescent development, no—"
 
-"Nothing. I was—" Ash searched for the word they'd use, the clinical term. "Dead weight. Until three days ago."
+"Nothing. I was—" Ash searched for the word they'd use, the clinical term. "Sorry—nothing. None of the usual. Until three days ago."
 
 The examiner wrote something. His expression didn't change. He might have processed hundreds of these assessments, maybe thousands, and the bureaucratic machinery of his day might have already absorbed this anomaly and filed it alongside every other form and measurement and graduated stone in this basement room. Or he was simply good at his job.
 
@@ -200,7 +200,7 @@ She removed her hand. She removed his, gently, lifting his fingers from the ston
 
 "How do you feel?" she asked.
 
-"Fine." He was fine. The pulsing, the channeling, he'd barely felt it leave him. The reservoir behind his ribs was unchanged, the pressure no different from when he'd sat down. As if everything he'd done in this room, the broken stones, the overloaded instruments, the weight in the ceiling, had cost him nothing.
+"Fine, I think. I barely felt it. Sorry—yeah. Fine." He was fine. The pulsing, the channeling, he'd barely felt it leave him. The reservoir behind his ribs was unchanged, the pressure no different from when he'd sat down. As if everything he'd done in this room, the broken stones, the overloaded instruments, the weight in the ceiling, had cost him nothing.
 
 Nothing at all.
 
@@ -216,7 +216,7 @@ The older woman sat on the edge of the table, one hand still resting on the dark
 
 "My name is Vasra," she said. "I study channeling theory." She turned the dark stone in her fingers. "I've spent forty years measuring what people carry. The instruments in this room are calibrated for the full known range, from the weakest adolescent pool to the strongest elder reservoir on record."
 
-"I broke the instruments."
+"Sorry—I think I broke the instruments."
 
 "You exceeded them. There's a difference, though the result looks the same." She set the stone down. "The stone I used, the dark one, is not a calibration tool. It's a resonance reader. It measures depth, not intensity. How far down the energy goes."
 
@@ -244,7 +244,7 @@ Vasra watched him. Her eyes were careful, attentive, recording.
 
 "Not precisely. The calibration instruments were designed for a range that ends well below what you demonstrated today. The resonance stone suggests a reservoir that is... orders of magnitude larger than any pool on record. By a significant factor."
 
-"How significant?"
+"How—I mean. Significant how?"
 
 "I could give you an estimate that would be wrong in informative ways, or I could tell you the truth, which is that I don't have a number."
 
@@ -264,7 +264,7 @@ He waited.
 
 "But yours didn't establish at birth. It was dormant for twenty-three years and activated under extreme stress. The mechanism that created it, or unsealed it, is not the same mechanism that governs a normal pool. Whether it follows the same rules..." She spread her hands. The gesture was small and precise and contained the entire scope of her uncertainty. "We don't know."
 
-"What do you think?"
+"Sorry—but. If you had to guess. What do you think?"
 
 "I think the working assumption should be that it's a fixed reservoir. Like everyone else's, but vastly larger. The energy is there. Whether it replenishes, and at what rate, and from what source, those are questions I'll need time to answer. If I can answer them at all."
 
@@ -280,15 +280,15 @@ Vasra was watching him. He wondered what she saw, what her forty years of measur
 
 "I have more questions," she said. "Tests I'd like to run, over the coming days. Different instruments, better controlled conditions. With your permission."
 
-"Of course."
+"Yeah—of course. Whatever you need."
 
 "And I'd like to understand the activation event itself. What happened, what you felt, the sequence. In your own words, when you're ready."
 
-"I can tell you now."
+"I could—I mean, I could try now, if that's easier?"
 
 "Not today." She stood from the table. Her knees made a sound that she ignored with the practiced disregard of a woman who had been ignoring her knees for a decade. "You've been channeling for three days. You've been awake since—"
 
-"Early."
+"Early—before sunup. Sorry."
 
 "You've been awake since early. Go home. Rest. Come back tomorrow and we'll begin properly."
 
@@ -360,7 +360,7 @@ Her eyes went to the seal, then to him. Her hands rested on the desk the way the
 
 He thought about the broken stones. The cracked disc. The weight in the ceiling. The six practice stones meant for children, shattered one by one under the lightest touch he could manage. The room growing warmer with each failure. The older woman with the dark stone and the careful words and the forty years of measuring things that fit inside her instruments.
 
-"I broke everything," he said.
+"I—yeah. I broke everything, basically," he said.
 
 Something moved in Dorenne's face. Not a smile, something preceding a smile, the groundwork for one, the way a foundation precedes a building.
 
@@ -374,11 +374,11 @@ He did not mention the question. *Does it refill?* He did not mention the carefu
 
 Dorenne listened. She listened the way she listened to briefings, with the focused, organized attention of a mind that was sorting information into categories as it arrived. Resources. Constraints. Opportunities. Risk.
 
-"Vasra wants to run more tests," Ash said. "Starting tomorrow."
+"She—Vasra—wants to run some more tests, I think," Ash said. "Starting tomorrow, if that's all right."
 
 "I know. She sent word ahead." Dorenne picked up the sealed document but didn't open it. She held it the way she held everything, with the weight of assessment, the invisible ledger of usefulness. "The examiners will file their report with the Council records office by end of day. Vasra's report will come separately, through my office."
 
-"Through your office?"
+"Sorry—through your office?"
 
 "I asked her to route it that way. The Council records office is..." She chose her word. "Permeable. I'd prefer the details of your assessment to reach the Council through proper channels, at the appropriate time, with the appropriate context."
 
@@ -388,7 +388,7 @@ Ash nodded. He understood. Or he thought he understood: the language of manageme
 
 "Settled. Your mother's healing is progressing well. The bone is set. The healer I sent is elder-generation, experienced. She'll walk again within the week." Dorenne paused. "Your father has been asking about the building assessment."
 
-"The old building?"
+"The—our old building?"
 
 "He wants to know if it can be saved."
 
@@ -412,7 +412,7 @@ But Dorenne said *well*, and he suspected the meaning she carried was not the sa
 
 What he heard: you did well.
 
-"Thank you," he said. "For arranging this. For—all of it."
+"Thanks—really," he said. "For arranging this. For—all of it."
 
 "Go home, Ash."
 
