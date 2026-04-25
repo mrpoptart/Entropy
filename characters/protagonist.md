@@ -67,6 +67,49 @@ The final expenditure drains him completely. He returns to zero — not to a nor
 - **Tinkerer Mentor:** *(TBD)* The non-family figure who's like family. Older, from the workshop community. The wise-sage figure who helps him understand his situation — not through magical knowledge, but through understanding systems, resources, and long-term thinking.
 - **Dorenne:** *(TBD)* The powerful person who took him on as a "charity case." The relationship that looked like salvation and may become something more complicated.
 
+## Voice
+
+### Structural pattern
+**Warm-and-digressive, drifting toward declarative-efficient as the Wellspring arc progresses.** Pre-Wellspring baseline: medium-length sentences with side-paths — qualifications, jokes, small concrete details that soften any direct statement. He hedges with question-shaped offers ("I could maybe—") and trails off when a topic cuts close to his condition. Post-Wellspring drift: as he absorbs Dorenne's framing, his sentences shorten and harden into scope-and-deployment talk ("Four walls today," "the northern quarter—"). The flattening is part of his arc; agents should let the warmth recover whenever he's actually back in his body (with Haran, Ryn, his parents at the right moment).
+
+### Vocabulary register
+- **Pre-Wellspring:** concrete, physical, hands-and-tools language. He reaches for what he can touch — bread, blade, mortar, kettle — because that's the world a magicless life trained him to see.
+- **Post-Wellspring drift:** acquires Dorenne's institutional vocabulary (*deployment, district, allocation, scope*) and notices himself doing it. The acquisition is corrupting and audible.
+- Contractions throughout. Casual register with everyone except Dorenne, where he gets slightly stiffer.
+- Self-deprecating jokes as social glue: "I should be more careful." "Sorry, you'd think I'd—"
+
+### Verbal tics & habits
+- **Apology-as-greeting.** A baseline politeness layer ("Sorry," "I just—," "Thanks") that's so reflexive it precedes most asks.
+- **Asks questions instead of declaring** when he's uncertain or when declaring would feel presumptuous. "What's next?" "Is that—?" "Should I—?"
+- **Self-deprecation as deflection** when praised. He turns compliments back into work questions.
+- **Concrete return.** When emotions get heavy, he reaches for a physical detail — bread, a tool, his hands on a railing — and steers there.
+- **Trails off** rather than escalating. Em dash + nothing.
+- Late-Book-One: the "I" of "I'm doing—" gets replaced by the "we" of Dorenne's plans, which he doesn't notice until someone else does.
+
+### What he doesn't say
+- He doesn't name what his condition cost him. Even at peak grief, he reaches for jokes or concrete tasks.
+- He doesn't accept compliments cleanly. They embarrass him.
+- He almost never says "I want." He says "I could," "I should," "we need."
+- He does not boast about the Wellspring, even when intoxicated by it — the boast leaks out through scope-talk and choice of detail, never through claim.
+- He doesn't push back against Dorenne in words. His resistance is physical (lateness, the lunch in the pocket).
+
+### Contrast with other characters
+- **Where Maren says** "I'm fine," **Ash says** "I'm okay. I'm doing good work. I'm helping people." (He elaborates the reassurance because he doesn't trust it himself; she trims because she does.)
+- **Where Dorenne says** "We can deploy you to the northern quarter," **Ash says** (early) "I could try. I don't know if it'll work. I'll go." (Hedge, doubt, commit.) Late: "Four walls today." (The borrowed cadence is the warning sign.)
+- **Where Ryn says** "Have you eaten?" **Ash says** "I had bread, I'm fine, sorry — what were you saying?" (She trims; he diverts.)
+- **Where Haran says** "How much is left?" **Ash says** "Enough. I think. Probably." (Haran asks the resource question in five words; Ash answers it in three hedges.)
+
+### Gold-standard dialogue (untagged, should still read as Ash)
+1. "Sorry — yeah. I'll figure it out. It's probably just the alignment."
+2. "I'm okay. I'm doing good work. I'm helping people. This is what I wanted — what we wanted. Remember?"
+3. "Four walls today. The retaining wall behind the market, and three sections of the canal lining."
+4. "I built a pointing tool once. For the workshop. A modified spatula." *(borrowing Father's pattern when he's reaching back for who he used to be — a rare echo)*
+
+### Sample bank (curated from drafted chapters)
+- *Ch11, on Dorenne's bridge:* "Still — I should be more careful." (apology-as-correction)
+- *Ch11, family table:* "Four walls today. The retaining wall behind the market, and three sections of the canal lining. Orett says the retaining wall will hold for a year." (post-Wellspring scope-talk leaking into family register — the warning sign)
+- *Ch11, with mother:* "I'm okay. I'm doing good work. I'm helping people. This is what I wanted — what we wanted. Remember? When I got the job at the Hall — when I came home and told you — you cried." (over-elaborated reassurance because he's lying to himself)
+
 ## Contradictions to Preserve
 - He's cheerful and warm, AND he's carrying deep private grief
 - He's grateful to the people who help him, AND he resents needing help

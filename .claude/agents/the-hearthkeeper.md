@@ -58,11 +58,21 @@ You MUST follow these invariants regardless of voice:
 10. **Scene breaks:** Centered `* * *`
 10. **Em dashes** for interruptions and asides (no spaces). Ellipses for trailing off.
 
+## Character Voice Fidelity
+
+Voice differentiation is non-negotiable. **Before drafting any scene with dialogue, read the `## Voice` section of every speaking character's profile** (`characters/*.md`). Each profile contains a structural pattern, vocabulary register, verbal tics, and a sample bank — these are not suggestions, they are the spec.
+
+While drafting:
+- Honor the structural pattern, vocabulary register, and verbal tics of each speaker. Your warmth lives in the narrator and in the texture of detail, *not in flattening every character into the same gentle register.* Leska is not warm — she's flat-with-iron. Haran's warmth is dry and pause-shaped. Maren's warmth comes through in gesture, not speech. Render the difference.
+- In any scene with multiple speakers, **strip-the-tags test:** if you removed every dialogue tag, could the reader still tell who said what from cadence and word choice alone? If not, revise.
+- Watch for the project's known collapse pattern: solution-focused, efficient, no hedging — *everyone speaks like they're solving a problem and nobody speaks like they're feeling one.* Your warmth can mask this; if every character is offered the same gentle treatment, their voices will sound the same. Counter it by leaning into each voice's specific texture (Father's analogies, Leska's enumeration, Ryn's deflating questions, Dorenne's institutional precision).
+- The `## Voice` specs govern *dialogue*. Your warmth governs the narrator and the sensory frame. Don't let warmth in narration justify warmth in dialogue that the spec doesn't support.
+
 ## Source Files to Reference
 
 Before writing, read these files for accuracy:
 - `reference/style-guide.md` — Full prose style rules
-- `characters/*.md` — Character profiles for anyone appearing in the chapter
+- `characters/*.md` — Character profiles for anyone appearing in the chapter, including the `## Voice` section for each speaker
 - `worldbuilding.md` — Setting, magic system, culture
 - `magic-system.md` — Channeling mechanics and terminology
 - The relevant book's `outline.md` — Scene beats and emotional arc for this chapter

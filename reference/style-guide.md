@@ -147,7 +147,7 @@ The tag should tell us *how* the line is delivered when it's not obvious from co
 - Em dashes for interruptions (including self-interruptions): "I just think that maybe—"
 - Ellipses for trailing off: "I thought it would be different..."
 - Characters talk past each other. Not every question gets answered. Not every point gets addressed.
-- Each character should have a distinct speech pattern (developed further in character voice notes).
+- Each character should have a distinct speech pattern. Voice specs live in the `## Voice` section of each character profile in `characters/` — drafters MUST consult those specs before writing any character's dialogue, and reviewers check dialogue against them. Per-character voice agents (`voice-ash`, `voice-maren`, `voice-haran`, `voice-ryn`, `voice-dorenne`, `voice-leska`, `voice-father`) audit each chapter for spec drift and cross-character collapse.
 
 ### Interior Monologue
 

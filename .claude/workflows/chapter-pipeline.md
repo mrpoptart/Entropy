@@ -51,9 +51,27 @@ Invoke in this order (each is independent):
 7. **🔗 Continuity Tracker** — Facts and cross-chapter consistency
 8. **🌀 Convergence Tracker** — Thread management and avalanche pacing
 
+### 3b. Run Voice Review (Parallel Per-Character Fan-Out)
+
+Identify every speaking character in the chosen draft. For each speaking character with a dedicated voice agent, invoke that agent **in parallel** (all in a single message, multiple tool calls). Skip agents for characters who don't speak in this chapter — they have no work to do.
+
+Available per-character voice agents:
+
+- **🗣️ Voice — Ash** (`voice-ash`) — invoke whenever Ash speaks (almost always)
+- **🗣️ Voice — Maren** (`voice-maren`) — invoke when Maren speaks
+- **🗣️ Voice — Haran** (`voice-haran`) — invoke when Haran speaks
+- **🗣️ Voice — Ryn** (`voice-ryn`) — invoke when Ryn speaks
+- **🗣️ Voice — Dorenne** (`voice-dorenne`) — invoke when Dorenne speaks
+- **🗣️ Voice — Leska** (`voice-leska`) — invoke when Leska speaks
+- **🗣️ Voice — Father** (`voice-father`) — invoke when Father speaks
+
+Each per-character agent has a single job: audit *its* character's dialogue against the voice spec in the corresponding `characters/*.md` profile. Each also flags any of its character's lines that could be confused with another speaker — the **cross-character collapse check.**
+
+The fan-out pattern matches the Writers' Room: independent agents working from the same draft, in parallel, single round-trip.
+
 ### 4. Compile Feedback
 
-Combine all review feedback into a single **Revision Brief**:
+Combine all review feedback (the 8 review agents from Step 3 *plus* the per-character voice agents from Step 3b) into a single **Revision Brief**:
 
 ```markdown
 # Revision Brief — Chapter [N]
@@ -67,8 +85,18 @@ Combine all review feedback into a single **Revision Brief**:
 ## Polish Notes (nice to have)
 [Minor style refinements, missed opportunities, dialogue tweaks]
 
+## Voice Review (per-character)
+For each per-character voice agent that ran:
+- **[Character Name]:** one-paragraph summary of voice health, with line-level drift items folded into Critical/Important/Polish above.
+
+### Confirmed Cross-Character Collapse
+List every pair (A, B) where **both** A's voice agent flagged A's line as reading-like-B *and* B's voice agent independently flagged B's line as reading-like-A in the same scene. Two-sided flags are confirmed collapse and should be treated as critical.
+
+### Suspected Cross-Character Collapse
+One-sided flags — only one agent saw the overlap. These warrant a human eye but are not confirmed.
+
 ## Strengths (what's working well)
-[What each reviewer praised — important for the author to know what to preserve]
+[What each reviewer praised — important for the author to know what to preserve. Include the "Working Lines" section from each per-character voice agent.]
 ```
 
 Save this to `[book]/drafts/chapter-[NN]-revision-brief.md`.

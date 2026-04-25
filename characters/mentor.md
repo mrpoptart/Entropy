@@ -116,6 +116,48 @@ He is the **thematic opposite of Dorenne.** Both are powerful, both care about t
 
 He also embodies the **technologist** political faction — but without the ideological fervor. He's not anti-magic. He's pro-survival. He uses magic when it's practical and builds alternatives because he knows it won't always be there.
 
+## Voice
+
+### Structural pattern
+**Sideways-via-mechanism.** Haran rarely says the emotional thing directly. He says the mechanical thing, and the emotional meaning lands a beat later. His sentences tend toward medium length with a contemplative cadence — he's thinking out loud while his hands do something with a tool. He often opens with a noticing statement (*"So."* or *"Huh."* or *"That's interesting."*), then asks the question that does the real work. He teaches by handing you the problem; his dialogue mirrors that — he hands you a sentence and lets you make the connection.
+
+### Vocabulary register
+- **Workshop and materials vocabulary** as the primary lens: *load-bearing, mortar, fatigue, joint, tolerance, slack, shim, fit, set, bleed off.*
+- **Resource-and-system framing** when discussing anything finite: *pool, reservoir, draw, budget, inventory, lasting power.*
+- **Plainspoken about complex things** — he refuses jargon for its own sake. If a phrase is technical, he'll define it sideways through use, not lecture.
+- **Contractions and casualness throughout.** He's not formal. He's economical because he's old enough to find waste tedious.
+- Almost no abstract emotional vocabulary. He doesn't say *grief, fear, identity.* He says *what's it doing,* and you figure it out.
+
+### Verbal tics & habits
+- **The opening "So."** A flat, level "So." that introduces the question that matters.
+- **The Yoda question** — restating someone's situation as a resource problem to refocus them. "So. How much is left, and what do you want to build with it?"
+- **Analogy from the workbench.** Whatever's in his hands becomes the analogy for the conversation. Gears for relationships. Fatigue for grief. Shim for compromise.
+- **Patient pauses.** He doesn't fill silence. Reviewers should preserve those pauses; the silence is the character.
+- **Dry, warm humor.** Observational, not joking. He finds people genuinely amusing and lets it show as a small smile rather than a punchline.
+- **"Hm." or a single nod** as a complete response. He says less than the scene wants him to and more than the scene needs.
+- **Doesn't tell you what to do.** Asks one more question, and lets the answer arrive on its own.
+
+### What he doesn't say
+- He doesn't lecture. Ever. The moment a line of dialogue from him reads as a lesson, it's wrong.
+- He doesn't show off knowledge. He doesn't say *I told you so* — even when he could.
+- He doesn't name his own feelings. His care comes through in attention (the cleared workbench, the harder problem, the trust).
+- He doesn't push. When Ash drifts away, Haran doesn't chase — and he doesn't talk about not chasing.
+- He almost never refers to his own pool or his own past channeling. The understatement is part of the character.
+
+### Contrast with other characters
+- **Where Dorenne says** "We need to allocate the Wellspring's capacity strategically," **Haran says** "How much is left, and what do you want to build with it?" (Dorenne plans deployments; Haran asks a question that returns ownership to Ash.)
+- **Where Father says** "Like pointing. Brickwork. When the mortar degrades…" **Haran says** "The bricks aren't the problem. They never are." (Both teach through analogy; Father's analogies are about sustaining what exists, Haran's are about what fails and why. Reviewers should flag overlap — they're both analogical, but the *direction of the analogy* differs.)
+- **Where Ash says** (post-Wellspring) "Four walls today," **Haran says** "Four walls. Out of how many?" (One number versus a ratio. Haran reframes scope as a fraction — the resource question.)
+
+### Gold-standard dialogue (untagged, should still read as Haran)
+1. "So. How much is left, and what do you want to build with it?"
+2. "Huh. The handle's loose. Has been for a while. You wouldn't notice unless you were paying attention."
+3. "It's a budget, not a miracle. Pretend it's a miracle and the budget runs out faster."
+4. "You'll figure it out. You always do." *(said while not looking up from the bench — care delivered as confidence)*
+
+### Sample bank (curated from drafted chapters)
+*(To be populated as Haran's chapters are written and reviewed. Anchor target: any line where he opens with "So." or reframes a feeling as a mechanism.)*
+
 ## Contradictions to Preserve
 - He's wise and foresighted, AND he's spent thirty years being ignored — the wisdom didn't protect him from loneliness
 - He's one of the most magically powerful people Ash knows, AND he lives like he has nothing — by choice, not necessity

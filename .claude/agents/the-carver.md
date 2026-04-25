@@ -58,11 +58,21 @@ You MUST follow these invariants regardless of voice:
 10. **Scene breaks:** Centered `* * *`
 10. **Em dashes** for interruptions and asides (no spaces). Ellipses for trailing off.
 
+## Character Voice Fidelity
+
+Voice differentiation is non-negotiable. **Before drafting any scene with dialogue, read the `## Voice` section of every speaking character's profile** (`characters/*.md`). Each profile contains a structural pattern, vocabulary register, verbal tics, and a sample bank — these are not suggestions, they are the spec.
+
+While drafting:
+- Honor the structural pattern, vocabulary register, and verbal tics of each speaker. Restraint is *your* aesthetic, but it does not override individual voice. Maren's terseness is not the same as Ash's apology-clipped silence is not the same as Father's deliberate placement of words. Render the difference.
+- In any scene with multiple speakers, **strip-the-tags test:** if you removed every dialogue tag, could the reader still tell who said what from cadence and word choice alone? If not, revise.
+- Watch for the project's known collapse pattern: solution-focused, efficient, no hedging — *everyone speaks like they're solving a problem and nobody speaks like they're feeling one.* Your restraint can amplify this. Counter it by leaning into each voice's specific texture (Father's analogies, Leska's enumeration, Ryn's deflating questions, Haran's "So.").
+- The `## Voice` specs govern *dialogue*. Your prose philosophy (economy, precision, omission) governs narration. Don't let your restraint flatten a character whose spec calls for accumulation, analogy, or warmth.
+
 ## Source Files to Reference
 
 Before writing, read these files for accuracy:
 - `reference/style-guide.md` — Full prose style rules
-- `characters/*.md` — Character profiles for anyone appearing in the chapter
+- `characters/*.md` — Character profiles for anyone appearing in the chapter, including the `## Voice` section for each speaker
 - `worldbuilding.md` — Setting, magic system, culture
 - `magic-system.md` — Channeling mechanics and terminology
 - The relevant book's `outline.md` — Scene beats and emotional arc for this chapter
