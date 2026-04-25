@@ -56,6 +56,48 @@ By the end, she has found a new foundation — probably connected to the emergin
 ## Relationship to Themes
 She is Ash's thematic parallel at a different scale. He defined himself by the Wellspring. She defined herself by her channeling excellence. Both of them have to learn who they are when the thing they built on disappears. Her journey proves that Ash's experience isn't unique — it's universal. Everyone is going to go through some version of this as magic fades.
 
+## Voice
+
+### Structural pattern
+**Reductive-efficient with visible cost of control.** Short, trimmed sentences. She removes filler the way she removes effort from her channeling: precisely, without performance. Her dialogue has the cadence of someone who has decided exactly which words are necessary and refuses to waste any others. The cost shows in what's missing — the warmth that would come naturally to someone less guarded, the elaboration she could offer and chooses not to. When she does extend a sentence, it's because she's making a real point, and the extension lands harder for being rare.
+
+### Vocabulary register
+- **Precise, technical, slightly cool.** She reaches for accurate words rather than warm ones.
+- **Channeling vocabulary used casually** — she's a skilled practitioner and her speech reflects fluency: *pulse, draw, set, bleed, hold.*
+- **No softeners.** Almost no "kind of," "maybe," "I think." When she qualifies, it's because she means to.
+- **Contractions throughout** — controlled isn't formal.
+- **Dry asides instead of jokes.** Humor is observational, deadpan, often at her own expense.
+
+### Verbal tics & habits
+- **Level voice as default.** Multiple Ch. 11 lines describe her tone as *level, unsurprised, even.* Reviewers should read for that flatness — sharpness and rising heat are signs she's losing her grip.
+- **Pointed questions.** Short, surgical, hard to deflect. "Are you sleeping?" "When did you last eat?" "Are you going to tell them no?"
+- **Withholds her own answers.** When asked how she feels, she returns the question or redirects to a fact.
+- **Body-language matched to speech.** A quick pulse for tea, a precise gesture, a collar adjustment. Her hands say what she won't.
+- **The collar-fix.** Adjusting Ash's collar is her gesture for "I love you and I'm not going to say it." Repeating motif — Ryn echoes it later. Maren had it first.
+- **One-word agreements** — "Right." "Sure." "Fine." — that close conversations rather than open them.
+
+### What she doesn't say
+- She doesn't say *I'm not okay.* She doesn't say *I'm jealous.* She doesn't say *I'm scared.* The whole architecture of her voice is built on not naming her interior.
+- She doesn't ask for help directly. Ever. If she needs something, she states a fact and lets you decide ("The kitchen's almost out of bread").
+- She doesn't elaborate praise. If she says "Good," that's the ceiling.
+- She doesn't issue ultimatums. She tells you what she's seeing and lets the implication land.
+
+### Contrast with other characters
+- **Where Ash says** "I'm okay. I'm doing good work. I'm helping people…" **Maren says** "Are you sleeping?" (He performs reassurance; she runs diagnostics. If their lines could be swapped, the scene has collapsed.)
+- **Where Dorenne says** "He's doing extraordinary work in the northern quarter," **Maren says** "Twenty-three years, and there were none." (Dorenne narrates impact at scale; Maren names a specific, painful fact that recontextualizes everything. Both are precise; Dorenne's precision is institutional, Maren's is personal.)
+- **Where Ryn says** "That's not you. I know you," **Maren says** nothing — she fixes his collar. (Both are truth-tellers; Ryn uses words, Maren uses gesture. Their dialogue should never sound like Ryn's, and reviewers should flag overlap.)
+
+### Gold-standard dialogue (untagged, should still read as Maren)
+1. "Are you sleeping?"
+2. "I'm used to being the Torren who channels. Now I'm the Torren who's related to the Torren who channels."
+3. "Twenty-three years, and there were none."
+4. "Right." *(closing a conversation she doesn't want to have)*
+
+### Sample bank (curated from drafted chapters)
+- *Ch11, hallway:* "Ash." (Level. Unsurprised. The whole character is in two syllables.)
+- *Ch11, "Twenty-three years, and there were none."* — the deeper cut, delivered flat, no escalation.
+- *Ch11, body work:* "a quick pulse, economical, the heat going precisely into the liquid and nowhere else." — narration, but it tells reviewers what *her dialogue should sound like too.*
+
 ## Contradictions to Preserve
 - She's competent and strong, AND she's terrified of failure because she's never practiced it
 - She loves her brother fiercely, AND she carries guilt she's never examined

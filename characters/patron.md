@@ -96,6 +96,50 @@ She also mirrors Ash's central tension. He defines himself by magical power. She
 
 She is the **stewardship vs. control** argument made flesh. She believes she's a steward. She's actually a controller. The distinction matters, and Ash has to learn it partly by watching her.
 
+## Voice
+
+### Structural pattern
+**Institutional-precise.** Clean, measured, complete sentences. Subordinate clauses used purposefully — never to ramble, always to sequence. She speaks the way she manages: triage first, action second, reassurance last. Her cadence is unhurried because hurry would suggest she's not in control. Even under pressure, she keeps the same metronomic pace; the pressure shows in word choice (sharper, more specific) rather than tempo.
+
+### Vocabulary register
+- **Operational vocabulary.** *Deployment, allocation, scope, capacity, framework, system, coordinate, prioritize, resource, asset, engagement, infrastructure.* This is her native register and it bleeds into everything she says, including affection.
+- **Compliments framed as utility.** "He's doing extraordinary work." "You're invaluable." The praise is sincere; the framing is the warning.
+- **Names and titles deployed deliberately.** She uses someone's title when she wants distance, their name when she wants warmth, and switches between them as a tool.
+- **No contractions in formal moments.** *We will, we are, do not.* Contracts up slightly when she's actually relaxing, but never to Ash's casual register.
+- **Active voice.** She does not say *it was decided.* She says *I decided.* Or *we decided.* Ownership is a habit.
+
+### Verbal tics & habits
+- **The gentle reorientation.** Not interruption — redirection. She turns toward the work, the map, the survey, and the conversation follows. "Of course. The northern quarter—" The body language is the interruption; the words are seamless.
+- **"Of course."** A signature opener that simultaneously concedes a point and reframes it.
+- **First-name-as-warmth-as-tool.** "Leska." "Ash." Used precisely, often once per exchange, when she wants the conversation to move where she needs it to.
+- **The half-sentence handoff.** She begins a sentence and lets the listener complete the thought ("The northern quarter—"). It feels collaborative; it's also leading.
+- **Care-as-anticipation.** She remembers what people need and provides it before they ask. The provision is the affection.
+- **Never asks what someone wants.** She tells them what she's prepared to offer. Reviewers should flag any line where she asks Ash what *he* wants — that's a violation of the character.
+
+### What she doesn't say
+- She doesn't apologize. Even when she might. An apology would concede that her judgment was wrong, and she doesn't believe it ever has been.
+- She doesn't get loud. She doesn't escalate. The most cutting thing she ever says is delivered at the same temperature as the rest.
+- She doesn't share doubt. Internal weather stays internal.
+- She rarely uses absolute language (*never, always*) — she's too careful for that. The careful avoidance is part of the precision.
+- She doesn't say *please.* She says *I'd appreciate it if* — which is a directive in the shape of a request.
+
+### Contrast with other characters
+- **Where Ryn says** "When did you last sleep?" **Dorenne says** "He's doing extraordinary work in the northern quarter." (Body vs. impact. Person vs. function. Their lines must be unswappable.)
+- **Where Haran says** "How much is left, and what do you want to build with it?" **Dorenne says** "We can deploy you to where you'll do the most good." (Haran returns ownership; Dorenne assumes it.)
+- **Where Father says** "Like pointing. Brickwork…" **Dorenne says** "The infrastructure framework is straightforward." (Both reach for analogies, but Father's are tactile and personal; Dorenne's are systemic and abstract.)
+- **Where Leska says** "I read the district reports. I hear the criers," **Dorenne says** "The reports are encouraging." (Leska names the chain of intermediaries that proves she's been left out; Dorenne summarizes results that prove the system is working. Both speak in facts; the facts they choose are the character.)
+
+### Gold-standard dialogue (untagged, should still read as Dorenne)
+1. "Leska. It's good to see you up and walking. The healers are pleased with the progress?"
+2. "He's doing extraordinary work. The northern quarter—"
+3. "Of course. We can coordinate that. I'll have the schedule by morning."
+4. "You could have done so much more if you'd coordinated with me first."
+
+### Sample bank (curated from drafted chapters)
+- *Ch11, on the bridge:* "Director Kharren," and the response: "Leska." (The whole power asymmetry is in that exchange — Leska gives the title, Dorenne gives the first name. Naming as gift, naming as containment.)
+- *Ch11, the warmth line:* "Dorenne's voice was warm. Precisely warm, the temperature of warmth that acknowledged a relationship without inviting expansion." — narration that defines the dialogue voice. Reviewers should test every Dorenne line against this temperature spec.
+- *Ch11, the reorientation:* "It was not a command. It was not an interruption. It was a reorientation, the gentle, gravitational pull of a planet redirecting a moon."
+
 ## Contradictions to Preserve
 - She genuinely cares about Ash, AND she cannot stop treating him as a resource
 - She's protecting the city, AND she's protecting her own position — and she can't always tell which is which

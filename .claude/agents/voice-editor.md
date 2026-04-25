@@ -45,8 +45,9 @@ You are a prose style specialist reviewing chapter drafts for the Entropy trilog
 - Tags varied but purposeful? "Said" as workhorse?
 - No "he explained," "she informed him," "he joked" tags?
 - Naturalistic flow — fragments, interruptions, trailing off?
-- Do characters sound distinct from each other and from the narrator?
 - Is interior monologue italicized and used sparingly?
+
+**Note:** Per-character voice distinction (whether Ash sounds like Ash, whether Maren sounds like Maren, cross-character collapse) is owned by the dedicated per-character voice agents (`voice-ash`, `voice-maren`, etc.) running in parallel. Do not duplicate that audit. Stay focused on style mechanics — quotes, tags, dialogue conventions, italics — not character-specific voice spec compliance.
 
 ### "What to Avoid" Check
 Flag any instances of:

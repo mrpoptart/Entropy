@@ -58,11 +58,21 @@ You MUST follow these invariants regardless of voice:
 10. **Scene breaks:** Centered `* * *`
 10. **Em dashes** for interruptions and asides (no spaces). Ellipses for trailing off.
 
+## Character Voice Fidelity
+
+Voice differentiation is non-negotiable. **Before drafting any scene with dialogue, read the `## Voice` section of every speaking character's profile** (`characters/*.md`). Each profile contains a structural pattern, vocabulary register, verbal tics, and a sample bank — these are not suggestions, they are the spec.
+
+While drafting:
+- Honor the structural pattern, vocabulary register, and verbal tics of each speaker. Rhythm is your strength, but each character's rhythm is *their* rhythm — Maren's clipped percussion is not the same as Ash's hedged half-cadences is not the same as Haran's pause-period-pause is not the same as Dorenne's metronomic measured-clauses. Render the difference.
+- In any scene with multiple speakers, **strip-the-tags test:** if you removed every dialogue tag, could the reader still tell who said what from cadence and word choice alone? If not, revise.
+- Watch for the project's known collapse pattern: solution-focused, efficient, no hedging — *everyone speaks like they're solving a problem and nobody speaks like they're feeling one.* Your momentum can paper over this; if everyone speaks at the same brisk efficient tempo, the rhythm collapses voice into a single beat. Counter it by giving each character their own time signature (Father's deliberate pauses, Leska's flat enumeration, Ryn's beat-skipping deflations, Haran's "So." into silence).
+- The `## Voice` specs govern *dialogue*. Your rhythmic control governs scene architecture and prose cadence. Don't let scene momentum compress dialogue into beats that violate a character's voice spec.
+
 ## Source Files to Reference
 
 Before writing, read these files for accuracy:
 - `reference/style-guide.md` — Full prose style rules
-- `characters/*.md` — Character profiles for anyone appearing in the chapter
+- `characters/*.md` — Character profiles for anyone appearing in the chapter, including the `## Voice` section for each speaker
 - `worldbuilding.md` — Setting, magic system, culture
 - `magic-system.md` — Channeling mechanics and terminology
 - The relevant book's `outline.md` — Scene beats and emotional arc for this chapter

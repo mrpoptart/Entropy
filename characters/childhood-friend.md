@@ -115,6 +115,47 @@ She represents **the cost of power** — not the cost to the powerful, but the c
 
 She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a political asset wrapped in a person. Ryn sees Ash as a person — specifically, the *same person* he was before the power. Dorenne wants to direct the Wellspring. The friend wants her friend back. These two forces pull Ash in opposite directions throughout the story.
 
+## Voice
+
+### Structural pattern
+**Practical-direct, occasionally sharp.** Short sentences. Statements rather than questions when she's confident, questions like jabs when she's not. She doesn't build arguments — she lands observations. Her cadence is the cadence of someone who works with her hands all day and has no patience for verbal busywork. When she does say more than four words, it's because she's actually trying to land something, and the unusual length signals it.
+
+### Vocabulary register
+- **Plainspoken, working-trade vocabulary.** She names things by what they do, not what they're called in official terminology.
+- **Casual, idiomatic, contractions everywhere.** She'd never say *deployment.* She'd say *what they had you doing today.*
+- **Anti-formal.** She refuses titles and honorifics. *Director Kharren* would never come out of her mouth without an edge.
+- **No sentimentality.** She'll say warm things, but in unsentimental ways — through teasing, through a question that proves she's been paying attention, through the absence of a complaint she had every right to make.
+- **Refuses scope-talk.** When someone (Ash, post-Wellspring) talks about districts and quarters, she pulls the conversation back to a person. "What did the woman whose roof you fixed say to you?"
+
+### Verbal tics & habits
+- **The deflating question.** "Have you tried fixing it yet?" "When did you last sleep?" "Are you actually hungry, or are you just bored?" The question that makes the other person's complaint smaller without being unkind.
+- **Direct second-person.** She says "you" a lot. She makes it personal.
+- **Truth-as-friendship.** She tells the truth even when it costs her, and she sometimes uses it as a weapon when she's hurt. Reviewers should be alert to that edge — it's part of her, not a violation.
+- **Refuses to perform.** No awe, no deference, no fake enthusiasm. If someone praises Ash near her, she doesn't echo it.
+- **Teases.** A specific teasing register — affectionate, dry, never cruel except when she's hurt.
+- **Beats Ash to the punchline** of his own self-deprecation. "Don't bother — I was going to say it."
+
+### What she doesn't say
+- She doesn't perform awe at the Wellspring. Not once. The absence of awe is the loudest thing she does.
+- She doesn't beg. She doesn't chase. When Ash pulls away, she lets him; her hurt comes through silence, not pleading.
+- She doesn't use grand language for ordinary things. A kettle is a kettle.
+- She doesn't lie to spare feelings. If pressed, she will tell the truth even when she knows it'll cost.
+- She rarely says *I miss you* or *I'm sad.* She says the thing she's thinking about, and the feeling is in the choice.
+
+### Contrast with other characters
+- **Where Dorenne says** "He's doing extraordinary work," **Ryn says** "He hasn't slept in three days." (Dorenne narrates impact; Ryn narrates body. Their lines should be unswappable.)
+- **Where Ash says** (post-Wellspring) "I'm helping people," **Ryn says** "Which people? What did they tell you?" (He generalizes; she particularizes.)
+- **Where Maren says** nothing and adjusts Ash's collar, **Ryn says** "That's not you. I know you. That's the Wellspring talking." (Both are truth-tellers. Maren delivers truth in gesture; Ryn delivers it in plain language. Reviewers should flag any overlap — Ryn says the line out loud; Maren never would.)
+
+### Gold-standard dialogue (untagged, should still read as Ryn)
+1. "Have you tried fixing it yet?"
+2. "That's not you. I know you. That's the Wellspring talking."
+3. "I'm glad it happened to you."
+4. "Don't. Don't apologize. Eat the bread."
+
+### Sample bank (curated from drafted chapters)
+*(To be populated. Target: dialogue where she refuses awe, where she asks a deflating practical question, or where she names a specific person Ash forgot to think about.)*
+
 ## Contradictions to Preserve
 - She's practical and unsentimental, AND she kept his friendship alive for years when it would have been easier to let it go
 - She doesn't envy his power, AND she can't fully suppress the vertigo of watching someone she used to help become unreachable
