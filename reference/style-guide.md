@@ -115,6 +115,80 @@ These moments are earned by pages of grounded writing. They mark turning points,
 
 ---
 
+## Show Don't Tell — Pattern Taxonomy
+
+Telling intrudes in four recognizable patterns. All four share the same root impulse: the narrator stepping in front of the scene to interpret it rather than trusting the scene to speak.
+
+### Pattern 1: Abstract Behavior Description
+
+The prose describes the *nature* of an action instead of performing it. Steps back and editorializes on what a character is doing rather than showing what they are actually doing.
+
+**Tell:**
+> He'd been watching the way you watched when watching was your only tool.
+
+**Show:**
+> He'd noticed things, that second week. Which aides arrived early. Which ones checked the door. Where Dorenne's hands were when she listened — still when she agreed, moving when she didn't.
+
+The fix: replace the abstract summary with the specific observations themselves.
+
+---
+
+### Pattern 2: State Declarations
+
+Labeling an internal state — emotion, disposition, quality — instead of rendering it through behavior, sensation, or action.
+
+**Tell:**
+> He was nervous. She was angry. He felt out of place.
+
+**Show:**
+> He straightened the jar of pens on his desk. Straightened it again.
+
+The fix: find the physical behavior the state would produce. Show that instead.
+
+---
+
+### Pattern 3: Appositive Editorializing
+
+The narrator reaches into the scene to interpret something the scene could convey itself. Often introduced by *which*, *that*, *the kind of*, or *the sort of*.
+
+**Tell:**
+> Her voice did not carry, which was worse.
+> The kind of volume that came from years of speaking in rooms where everyone else was paid to listen.
+
+**Show:**
+> Her voice did not carry. Aldren had to lean forward.
+
+The fix: cut the interpretation. Let the scene action carry the meaning. If the meaning isn't legible without the editorial, the scene detail needs to be stronger — not the annotation.
+
+---
+
+### Pattern 4: Passive Voice as Distance
+
+Passive constructions often signal the prose pulling away from a concrete agent doing a concrete thing — structurally the same impulse as telling. The passive voice removes the actor and makes things happen *to* the world rather than *in* it.
+
+**Tell (passive):**
+> The allocation had been approved three months ago.
+> Channelers had been redirected to the emergency.
+> He was not praised for it.
+
+**Show (active):**
+> The Council had approved it three months ago.
+> Dorenne had redirected the channelers.
+> Nobody praised him for it.
+
+Active constructions force a subject — someone doing something — which naturally produces concrete, scene-grounded prose. When passive voice clusters, it's often a sign the scene needs to be dramatized rather than summarized.
+
+---
+
+### Quick Diagnostic
+
+When revising a sentence or paragraph, ask:
+- **Who is doing what?** If the answer is vague or absent, it's likely passive or abstract telling.
+- **What would a camera see?** If the prose describes something a camera can't capture (an internal state, a meta-quality, a category of behavior), it's telling.
+- **Is this the narrator's conclusion or the reader's?** If the prose is announcing a conclusion the scene should produce naturally, cut the announcement and strengthen the scene detail.
+
+---
+
 ## Dialogue
 
 ### Quotation Style
