@@ -356,7 +356,7 @@ He entered and placed the sealed document on her desk.
 
 Her eyes went to the seal, then to him. Her hands rested on the desk the way they always rested, precise, composed, the controlled stillness of a woman who measured everything and showed very little.
 
-"How was it?" she asked.
+"Walk me through it," she said.
 
 He thought about the broken stones. The cracked disc. The weight in the ceiling. The six practice stones meant for children, shattered one by one under the lightest touch he could manage. The room growing warmer with each failure. The older woman with the dark stone and the careful words and the forty years of measuring things that fit inside her instruments.
 
@@ -380,7 +380,7 @@ Dorenne listened. She listened the way she listened to briefings, with the focus
 
 "Sorry, through your office?"
 
-"I asked her to route it that way. The Council records office is..." She chose her word. "Permeable. I'd prefer the details of your assessment to reach the Council through proper channels, at the appropriate time, with the appropriate context."
+"I asked her to route it that way. The Council records office is..." She chose her word. "Permeable. I would prefer the details of your assessment to reach the Council through proper channels, at the appropriate time, with the appropriate context."
 
 Ash nodded. He understood. Or he thought he understood: the language of management, the grammar of institutional control. Dorenne was protecting him. Protecting the information. Making sure the story was told correctly before it could be told any other way.
 
@@ -390,13 +390,13 @@ Ash nodded. He understood. Or he thought he understood: the language of manageme
 
 "The... our old building?"
 
-"He wants to know if it can be saved."
+"Whether it can be saved. He would like an answer."
 
 Ash thought about the fifth floor. The blown-out wall. The ceiling open to the sky. The stove buried under stone.
 
 "Can it?"
 
-"Structurally, the damage is limited to your apartment and the adjacent units. The foundation reinforcement the team completed is holding. The building itself is sound." She set the document down. "But the political calculation has changed. A building that was a routine maintenance case is now the site where a Wellspring activated. The Council will want—" She stopped herself. Recalculated. "We'll discuss it later. You should rest."
+"Structurally, the damage is limited to your apartment and the adjacent units. The foundation reinforcement the team completed is holding. The building itself is sound." She set the document down. "But the political calculation has changed. A building that was a routine maintenance case is now the site where a Wellspring activated. The Council will want..." She stopped herself. Recalculated. "We will discuss it later. You should rest."
 
 "Vasra said the same thing."
 
