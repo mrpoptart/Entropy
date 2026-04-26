@@ -92,7 +92,7 @@ He picked up the valve. He spread a thin film of compound on the face. He placed
 
 And then he pushed.
 
-Not much. He hadn't intended to push at all—he'd intended to rotate the valve the way he'd always rotated it, with the even, gentle, exploratory pressure of his fingertips. But the reservoir was there, behind everything, pressing gently against the inside of his hands the way water pressed against a dike, and when his fingers touched the valve and the surface resistance of the housing came back through his grip, the power leaned into it.
+Not much. He hadn't intended to push at all. He'd intended to rotate the valve the way he'd always rotated it, with the even, gentle, exploratory pressure of his fingertips. But the reservoir was there, behind everything, pressing gently against the inside of his hands the way water pressed against a dike, and when his fingers touched the valve and the surface resistance of the housing came back through his grip, the power leaned into it.
 
 He felt the valve shift under more force than he'd meant to apply. He pulled back. Tried again. Lighter this time, a conscious, deliberate effort to keep his hands ahead of the reservoir, to work purely in the mechanical register, fingers only, no channeling. He rotated the valve one careful quarter-turn.
 
@@ -134,11 +134,11 @@ They moved the way hands moved after decades of the same motion. Not mechanical.
 
 Three rotations. Four. He lifted the valve and looked at the contact pattern. Nodded once. Applied more compound. Seated it again.
 
-The workshop's sounds continued. Davel's file. The lathe's idle clatter. Haran's hands, moving in the same patient circle. Ash stood beside the bench and watched and felt the afternoon light across his back and the warmth of the workshop against his arms and the reservoir, humming—patient, enormous, and for the moment, completely useless.
+The workshop's sounds continued. Davel's file. The lathe's idle clatter. Haran's hands, moving in the same patient circle. Ash stood beside the bench and watched and felt the afternoon light across his back and the warmth of the workshop against his arms and the reservoir, humming, patient, enormous, and for the moment, completely useless.
 
 Haran completed the calibration in about eight minutes. The valve seat, when he lifted it for the last time, showed a contact pattern that was even across the full face of the taper: grey compound spread uniformly, no heavy spots, no gaps, the brass telling the story of a surface that had met its mate correctly. He set the valve on the bench with a small, conclusive sound.
 
-"How did you do it?" Ash said. "The pressure. I couldn't keep the channeling from—"
+"How did you do it?" Ash said. "The pressure. I couldn't keep the channeling from..."
 
 "I wasn't channeling."
 
@@ -146,7 +146,7 @@ Ash looked at him.
 
 "For this?" Haran said. "Not useful." He turned the valve in his hands. "I know how to do this with my hands. So I do it with my hands. The pool stays where it is."
 
-Ash was quiet for a moment. Then: "I thought—" He stopped. Started again. "I assumed you were using it. For the detail work. For the feel."
+Ash was quiet for a moment. Then: "I thought..." He stopped. Started again. "I assumed you were using it. For the detail work. For the feel."
 
 "The feel is in my hands." Haran set the valve down. "Has been since before you were born."
 
@@ -162,7 +162,7 @@ After a while, Haran said: "Try it again. The small stuff. But smaller."
 
 Ash looked at him.
 
-"The force applications. There's a technique: micro-pulses. Tiny inputs. Surgical." He picked up a small brass test piece, set it on the bench between them. "Heat the center. Not the whole thing. Just—" he tapped a finger against the brass, at its exact center "—there."
+"The force applications. There's a technique: micro-pulses. Tiny inputs. Surgical." He picked up a small brass test piece, set it on the bench between them. "Heat the center. Not the whole thing. Just..." he tapped a finger against the brass, at its exact center "...there."
 
 Ash placed a finger against the test piece. He thought: *small*. He thought: *less*. He pushed.
 
@@ -172,9 +172,9 @@ He pulled his hand back.
 
 "Again," Haran said. No impatience in it.
 
-Again. The reservoir, when Ash reached for it, came in volumes. Even the smallest reach was still an ocean pouring through a crack in a dam—not the surgical thread Haran was describing, but something that spread and filled and exceeded the container.
+Again. The reservoir, when Ash reached for it, came in volumes. Even the smallest reach was still an ocean pouring through a crack in a dam, not the surgical thread Haran was describing, but something that spread and filled and exceeded the container.
 
-"I can't—" Ash started.
+"I can't..." Ash started.
 
 "You can." Haran picked up the test piece, now cooled, and set it in his own palm. He extended his hand toward Ash. "Watch."
 
@@ -188,11 +188,11 @@ After a moment, Haran turned the test piece over and set it on the bench.
 
 "The valve work," he said. "When you calibrated it by hand, before. What were you feeling for?"
 
-Ash thought. "Back-pressure. The taper seating. There's a specific resistance when it's right—you can feel the whole load through the stem."
+Ash thought. "Back-pressure. The taper seating. There's a specific resistance when it's right, you can feel the whole load through the stem."
 
 "What else?"
 
-"Temperature. The brass warms slightly when the seat makes full contact—friction from the lapping. You feel for the point where the warmth stops increasing."
+"Temperature. The brass warms slightly when the seat makes full contact, friction from the lapping. You feel for the point where the warmth stops increasing."
 
 Haran's hand rested on the bench. "And your hands felt that."
 
@@ -214,11 +214,11 @@ He pulled his hand back.
 
 The afternoon lengthened. Petra finished her component and left, raising a hand to Ash as she went, easy and natural, the gesture of a colleague. Davel moved from the window bench to the lathe and began setting up a cut. The workshop's sounds changed register: the lathe's higher voice, the chip tray catching metal, the smell of cutting fluid added to the existing workshop smell.
 
-Ash worked with his hands. He held components. He measured. He fetched from the rack when Haran needed something and put back what Haran was done with. He did not channel. The pump progressed slowly, as the pump would always progress slowly—there was no rushing the calibrations, no skipping the steps, and Haran didn't attempt to rush them. This was not urgency. This was work.
+Ash worked with his hands. He held components. He measured. He fetched from the rack when Haran needed something and put back what Haran was done with. He did not channel. The pump progressed slowly, as the pump would always progress slowly, there was no rushing the calibrations, no skipping the steps, and Haran didn't attempt to rush them. This was not urgency. This was work.
 
 After a while, Ash found himself watching Haran. Not the pump, but the man. The way he moved around the bench. The small, unremarkable gestures that populated the space between tasks: the hand that reached out and touched the workshop wall as he passed, the heat that bloomed briefly under his palm and then settled, not heating the whole wall, just taking the edge off the stone's cold where he'd been standing. A lamp in the corner had dimmed as the afternoon shifted; Haran passed it on his way to the storage rack and brushed the base with two fingers. The wick brightened.
 
-And then the fitting that Ash had fused at the outlet flange—Haran's hand passed near it as he reached for a tool, and Ash saw the old man's fingers pause a fraction of an inch from the brass, not touching, just—registering. Reading.
+And then the fitting that Ash had fused at the outlet flange, Haran's hand passed near it as he reached for a tool, and Ash saw the old man's fingers pause a fraction of an inch from the brass, not touching, just, registering. Reading.
 
 The small gestures accumulated.
 
@@ -226,11 +226,11 @@ The small gestures accumulated.
 
 Ash had been watching Haran for years. He had assumed, without examining the assumption, the way you didn't examine the furniture in a room you'd lived in since childhood, that the warmth Haran kept in the workshop was modest because modest was all he had. That the lamp trick was a small habit. That the casual applications were what he could afford, scattered across a working day to make it comfortable.
 
-He turned and looked at the workshop. Really looked—at the even warmth that had nothing to do with the small stove in the corner, which hadn't been lit in hours. At the steady lamp Haran had brightened in passing. At the way the air moved, slightly, as if the workshop were breathing in some comfortable rhythm that had nothing to do with the door Ash had come through.
+He turned and looked at the workshop. Really looked, at the even warmth that had nothing to do with the small stove in the corner, which hadn't been lit in hours. At the steady lamp Haran had brightened in passing. At the way the air moved, slightly, as if the workshop were breathing in some comfortable rhythm that had nothing to do with the door Ash had come through.
 
 None of it was large. All of it was constant.
 
-He thought about the test piece—the thumbnail of heat in its exact center, the micro-pulse that appeared and vanished and appeared again with the unhurried rhythm of breathing. He thought about Haran's hand on the valve seat, the eight minutes and the even contact pattern and *for this? Not useful.* He thought about the lamp and the wall and the fitting and the decades between them.
+He thought about the test piece, the thumbnail of heat in its exact center, the micro-pulse that appeared and vanished and appeared again with the unhurried rhythm of breathing. He thought about Haran's hand on the valve seat, the eight minutes and the even contact pattern and *for this? Not useful.* He thought about the lamp and the wall and the fitting and the decades between them.
 
 *He's not doing a little. He's doing everything at the smallest possible scale.*
 
@@ -244,7 +244,7 @@ Haran was fitting a spring into the pump's pressure chamber. His hands were unhu
 
 The old man's face did something, small, almost nothing, the shift of a man recognizing that something he'd kept quiet for a long time had been seen. Not quite a smile. The quality that a smile might be made from. His eyes held warmth and distance in the same moment, the expression of someone who had been waiting, without urgency, to be correctly understood.
 
-He looked back down at the spring. His thumb tested the compression again. He nodded once—to himself, or to the spring, or to the afternoon—and picked up the retaining clip that would hold it in place.
+He looked back down at the spring. His thumb tested the compression again. He nodded once, to himself, or to the spring, or to the afternoon, and picked up the retaining clip that would hold it in place.
 
 Ash turned back to the bench. His hands found the component Haran would need next, the outlet valve body, waiting on the rack. He fetched it. He set it where Haran could reach it.
 
@@ -268,7 +268,7 @@ Done. Real. Each of it useful in the moment.
 
 "Residents are managing. Two taps from the terrace, bucket brigades, the neighbors sharing." He didn't make it sound like heroism. Just logistics. "They've been doing it for six weeks. A few more won't break them."
 
-Ash thought about offering to accelerate the work. About the hours this pump would take versus what he could do in an afternoon if he stopped being careful—if he shaped the housing and sealed the joints and set the valves with the Wellspring instead of with hands and compound and a bending jig. The pump would be done tomorrow. Running by the day after.
+Ash thought about offering to accelerate the work. About the hours this pump would take versus what he could do in an afternoon if he stopped being careful, if he shaped the housing and sealed the joints and set the valves with the Wellspring instead of with hands and compound and a bending jig. The pump would be done tomorrow. Running by the day after.
 
 He didn't say it. He put his arms through the coat.
 
@@ -302,9 +302,9 @@ He walked. The flagstone that always tipped was three steps from the door, and h
 
 *Remember what the answer is.*
 
-He thought about the lamp in the workshop corner—the warm, even light that Haran had brightened in passing, two fingers on the base, nothing more. He thought about the thumbnail of heat in the center of the test piece, precise and costing what it cost and no more. He thought about eight minutes and a valve seat and the contact pattern that told the truth about pressure and patience and a lifetime of working with your hands.
+He thought about the lamp in the workshop corner, the warm, even light that Haran had brightened in passing, two fingers on the base, nothing more. He thought about the thumbnail of heat in the center of the test piece, precise and costing what it cost and no more. He thought about eight minutes and a valve seat and the contact pattern that told the truth about pressure and patience and a lifetime of working with your hands.
 
-He kept walking. The street opened into a broader way, the terrace where the workshop sat giving way to the cross-route that ran toward the Third Terrace lifts, and the crowd thickened: people heading home, a produce cart blocking the corner, a knot of children playing some game in the angle of a building. He moved through them, and a few people glanced at him with that particular attention he'd been learning to expect—not yet familiar, still startling each time.
+He kept walking. The street opened into a broader way, the terrace where the workshop sat giving way to the cross-route that ran toward the Third Terrace lifts, and the crowd thickened: people heading home, a produce cart blocking the corner, a knot of children playing some game in the angle of a building. He moved through them, and a few people glanced at him with that particular attention he'd been learning to expect, not yet familiar, still startling each time.
 
 His hand found the gear casing in his coat pocket, cracked along the hub, scrap, worthless. He'd dropped it in without thinking, a piece from the practice pile. His thumb traced the crack.
 

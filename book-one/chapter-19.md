@@ -26,7 +26,7 @@ But the days after. The testing period, when Dorenne's examiners had brought him
 
 He'd laughed. The examiner, a thin woman with an elder's pool and a master's precision, had not laughed. She'd looked at her broken instruments and then at him and then at the cracked granite and said, very quietly, "We're going to need a bigger plate."
 
-The waste from that session. He tried to remember. The room had been warm when they started—normal warm, the ambient temperature of a channeled building in early autumn. By the time they finished, the examiners had opened the windows and the stone floor was hot enough to feel through boot leather. All of that heat was waste. Energy that left his reservoir, passed through his body, missed the target, and bled into the air and stone and walls. Running hot, as channelers said. He'd been running hot for hours.
+The waste from that session. He tried to remember. The room had been warm when they started, normal warm, the ambient temperature of a channeled building in early autumn. By the time they finished, the examiners had opened the windows and the stone floor was hot enough to feel through boot leather. All of that heat was waste. Energy that left his reservoir, passed through his body, missed the target, and bled into the air and stone and walls. Running hot, as channelers said. He'd been running hot for hours.
 
 He wrote the first number on the blank paper. An estimate, rough, conservative. The assessment session: three hours of continuous channeling at untrained efficiency. At that level, maybe one unit in five reached the target. The rest was waste heat. If the useful output had been (he thought about the cracked granite, the broken instruments, the way the examiners had revised their estimates upward three times) maybe twenty elder-days' worth of useful work, generously. At twenty percent efficiency, that meant he'd spent a hundred elder-days' worth. A hundred days of a master elder's full output, gone in an afternoon of testing.
 
@@ -34,7 +34,7 @@ He stared at the number. It looked small on the page. It was more than any livin
 
 The next days. The training period, two weeks of guided practice under the examiners' supervision, learning the fundamentals that every child learned by age seven. How to direct the flow. How to control the output. How to push energy into a specific target rather than flooding everything around it. He'd improved fast; his mind was good at this, at optimizing, at finding the efficient path through a system. But fast was relative. A child learning to channel wasted a few days' worth over the course of a year. Ash, learning with a Wellspring, wasted more in an hour than most people spent in a month.
 
-He calculated the training period line by line. Day one: terrible efficiency, flooding everything, the practice room so warm the examiners took shifts. Maybe thirty elder-days spent for six elder-days of useful work. Day two: slightly better. Day three: better still. By the end of the first week, he was channeling at something like basic competence—forty percent of his output reaching the target, sixty percent lost as heat. By the end of the second week, approaching competent. Sixty percent. Still wasting almost half of everything he spent.
+He calculated the training period line by line. Day one: terrible efficiency, flooding everything, the practice room so warm the examiners took shifts. Maybe thirty elder-days spent for six elder-days of useful work. Day two: slightly better. Day three: better still. By the end of the first week, he was channeling at something like basic competence, forty percent of his output reaching the target, sixty percent lost as heat. By the end of the second week, approaching competent. Sixty percent. Still wasting almost half of everything he spent.
 
 He wrote the numbers. Added them. The training period alone: roughly four hundred elder-days. The examiners' daily pool, combined, was maybe two and a half days' worth. He'd burned through the equivalent of 400 elder-days learning what children learned while playing.
 
@@ -46,7 +46,7 @@ The first deployments.
 
 Dorenne had sent him out within days of the training period ending. The need was real; the city's infrastructure was failing faster than the maintenance crews could patch it, and here was a resource that could do in minutes what took teams of channelers days. She'd started him on water systems. Junction repairs, pipe reinforcements, the mechanical work of keeping a city's circulation moving.
 
-He remembered the first deployment. A water junction in the Thornwall district, where three pipes converged at a channeled stone manifold that had been weakening for years. The maintenance crew had been nursing it with daily patches—a morning's worth of reinforcement from two middle-generation channelers who spent their morning pools just to keep the junction from splitting. He'd walked in, knelt, pressed his palms to the stone, and reinforced the entire manifold in ten minutes. The crew chief had stared. One of the channelers, a woman in her thirties, tired-eyed, her hands chapped from the daily contact with cold stone, had turned away and left without speaking.
+He remembered the first deployment. A water junction in the Thornwall district, where three pipes converged at a channeled stone manifold that had been weakening for years. The maintenance crew had been nursing it with daily patches, a morning's worth of reinforcement from two middle-generation channelers who spent their morning pools just to keep the junction from splitting. He'd walked in, knelt, pressed his palms to the stone, and reinforced the entire manifold in ten minutes. The crew chief had stared. One of the channelers, a woman in her thirties, tired-eyed, her hands chapped from the daily contact with cold stone, had turned away and left without speaking.
 
 He hadn't understood that, at the time. The turning away. He understood it better now.
 
@@ -82,17 +82,17 @@ He spread Dorenne's crew chief reports across the desk. They'd tracked him durin
 
 She'd been counting. All this time, she'd been counting.
 
-Day one of the earthquake. The initial response—stabilizing buildings in the upper districts, where the oldest and most channeling-dependent structures had cracked first. He'd moved from building to building with a crew of six, pressing his hands to foundations and walls and load-bearing columns, channeling reinforcement into stone that was shaking itself to dust. Six hours of continuous work. The crew chief's report noted the duration and the number of structures stabilized: fourteen buildings, three retaining walls, a bridge support that had cracked along its full span.
+Day one of the earthquake. The initial response, stabilizing buildings in the upper districts, where the oldest and most channeling-dependent structures had cracked first. He'd moved from building to building with a crew of six, pressing his hands to foundations and walls and load-bearing columns, channeling reinforcement into stone that was shaking itself to dust. Six hours of continuous work. The crew chief's report noted the duration and the number of structures stabilized: fourteen buildings, three retaining walls, a bridge support that had cracked along its full span.
 
 He tried to estimate the cost. Each building stabilization during active seismic stress, not routine reinforcement but counter-vibration work, damping the shaking at the point of contact while simultaneously reinforcing the structure's integrity. The output cost for a single building: maybe fifty elder-days minimum. More for the larger structures. The retaining walls: a hundred to two hundred each. The bridge: somewhere in between.
 
-At his efficiency during the earthquake—which had been worse than his training baseline, because precision collapsed when you were channeling at maximum output for hours, because fear and exhaustion degraded control the way they degraded everything—maybe fifty percent. Maybe less. He'd been flooding. He knew that. The reports noted the thermal bleed: ambient temperatures around his work sites had risen by fifteen degrees. The stone he knelt on blistered his knees through his trousers.
+At his efficiency during the earthquake, which had been worse than his training baseline, because precision collapsed when you were channeling at maximum output for hours, because fear and exhaustion degraded control the way they degraded everything, maybe fifty percent. Maybe less. He'd been flooding. He knew that. The reports noted the thermal bleed: ambient temperatures around his work sites had risen by fifteen degrees. The stone he knelt on blistered his knees through his trousers.
 
 Day one alone: he wrote the number and it was larger than the entire first deployment phase. A thousand elder-days or more, spent in six hours. The reservoir had given it without complaint, had poured and poured, and he'd felt nothing but the work, the effort, the necessity. He hadn't known to feel anything else. You didn't check the level of the ocean while you were trying to keep people from drowning in it.
 
 Day two. Worse. The aftershocks were stronger than the initial event, unusual, the geologists had said, but then everything about the earthquake was unusual, the weakened Kharren Fault reinforcements failing in ways the ancient channelers had never anticipated because the ancient channelers had never imagined a world where their work wouldn't be maintained. He'd moved to the lower districts. The dam. The retaining walls that held the hillside above four thousand homes. The transit shafts that carried water and waste and people through the city's bones.
 
-The dam alone. He closed his eyes and felt the memory of it—his body pressed flat against the face of the dam wall, both palms spread, the reservoir emptying through him in a sustained torrent of force that sealed a fracture running the wall's full height. Hours. He didn't know how many. The crew chief's report said four. It had felt like days.
+The dam alone. He closed his eyes and felt the memory of it, his body pressed flat against the face of the dam wall, both palms spread, the reservoir emptying through him in a sustained torrent of force that sealed a fracture running the wall's full height. Hours. He didn't know how many. The crew chief's report said four. It had felt like days.
 
 The dam: five hundred elder-days of output. Maybe more. At degraded efficiency (forty percent by then, he was sure of it, running so hot that the mist off the reservoir face was turning to steam where it touched the stone around him) that meant over a thousand elder-days spent. Three years of a master elder's full output. From a single act of repair.
 
@@ -100,7 +100,7 @@ Day three. Day four. The aftershocks diminishing but the structural damage compo
 
 He calculated day by day. The numbers climbed. Each one a building held, a wall sealed, a fracture stopped. Each one a life or a hundred lives or a thousand, the arithmetic of heroism tallied in the same column as the arithmetic of loss.
 
-When he added the earthquake response—all four days, all the deployments, all the damage stabilized and all the energy bled as heat into the stones of Solathis—the number sat on the paper and looked back at him with the blank face of a fact.
+When he added the earthquake response, all four days, all the deployments, all the damage stabilized and all the energy bled as heat into the stones of Solathis, the number sat on the paper and looked back at him with the blank face of a fact.
 
 Roughly two thousand elder-days. More than five years of a master elder's full output. Close to forty percent of the Wellspring's total capacity, spent in four days of holding up a city.
 
@@ -108,7 +108,7 @@ His hand was shaking. He set the pencil down again and watched it shake, a fine 
 
 *Twenty million.*
 
-He hadn't known. He hadn't checked. He hadn't wanted to know, because knowing would have changed what he did during those days, and what he did during those days was the right thing. Every building he held, every wall he sealed, every life behind those walls—he would do it again. He would do all of it again, every drop, every hour of flooding heat and cracking stone. There was no version of this where he looked at the number and wished he'd spent less. The people were alive. The district stood. The dam held.
+He hadn't known. He hadn't checked. He hadn't wanted to know, because knowing would have changed what he did during those days, and what he did during those days was the right thing. Every building he held, every wall he sealed, every life behind those walls, he would do it again. He would do all of it again, every drop, every hour of flooding heat and cracking stone. There was no version of this where he looked at the number and wished he'd spent less. The people were alive. The district stood. The dam held.
 
 But the reservoir felt bottomless because he'd never bothered to check. And now he'd checked.
 
@@ -150,7 +150,7 @@ Total: ~3,000 elder-days
 
 *No.*
 
-He went back through the early numbers. The training period—had he really spent four hundred elder-days? He reconstructed it day by day. The first days were the worst: massive waste, untrained flooding, the practice room turned into an oven. But the later days were better. The curve was steep. He revised downward: three hundred, maybe. The first deployments—he cross-referenced with Dorenne's records, her staff's careful estimates. Their numbers were slightly lower than his for the routine work, slightly higher for the complex structural jobs. He split the difference. Five hundred and fifty.
+He went back through the early numbers. The training period, had he really spent four hundred elder-days? He reconstructed it day by day. The first days were the worst: massive waste, untrained flooding, the practice room turned into an oven. But the later days were better. The curve was steep. He revised downward: three hundred, maybe. The first deployments, he cross-referenced with Dorenne's records, her staff's careful estimates. Their numbers were slightly lower than his for the routine work, slightly higher for the complex structural jobs. He split the difference. Five hundred and fifty.
 
 The reconstruction phase. Three weeks of steady work, improved efficiency, but more sites per day. Dorenne's cumulative total, the number circled at the bottom of the attachment, covered weeks one through six. He'd been working for three weeks since the earthquake. Her number was three hundred and eighty elder-days for the reconstruction alone.
 
@@ -186,7 +186,7 @@ And before that, the assessment session itself. A hundred elder-days spent provi
 
 Four hundred elder-days of waste. Out of roughly five thousand total. Eight percent of everything he would ever have, gone in the first week because he was a novice with an ocean and nobody had taught him how to use a cup.
 
-*If I'd been trained first. If someone had—*
+*If I'd been trained first. If someone had,*
 
 But who? Who would have trained him? No one had ever been a Wellspring before. The examiners had tested him with elder-grade instruments because they didn't have anything larger. The training program was improvised from first principles by people who'd never seen a reservoir that didn't refill every night. There was no curriculum for this. There was no precedent.
 
@@ -234,7 +234,7 @@ At an expanded rate, six to ten sites per day, the pace Dorenne's forward-planni
 
 Eleven weeks.
 
-He felt it in his stomach—a dropping sensation, physical, as if the floor had shifted. Not the reservoir. Not the edges. His body, responding to a number the way bodies responded to a fall, with the sudden absence of ground.
+He felt it in his stomach, a dropping sensation, physical, as if the floor had shifted. Not the reservoir. Not the edges. His body, responding to a number the way bodies responded to a fall, with the sudden absence of ground.
 
 Even at improved efficiency (say he reached master level, ninety percent, which would take years of practice he didn't have) the savings were meaningful but not transformative. Master efficiency meant spending roughly fifteen percent less for the same output. Eleven weeks became thirteen. Eighteen became twenty-one. Haran's technique, the micro-pulses, the precision that made force look like patience, could change the math. He'd tried it once, in the water conduit that morning, and the pulse had come through too wide before he'd even finished forming it. Even if he mastered it tomorrow, even if every deployment became a whisper instead of a flood, the extension was weeks. Not months. Not years. Weeks.
 
@@ -255,7 +255,7 @@ He drew a box around the range. The box was small. It fit neatly on the page, a 
 
 He sat with it. The reservoir was there, warm in his chest, present, familiar. He reached for it the way he always did, the unconscious check, the reassurance. It was still vast. Still more than anyone alive had ever held. Still enormous by any measure except the one on the paper in front of him.
 
-But the paper was the measure that mattered. Not the feeling—the math.
+But the paper was the measure that mattered. Not the feeling, the math.
 
 * * *
 
@@ -263,7 +263,7 @@ He should have stopped there.
 
 The calculation was done. The number was found. The box on the page held the answer, neat and final, and there was nothing left to add that would change the shape of it. He should have folded the papers, blown out the candle, lain down on the cot, and tried to sleep. That was the reasonable thing. The manageable thing.
 
-But his mind was the mind it had always been—the mind that saw systems and followed them, that pulled threads and couldn't stop pulling until the whole weave was visible. The mind that Dorenne had hired for its ability to see patterns in infrastructure reports, to find the fracture line in a building before it cracked. The mind that Haran had trained, without either of them knowing it, in the long afternoons of the workshop where every mechanism was a system and every system had a logic and every logic could be followed to its conclusion.
+But his mind was the mind it had always been, the mind that saw systems and followed them, that pulled threads and couldn't stop pulling until the whole weave was visible. The mind that Dorenne had hired for its ability to see patterns in infrastructure reports, to find the fracture line in a building before it cracked. The mind that Haran had trained, without either of them knowing it, in the long afternoons of the workshop where every mechanism was a system and every system had a logic and every logic could be followed to its conclusion.
 
 The mind wouldn't stop.
 
@@ -271,7 +271,7 @@ He turned to a fresh sheet. Wrote at the top, in smaller letters, as if the smal
 
 THE WORLD.
 
-The planetary reservoir. The source of all magic, declining across generations, measurable in the weakening pools of each successive generation born. He'd known this his whole life; everyone knew it, the way everyone knew that winter was cold and the mountains were tall. The decline was a fact of the world, debated in its particulars but undeniable in its trend. Elders who could reshape a room. Middle generation who rationed every task. Young adults who chose between heating and working. Adolescents who could barely light a lamp. The numbers falling like steps on a staircase, each generation lower than the last, and at the bottom of the stairs—
+The planetary reservoir. The source of all magic, declining across generations, measurable in the weakening pools of each successive generation born. He'd known this his whole life; everyone knew it, the way everyone knew that winter was cold and the mountains were tall. The decline was a fact of the world, debated in its particulars but undeniable in its trend. Elders who could reshape a room. Middle generation who rationed every task. Young adults who chose between heating and working. Adolescents who could barely light a lamp. The numbers falling like steps on a staircase, each generation lower than the last, and at the bottom of the stairs.
 
 Nobody talked about what was at the bottom of the stairs.
 
@@ -295,17 +295,17 @@ He traced the trajectory forward. The adolescents of today, the children growing
 
 And their children. A flicker. A pool that could accomplish almost nothing: a warm handshake, a lit match, the faintest glow in the dark before it went out.
 
-And after that—
+And after that.
 
 He put the pencil down.
 
-The world's reservoir was doing what his reservoir was doing. Draining. Not in weeks but in generations, not catastrophically but steadily, the long slow exhalation of a planet letting go of something it had held for eons. The staircase had a bottom. Everyone knew the staircase had a bottom. Nobody looked at the bottom because looking at the bottom meant accepting that the world they lived in—the world built on magic, shaped by magic, dependent on magic for every warmth and light and healing and connection—was a world with an expiration.
+The world's reservoir was doing what his reservoir was doing. Draining. Not in weeks but in generations, not catastrophically but steadily, the long slow exhalation of a planet letting go of something it had held for eons. The staircase had a bottom. Everyone knew the staircase had a bottom. Nobody looked at the bottom because looking at the bottom meant accepting that the world they lived in, the world built on magic, shaped by magic, dependent on magic for every warmth and light and healing and connection, was a world with an expiration.
 
 He was the staircase, compressed. His reservoir was the planetary reservoir in miniature, a finite deposit, drawn down by use, declining toward zero. He was going where the world was going. The only difference was speed.
 
 He'd arrive first.
 
-The thought should have been terrifying. It was—but underneath the terror was something else, something harder to name. Recognition. The sense of a pattern completing itself, a shape he should have seen weeks ago, months ago, the day the Wellspring cracked open inside him. He was the world in small. The world was him in slow. The same math, the same decline, the same trajectory from abundance to scarcity to—
+The thought should have been terrifying. It was, but underneath the terror was something else, something harder to name. Recognition. The sense of a pattern completing itself, a shape he should have seen weeks ago, months ago, the day the Wellspring cracked open inside him. He was the world in small. The world was him in slow. The same math, the same decline, the same trajectory from abundance to scarcity to.
 
 He reached for the reservoir. Felt it. Warm. Present. Finite.
 
@@ -333,7 +333,7 @@ Projected loss of functional viability: 15-20 years, if the pattern holds
 
 He looked at the number and the pencil was still in his hand and his hand was still steady and the candle was still burning and the room was still cold and Maren was somewhere in the middle districts right now, covering a maintenance shift for a crew that was shorthanded, spending her small and precise and diminishing pool on work that used to take half the effort.
 
-Fifteen to twenty years. That was her number. Not eighteen weeks—eighteen years, maybe fifteen, the time it would take for her pool to decline to the point where the skilled work she'd built her life around became impossible. The healing, or the infrastructure maintenance, or whatever she did with her days, the work that demanded a certain minimum output, below which the channeler simply couldn't perform. She'd reach that threshold. Every young channeler would reach it. The only question was when.
+Fifteen to twenty years. That was her number. Not eighteen weeks, eighteen years, maybe fifteen, the time it would take for her pool to decline to the point where the skilled work she'd built her life around became impossible. The healing, or the infrastructure maintenance, or whatever she did with her days, the work that demanded a certain minimum output, below which the channeler simply couldn't perform. She'd reach that threshold. Every young channeler would reach it. The only question was when.
 
 She'd been living with this math her whole life.
 
@@ -341,13 +341,13 @@ He stood up. Sat down. Stood up again. Walked to the window and back. The quarte
 
 She'd never had the luxury of thinking the well was infinite.
 
-Every morning of her life, Maren had woken up with barely enough in her pool for a day's honest work. Every morning, she'd calculated—not consciously, not with paper and pencil, but with the bone-deep awareness of a person who'd grown up inside constraints. Can I heat the water and still have enough for work? Can I take the extra shift and still channel for dinner? Can I heal this, fix this, warm this, do this—and still have something left for tomorrow, and the day after, and the year after that?
+Every morning of her life, Maren had woken up with barely enough in her pool for a day's honest work. Every morning, she'd calculated, not consciously, not with paper and pencil, but with the bone-deep awareness of a person who'd grown up inside constraints. Can I heat the water and still have enough for work? Can I take the extra shift and still channel for dinner? Can I heal this, fix this, warm this, do this, and still have something left for tomorrow, and the day after, and the year after that?
 
 He'd never done that calculation. Not when he was poolless (there was nothing to calculate) and not after the Wellspring, when the reservoir seemed infinite. He'd gone from nothing to everything without ever passing through the territory of *enough*, the territory where Maren had lived every day of her life.
 
 And now she was watching that territory shrink.
 
-He thought of her at the kitchen table, years ago, twelve, thirteen, the age when the pool settled into its adult range and you knew what you'd have to work with. He remembered her face the day the school assessment came back. She'd read the number and folded the paper and put it in her pocket and set the table for dinner. She hadn't mentioned it. Their mother had asked, and Maren had said "fine," and the conversation had moved on to Ash—to his lack of a pool, to the latest specialist their mother had found, to the ongoing project of understanding what was wrong with her son.
+He thought of her at the kitchen table, years ago, twelve, thirteen, the age when the pool settled into its adult range and you knew what you'd have to work with. He remembered her face the day the school assessment came back. She'd read the number and folded the paper and put it in her pocket and set the table for dinner. She hadn't mentioned it. Their mother had asked, and Maren had said "fine," and the conversation had moved on to Ash, to his lack of a pool, to the latest specialist their mother had found, to the ongoing project of understanding what was wrong with her son.
 
 What had Maren's number been? He didn't know. She'd never told him. She'd folded the paper and put it away and become, over the following years, the most disciplined channeler he'd ever seen, getting more out of her pool than anyone, squeezing every fraction, making sufficiency look like abundance through sheer technique and will. She'd become exceptional because she couldn't afford not to be. Because the number on the folded paper in her pocket was lower than she wanted, and she'd decided, at twelve or thirteen, that she would make up the difference with skill.
 
@@ -369,7 +369,7 @@ He was the world in small. The world was him in slow.
 
 The candle had burned to a stub. The flame was low, a blue flicker barely clearing the rim of the holder, the last of the tallow pooling around the wick. He watched it. The flame leaned, straightened, leaned again. The draft from the window touched it and it shivered.
 
-He didn't replace it. He sat in the dimming light and looked at his numbers and thought about his sister, out there in the city, channeling with her precise and careful hands, spending what she had because the work needed doing and she had always been the one who did the work. She'd never mentioned the cost. She'd never drawn a box around her range. She'd just lived inside it—quiet, disciplined, finite—and he'd never noticed because he'd been too busy counting his own coins.
+He didn't replace it. He sat in the dimming light and looked at his numbers and thought about his sister, out there in the city, channeling with her precise and careful hands, spending what she had because the work needed doing and she had always been the one who did the work. She'd never mentioned the cost. She'd never drawn a box around her range. She'd just lived inside it, quiet, disciplined, finite, and he'd never noticed because he'd been too busy counting his own coins.
 
 The flame went out.
 
