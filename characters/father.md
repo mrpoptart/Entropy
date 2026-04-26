@@ -1,6 +1,6 @@
 # The Father
 
-**Father** *(personal name not yet established — flag for the outline when first used in dialogue. Surname: **Torren**, per Maren's "I'm used to being the Torren who channels.")*
+**Rendell Torren.** Established in chapter 7 ("I can see the step, Rendell." Leska, in the new flat). Surname **Torren** per Maren's "I'm used to being the Torren who channels."
 
 ## Basics
 - **Age:** Late 40s to mid 50s
