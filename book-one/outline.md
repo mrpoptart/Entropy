@@ -273,7 +273,7 @@ Ash, meanwhile, is channeling at home — small things, testing, playing. He tri
 
 He does this repeatedly — breaks small household systems with too much force, and his sister or the building's maintenance workers repair the damage. Each repair is minor. The pattern is not.
 
-**Establish:** The material dimension of the drift — new things replacing old things, new neighborhood replacing old community. Ash's good intentions creating distance. Maren as the invisible repair crew — competent, essential, unseen.
+**Establish:** The material dimension of the drift, new things replacing old things, new neighborhood replacing old community. Ash's good intentions creating distance. Maren as the invisible repair crew, competent, essential, unseen. Father's given name, **Rendell**, is established for the first time in this chapter ("I can see the step, Rendell." Leska, in the new flat).
 
 **Emotional beat:** Ash sees only improvement. The reader sees what's being lost. The mother keeping the old kettle is the image that should stick.
 
@@ -658,7 +658,7 @@ He doesn't know yet. But he's in the right place to start.
 | **Haran** | Steady presence → teacher → abandoned → returned to | Demonstrated the philosophy that will save the city; asked the question that reframes everything |
 | **Maren** | Competent sibling → destabilized | Surface intact, ground shifting underneath |
 | **The Mother** | Fierce protector → purposeless | Identity crisis; son doesn't need saving anymore |
-| **The Father** | Quiet pride → quiet fear | Loves his son; fears the son before power is forgotten |
+| **Rendell Torren** (Father) | Quiet pride → quiet fear | Loves his son; fears the son before power is forgotten |
 | **Childhood Friend** | Warm → honest → shut out | The distance is real and unresolved |
 
 ## Seeds Planted for Book Two
