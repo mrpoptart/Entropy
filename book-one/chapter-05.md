@@ -38,9 +38,9 @@ He gave it. The examiner noted it without reaction.
 
 A pause. The examiner's pen hovered. The woman at the far table glanced up for the first time, a quick, assessing look that took in Ash's frame, his age, his hands resting on his knees in the too-small chair. She went back to her ledger.
 
-"None," the examiner repeated. "No childhood emergence, no adolescent development, no—"
+"None," the examiner repeated. "No childhood emergence, no adolescent development, no..."
 
-"Nothing. I was—" Ash searched for the word they'd use, the clinical term. "Sorry, nothing. None of the usual. Until three days ago."
+"Nothing. I was..." Ash searched for the word they'd use, the clinical term. "Sorry, nothing. None of the usual. Until three days ago."
 
 The examiner wrote something. His expression didn't change. He might have processed hundreds of these assessments, maybe thousands, and the bureaucratic machinery of his day might have already absorbed this anomaly and filed it alongside every other form and measurement and graduated stone in this basement room. Or he was simply good at his job.
 
@@ -156,7 +156,7 @@ He worked through all six. Each one broke. The last one, the most sensitive in t
 
 The room was warm enough now that the thin-faced examiner had removed his jacket. The younger examiner's forehead was sheened with sweat. The waste heat from Ash's channeling, the enormous inefficiency of a man who had no training, no control, no framework for modulating the force that moved through him, had raised the temperature of the sealed basement room by several degrees. The stone walls themselves held the heat, absorbing what his body radiated with each failed attempt at gentleness.
 
-"I'm sorry about the—" Ash gestured at the debris. Broken stones, a cracked disc, a dented basin, a weight embedded in the ceiling. The room looked like something had happened in it, which was accurate but insufficient.
+"I'm sorry about the..." Ash gestured at the debris. Broken stones, a cracked disc, a dented basin, a weight embedded in the ceiling. The room looked like something had happened in it, which was accurate but insufficient.
 
 "It's fine," the thin-faced examiner said. He'd given up writing. His pen rested on the clipboard and his hands rested on the pen and his expression had settled into something that wasn't boredom anymore but wasn't panic either: the institutional middle ground of a man encountering something his training had not prepared him for and deciding, professionally, to wait for someone whose training had.
 
@@ -166,7 +166,7 @@ The grey-haired woman came back. Behind her, moving with the deliberate pace of 
 
 She stopped inside the doorway. Her gaze moved across the room: the broken stones, the cracked disc, the basin lid still in place, the weight in the ceiling, and something shifted behind her expression. Not surprise. Recalculation.
 
-"This is the—" the grey-haired examiner began.
+"This is the..." the grey-haired examiner began.
 
 "I can see." The older woman crossed to Ash's chair and looked down at him. "Stand up, please."
 
@@ -240,41 +240,27 @@ The word landed in the room and stayed there. It had weight. It had shape. It fe
 
 Vasra watched him. Her eyes were careful, attentive, recording.
 
-"Can you tell me how much?" he asked. "How much I—how much there is?"
+"Can you tell me how much?" he asked. "How much I, how much there is?"
 
 "Not precisely. The calibration instruments were designed for a range that ends well below what you demonstrated today. The resonance stone suggests a reservoir that is... orders of magnitude larger than any pool on record. By a significant factor."
 
 "How... I mean. Significant how?"
 
-"I could give you an estimate that would be wrong in informative ways, or I could tell you the truth, which is that I don't have a number."
+"I could give you an estimate that would be wrong in informative ways, or I could tell you the truth, which is that I don't have a number." She turned the dark stone in her fingers, slowly, as if it might give up another reading if she was patient enough. "I have measured every reservoir I could find access to in this city for forty years. Elders. The strongest of the strongest. Channelers the Council brings in for ceremonial work. I have a sense of the upper edge of what a person can carry. You are not at that edge. You are somewhere I do not have a frame for yet."
 
 He sat with that. The chair was still too small. He shifted his weight and the wood creaked under him, the same creak as his stool in Haran's workshop, his body in a seat designed for someone else.
 
-"Is it..." He stopped. The question formed and reformed in his mouth, each version inadequate. "Does it refill? Like a pool? Will it—is there more, in the morning?"
+"So it's a lot," he said.
 
-Vasra's expression didn't change. But something behind it did: a stillness, a careful arrangement of features that he recognized from Dorenne's office. The face of a person deciding how much truth was appropriate.
-
-"The honest answer," she said, "is that we don't know."
-
-He waited.
-
-"Every pool replenishes during sleep. The connection establishes at birth, determines your daily capacity. That's how it works for everyone."
-
-"But?"
-
-"But yours didn't establish at birth. It was dormant for twenty-three years and activated under extreme stress. The mechanism that created it, or unsealed it, is not the same mechanism that governs a normal pool. Whether it follows the same rules..." She spread her hands. The gesture was small and precise and contained the entire scope of her uncertainty. "We don't know."
-
-"Sorry. But. If you had to guess. What do you think?"
-
-"I think the working assumption should be that it's a fixed reservoir. Like everyone else's, but vastly larger. The energy is there. Whether it replenishes, and at what rate, and from what source, those are questions I'll need time to answer. If I can answer them at all."
+"Yes." She allowed herself the smallest of smiles, the kind that arrived against the will of a face trained out of them. "It is a lot."
 
 *Vastly larger.*
 
 The words settled into him. They joined the pressure behind his ribs, the weight of the thing he carried, the ocean that pressed against the inside of his skin. Vastly larger. Orders of magnitude. A reservoir so deep that the instruments couldn't find the bottom and the stones couldn't hold the light.
 
-The other words, *fixed*, *working assumption*, *if I can answer them*, were there too. He heard them. They registered. But they registered the way a buoy registers in an ocean: present, visible, too small to change the shape of the water.
+*Somewhere I do not have a frame for yet.*
 
-The ocean didn't need a bottom.
+The phrase ran through him a second time, then a third. He noticed his hands had unfolded on his knees. He noticed the warmth in his chest that wasn't the reservoir, was something else, something that had been a long time arriving and was, finally, here.
 
 Vasra was watching him. He wondered what she saw, what her forty years of measuring people told her about the expression on his face, the set of his shoulders, the way his hands rested on his knees with a stillness that felt, for the first time in three days, like something other than restraint.
 
@@ -286,7 +272,7 @@ Vasra was watching him. He wondered what she saw, what her forty years of measur
 
 "I could... I mean, I could try now, if that's easier?"
 
-"Not today." She stood from the table. Her knees made a sound that she ignored with the practiced disregard of a woman who had been ignoring her knees for a decade. "You've been channeling for three days. You've been awake since—"
+"Not today." She stood from the table. Her knees made a sound that she ignored with the practiced disregard of a woman who had been ignoring her knees for a decade. "You've been channeling for three days. You've been awake since..."
 
 "Early, before sunup. Sorry."
 
@@ -298,7 +284,7 @@ She crossed to the door, then stopped. She looked back at him, still in the too-
 
 "Yes?"
 
-"The word I used, *wellspring*. I chose it because it's accurate. A deep source that feeds from below." She paused. The pause held something careful, not hesitation but precision. "But springs, in nature, are not infinite. They draw from aquifers. Aquifers draw from rainfall. There is always a source, and the source is always finite." Her eyes held his.
+"I have spent forty years measuring what people carry. I expected to spend the rest of my work at the same scale." She paused. The pause held something careful, not hesitation but precision. "Thank you for being interesting."
 
 She left. The door closed. The room was quiet, the flat, dense quiet of a basement sealed in stone, the kind of silence that had mass.
 
@@ -370,7 +356,7 @@ So he told her. The calibration stone cracking. The field test pegging at maximu
 
 He told her about the efficiency. The waste heat. Almost all of the energy bleeding uselessly into the air. He told her this because it felt like a flaw, a thing to fix, and Dorenne understood fixing things.
 
-He did not mention the question. *Does it refill?* He did not mention the careful non-answer, the honest uncertainty.
+He told her Vasra's words. *Orders of magnitude. Somewhere I do not have a frame for yet.* He repeated the phrases without quite intending to, the way a man newly given an inheritance repeats the sum aloud to make it real.
 
 Dorenne listened. She listened the way she listened to briefings, with the focused, organized attention of a mind that was sorting information into categories as it arrived. Resources. Constraints. Opportunities. Risk.
 
@@ -384,7 +370,7 @@ Dorenne listened. She listened the way she listened to briefings, with the focus
 
 Ash nodded. He understood. Or he thought he understood: the language of management, the grammar of institutional control. Dorenne was protecting him. Protecting the information. Making sure the story was told correctly before it could be told any other way.
 
-"The temporary housing," he said. "My parents—"
+"The temporary housing," he said. "My parents..."
 
 "Settled. Your mother's healing is progressing well. The bone is set. The healer I sent is elder-generation, experienced. She'll walk again within the week." Dorenne paused. "Your father has been asking about the building assessment."
 
@@ -412,7 +398,7 @@ But Dorenne said *well*, and he suspected the meaning she carried was not the sa
 
 What he heard: you did well.
 
-"Thanks, really," he said. "For arranging this. For—all of it."
+"Thanks, really," he said. "For arranging this. For, all of it."
 
 "Go home, Ash."
 
@@ -424,7 +410,7 @@ He took the ramp down. Forty flights. His legs carried him and the pressure behi
 
 The late afternoon light met him at the building's entrance. Solathis spread before him, the terraces descending toward the gorge, the cracked paving of the lower districts catching the low sun. Somewhere below, in the temporary housing Dorenne had arranged, his mother was healing and his father was asking about a building and his sister was doing whatever Maren did with the things she couldn't say.
 
-And somewhere inside him—behind his ribs, beneath his skin, deeper than any stone could measure—the ocean sat. Patient. Full. Unmoved by a morning of broken instruments and careful questions and the honest uncertainty of a woman who didn't know if it would last.
+And somewhere inside him, behind his ribs, beneath his skin, deeper than any stone could measure, the ocean sat. Patient. Full. Larger than the morning had managed to spend. Larger than anything in the basement had been built to hold.
 
 He held it the way his mother held the old kettle she'd packed from the apartment, without looking at it, without explaining, without admitting that the holding was a kind of prayer.
 

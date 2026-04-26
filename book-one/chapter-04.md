@@ -194,9 +194,9 @@ The channelers felt it first. Sorren's head snapped up. Her hands stayed on the 
 
 "Stop," she said. Her voice carried down the stairwell, sharp and flat. "Everyone stop."
 
-The groaning deepened. Ash felt it in his feet. In the bones of his legs, transmitted through the stone stairs. The sound of a building that had held its balance for decades—its internal stresses knotted into an equilibrium that no one fully understood, finding that equilibrium disturbed.
+The groaning deepened. Ash felt it in his feet. In the bones of his legs, transmitted through the stone stairs. The sound of a building that had held its balance for decades, its internal stresses knotted into an equilibrium that no one fully understood, finding that equilibrium disturbed.
 
-"The load paths are rerouting," Sorren said. He could hear her through the open stairwell, her voice controlled but edged. "The column reinforcement shifted the stress distribution. It's moving into the east wall—the east wall can't take it."
+"The load paths are rerouting," Sorren said. He could hear her through the open stairwell, her voice controlled but edged. "The column reinforcement shifted the stress distribution. It's moving into the east wall, the east wall can't take it."
 
 A crack split the plaster above Ash's head. He looked up. The crack raced from the corner of the ceiling to the center of the stairwell wall, fast, like something alive, and plaster dust fell in a curtain that whitened his hair and shoulders.
 
@@ -208,7 +208,7 @@ He took the stairs. Three at a time. His body knew this staircase: every riser, 
 
 Third floor. The crack from the stairwell had continued here; it ran across the landing wall and disappeared into the Merrat apartment's doorframe. The heating lattice interface, the dead one, had fallen from the wall and shattered on the floor. He didn't stop.
 
-Fourth floor. Fifth. The door to his parents' apartment was open. His father was in the hallway, one arm around Maren, pulling her toward the door. Maren was resisting, not pulling away from him, but turned, her body angled back toward the bedroom, toward—
+Fourth floor. Fifth. The door to his parents' apartment was open. His father was in the hallway, one arm around Maren, pulling her toward the door. Maren was resisting, not pulling away from him, but turned, her body angled back toward the bedroom, toward.
 
 His mother.
 
@@ -216,7 +216,7 @@ The bedroom ceiling had come down. Not all of it. A section, a beam and the ston
 
 "Ash." His father's voice. "Get her out."
 
-He was already there. He dropped to his knees beside her, his hands finding the edge of the beam where it rested on the rubble. His mother looked up at him and her eyes were wide and bright and steady—not panicking, not surrendering, the eyes of a woman who had spent her life solving problems one pool at a time and who expected her son to solve this one too.
+He was already there. He dropped to his knees beside her, his hands finding the edge of the beam where it rested on the rubble. His mother looked up at him and her eyes were wide and bright and steady, not panicking, not surrendering, the eyes of a woman who had spent her life solving problems one pool at a time and who expected her son to solve this one too.
 
 "I'm here, Mum."
 
@@ -238,7 +238,7 @@ The building groaned again. A new crack opened in the apartment wall, running fr
 
 Maren was beside him.
 
-She hadn't left. She was on her knees on the other side of the beam, her palms flat against the stone, her eyes closed. Channeling. He could see it in her: the stillness, the focused compression of a body directing everything it had into a single point of contact. Her hands shook. Her jaw was clenched so tight the muscles stood out in her neck. She was pushing everything she had into the beam, trying to lift it or shift the weight or do anything—anything at all—and the beam barely trembled under her hands.
+She hadn't left. She was on her knees on the other side of the beam, her palms flat against the stone, her eyes closed. Channeling. He could see it in her: the stillness, the focused compression of a body directing everything it had into a single point of contact. Her hands shook. Her jaw was clenched so tight the muscles stood out in her neck. She was pushing everything she had into the beam, trying to lift it or shift the weight or do anything, anything at all, and the beam barely trembled under her hands.
 
 Everything she had, and the beam barely trembled.
 
@@ -250,29 +250,29 @@ And Ash looked back at her and he knew.
 
 He was what he had always been. The person who couldn't help when it mattered most.
 
-His hands were on the stone. His muscles were failing. His mother was underneath him, looking up at him with eyes that had never once—not once in twenty-three years—looked at him with disappointment, and the building was coming apart around them, and he could not move the beam.
+His hands were on the stone. His muscles were failing. His mother was underneath him, looking up at him with eyes that had never once, not once in twenty-three years, looked at him with disappointment, and the building was coming apart around them, and he could not move the beam.
 
-He pushed. Not because he thought it would work. Because there was nothing else. Because his hands were on the stone and his mother was underneath and his sister was watching and the only thing left was the motion itself—the same motion he'd been making his whole life, the pushing against things that wouldn't move, the effort without result, the trying as its own purpose.
+He pushed. Not because he thought it would work. Because there was nothing else. Because his hands were on the stone and his mother was underneath and his sister was watching and the only thing left was the motion itself, the same motion he'd been making his whole life, the pushing against things that wouldn't move, the effort without result, the trying as its own purpose.
 
 He pushed, and something cracked.
 
 Not the stone. Not the building.
 
-Inside. Deep inside, in a place he didn't have a name for—a place that had been sealed so long he'd mistaken the seal for the wall, the wall for the absence, the absence for who he was.
+Inside. Deep inside, in a place he didn't have a name for, a place that had been sealed so long he'd mistaken the seal for the wall, the wall for the absence, the absence for who he was.
 
 It opened.
 
-The sensation came through his hands first. Heat—but not heat, not exactly. Pressure. A current, vast and sudden, like a river breaking through a dam that had held so long everyone had forgotten the river was there. It moved through his arms and into his palms and through his palms into the stone and the stone—
+The sensation came through his hands first. Heat, but not heat, not exactly. Pressure. A current, vast and sudden, like a river breaking through a dam that had held so long everyone had forgotten the river was there. It moved through his arms and into his palms and through his palms into the stone and the stone.
 
 The stone moved.
 
-Not shifted. Not budged. The beam erupted off his mother like something thrown. It flew—sideways, upward, crashing into the far wall with a sound like a thunderclap. Stone shattered. Rubble that had been pinning her scattered outward in every direction, pieces striking walls and ceiling and floor. A chunk of masonry punched through the window. Another cracked the doorframe in half.
+Not shifted. Not budged. The beam erupted off his mother like something thrown. It flew, sideways, upward, crashing into the far wall with a sound like a thunderclap. Stone shattered. Rubble that had been pinning her scattered outward in every direction, pieces striking walls and ceiling and floor. A chunk of masonry punched through the window. Another cracked the doorframe in half.
 
-His mother was free. She was on the floor, gasping, her hands reaching for her legs where the weight had been. She was alive. She was hurt—he could see the damage, the bruising already darkening through her torn clothing, one leg at an angle that meant something was broken—but she was alive, she was breathing, she was looking at him with an expression he'd never seen on her face.
+His mother was free. She was on the floor, gasping, her hands reaching for her legs where the weight had been. She was alive. She was hurt, he could see the damage, the bruising already darkening through her torn clothing, one leg at an angle that meant something was broken, but she was alive, she was breathing, she was looking at him with an expression he'd never seen on her face.
 
 But the force didn't stop.
 
-It poured out of him—through his hands, through his body, through every point of contact with the stone floor and the stone walls and the stone building that had been his home for twenty-three years. He couldn't control it. He didn't know how. The power moved through him like a flood through a channel too small to contain it, and it went everywhere—into the walls, into the floor, into the ceiling that was already cracking.
+It poured out of him, through his hands, through his body, through every point of contact with the stone floor and the stone walls and the stone building that had been his home for twenty-three years. He couldn't control it. He didn't know how. The power moved through him like a flood through a channel too small to contain it, and it went everywhere, into the walls, into the floor, into the ceiling that was already cracking.
 
 The apartment wall blew outward. Not crumbled. Exploded, the stone flying into the air outside, and cold afternoon light flooded the room along with wind and the sound of screaming from the street below. The ceiling fractured, new cracks racing across it, intersecting with the old ones, the structural web coming apart as the force he was pouring into the building destabilized everything it touched.
 
@@ -306,13 +306,13 @@ A healer arrived, summoned from somewhere, a middle-aged man with a worn bag and
 
 His father nodded. The nod was a version of the one Ash knew, the one that absorbed information without breaking. But his father's face was the color of the plaster dust on the stairwell floor, and his hands, when he gripped his wife's, were not entirely steady.
 
-Maren had stayed close during the descent, checking stairs, steadying their mother's stretcher side. But once they reached the street, she stepped back. She stood ten feet away with her arms at her sides and her coat still buttoned to the throat and her hair still pulled back and her face—
+Maren had stayed close during the descent, checking stairs, steadying their mother's stretcher side. But once they reached the street, she stepped back. She stood ten feet away with her arms at her sides and her coat still buttoned to the throat and her hair still pulled back and her face.
 
 Ash looked at her face and looked away.
 
 She was staring at him. Not at their mother, not at the building, not at the healer or the neighbors or the hole in the fifth floor where the wall used to be. At him. Her expression had layers he couldn't parse. The shock and the relief were on the surface, readable. But underneath those, deeper, something was shifting. Something structural. He could see it in the way she held herself, the stillness that wasn't calm, the composure that was costing her something visible in the cords of her neck and the set of her jaw.
 
-She'd felt it. She was a channeler. She'd been channeling when it happened, her hands on the same beam. Whatever had poured out of him had moved through the stone they shared, and the scale of it—
+She'd felt it. She was a channeler. She'd been channeling when it happened, her hands on the same beam. Whatever had poured out of him had moved through the stone they shared, and the scale of it.
 
 He didn't know what she'd felt. He only knew what it looked like on her face: the expression of someone watching the ground beneath them become a different ground.
 
@@ -350,9 +350,9 @@ She released him. She turned and began giving orders, to Sorren, to the healer, 
 
 Ash stood on the walkway outside his parents' building. The afternoon was still bright. The cold still sharp. The street full of neighbors and strangers and the noise of people responding to disaster with the instinctive coordination of a community that had weathered crises before.
 
-His mother was alive. His father was holding her hand. His sister was standing ten feet away with something new and unnamed in her eyes. Dorenne was already giving orders. He looked for—he didn't know who he was looking for. Not Ryn. He hadn't thought of Ryn once since the beam fell. He noticed the absence the way you notice a pocket that's supposed to hold something and doesn't.
+His mother was alive. His father was holding her hand. His sister was standing ten feet away with something new and unnamed in her eyes. Dorenne was already giving orders. He looked for, he didn't know who he was looking for. Not Ryn. He hadn't thought of Ryn once since the beam fell. He noticed the absence the way you notice a pocket that's supposed to hold something and doesn't.
 
-His home—the stairwell he'd climbed every morning, the crack he'd measured with his thumb, the kitchen where his mother cooked with cumin when the budget was tight, the bedroom where he'd washed in cold water every day for twenty-three years—was gutted. Open to the sky. In the rubble near the entrance, his father's wooden door wedge sat undamaged among the shattered stone. The one thing that hadn't needed channeling to hold. His doing.
+His home, the stairwell he'd climbed every morning, the crack he'd measured with his thumb, the kitchen where his mother cooked with cumin when the budget was tight, the bedroom where he'd washed in cold water every day for twenty-three years, was gutted. Open to the sky. In the rubble near the entrance, his father's wooden door wedge sat undamaged among the shattered stone. The one thing that hadn't needed channeling to hold. His doing.
 
 His mother was alive.
 

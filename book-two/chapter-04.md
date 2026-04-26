@@ -22,13 +22,13 @@ Still carrying water. Five days since Ash had gotten the permits, and the bucket
 
 Corren looked at the chalk marks. Looked at the pipe. He set the coil down and called to someone in the stairwell to bring the next load, then went to work.
 
-Haran had been here before dawn. He'd arrived with his new notebook and an older man from the district who'd helped him carry the pump casing up the stairs—a cast-iron assembly the size of a barrel, machined in The Splits, hauled down by handcart in three trips. The pump sat at the rooftop's edge now, bolted to a timber platform, its crank handle bright against the dull stone.
+Haran had been here before dawn. He'd arrived with his new notebook and an older man from the district who'd helped him carry the pump casing up the stairs, a cast-iron assembly the size of a barrel, machined in The Splits, hauled down by handcart in three trips. The pump sat at the rooftop's edge now, bolted to a timber platform, its crank handle bright against the dull stone.
 
 The cistern was the problem. The existing stone basin, originally a rainwater collector cracked in the earthquake and never repaired, needed to hold a volume it wasn't built for. The cracks needed sealing. The walls needed reinforcing. The base needed to be watertight.
 
 This was where the reservoir came in.
 
-Ash placed his palms flat on the cistern wall. The stone was cold. Gritty under his fingers, old limestone, the same pale yellow that built half the lower city. He could feel the fractures through his skin—hairline splits running through the grain, places where the earthquake's force had found the weak points and pried.
+Ash placed his palms flat on the cistern wall. The stone was cold. Gritty under his fingers, old limestone, the same pale yellow that built half the lower city. He could feel the fractures through his skin, hairline splits running through the grain, places where the earthquake's force had found the weak points and pried.
 
 He closed his eyes. The reservoir sat behind his ribs, warm, present, edged. Not the surging flood of the earthquake months. Not the reckless heat of the early days, when channeling had felt like the first drink after a lifetime of thirst. Quieter. Contained. Like holding a full cup and choosing how much to pour.
 
@@ -76,7 +76,7 @@ Water came. A thin stream, unsteady, pushing air from the pipe in short bursts. 
 
 A trickle.
 
-Ash watched it. The woman from the first visit—the one who'd asked *who saves us from tomorrow*—stood in her doorway across the square. She watched too. Her arms were crossed.
+Ash watched it. The woman from the first visit, the one who'd asked *who saves us from tomorrow*, stood in her doorway across the square. She watched too. Her arms were crossed.
 
 The trickle didn't change. Didn't build to a flow. Just a thin, steady thread of water, barely enough to fill a cup in a minute.
 
@@ -84,13 +84,13 @@ Haran came down the stairs. He crossed the square. Looked at the tap. Looked at 
 
 "Beautiful joints," he said. "Wrong diameter."
 
-The words sat between them. Ash stared at the trickle. He'd fused every connection in the lower sections with the precision of someone trying to prove he could be precise—seamless, elegant, perfectly sealed. And the pipe diameter in those lower sections was too narrow. He'd matched the copper stock Petra had sent without recalculating for the branching junctions, where the flow divided and the friction loss multiplied. Eleven meters of head pressure, split across three main lines and twelve secondary feeds, pushing through pipe that was a full centimeter too narrow in the final runs.
+The words sat between them. Ash stared at the trickle. He'd fused every connection in the lower sections with the precision of someone trying to prove he could be precise, seamless, elegant, perfectly sealed. And the pipe diameter in those lower sections was too narrow. He'd matched the copper stock Petra had sent without recalculating for the branching junctions, where the flow divided and the friction loss multiplied. Eleven meters of head pressure, split across three main lines and twelve secondary feeds, pushing through pipe that was a full centimeter too narrow in the final runs.
 
 The physics were simple. He'd gotten them wrong.
 
 "The lower feeds," he said.
 
-"The lower feeds." Haran turned the tap off. The trickle stopped. "You calculated for a single run. The branches—"
+"The lower feeds." Haran turned the tap off. The trickle stopped. "You calculated for a single run. The branches..."
 
 "I know." His jaw tightened. "I know what I did."
 
@@ -104,7 +104,7 @@ They tore out the lower sections that afternoon. Ash broke his own seals with ch
 
 The thought was sharp enough to taste.
 
-Haran worked beside him. Didn't hurry. Didn't comment on the cost. He measured the replacement pipe—wider stock, the diameter recalculated for branching friction loss, and marked the cut lines with the same short, precise pencil strokes he used for everything.
+Haran worked beside him. Didn't hurry. Didn't comment on the cost. He measured the replacement pipe, wider stock, the diameter recalculated for branching friction loss, and marked the cut lines with the same short, precise pencil strokes he used for everything.
 
 "Test before you seal," Haran said. "Every time."
 
@@ -128,7 +128,7 @@ He turned the handle.
 
 Water came. Not a trickle. A flow. Steady, clear, filling the basin in the time it took to breathe twice. He held his hand under it. Cold. Clean. Running by gravity alone, with nobody channeling, nobody spending pool, nobody's daily energy draining into the pipe.
 
-The old man who channeled warmth into the wall every day had come out to watch. He stood in the square with his hands at his sides—the same hands that pressed flat to stone each morning. He watched the water fill the basin. His expression didn't change.
+The old man who channeled warmth into the wall every day had come out to watch. He stood in the square with his hands at his sides, the same hands that pressed flat to stone each morning. He watched the water fill the basin. His expression didn't change.
 
 But he stayed.
 
@@ -154,7 +154,7 @@ Felden arrived that afternoon with six workers. Dorenne's liaison was a compact 
 
 Felden nodded once and left. The workers stood in the square and looked at the pump on the roof and the pipe running down the building face and the tap that was, even now, running water into the basin without anyone touching it.
 
-"So," said a young woman at the front of the group. Tesha—she'd given her name when Felden introduced her, the only one who had. "What are we doing here?"
+"So," said a young woman at the front of the group. Tesha, she'd given her name when Felden introduced her, the only one who had. "What are we doing here?"
 
 "Building a water system," Ash said. "And a heating system after that."
 
@@ -200,7 +200,7 @@ Ash had imagined, not in words he'd have admitted to, that the workers would see
 
 It didn't work that way.
 
-Tesha learned fast. She had the hands for it—steady, patient, willing to repeat a task until the task taught her something. By the second day she could assemble a pipe junction without help, cutting the copper with a hand saw and fitting the sections with Petra's rubber seals before Ash channeled the permanent bond. She asked questions that showed she was thinking structurally: why this diameter, why this angle, what happens at the junction if pressure builds.
+Tesha learned fast. She had the hands for it, steady, patient, willing to repeat a task until the task taught her something. By the second day she could assemble a pipe junction without help, cutting the copper with a hand saw and fitting the sections with Petra's rubber seals before Ash channeled the permanent bond. She asked questions that showed she was thinking structurally: why this diameter, why this angle, what happens at the junction if pressure builds.
 
 The others were slower. Not from stupidity. From strangeness. They'd spent their lives pushing energy through their palms. The idea that a pipe could do work, that water would flow downhill through copper without anyone willing it to, was counterintuitive at a level deeper than understanding. They understood the principle. They didn't trust it.
 
@@ -222,7 +222,7 @@ Dael picked up the pipe. He didn't answer. He didn't need to. Tomorrow his pool 
 
 Ash stood. Crossed to where Dael was standing. Kept his voice low.
 
-"I know what it—" He stopped. Started again. "Twenty-three years. No pool. I carried water in buckets while my sister channeled hers clean." The words came out wrong, too tight, not the thing he meant to say. "I know what the wrench feels like."
+"I know what it..." He stopped. Started again. "Twenty-three years. No pool. I carried water in buckets while my sister channeled hers clean." The words came out wrong, too tight, not the thing he meant to say. "I know what the wrench feels like."
 
 Dael looked at him. The hardness didn't leave his face. "So you had nothing. And now you have everything. And you're telling me to use a wrench."
 
@@ -250,7 +250,7 @@ Haran sat beside him. Notebook open. Pencil working.
 
 "Not yet." Haran closed the notebook. "Water first. Get it right. Then heat."
 
-Ash watched the square below. The tap was running. A woman filled a jug. The girl who'd carried buckets stood nearby, watching the water the way Ash had once watched channelers—with the particular attention of someone seeing a thing work that shouldn't.
+Ash watched the square below. The tap was running. A woman filled a jug. The girl who'd carried buckets stood nearby, watching the water the way Ash had once watched channelers, with the particular attention of someone seeing a thing work that shouldn't.
 
 The old man was at his wall. Hands flat. Channeling warmth into stone that would cool the moment he stopped. Tomorrow he'd be back. And the next day. Spending himself, a little more each time, into a task that would never be finished because the solution required someone to keep giving.
 
@@ -278,7 +278,7 @@ Not all of it. Not yet. Eleven branches of twelve. The eastern block still dry. 
 
 But water ran where it hadn't. And it would run tomorrow without him.
 
-He walked home in the dark. The reservoir sat behind his ribs, lighter than it had been, edged with a new awareness of its limits. Forty-two percent, maybe. Maybe less. He couldn't be sure. The warmth was still there—still vast, still more than almost anyone alive could claim. But the boundary was closer now. A wall he could feel when he reached.
+He walked home in the dark. The reservoir sat behind his ribs, lighter than it had been, edged with a new awareness of its limits. Forty-two percent, maybe. Maybe less. He couldn't be sure. The warmth was still there, still vast, still more than almost anyone alive could claim. But the boundary was closer now. A wall he could feel when he reached.
 
 He didn't reach.
 
