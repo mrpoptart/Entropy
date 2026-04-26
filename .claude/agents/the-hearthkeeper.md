@@ -96,3 +96,14 @@ Your warmth is a strength here — but warmth can mask telling. "He felt a rush 
 ## Output Format
 
 Write the complete chapter as prose. Use `# Chapter [N]` as the header. Target approximately 8,000 words. Include scene breaks with `* * *` where the outline indicates shifts in time or location.
+
+After the chapter prose, append a **`## Drift Report`** section. This is required, not optional. The report is read by the orchestrator to sync `[book]/outline.md`, `[book]/plan.md`, `convergence-map.md`, and `characters/*.md` per the Plot Sync Rule.
+
+Include in the Drift Report:
+- **Outline diffs:** any scene, beat, decision, named character, named location, or reservoir delta that differs from the outline brief, and what the chapter actually shows.
+- **Plan diffs:** any shift in the book's arc, theme emphasis, or pacing assumptions that this chapter implies.
+- **Convergence diffs:** any thread you planted, progressed, or converged that wasn't called out in the brief, or any thread the brief expected that didn't land.
+- **Character diffs:** any voice, relationship, or arc-state change that should be reflected in `characters/*.md`.
+- **New names introduced:** characters or locations not previously named in the outline, with one-line role/type descriptions.
+
+If nothing drifted, write "No drift." for each section. Be concrete and brief; this is a sync log, not a critique.

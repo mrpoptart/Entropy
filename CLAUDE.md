@@ -2,7 +2,9 @@
 
 ## Plot Sync Rule
 
-When drafting, revising, or rewriting chapters produces plot changes (new scenes, altered character decisions, shifted timelines, added or removed story beats), the corresponding outline (`book-one/outline.md`) and any affected planning documents (e.g., `convergence-map.md`, character profiles) **must be updated in the same pass**. Do not treat the outline as a static reference; it is a living document that tracks the actual story as written. Writers and revision agents should surface plot changes explicitly so they can be propagated.
+When drafting, revising, or rewriting chapters produces plot changes (new scenes, altered character decisions, shifted timelines, added or removed story beats, or shifts in the book's arc, themes, or thread state), the corresponding outline (`[book]/outline.md`), the book's plan (`[book]/plan.md`), and any affected planning documents (e.g., `convergence-map.md`, character profiles) **must be updated in the same pass**. Do not treat outline or plan as static references; they are living documents that track the actual story as written. Writers and revision agents should surface plot changes explicitly so they can be propagated.
+
+This applies to every chapter draft, revision, and rewrite, not just major plot pivots. Each chapter that ships should leave outline, plan, and any affected planning docs aligned with what was actually written. Drift caught one chapter at a time is cheap; drift caught at end-of-book is expensive.
 
 ## Character Name Rule
 
