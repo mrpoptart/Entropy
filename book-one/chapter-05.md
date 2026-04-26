@@ -254,6 +254,14 @@ He sat with that. The chair was still too small. He shifted his weight and the w
 
 "Yes." She allowed herself the smallest of smiles, the kind that arrived against the will of a face trained out of them. "It is a lot."
 
+She set the dark stone down on the table between them. Her fingers stayed near it.
+
+"Every year for forty years I have measured the children who come of age. Their first stones, their first calibrations. And every year, on average, the numbers have been smaller. A fraction. Nothing you would notice in a single cohort. But across a generation, something." She did not look up from the stone. "I had stopped expecting to be surprised by an upward measurement. I had made my peace with watching the numbers go quietly the wrong way."
+
+She lifted her eyes to him.
+
+"And then today. You."
+
 *Vastly larger.*
 
 The words settled into him. They joined the pressure behind his ribs, the weight of the thing he carried, the ocean that pressed against the inside of his skin. Vastly larger. Orders of magnitude. A reservoir so deep that the instruments couldn't find the bottom and the stones couldn't hold the light.
