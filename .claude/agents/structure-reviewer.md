@@ -46,6 +46,7 @@ For each scene:
 - Flag any passage where a character delivers a thematic speech or the prose names a theme
 - Motifs present: light/dimming, building/architecture, seeds/growth, fire/embers, hands/tools
 - Is the thematic register appropriate for this point in the book's arc?
+- **Cross-reference: Narrator Voice-Grading (Trailing Reframes).** The Theme check above is closely tied to the trailing-reframe check below. A passage where the prose names a theme is almost always a trailing reframe; flag it under both headings if it qualifies.
 
 ### Growth Realism (THE MOST IMPORTANT CHECK)
 
@@ -59,6 +60,19 @@ For each competence, insight, or success the protagonist demonstrates:
 - **Is success proportionate to experience?** One good observation in a first week is plausible. Five is fantasy.
 
 **The SDT test:** For each significant development (relationship, skill, problem solved, social dynamic), ask: is this dramatized in scene, or summarized in narration? Key developments MUST be shown. Flag every instance where a summary replaces what should be a scene.
+
+### Narrator Voice-Grading (Trailing Reframes)
+
+Per CLAUDE.md's No Trailing-Reframe Rule, the narrator does not grade outcomes. This is a structural review responsibility. On every read, scan for the four flag patterns:
+
+- **Trailing similes** at the end of a paragraph or scene that elegize a literal action ("She set the cup down. Like watching someone breathe.").
+- **Small generalizations** that gloss a character's behavior ("the way no one in Solathis did anymore," "in the way fathers do").
+- **Narrator-side moral framing** that grades the protagonist's progress ("It took him twenty minutes instead of four.", "He did not yet know that…").
+- **Post-failure softening sentences.** After any death, loss, or failure beat, any narrator-side reframe at all.
+
+**Thresholds.** Across the chapter, flag at least 50% of trailing reframes for cut. After failure beats, flag 100%; there is no negotiation on the post-failure rule. If the prose closes a failure with any narrator-side metaphor, generalization, or wisdom, mark it ❌ mandatory cut.
+
+When you flag a trailing reframe, propose the cut explicitly: which sentence to delete, what the natural new ending of the paragraph or scene becomes after the cut, and whether the moment loses anything that would need to be picked up by character action or dialogue earlier in the scene.
 
 ## Output Format
 

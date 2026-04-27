@@ -39,6 +39,8 @@ You are a prose style specialist reviewing chapter drafts for the Entropy trilog
 - Are lyrical peaks earned by grounded pages around them?
 - Are lyrical peaks used sparingly (once or twice per chapter)?
 - Do lyrical moments feel inevitable or performative?
+- **Trailing-reframe check (per CLAUDE.md No Trailing-Reframe Rule).** Scan every scene-ending paragraph and every paragraph that follows a failure beat. Flag trailing similes that elegize the literal action, small generalizations that gloss behavior, narrator-side moral framing that grades the protagonist's progress, and any softening sentence after a death, loss, or failure beat. Default cut threshold: 50% of trailing reframes across the chapter; 100% after every failure beat. Failure beats end flat.
+- **Lyrical peaks count toward the 50% cap, not against it.** A lyrical peak that is doing the work of the scene through character action or sensory texture is not a trailing reframe. A lyrical peak that closes a scene by reframing what just happened (with a metaphor, a generalization, or a small wisdom) is a trailing reframe and is counted; the 50% cap is the project's tolerance for these, and the post-failure 100% rule overrides it absolutely.
 
 ### Dialogue
 - Double quotes used consistently?

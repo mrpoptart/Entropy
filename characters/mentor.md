@@ -118,8 +118,15 @@ He also embodies the **technologist** political faction — but without the ideo
 
 ## Voice
 
+### Backstory shaping the voice
+Haran apprenticed at twelve. Inherited his master's workshop at twenty-three when the man dropped dead at the bench, mid-sentence, mid-tea. Has run the place forty-two years. Never married, no children of his own; has trained eleven apprentices and remembers what each one was bad at. The teacher voice is reflex; he talks to dogs and to apprentices in the same register. He has been the smartest person in any room he chooses to enter for thirty years and *deliberately* doesn't act like it, because he learned early that the workshop only worked when nobody felt small in it.
+
+He is **drier than the spec previously gave him credit for.** The mechanic's humor of a man who has watched four decades of pumps fail in interesting ways. His punchlines arrive as throwaways, half under his breath, while his hands keep working. Half the time Ash catches them; half the time he doesn't, and Haran doesn't repeat himself.
+
 ### Structural pattern
-**Sideways-via-mechanism.** Haran rarely says the emotional thing directly. He says the mechanical thing, and the emotional meaning lands a beat later. His sentences tend toward medium length with a contemplative cadence — he's thinking out loud while his hands do something with a tool. He often opens with a noticing statement (*"So."* or *"Huh."* or *"That's interesting."*), then asks the question that does the real work. He teaches by handing you the problem; his dialogue mirrors that — he hands you a sentence and lets you make the connection.
+**Sideways-via-mechanism, with dry asides.** Rarely says the emotional thing directly. Says the mechanical thing, and the emotional meaning lands a beat later. Sentences tend toward medium length with a contemplative cadence; he's thinking out loud while his hands do something with a tool. Opens with a noticing statement (*"So."* or *"Hm."* or *"That's interesting."*) and then asks the question that does the real work. He teaches by handing you the problem.
+
+When he chooses to extend a sentence, it's because he's actually unpacking a thought, and the longer line earns the short ones around it. Reviewers should let him have the occasional *long* sentence so that *"Hm."* keeps its weight.
 
 ### Vocabulary register
 - **Workshop and materials vocabulary** as the primary lens: *load-bearing, mortar, fatigue, joint, tolerance, slack, shim, fit, set, bleed off.*
@@ -129,13 +136,14 @@ He also embodies the **technologist** political faction — but without the ideo
 - Almost no abstract emotional vocabulary. He doesn't say *grief, fear, identity.* He says *what's it doing,* and you figure it out.
 
 ### Verbal tics & habits
-- **The opening "So."** A flat, level "So." that introduces the question that matters.
-- **The Yoda question** — restating someone's situation as a resource problem to refocus them. "So. How much is left, and what do you want to build with it?"
-- **Analogy from the workbench.** Whatever's in his hands becomes the analogy for the conversation. Gears for relationships. Fatigue for grief. Shim for compromise.
-- **Patient pauses.** He doesn't fill silence. Reviewers should preserve those pauses; the silence is the character.
-- **Dry, warm humor.** Observational, not joking. He finds people genuinely amusing and lets it show as a small smile rather than a punchline.
-- **"Hm." or a single nod** as a complete response. He says less than the scene wants him to and more than the scene needs.
-- **Doesn't tell you what to do.** Asks one more question, and lets the answer arrive on its own.
+- **The opening "So."** Flat, level, introduces the question that matters.
+- **The Yoda question**, restating someone's situation as a resource problem to refocus them. "How much is left, and what do you want to build with it?"
+- **Analogy from the workbench.** Whatever's in his hands becomes the analogy. Gears for relationships. Fatigue for grief. Shim for compromise.
+- **Patient pauses.** Doesn't fill silence. Preserve the pauses.
+- **Dry asides.** Throwaway one-liners delivered while his hands keep working, often half under his breath. "That's not a pump anymore. That's a paperweight with ambitions." If Ash misses it, Haran doesn't repeat it.
+- **Apprentice anecdotes.** Brief, often unflattering reminiscences of past students used as oblique teaching ("Renar tried that once. Cost him a week and a finger.").
+- **"Hm." or a single nod** as a complete response. Says less than the scene wants and more than the scene needs.
+- **Doesn't tell you what to do.** Asks one more question and lets the answer arrive on its own.
 
 ### What he doesn't say
 - He doesn't lecture. Ever. The moment a line of dialogue from him reads as a lesson, it's wrong.

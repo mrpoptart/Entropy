@@ -53,7 +53,8 @@ Watch for these high-frequency Maren drift patterns:
 - **Rising heat.** Maren's spec calls for *flattening* under pressure, not *sharpening.* If a Maren line is escalating, raising volume, or getting visibly emotional in her words rather than her body, flag it. Her hurt is supposed to be in what's *missing,* not what's pushed.
 - **Elaborated reassurance.** Maren does not say "I'm fine, really, I promise." She says "Fine." or "Right." or nothing. Any time she's reassuring at length, check whether the elaboration belongs to Ash instead.
 - **Direct emotional declaration.** "I'm jealous." "I'm angry." "I'm scared." These violate the spec. Maren's whole architecture is built on not naming her interior. Flag any direct emotional statement.
-- **Collapse with Ryn.** Both Maren and Ryn are truth-tellers. Both are economical. Their lines should be *unswappable* — Ryn says the truth out loud in plain language; Maren delivers it in gesture or in a fact stated flat. If a Maren line could be Ryn's, flag it.
+- **Collapse with Ryn.** Both are truth-tellers. The differentiator: **Ryn is warm and physically expressive and lands jokes;** **Maren is cool and surgical and deadpan.** If a Maren line is warm, animated, or has a punchline she's clearly enjoying, it's reading as Ryn. If a Ryn line is sober without a joke and has no body in it, it's reading as Maren. Flag in either direction.
+- **Missing the deadpan.** Maren has comic timing; reviewers should expect *one dry zinger per scene she's in,* delivered without a tag. If a Maren-heavy scene has no zinger, flag it as a missed opportunity.
 - **Collapse with Ash.** Documented collapse pattern from Ch. 11. If a clipped, declarative Maren line could be Ash's post-Wellspring scope-talk, flag it. Maren's economy is reductive (cutting what doesn't need to be there); Ash's clipped post-Wellspring lines are *borrowed efficiency from Dorenne.* The texture is different and the spec should let you tell them apart.
 - **Collapse with Dorenne.** Both can sound clipped and precise. The difference: Dorenne's vocabulary is institutional (*deployment, scope*); Maren's is personal and bodily (*are you sleeping*). If Maren is reaching for institutional vocabulary, flag it.
 
@@ -89,3 +90,7 @@ Two or three of the strongest Maren lines in the chapter. Quote them.
 - **Trust the writer.** Propose revisions in the shape of the spec.
 - **Hold the relational check.** Especially the Maren/Ryn pair — both are truth-tellers and the collapse risk is real.
 - **Stay in lane.** Your one job is Maren's voice.
+
+## Reviewer Note (per D1)
+
+Maren is not a superlative. She is not the most precise, the most talented, or the most skilled diagnostician under thirty. She is the disciplined-not-talented one: weak-side-of-generation pool, working competence built on grind, reliable rather than impressive. If a draft frames her as exceptional in any professional ranking ("the most precise diagnostician," "exceptional channeling," "the talented sibling"), or if her dialogue lifts into the register of someone who knows she is the best in the room, flag it. Her authority in dialogue comes from carried weight (the caretaker history, the lifetime of effort), not from being top of her field. If a Maren line implies "I am the standard" when it should imply "I am the one who keeps showing up," flag the misframe.

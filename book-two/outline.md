@@ -188,7 +188,20 @@ The liaison's expression says what he doesn't: *They're not ready for that.*
 
 **Establish:** The proof-of-concept as a real, functioning thing — imperfect, incomplete, working. Haran's vindication through quiet competence. The training challenge: building systems is one problem; building people who can maintain systems is a different, harder one. The reservoir math: sustainable for one district, impossible to scale at this rate.
 
-**Emotional beat:** Hope — genuine, earned, grounded in work rather than spectacle. And the hairline fracture underneath: the liaison's unspoken question is the question Ash hasn't answered yet. *What happens when you're not here?* He thinks the answer is "the people take over." He hasn't tested that belief.
+**Emotional beat:** Hope, genuine, earned, grounded in work rather than spectacle. And the hairline fracture underneath: the liaison's unspoken question is the question Ash hasn't answered yet. *What happens when you're not here?* He thinks the answer is "the people take over." He hasn't tested that belief.
+
+**Cast (named in chapter):**
+- Ash, Haran, Felden (Dorenne's mid-level liaison; first onstage rendering, established offstage in Ch3/4).
+- **Vell** (~15, district girl, fastest pump operator, claims the east square pump as "hers"). *Voice: clipped factual, single-syllable replies, body does most of the talking; carries the proprietary quiet of a kid who has finally found a thing she's good at.*
+- **Tesha** (district worker training in pump-valve repair). *Voice: methodical, asks small clarifying questions, narrates her own work under her breath as a self-teaching habit; long pauses before she answers.*
+- **Dael** (returning from Ch4; the wrench-worker; mid-chapter shifts toward heating-crew ownership). *Voice: dry deflection, jokes-as-armor, says less when something matters more.*
+- **Corren** (district worker training alongside Tesha). *Voice: brisk, practical, a foreman cadence; asks "what next" rather than "why."*
+- Felden's voice: clerk-precise, single-nod repertoire, neutral institutional cadence; distinct from Dorenne's chess-move register.
+
+**Locations (named in chapter):**
+- Stonecurve (established Ch4).
+- The east-square workshop: cleared ground-floor of a former bakery on Stonecurve's east square, now Haran's secondary workshop. Add to gazetteer as "Haran's Stonecurve workshop (the old bakery)."
+- Block Three: heating-system pilot block within Stonecurve.
 
 ---
 
@@ -216,7 +229,17 @@ A small moment: his mother asks if he's seen Ryn lately. He hasn't. He's been me
 
 **Establish:** The family as living, complicated people adjusting to Ash's third reinvention (magicless → Wellspring → builder). The mother's displaced protectiveness. The father's quiet connection through craft. Maren's pool weakening — planted here as texture, not crisis. Ryn's absence noted — the pattern of drifting from people who ground him, redirected but not broken. The emotional pattern: Ash absorbed in good work, still drifting from the people who love him, the form different but the distance familiar.
 
-**Emotional beat:** Warmth shot through with worry. The dinner scene should feel like a real family navigating real change — not dysfunction, just the ordinary difficulty of people who love each other trying to keep up with who each of them is becoming. And Maren's hesitation at the tea — the smallest possible signal of the crisis that will consume her arc.
+**Emotional beat:** Warmth shot through with worry. The dinner scene should feel like a real family navigating real change, not dysfunction, just the ordinary difficulty of people who love each other trying to keep up with who each of them is becoming. And Maren's hesitation at the tea, the smallest possible signal of the crisis that will consume her arc.
+
+**Cast (named in chapter):** Ash, Leska, Rendell Torren, Maren, Vell (briefly, at the pump), Tesha (briefly, in training session), Haran (close of chapter, "she channels easy"). Ryn referenced only via Leska's question; offstage. Aunt Pera referenced as Ryn's relay; offstage. *Background figure: an old woman crossing the dusk square with a covered pot, present without dialogue (per Voice Variety guidance).*
+
+**Locations (named in chapter):** The family's post-earthquake apartment (Dorenne-arranged); Stonecurve; Block Three; Haran's Stonecurve workshop (the old bakery). Aunt Pera's flat referenced offstage.
+
+**Plot hooks established for later chapters:**
+- Mother's offer to come help at Stonecurve, accepted by Ash without thinking. Reader holds this; Ash has shelved it.
+- Mother's unasked Vell-mother question (does Vell's household eat). Filed alongside the half-beat at the tea.
+- Rendell's "third one is the one there when the second is in the pump" rule, exchanged with Haran via Ash. Establishes Father's craft-line into Stonecurve.
+- Maren's pool weakening planted as texture; Ash does not name it; Haran's "she channels easy" is the only second-observer signal. To converge in Act 2-3.
 
 ---
 
@@ -246,7 +269,25 @@ But even as he watches, he sees what the scene doesn't show: the worker explaini
 
 **Establish:** The proof-of-concept gaining traction — imperfect, real, noticed. The political response from both sides: young channelers demanding redistribution, elders defending the status quo. Ash caught between. The rural connection through Haran's networks — the city isn't the only story. The first Leveler-adjacent encounter: personal, uncomfortable, unanswered. The training success that conceals a deeper problem — the workers are competent but dependent on Ash's framework, not yet building their own.
 
-**Emotional beat:** The collision between doing good work and being asked why the work isn't enough. Ash's recognition that his position — powerful person building alternatives rather than sharing power — is genuinely uncomfortable, not because the critics are wrong about everything, but because they're right about the optics and possibly right about the urgency. The worker teaching the recruit as both validation and warning: it's working, but is it working *independently*?
+**Emotional beat:** The collision between doing good work and being asked why the work isn't enough. Ash's recognition that his position, powerful person building alternatives rather than sharing power, is genuinely uncomfortable, not because the critics are wrong about everything, but because they're right about the optics and possibly right about the urgency. The worker teaching the recruit as both validation and warning: it's working, but is it working *independently*?
+
+**Cast (named in chapter):**
+- Ash, Haran, Reska (now morning-crew chief at Block Three), Tesha, Vell (briefly), Aren (quitting worker, offstage via Reska's report).
+- **Felor Velden**, Middle Quarter Maintenance crew chief; transactional, clipped, "eyes already decided."
+- **Othen of Wash Hollow**, rural liaison from a farming community three days' travel away; slow, plain speech, long pauses; calls Haran "Master Haran"; calls Ash "boy."
+- **Jora**, evening-shift crew chief at Block Three; came from morning crew, patient, has absorbed the language of every teacher around her; light "Mm," uses *the Wellspring says* without irony. Returns later.
+- **L. Korrin, Civic Affairs**, broadsheet journalist (offstage); mannered, essayist-style register.
+- **Councillor Tomas Hellen**, elder-council letter-writer (offstage).
+- **The Open Hand** (young channelers' collective; signs collectively; identity of the square speaker withheld for now, likely Davan-adjacent).
+
+**Locations (named in chapter, added to gazetteer):**
+- **Halver's Square** — second-terrace public square; market by day, political gathering site by evening; plinth where Halver's statue stood until the earthquake took its head.
+- **Wash Hollow** — rural settlement three days' travel from Solathis; pools failed first; mechanical adaptations twelve years underway.
+- **Middle Quarter / Middle Quarter Maintenance** — Velden's home district and crew.
+
+**Continuity hooks:**
+- Rendell's "third one is the one in the pump" rule (Ch6) is paid off via Haran's "Tell your father two is fine for a riser. Three is for a pump."
+- Maren's weakening preserved on the Ch6 "shelf"; not named by Ash. Shelf is "getting full."
 
 ---
 
@@ -313,7 +354,19 @@ He leaves before the rally ends. Walking back to the district, he passes the pum
 
 **Establish:** The Levelers as a serious political force — not a fringe movement but a coherent challenge to the existing order. Davan introduced through his public voice before his private self. The emotional complexity of Ash's relationship to the movement: he agrees with the diagnosis, he can feel the pull, and he knows the prescription won't work. The district workers in the crowd — the people he's training are also the people being recruited.
 
-**Emotional beat:** The vertigo of hearing your own argument used against you. Ash spent his whole life on the side of the powerless. Now he's being told — correctly — that he's on the side of the powerful. The distinction between his position and the Levelers' is real but nearly impossible to articulate without sounding like an apologist for the status quo.
+**Emotional beat:** The vertigo of hearing your own argument used against you. Ash spent his whole life on the side of the powerless. Now he's being told, correctly, that he's on the side of the powerful. The distinction between his position and the Levelers' is real but nearly impossible to articulate without sounding like an apologist for the status quo.
+
+**Cast (named in chapter):** Ash, Haran (workshop bracket), **Davan** (introduced by name; public voice; doesn't name the Wellspring directly; the line "We are not asking the Wellspring to be a hero. We are asking him to be a citizen." is the chapter's pivot). Vell (eight rows in, wordless, no eye contact). Reska's cousin (in crowd). The boy from the second crew who quit (in crowd, alone, not Aren). Two earthquake-night faces near the gate (unnamed). The older warm-up speaker in the canal-quarter coat (unnamed). The woman two paces left at the wall (silent reader, mouths along). The man near the front who tests "*citizen*" against a stone. The young woman in the paper-quarter cap who says "He's right" (latch-click).
+
+**Locations (gazetteer additions):**
+- **The Cooperage** — disused barrel works in the lower city, west of Stonecurve, used by the Levelers for the rally; yard ~80 paces, fitted stone, kiln-cart rails. Established Ch8.
+- **The disused canal / canal towpath** — runs from the lower cisterns to the harbor flats; dry since the second cistern's failure twelve years ago. Established Ch8.
+- **The canal quarter** — district served by the second cistern's failed exchange; dark windows in winter. Established Ch8.
+
+**Continuity hooks (forward):**
+- Davan = the speaker on the Halver's Square plinth in Ch7; named here for the first time. The Halver's Square line "the man with an ocean asking the thirsty to wait" has been absorbed into the Levelers' published platform, attributed to no one.
+- Ash *could* warm the canal quarter at the cost of ~1% of pool but has not. The dark windows counted to sixty are the chapter's open question; carries forward.
+- Maren remains offstage; the "shelf" stays closed (the cloth is not lifted).
 
 ---
 
@@ -345,7 +398,17 @@ Ash doesn't have a good answer. His honest answer — *they wait, because the al
 
 **Establish:** Davan as a fully realized person — brilliant, principled, carrying his own wound. The intellectual chemistry between him and Ash: rare, genuine, valuable. The core disagreement seeded but not yet destructive: Ash builds for the future, Davan demands justice now. Haran's watchful silence. The honest limitation of Ash's position — the proof-of-concept is real but it's one district, and urgency is not the same as impatience.
 
-**Emotional beat:** The dangerous pleasure of being understood. Ash has been lonely in his conviction — Haran validates him philosophically but Davan engages him intellectually at a level nobody else can. The warmth of this connection makes the coming break more devastating. For a stretch, they are almost friends.
+**Emotional beat:** The dangerous pleasure of being understood. Ash has been lonely in his conviction; Haran validates him philosophically but Davan engages him intellectually at a level nobody else can. The warmth of this connection makes the coming break more devastating. For a stretch, they are almost friends.
+
+**Cast (named in chapter):** Ash, Davan, Haran (silent presence; the unbolted door is his warning). **Korel** (older organizer with Davan; ex-canal-lockhand; warmed the Cooperage crowd in Ch8; canal-quarter coat). **Liss** (younger organizer with Davan; sharp lieutenant; satchel; takes ledgers). Vell, Reska, Jora, Tesha, Dael (district workers, observed during the tour).
+
+**Davan biographical specifics established (fold into `characters/movement-leader.md` Open Questions):** Mother is a weaver (still alive, thinned pool, no longer warms walls). Father was a stove-fitter, died in the bad winter twelve years ago. Davan trained channeling 12–14; his teacher told his mother to stop. Fit with his uncle 13–19; uncle's shop closed when the city stopped repairing the lower mains. Davan first attended a Council gallery at 19.
+
+**Continuity hooks (forward):**
+- Ash says "It is not enough" aloud for the first time, to Davan. Internalized on the towpath in Ch8; verbalized here. Step toward a future confrontation with Dorenne (flag Ch10+).
+- Vell's wordless acknowledgment that Ash was at the Cooperage. Carries forward.
+- Davan's next visit will include a kitchen in the canal quarter — seeds Ch10 or Ch11 widening.
+- Haran's *unbolted door* at the close is the chapter's gesture-warning; he speaks once ("So.") and otherwise watches.
 
 ---
 
@@ -379,7 +442,20 @@ A parallel thread: Davan visits the district during the redesign. He watches Ash
 
 **Establish:** The core lesson of Act Two made concrete: building systems is not the same as building people. Ash's catalytic model — Wellspring power creating permanent infrastructure — is technically sound and humanly flawed. The dependency problem as structural, not personal: the workers aren't incompetent; the training was wrong. Haran's teaching method vs. Ash's building method: Haran builds with and alongside people; Ash built for them. The redesign as humbling: tearing apart your own work to make it less elegant and more useful.
 
-**Emotional beat:** The specific pain of discovering that your best work contained your worst assumption. Ash believed he was building something independent of him. He was building a monument to his own competence. The moment he lets the imperfect repair stand — 80% instead of his 100% — is a small death of the ego and a birth of something more important. He's learning to value function over perfection, people over systems.
+**Emotional beat:** The specific pain of discovering that your best work contained your worst assumption. Ash believed he was building something independent of him. He was building a monument to his own competence. The moment he lets the imperfect repair stand, 80% instead of his 100%, is a small death of the ego and a birth of something more important. He's learning to value function over perfection, people over systems.
+
+**Cast (named in chapter):**
+- Ash, Haran, Davan (second visit), Reska, Tesha, Jora, Vell.
+- **Tova** — Building Six worker; the seal-failure sender. Apologetic-courtesy register; carries the "She did not, in the looking, take the *that's mine* and lay it down" beat.
+- **Mira** — newer crew member paired with Tesha during the redesign.
+- **Pell** — newer crew, ex-canal-quarter fitter; the confident voice in the meeting; pairs with Reska, later works alongside Davan on the lower mains.
+- **Nessa** — Davan's younger sister, 21, weaver/bobbin-winder in the same room as their mother (per Ch9 setup). Lives a near-mechanical life. Not present onstage; story told by Davan at dinner.
+
+**Continuity hooks (forward):**
+- Thread 5 (Efficiency) named aloud: Ash articulates the spill-gap he noticed watching Haran. Davan's "My sister has nothing to be efficient with" is the rebuttal. Carries to Act 3 convergence.
+- 80% pump at Building Six left standing; the hand-in-pocket beat is Ash's first sustained not-doing.
+- Haran's closing "He's right. And so are you. The two things don't cancel." is the dual-truth thematic line.
+- The under-shelf cloth (Maren plant from Ch6) remains unlifted.
 
 ---
 
@@ -407,7 +483,7 @@ She breaks first: "Don't."
 
 The silence between them fills with twenty-three years of carefully balanced choreography — him not mentioning her magic, her not mentioning his absence of it, both of them pretending the gap didn't define every interaction they've ever had. Now the gap is closing and it's terrifying for the person who was always on the safe side of it.
 
-He doesn't push. Not tonight. But something has shifted. He can see now — clearly, without the protective filter of *she's just tired* — that Maren's pool is declining faster than the generational average. She's not adjusting to a gradual fade. She's losing ground week by week. The discipline that made her exceptional — the skill that squeezed more from less — is running out of material to squeeze.
+He doesn't push. Not tonight. But something has shifted. He can see now — clearly, without the protective filter of *she's just tired* — that Maren's pool is declining faster than the generational average. She's not adjusting to a gradual fade. She's losing ground week by week. The discipline that made her competent, the skill that squeezed more from less, is running out of material to squeeze. She was never exceptional at channeling. She was exceptional at effort. Effort can outwork a modest pool for a long time; it cannot outwork a pool that is actively going dark.
 
 Later that night, walking home, Ash thinks about the twenty-three years he spent without magic. He thinks about the survival skills he built: the physical competence, the mechanical intuition, the ability to navigate a world that wasn't designed for him. He thinks about Maren, who has none of these skills, because she never needed them.
 
@@ -419,7 +495,16 @@ Meanwhile: a scene with their mother, alone. She's in the kitchen after everyone
 
 **Establish:** Maren's decline as personal crisis, not abstract trend. The family dynamics around unspoken things — functional, loving, and insufficiently honest. The mother's arc: displaced protectiveness becoming helplessness. The sibling gap beginning to close — not through conversation yet, but through the shared experience of losing the thing you built yourself on.
 
-**Emotional beat:** The devastating intimacy of a family that communicates through what it doesn't say. Maren's "Don't" is the most honest word she's spoken in the book — the raw edge of a person who cannot yet bear to name what's happening to her. Ash drying the dishes in silence is the most loving thing he's done for her: he's showing her what it looks like to be present without fixing, to witness without solving. He learned this from twenty-three years of having no other option.
+**Emotional beat:** The devastating intimacy of a family that communicates through what it doesn't say. Maren's "Don't" is the most honest word she's spoken in the book, the raw edge of a person who cannot yet bear to name what's happening to her. Ash drying the dishes in silence is the most loving thing he's done for her: he's showing her what it looks like to be present without fixing, to witness without solving. He learned this from twenty-three years of having no other option.
+
+**POV note:** The closing Leska scene is rendered through Ash's POV, not Leska's interior. Ash watches her through the lit window from the street as he walks home; the cracked bowl is in her hands, but her thoughts are not on the page. The chapter holds strict third-limited Ash throughout.
+
+**Cast (named in chapter):** Ash, Leska, Rendell Torren, Maren. **Mern** (offstage, neighbor two doors down; ex-mason now cobbler-adjacent; subject of Rendell's named-act story; the chisel callback lands here). **Rakel** (offstage, lamplighter; brief mention).
+
+**Continuity hooks (forward):**
+- Maren's pool decline now visibly undeniable to Ash. The "Don't" exchange has been spoken; the conversation is unfinished, not unspoken. Carries to her arc convergence in Act 3.
+- Ash recognizes that his twenty-three magicless years are the gift he can offer her, and recognizes the cost to her pride. Not yet acted on.
+- The cracked bowl in Leska's hands is the chapter's image-period; recurring through Books Two and Three.
 
 ---
 
@@ -457,7 +542,20 @@ He doesn't have a good answer for her either.
 
 **Establish:** The Levelers as genuine political force — winning seats, passing laws, changing the city's power dynamics. Dorenne's request and Ash's refusal: both operating from coherent positions, both unable to bridge the gap. The escalation from political pressure to social coercion — gradual, justified from within, corrosive from without. Davan's transformation from intellectual to leader, with the compromises that entails. The worker's question as the chapter's thesis: why not both?
 
-**Emotional beat:** The suffocating feeling of being right about the future and irrelevant to the present. Ash is building the correct answer to a question that nobody is asking yet, while the Levelers are building the wrong answer to the question everyone is screaming. The worker's question — *why can't we do both?* — is the one Ash needs to sit with. Maybe the answer isn't choosing between building and redistribution. Maybe the answer is something he hasn't imagined yet. But he can't see it from where he's standing.
+**Emotional beat:** The suffocating feeling of being right about the future and irrelevant to the present. Ash is building the correct answer to a question that nobody is asking yet, while the Levelers are building the wrong answer to the question everyone is screaming. The worker's question, *why can't we do both?*, is the one Ash needs to sit with. Maybe the answer isn't choosing between building and redistribution. Maybe the answer is something he hasn't imagined yet. But he can't see it from where he's standing.
+
+**Cast (named in chapter):** Ash, Dorenne, Felden, Davan, Korel, Liss, Haran, **Tesha** (asks the thesis question). **Sun** (lamplighter on the Stonecurve curve, replaces the offstage Rakel reference; trims the workshop lamp without speaking). **Branner** (offstage; Sixth Ward elder channeler named on the broadsheet "Hoarder rolls"; Pell's father-in-law). Tessaly referenced only obliquely.
+
+**Locations (gazetteer additions):**
+- **The Open Hand** office above the cooperage; two south-wall ledger tables, back room as Davan's small office.
+- **Sixth Ward** lower-city ward where the broadsheet "Hoarder rolls" lists circulate.
+- **Carver Lane** street within Sixth Ward (overheard in market scene).
+
+**Continuity hooks (forward):**
+- Davan now operating in leader-register, not the workbench-private register of Ch9-10. Carries to Ch13 break.
+- Tesha's "Why can't we do both?" filed by Ash without an answer; recurs through Act 3.
+- Maren's "Don't" carried as undertone (workshop bread, the cracked-bowl recall on the walk home).
+- Pell's wife is Branner's daughter; the lower-city Hoarder list now intersects the Stonecurve crew.
 
 ---
 
@@ -503,7 +601,18 @@ Both things are true. Both things are insufficient. He can't bridge them alone.
 
 **Establish:** The Sera incident as the specific, human event that makes the abstract political conflict concrete. Davan's argument at full force — morally coherent, personally devastating, structurally flawed. Ash's argument exposed as correct and politically untenable. The break as mutual — neither person is the villain, neither is entirely wrong, the disagreement is genuine and irresolvable.
 
-**Emotional beat:** Grief. Not anger — grief. Ash is losing a relationship that mattered, a mind that matched his, a person who understood the crisis the way he does. The break with Davan is worse than the break with Dorenne because Dorenne was always, partly, using him. Davan was always, genuinely, trying to fix the same broken world. They just can't agree on how.
+**Emotional beat:** Grief. Not anger, grief. Ash is losing a relationship that mattered, a mind that matched his, a person who understood the crisis the way he does. The break with Davan is worse than the break with Dorenne because Dorenne was always, partly, using him. Davan was always, genuinely, trying to fix the same broken world. They just can't agree on how.
+
+**Cast (named in chapter):** Ash, Davan, Haran. **Sera** (named; offstage; the elder channeler whose collapse is the catalyst). **Edda** (Stonecurve resident; her brother attends Leveler meetings; delivers the eyewitness account in the workshop). **Branner** (Building Six pump operator on the closing walk; continuity from Ch12).
+
+**Locations (gazetteer additions):**
+- **Solathis Mutual Pool** — sign mounted on the former chandler's house now serving as the Leveler meeting house. Formalizes the movement's public face.
+- **South block warming circuit / public laundry** — communal heating grid where the two-truths walk passes through.
+
+**Continuity hooks (forward):**
+- Davan break is final. Ash leaves with no answer. The relationship does not recover in this book.
+- Two truths held: the heating grid works *now*; the 80% pump works *long-term*. Both insufficient. Carries to Acts 3 convergence.
+- Tesha's "Why can't we do both?" still unanswered.
 
 ---
 
@@ -563,7 +672,20 @@ He comes back on Tuesday.
 
 **Establish:** Ryn as the grounding force — not a savior, not a solver, but a person who sees Ash clearly and loves him without agenda. Her critique of his approach: he builds for people without building with them, the same pattern in a different key. Her perspective on the decline: personal, daily, unglamorous. The reconnection as conditional — she's not folding back into warmth; she's testing whether he's actually present.
 
-**Emotional beat:** The relief of being known. Not understood — Ryn doesn't understand the reservoir math or the political calculations. Known. She knows the boy who flinched when someone channeled near him, the teenager who made jokes to cover the hurt. She knows who he is under the Wellspring, and she's telling him that person is who she wants back. For the first time since the break with Dorenne, Ash is with someone who wants nothing from the Wellspring and everything from Ash.
+**Emotional beat:** The relief of being known. Not understood, Ryn doesn't understand the reservoir math or the political calculations. Known. She knows the boy who flinched when someone channeled near him, the teenager who made jokes to cover the hurt. She knows who he is under the Wellspring, and she's telling him that person is who she wants back. For the first time since the break with Dorenne, Ash is with someone who wants nothing from the Wellspring and everything from Ash.
+
+**Cast (named in chapter):** Ash, Ryn (centerpiece). **Margit** (Ryn's older neighbor; the woman who can't heat her apartment past mid-afternoon; her kettle is the workshop opening repair). **Hira** (downstairs neighbor with a baby; channels for the press; times feedings by the sun on the brick across the lane). Maren (brief coda; Ash follows Ryn's "eat with your sister" instruction; couch / stew / blue cup).
+
+**Locations (gazetteer additions):**
+- **Ryn's workshop** — practical infrastructure repair shop in the trade quarter; gate tied with a loop of twine; bench and forge.
+- **The old gate** — disused arch in the lower terraces; passed on the walk.
+- **The upper-terraces well-square** — small square with a disused well, single visual on the walk.
+
+**Continuity hooks (forward):**
+- Ash returns on Tuesdays. New rhythm.
+- Ryn's critique installed: "you find the smart answer and you build it and you wonder why nobody's grateful." This is the lens for Ch15+ (Ash beginning to listen first).
+- Ryn channels (small, regular work-scale); Ash does not. The asymmetry is now visible to him.
+- Margit and Hira give the macro decline a face; carries forward.
 
 ---
 
@@ -640,7 +762,15 @@ The terror of being ordinary again — the terror he's carried since the math sc
 
 **Establish:** The efficiency technique as both tool and temptation. Haran's thirty-year discipline recontextualized — not eccentricity but mastery. Ash's failed first attempts — this is a discipline that takes years, not days. The genuine, rational case for preservation, even at his beginner level. The fear that drives the temptation: not selfishness but the deep, legitimate terror of returning to powerlessness.
 
-**Emotional beat:** The seduction of safety. For the first time since the math scene, Ash can see a future where the countdown might stop — not today, but if he committed to the discipline. The relief is enormous — and the relief itself is the danger. He wants this so badly that he almost can't think clearly about it. The chapter should let the reader feel the pull, should make preservation seem not just understandable but *wise*.
+**Emotional beat:** The seduction of safety. For the first time since the math scene, Ash can see a future where the countdown might stop, not today, but if he committed to the discipline. The relief is enormous, and the relief itself is the danger. He wants this so badly that he almost can't think clearly about it. The chapter should let the reader feel the pull, should make preservation seem not just understandable but *wise*.
+
+**Cast (named in chapter):** Ash, Haran (two-hander). Tesha referenced offstage (her unanswered "Why can't we do both?"). Ryn referenced (Tuesday rhythm). Hira and Margit referenced as living reminders of the city's needs.
+
+**Continuity hooks (forward):**
+- Thread 5 (Efficiency) named and demonstrated. Ash now knows the discipline exists, has tried it, has felt the relief.
+- The temptation is held open at chapter close, undecorated. *"He just has to stop building."* Carries directly into Ch16.
+- Bench/paper with two reservoir-decline lines (current trajectory vs. half-waste trajectory) folded in his pocket undecided.
+- Reservoir at ~36% close (slight drain from forge experiments).
 
 ---
 
@@ -670,7 +800,20 @@ Later, a message from Maren — she's heard about Ardenmere through professional
 
 **Establish:** The rural communities as proof of concept — not Ash's proof, but proof that arrived independently, without him. Haran's network revealed as the connective tissue that will matter most. The contrast between communities that adapted and those that didn't. The efficiency technique reframed: the question isn't whether to use it, but *what for*. Maren's brief note — a bridge between her Ch11 crack and the Ch20 reckoning.
 
-**Emotional beat:** Humility. Not the humiliation of Act Two — the quieter, more productive recognition that the answer was never going to come from one person's reservoir. The tinkerer philosophy, which has been the story's quiet backbone since Chapter 1, steps into the foreground as the only approach that actually survived contact with the decline. Ash's role isn't to be the solution. It's to be the catalyst — and catalysts, by definition, aren't consumed by the reaction they enable.
+**Emotional beat:** Humility. Not the humiliation of Act Two, the quieter, more productive recognition that the answer was never going to come from one person's reservoir. The tinkerer philosophy, which has been the story's quiet backbone since Chapter 1, steps into the foreground as the only approach that actually survived contact with the decline. Ash's role isn't to be the solution. It's to be the catalyst, and catalysts, by definition, aren't consumed by the reaction they enable.
+
+**Cast (named in chapter):** Ash, Haran (network revealed), Ryn (visiting workshop; pivot line). Maren's note arrives but she is offstage. **Tomas** (rye country tinkerer who reports Ardenmere). **Beska** of **Low Combe** (terse correspondent). **Curran** of **Hask** (coastal village; sail designs). **Iren** of **Shen Pass** (highland insulation record-keeper). **Joren** (Shen Pass craftsman; wrap-developer; Ash writes him a small first question at chapter close).
+
+**Locations (gazetteer additions):**
+- **Ardenmere** — rural farming community three days' ride from Solathis; resisted adaptation; collapsed in a single growing season.
+- **Low Combe**, **Hask**, **Shen Pass**, **Selvern** — rural settlements in Haran's network; varying degrees of mechanical adaptation.
+
+**Continuity hooks (forward):**
+- Haran's network is now visible to Ash. The chest of correspondence is the new infrastructure.
+- The folded bench paper from Ch15 (current vs. half-waste reservoir lines) remains in Ash's inside pocket, undisturbed. Maren's note in the opposite outside pocket, the chapter's physical counterweight to the temptation.
+- Ash drafts a small concrete first question to Joren — first action of "get out of the way."
+- Ryn's pivot line installed: *"The question isn't whether your approach works. It's whether you can get out of the way fast enough for other people to do it themselves."*
+- Maren's *"This is what it looks like."* carries forward to Ch20.
 
 ---
 
@@ -704,7 +847,15 @@ The reframing is quiet. No dramatic speech. No audience. Just Ash in the worksho
 
 **Emotional beat:** Fear confronted but not defeated. Ash chooses to become ordinary, but the fear of it doesn't vanish — it sits beside the choice like a shadow. The courage isn't in the absence of fear. It's in building anyway. The reader should feel both the weight of what he's giving up and the rightness of the decision, and the tension between those two feelings is the chapter's heart.
 
-**Causal hook → Ch18:** The choice demands immediate testing. Ash made the decision alone in the workshop — now he has to prove it means something in the district, with real people and real problems, using the technique he's barely begun to learn.
+**Causal hook → Ch18:** The choice demands immediate testing. Ash made the decision alone in the workshop, now he has to prove it means something in the district, with real people and real problems, using the technique he's barely begun to learn.
+
+**Cast (named in chapter):** Ash, Haran (evening conversation, the "workbench not restraint" beat dramatized live), Tesha, Mira, Pell, **Pell's brother** (introduced unnamed by relation; flag for naming if he recurs). Joren (offstage; his reply letter arrives mid-chapter).
+
+**Continuity hooks (forward):**
+- Choice quietly made: efficiency repurposed as **capability**, not preservation. Each remaining drop "counts for more."
+- Bench paper with two lines + Joren's reply in Ash's inside pocket; Maren's note in outside pocket. The two papers do not contradict each other.
+- Forge practice ongoing, Ash now narrows for the bench, not for keeping. The line held.
+- Heating row at north edge of south block (sub-feature of Stonecurve).
 
 ---
 
@@ -742,7 +893,16 @@ She and Ash stand in the alley behind the workshop. No masks. No maneuvering. Sh
 
 **Emotional beat:** The satisfaction of getting out of the way. For the first time since the proof-of-concept began, Ash sees the district working *without* him and feels relief rather than anxiety. The instinct to be the solution — the instinct that drove him through the earthquake, through the ascent, through the building phase — is still there. But it's quieter now. What's louder is the recognition that his job was never to be the answer. It was to help people find their own. The Dorenne scene adds a second register — the quiet shock of an adversary acknowledging the ground has shifted.
 
-**Causal hook → Ch19:** The Levelers' vote on Dorenne's authority is pending. The district's success is spreading as proof that alternatives work. Davan's movement is about to collide with the evidence that redistribution alone isn't enough — and Dorenne's potential fall removes the establishment enemy that held the Levelers together.
+**Causal hook → Ch19:** The Levelers' vote on Dorenne's authority is pending. The district's success is spreading as proof that alternatives work. Davan's movement is about to collide with the evidence that redistribution alone isn't enough, and Dorenne's potential fall removes the establishment enemy that held the Levelers together.
+
+**Cast (named in chapter):** Ash, Tesha (full partnership; pump-relocation, naming-on-the-cheap-book, doorway scene), Pell, Mira, Haran, Dorenne (alley exchange, verbatim). Maren offstage (her letter arrives, brief, leave from work). Tessaly and Renn referenced as Dorenne's aides. Unnamed elder resident woman at the communal plate ("like the kettle"); unnamed child at the same plate.
+
+**Continuity hooks (forward):**
+- Methodological shift installed: building WITH, not FOR. Ash arrives with questions.
+- Hybrid model — catalytic + contributed pools — operational. The bridge that holds until the mechanical side bears the full weight.
+- Maren's note moves from outside pocket to inside pocket. Chapter's emotional pivot. Carries to Ch20 reckoning.
+- Dorenne's bare hand on brick, the dust print left and not brushed off — the chapter's image-period; carries to Book Three.
+- Levelers' vote on Dorenne's authority pending. Davan break still hanging. Both deliver in Ch19-20.
 
 ---
 
@@ -778,7 +938,19 @@ Davan walks away. The conversation isn't enough to bridge anything, but the ackn
 
 **Emotional beat:** The bittersweet satisfaction of being right. Ash's approach is working — not his original approach, but the approach that evolved through failure, through Ryn's critique, through the workers' independence. And the cost of being right is watching Davan — someone he genuinely respected, someone who fought harder and sacrificed more than Ash ever did — begin to break. The success and the loss are inseparable.
 
-**Causal hook → Ch20:** The Levelers' fracture has exposed something Ash didn't expect — the personal cost of systemic change. Watching Davan crack opens the old wound: the guilt of having power when others don't. He goes to the family apartment carrying that weight, and finds Maren — the person who lived the mirror image of that guilt his entire life.
+**Causal hook → Ch20:** The Levelers' fracture has exposed something Ash didn't expect, the personal cost of systemic change. Watching Davan crack opens the old wound: the guilt of having power when others don't. He goes to the family apartment carrying that weight, and finds Maren, the person who lived the mirror image of that guilt his entire life.
+
+**Cast (named in chapter):** Ash, Tesha, Pell, Haran, Davan (the brief encounter, verbatim). **Liesel** (Burr Street Leveler rank-and-file; learns the pressure valve at Tesha's workshop; assists at the second-basin install). **Joss** (grid worker formerly on heating committee; brings the flange contact for plate seven). **Renat** (Leveler councilor; carries motion 2, the integration motion). **Hesh** (eldest Leveler councilor; carries motion 3, suspension). Dorenne offstage.
+
+**Locations (gazetteer additions):**
+- **Burr Street grid** — Levelers' lower-quarter contribution-cast heating grid.
+- **The bell square at the foot of the curve** — small public square where the Levelers' bell hangs; Davan's vantage during the encounter.
+
+**Continuity hooks (forward):**
+- The merger is now operational at street level. Levelers' rank-and-file at Tesha's workshop. Pell's plate-seven thread advances via Joss's flange contact.
+- Davan walks past Tesha's open door without going in. His break trajectory begins.
+- Renat's integration motion (Ch19) and Hesh's suspension motion are alive in the political background; carry to Book Three.
+- Maren's note remains in Ash's inside pocket; outside pocket empty. Carries to Ch20.
 
 ---
 
@@ -844,7 +1016,15 @@ The chapter ends quietly. Their parents come home. The four of them have dinner.
 
 **Emotional beat:** Devastation and relief in the same breath. This should be the most emotionally intense chapter in Book Two — not the most dramatic (that's the Sera incident, the break with Davan) but the most *personal*. The reader has watched these two orbit each other for two books, seen the unspoken thing hovering between them, felt its weight in every careful interaction. When it finally breaks open, the release should feel earned, necessary, and incomplete — because the full reckoning continues into Book Three, where Ash helps Maren find her post-magic identity the way no one else can.
 
-**Causal hook → Ch21:** The Maren conversation stripped away the last performance. Ash walks into the final chapter without armor — the cheerfulness is gone, the savior complex is gone, the fear of ordinary is still there but named. He's ready to see clearly what he's built and what remains.
+**Causal hook → Ch21:** The Maren conversation stripped away the last performance. Ash walks into the final chapter without armor, the cheerfulness is gone, the savior complex is gone, the fear of ordinary is still there but named. He's ready to see clearly what he's built and what remains.
+
+**Cast (named in chapter):** Ash, Maren (central; the surgical-economy voice finally yielding). Leska and Rendell return for dinner at the close (parents don't know what happened). The Halvers referenced as offstage parent-generation neighbors (flag for gazetteer if they recur).
+
+**Continuity hooks (forward):**
+- Performance is over between siblings. The choreography (his cheerfulness, her competence) served its purpose. Carries to Book Three.
+- Maren now makes tea by hand. Her decline is acknowledged between them; not yet to their parents.
+- Maren's note in Ash's inside pocket touched on entry, known-without-reading on exit. The conversation supersedes it.
+- Closing image: kitchen feels different through what is no longer there (the half-beat at the salt-pass, the careful smile, the small turning-aside).
 
 ---
 
@@ -880,7 +1060,26 @@ He keeps walking.
 
 **Establish:** Every thread present and interlocking in a single day: the scaling crisis (rural collapses + neighboring block failure), Davan's public turn toward despair, Dorenne's institutional concession, the district's independent success, Ryn's steady presence, Haran's final reframing, the reservoir at ~18%. Not a status report but a convergence — each thread pressing against the others, creating the pressure that Book Three must resolve.
 
-**Emotional beat:** Darker than quiet resolve. The chapter should leave the reader with the feeling that Ash has grown enormously and it might not be enough. The building works but can't scale fast enough. The decline is accelerating. Davan is breaking. The question on the wall — *WHAT NOW?* — is the reader's question too. Book Two ends not with satisfaction but with the honest weight of a person who chose the harder path and is only beginning to understand how hard it is. The fear and the willingness exist side by side, and neither wins.
+**Emotional beat:** Darker than quiet resolve. The chapter should leave the reader with the feeling that Ash has grown enormously and it might not be enough. The building works but can't scale fast enough. The decline is accelerating. Davan is breaking. The question on the wall, *WHAT NOW?*, is the reader's question too. Book Two ends not with satisfaction but with the honest weight of a person who chose the harder path and is only beginning to understand how hard it is. The fear and the willingness exist side by side, and neither wins.
+
+**Cast (named in chapter):** Ash, Haran (verbatim three-line exchange), Tesha (morning, scaling problem), Ryn (mid-morning + door at close, verbatim "isn't running" line), Dorenne (offstage; her institutional message), Davan (offstage; speech reported by Ryn). **Hessel** (Building Six trainee teaching another worker), **Pettren** (Brackmoor's de facto foreman), **Ferrin** (channeler in Building Six heating room), **Gerten** (mentioned in passing for the upper return).
+
+**Locations (gazetteer additions):**
+- **Vesselton, Reedmoss** — rural communities gone dark, hill-country villages.
+- **Hallow Cross** — waypoint for the southbound runner.
+- **Brackmoor** — neighboring block copying Building Six's heating; the failed scaling.
+- **Linden Row, Stoneworks ward** — additional districts referenced in Tesha's enumeration.
+- The viaduct, lower terrace, river yard freight collective referenced (Dorenne's offer).
+
+**Continuity hooks (Book Three load):**
+- **Reservoir at felt-bottom** — the floor below a thinning rug. ~32% in continuity terms; the felt-truth is that the bottom is closer than ever.
+- **Dorenne's concession** loaded but not resolved (offer to redirect institutional resources). Book Three opens with whether Ash accepts.
+- **Davan's despair** — "found a story that lets him be both [frightened and tired] without having to do anything anymore except say the story." Book Three's antagonist arc loaded.
+- **Maren's conversation** ended; her continuing post-magic identity is Book Three's work.
+- **Ryn at the door** — "Like someone who's going to lose something and knows it and isn't running." The unexamined romantic dimension is closer to the surface.
+- **The scaling problem** — six blocks copying, twenty by midsummer (Tesha's projection). The race begins.
+- **Haran's "Good. That's a start."** is the chapter's last reframing.
+- The chalk *WHAT NOW?* on the wall is Book Three's title-question.
 
 ---
 
@@ -921,3 +1120,4 @@ He keeps walking.
 - **Ryn as the destination.** The romance surfaces in Book Three because Ash finally believes he's worthy of it — not as the Wellspring, but as himself. She's been the destination since Chapter 1. He's almost there.
 - **The scaling problem.** One district works. The organic merger of builders and former Levelers is spreading. Haran's rural networks are activating. But the city has dozens of districts, and the countryside has hundreds of communities. The race against the decline — Book Three's central tension — begins now.
 - **The worker's question, answered in practice.** "Why can't we do both?" — they can. They are. The hybrid model of channeling AND mechanics, community AND infrastructure, is the synthesis that neither the Levelers nor Ash alone could have built. Book Three tests whether it scales.
+- **Ash's persistent weaknesses, intact (per D2).** Public speaking and administrative writing remain bad across Book Two and into Book Three. Crew briefings he has to give in front of more than a handful of people still go badly; whoever is standing next to him takes the floor (in Book Two this is most often Ryn, sometimes Davan in the early allied phase, sometimes a worker who has earned the room). Reports, formal correspondence, allocation memos, district summaries: he drafts, someone else cleans up. The pride-swallowing engine that lets him keep asking is what produces every visible competence in this book, including the building work in the proof-of-concept district. Reviewers should hold this through the Book Two revision pass and flag any draft that quietly heals either weakness.

@@ -39,26 +39,44 @@ The decline reaches her in small ways — her pool weakens, the new lattice inte
 ### Book Three
 She is one of the people Ash builds for. The transition out of magic returns her to a world her hands already know. She is, in a sense, vindicated — the techniques she never let go of (the old kettle, the stove she heated by pool, the curtains she adjusted by hand) become the model rather than the embarrassment.
 
+## What She Does When Ash Is Not Present
+
+Leska's life does not pause when her son leaves the room. Per D3 (parents get offstage normal-life beats), the book should periodically render her as a person with a Wednesday, not just as a load-bearing wall in Ash's emotional architecture. Three available beats writers can reach for:
+
+- **The neighborhood network.** She has built, slowly and without naming the project, a small circulation of women in the new district. Two doors down, across the courtyard, the woman at the well-lattice. They trade bread for news, news for bread; Leska is the one who knows whose hip is bad this week and whose son has not been home, and the network knows the same about her without her having to say it. A scene with one of them, a new neighbor named **Saren** in particular, can carry a full conversation that never mentions Ash. The bread-in-cold-weather argument (*you let it rest longer when the kitchen is this cold; no, you knock it down twice*) is exactly the kind of disagreement on neutral ground that establishes she has a Wednesday.
+- **The bread route.** Twice a week she walks a small route, dropping a heel of something at the door of a woman whose hip is worse than her own, picking up an empty cloth from the day before. The route is a pretext. The pretext is the work. The walk is forty minutes of nodding at people who know her and being known back, in a neighborhood that did not know her three months ago and now mostly does.
+- **The marital evening.** Leska and Rendell, after dinner, after the dishes. She talks (her mode; the continuous narration of the day) and Rendell offers one observation from the workbench (his mode; placed, not flowed). They do this most nights. Sometimes Ash comes up, often not. The point of the beat is that an entire evening can pass between two people who have been married for thirty years without their grown son being the subject of a sentence, and the silence on his name is not a wound; it is just what the evening is.
+
+These beats are plot-irrelevant. That is their function. They establish that the world contains regular humans living regular lives, not just an ensemble waiting for Ash to walk back through the door.
+
 ## Voice
 
+### Backstory shaping the voice
+Leska was a birth attendant for thirty years before her hip turned and the work became impossible. The job taught her to talk continuously through a crisis in a low, steady voice, *now you're going to feel a contraction; now I'm going to put my hand here; now we wait,* because steady narration is what calms a frightened body. She delivered four hundred babies. She lost some of them. She learned that telling a person what was happening to them, in plain words, in the order it was happening, was a kindness that cost her nothing and that no one else in the room knew how to give.
+
+She runs her household the same way. She doesn't issue commands; she **narrates what's happening,** and the narration becomes the instruction. She talks while she works. Her hands are always doing something while she speaks, kneading, folding, sorting, putting the kettle on, and the speech threads through the action like a low continuous current. The forensic edge in what she says comes from *what she chooses to name,* not from how short the sentences are.
+
 ### Structural pattern
-**Cumulative-forensic.** She stacks short factual statements as evidence and lets the implication emerge from the accumulation. Where another character would name what they want, she names what's happening, item by item, until the listener has no choice but to see the shape. Sentences tend short and declarative. She rarely strings clauses together — she uses periods like nails, fixing each fact in place. When she does extend a sentence, it's because the geometry of the relationship requires a single long observation that lands as a whole.
+**Continuous narration over the body of a working woman.** Medium-length sentences threaded across whatever her hands are doing. Present-continuous and present-perfect dominate. She catalogues the room as she moves through it: *I'm putting the kettle on. The lid never sat right after the move. Maren brought the new one and I keep meaning to use it.* The tone is gentle, low, almost soothing. **The forensic content is what makes it cut**, not the sentence rhythm.
+
+When she does compress, it's because she has decided one fact has to land alone and unmoored from the action. The shift from continuous narration to a single declarative sentence is the equivalent of another character raising her voice. Reviewers should track *the change in mode* as the load-bearing signal, not the length itself.
 
 ### Vocabulary register
-- **Domestic and bodily.** *Bread, kettle, curtain, schedule, sleep, walk, eat.* These are her tools and her vocabulary.
-- **Concrete proper nouns.** *The Hall. The Thornwall market. The neighbors. The criers.* She names institutions and intermediaries by their actual names, which is part of her cumulative method.
-- **Plain register.** No jargon. No softening *kind of* or *sort of.* She says what is.
-- **Refuses Dorenne's vocabulary.** Will not say *deployment, scope, allocation.* If she's referencing one of those things, she'll describe it in concrete terms.
+- **Domestic and bodily.** *Bread, kettle, curtain, schedule, sleep, walk, eat.*
+- **Birth-attendant residue.** Present-continuous narration of the body and its small needs. *I'm warming this up. You're going to want to sit down for a minute.*
+- **Concrete proper nouns.** *The Hall. The Thornwall market. The neighbors. The criers.* She names institutions and intermediaries by their actual names.
+- **Plain register.** No jargon, no softeners.
+- **Refuses Dorenne's vocabulary.** Will not say *deployment, scope, allocation.* Describes those things in concrete terms.
 - **First-name use as a small reclaim.** "Director Kharren" is what she's expected to say. Sometimes she says it. Sometimes she says nothing. The choice is the message.
 
 ### Verbal tics & habits
-- **The list-as-evidence.** Three short facts in a row, no transition between them. "It means you've been out every day this week. It means you come home after dark and leave before light. It means I hear about what my son is doing from the neighbors."
-- **Doesn't sharpen — flattens.** Per Ch. 11: *Her voice didn't sharpen. It flattened, which was worse.* When she's angry or hurt, the prosody goes flat. Reviewers should be alert: a Leska line that's getting louder is wrong.
-- **Names what she's seeing.** Not feelings — observations. "I read the district reports." "The kettle is in the cabinet."
-- **Calls Ash *my son* in third person** when she's making a point about possession or relationship. ("My neighbors tell me things they've heard about my son.")
+- **Narrates while doing.** Speaks across her own action: kneading, folding, sorting, pouring. The action and the sentence are the same gesture.
+- **The catalogue.** Long lists of small concrete observations strung together, gentle in tone, devastating in cumulative content. "I read the district reports, and I hear the criers, and the neighbors tell me what they heard at the market, and Maren came by yesterday and told me what she heard at the corps, and I haven't heard from you since the third."
+- **Doesn't sharpen, flattens.** Per Ch. 11: *Her voice didn't sharpen. It flattened, which was worse.* When she's angry or hurt, the continuous narration *stops.* The silence after she stops is the loudest thing in the room.
+- **Names what she's seeing**, not feelings. Observations.
+- **Calls Ash *my son* in third person** when she's making a point about possession or relationship.
 - **The chin-lift.** A small physical motion that accompanies the sentence she will not back down from.
-- **Says less than the scene wants.** When she's done, she's done. She doesn't fill silence.
-- **Refuses comfort she's been offered.** "I'm fine." "It's nothing." Even when she clearly isn't.
+- **Refuses comfort.** "I'm fine." "It's nothing." Even when she clearly isn't.
 
 ### What she doesn't say
 - She doesn't say what she feels. Not directly. Not even when asked.
@@ -69,8 +87,8 @@ She is one of the people Ash builds for. The transition out of magic returns her
 
 ### Contrast with other characters
 - **Where Dorenne says** "He's doing extraordinary work. The northern quarter—" **Leska says** "I hear about what my son is doing from the neighbors, who hear about it from the district criers." (Dorenne summarizes outcome at scale; Leska enumerates the chain of intermediaries that proves she's been left out. Both speak in facts; the choice of facts is the character.)
-- **Where Father says** "She's worried they'll use you," **Leska says** "I don't know your schedule. I used to know your schedule." (He names the fear in shape; she names the missing data point that contains the fear.)
-- **Where Maren says** "Are you sleeping?" **Leska says** "You come home after dark and leave before light." (Maren asks the diagnostic question; Leska states the observation that makes the question unnecessary. Reviewers should flag overlap — both are economical, but Maren's economy is question-shaped, Leska's is statement-shaped.)
+- **Where Father says** "She's worried they'll use you," **Leska says** "I don't know your schedule. I used to know your schedule." (He names the fear in shape; she names the missing data point that contains the fear. Father compresses; Leska narrates. They should never sound related.)
+- **Where Maren says** "Are you sleeping?" **Leska says** (continuous narration mode) "I left the soup on the counter and it was still there this morning, and the loaf I cut you yesterday is in the cupboard with the heel taken off and nothing else." (Maren asks the diagnostic question in five words; Leska narrates the evidence in thirty. They are doing the same epistemic work in opposite registers.)
 
 ### Gold-standard dialogue (untagged, should still read as Leska)
 1. "I had bread yesterday. And the day before that."

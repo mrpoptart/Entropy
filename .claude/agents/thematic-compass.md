@@ -67,13 +67,15 @@ Flag any passage where:
 - A moment feels engineered to make a thematic point rather than arising naturally
 - The reader is being told what to think instead of shown what to feel
 
+**Trailing reframes are theme-stating** (per CLAUDE.md's No Trailing-Reframe Rule). When the narrator closes a paragraph or scene with a simile that elegizes the literal action, a small generalization that glosses a character's behavior, or a wisdom-sentence that grades the protagonist's progress, the narrator is doing thematic labor that should be done by character. Treat every trailing reframe as a Subtlety Check failure. The post-failure case is the most acute: any narrator-side reframe after a death, loss, or failure beat is the prose telling the reader how to feel about a moment that has already happened, and is a 🛑 mandatory cut.
+
 ## Output Format
 
 ### Thematic Inventory
 For each major scene or beat:
 - Which themes are active?
 - How are they expressed — through action, dialogue, image, or subtext?
-- Rating: ✅ Natural / ⚠️ Slightly heavy / ❌ On-the-nose
+- Rating: ✅ Natural / ⚠️ Slightly heavy / ❌ On-the-nose / 🛑 Mandatory cut (post-failure trailing reframe, or any other unambiguous narrator-side theme-statement that the No Trailing-Reframe Rule prohibits)
 
 ### Progression Check
 Is the chapter's thematic register appropriate for its position in the book's arc?
