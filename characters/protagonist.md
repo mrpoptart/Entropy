@@ -27,6 +27,31 @@ The intellect also makes the grief sharper. He's smart enough to do the math ear
 
 **Social intelligence and relationship-building.** Relationships are his only currency. He has spent his life refining his ability to connect with people, to be useful, to be liked, to hold onto anyone who treats him as a full person rather than a charity case. He has deep connections not because he's naturally charismatic, but because he's *worked at it* — being someone people want around despite his condition. This is a genuine skill that will matter throughout the trilogy.
 
+### Pre-Wellspring Incompetence (Specific Failures)
+
+Ash was not secretly always capable. His pre-Wellspring life is full of specific, on-the-page failures, and the reader should witness three or four of them across Book One so that his post-Wellspring competence reads as earned rather than asserted. Three seeded failures the writers should be able to reach for:
+
+- **The abandoned workshop mechanism.** A small geared device he was building at Haran's bench, eighteen months before Book One opens. He hit a problem he could not solve, the escapement kept binding, set it aside, came back to it three times over six months, never got it right. **Tal**, the teenaged apprentice, finished it in an afternoon after Ash gave up. The device works. It sits on a shelf in the workshop. Ash has never quite stopped flinching when he sees it.
+- **The lost laborer job at sixteen.** A hauling job on the southern docks. The work was simple and the pay was honest. He lost the job in his second week because the foreman needed him to channel a stabilizing pulse into a swinging crate and he could not, and the foreman, who had not been told, took the inability personally. He went home and did not tell his parents for a week.
+- **The badly-written letter of recommendation.** A character reference he wrote, at twenty-one, for a workshop friend applying to a guild apprenticeship. He laboured over it for three nights. The friend showed it, gently, to her aunt before submitting it; the aunt made him rewrite the whole thing, line by line, and explained the conventions he had missed. The friend got the apprenticeship. Ash kept the rewritten copy as a quiet reminder.
+
+Each of these is available to writers as backstory, dialogue, or on-page beat. At least two should appear across Book One; the third can sit in reserve.
+
+### Persistent Weaknesses (Carried Across the Trilogy)
+
+Ash has two weaknesses he never overcomes. They stay bad. He works around them by leaning on people who are good at them, which is itself characterization.
+
+- **Public speaking.** Addressing groups terrifies him. He is bad at it, and he stays bad at it. Council appearances, crew briefings, press events, any moment where he has to speak in front of more than a handful of people: his body betrays him. His chest goes tight, his sentences contract into nothing, the chatter-armor that works in small rooms collapses into stuttered fragments. Other characters notice. The narration does not soften it. Across all three books, the move he makes when a podium appears is to find the person beside him who can take the floor.
+- **Administrative writing.** Reports, memos, formal correspondence, official summaries. He has no experience and no instinct for it. His drafts over-explain, miss the conventions, get the ordering wrong, leave out the things institutional readers expect. Dorenne, then Tessaly, then whoever takes the equivalent role in Books Two and Three, has to fix his drafts more than once. He learns to ask for the markup. He never learns to write the thing right the first time.
+
+Neither weakness is overcome at any point in the trilogy. Both stay bad. Reviewers should flag any draft that has Ash quietly developing competence at either; the spec is that he gets better at routing around them, not at performing them.
+
+### His Real Superpower (the Engine Underneath)
+
+Ash's true gift is not intellect, not the Wellspring, not physical capability. It is the capacity to swallow his pride. A lifetime of being the constrained one, the family burden, the apologetic presence, has made pride-swallowing his deepest competence and the load-bearing trait under everything else he does. He asks for help when other people would not. He accepts correction without flinching. He tries the thing he is bad at again because he has nothing left to protect. This is the engine that produces his apparent competence across the trilogy. Not talent, not gift, not the Wellspring. The capacity to be bad at something in front of people and try anyway, and to ask the person beside him to mark up the next attempt.
+
+The book should make this visible by *showing the asking*, not by naming it. Reviewers should treat scenes where Ash asks for help as load-bearing and protect them.
+
 ### Economic Situation
 He has recently been taken on by a powerful patron (character TBD) as an aide or assistant — a charity case dressed up as opportunity. This feels like the first real break in his life: a salary, dignity, relief from draining his family. He's deeply grateful and refuses to see the red flags.
 
@@ -38,7 +63,7 @@ In his spare time, he's part of the city's small tinkerer community — people e
 He wants to stop being a drain on the people he loves and start contributing. He wants to prove — to himself, to his family, to the world — that he belongs and is not a charity case. Dorenne position feels like the answer to this. He is hoping so hard that it's real that he can't see what it actually is.
 
 ### What He Needs (The Arc)
-He needs to learn that his worth was never about capability — magical or otherwise. He needs to separate his identity from what he can or can't do. He needs to discover that the things he learned in his years of powerlessness — resilience, empathy, physical competence, the ability to connect, the knowledge of what it's like to live without magic — are more valuable than the Wellspring ever was.
+He needs to learn that his worth was never about capability — magical or otherwise. He needs to separate his identity from what he can or can't do. He needs to discover that the things he learned in his years of powerlessness — resilience, empathy, physical competence, the ability to connect, the knowledge of what it's like to live without magic — are more valuable than the Wellspring ever was. The arc is not about overcoming his persistent weaknesses (the public speaking, the administrative writing); it is about recognizing that the pride-swallowing engine which lets him keep asking for help is the real gift, and that his competence has always been the visible product of that engine, not of latent talent.
 
 ## The Wellspring Arc
 
@@ -69,46 +94,55 @@ The final expenditure drains him completely. He returns to zero — not to a nor
 
 ## Voice
 
+### Backstory shaping the voice
+Twenty-three years of being treated as fragile taught Ash that adults relax when he reassures them verbally. He learned early that the silence after a stranger asked "*what's wrong with him?*" was unbearable for everyone in the room, and that he could end it by talking. He became the funny one in Haran's workshop because being the funny one was better than being the broken one. He developed a fluent overshare. He fills rooms.
+
+This matters because it gives him a *strategy* for talking, not just a register: **chatter as armor.** The Wellspring takes the strategy away from him scene by scene, because powerful people don't need to deflect. By mid-book one, the absence of his old chatter is the loudest signal in any room he walks into.
+
 ### Structural pattern
-**Warm-and-digressive, drifting toward declarative-efficient as the Wellspring arc progresses.** Pre-Wellspring baseline: medium-length sentences with side-paths — qualifications, jokes, small concrete details that soften any direct statement. He hedges with question-shaped offers ("I could maybe—") and trails off when a topic cuts close to his condition. Post-Wellspring drift: as he absorbs Dorenne's framing, his sentences shorten and harden into scope-and-deployment talk ("Four walls today," "the northern quarter—"). The flattening is part of his arc; agents should let the warmth recover whenever he's actually back in his body (with Haran, Ryn, his parents at the right moment).
+**Pre-Wellspring: rambly, social, performatively self-deprecating.** Long sentences with three side-paths. Apologies tucked into mid-sentence. Jokes that he flags as not landing. He repeats other people's phrases ("Haran says you don't use a hammer on glass, which, fair") because echoing is friendlier than asserting. Median sentence around twenty words; he can hold a paragraph by himself. Important caveat: the chatter-voice is **small-room only**. It works one-on-one and in groups of three or four where he can read every face. It falls apart on podiums, at press events, in front of councils, anywhere the audience is more than a handful of people. There the chatter contracts into stuttered fragments and he stops talking; another character has to take the floor. Reviewers should expect the chatter to fail at scale, and flag any scene where he speaks fluently to a crowd as a spec violation.
+
+**Post-Wellspring drift: short, declarative, increasingly Dorenne-shaped.** As he absorbs scope-talk, the sentences contract. The word count drops by roughly half across book one. The drift is *involuntary*; warmth recovers whenever he's physically grounded with Haran, Ryn, or his parents at the right moment. Reviewers should treat the silence as a symptom and watch for the moments when chatter briefly returns, those are the rare scenes he's actually himself in.
 
 ### Vocabulary register
-- **Pre-Wellspring:** concrete, physical, hands-and-tools language. He reaches for what he can touch — bread, blade, mortar, kettle — because that's the world a magicless life trained him to see.
+- **Pre-Wellspring:** concrete, physical, hands-and-tools language. He reaches for what he can touch (bread, blade, mortar, kettle) because that's the world a magicless life trained him to see.
 - **Post-Wellspring drift:** acquires Dorenne's institutional vocabulary (*deployment, district, allocation, scope*) and notices himself doing it. The acquisition is corrupting and audible.
 - Contractions throughout. Casual register with everyone except Dorenne, where he gets slightly stiffer.
-- Self-deprecating jokes as social glue: "I should be more careful." "Sorry, you'd think I'd—"
+- Self-deprecating jokes as social glue, often pre-emptive ("I'm gonna mess this up, just so you know, but here goes").
 
 ### Verbal tics & habits
-- **Apology-as-greeting.** A baseline politeness layer ("Sorry," "I just—," "Thanks") that's so reflexive it precedes most asks.
-- **Asks questions instead of declaring** when he's uncertain or when declaring would feel presumptuous. "What's next?" "Is that—?" "Should I—?"
-- **Self-deprecation as deflection** when praised. He turns compliments back into work questions.
-- **Concrete return.** When emotions get heavy, he reaches for a physical detail — bread, a tool, his hands on a railing — and steers there.
-- **Trails off** rather than escalating. Em dash + nothing.
-- Late-Book-One: the "I" of "I'm doing—" gets replaced by the "we" of Dorenne's plans, which he doesn't notice until someone else does.
+- **Chatter as armor.** When uncomfortable, he talks more, not less. Multi-clause sentences that loop back to apologize for the previous clause.
+- **Apology-as-greeting.** "Sorry," "I just," "Thanks" so reflexive they precede most asks.
+- **Quotes other people.** When he doesn't trust his own authority on a thing, he attributes the thought ("Haran says," "Maren told me once that").
+- **Flags his own jokes.** "That was a bad one, sorry." "Okay, that didn't land." This is how he survives a room of people who he expects not to laugh.
+- **Concrete return.** When emotion gets heavy, he reaches for a physical detail (bread, a tool, his hands on a railing) and steers there. Survives mid-arc.
+- **Trails off** rather than escalating. Ellipsis, no escalation.
+- Late book one: the "I" of "I'm doing" gets replaced by the "we" of Dorenne's plans, which he doesn't notice until someone else does.
 
 ### What he doesn't say
 - He doesn't name what his condition cost him. Even at peak grief, he reaches for jokes or concrete tasks.
 - He doesn't accept compliments cleanly. They embarrass him.
 - He almost never says "I want." He says "I could," "I should," "we need."
-- He does not boast about the Wellspring, even when intoxicated by it — the boast leaks out through scope-talk and choice of detail, never through claim.
+- He does not boast about the Wellspring, even when intoxicated by it; the boast leaks out through scope-talk and choice of detail, never through claim.
 - He doesn't push back against Dorenne in words. His resistance is physical (lateness, the lunch in the pocket).
+- He doesn't say *I can't do this*, even when he visibly can't. The asking-for-help is the move: he gives the failed thing to the person who can fix it (the memo to Dorenne, the summary to Tessaly, the floor to whoever can hold it) and routes around the weakness without naming it. The reader should see the routing happen many times before any character names what is happening.
 
 ### Contrast with other characters
-- **Where Maren says** "I'm fine," **Ash says** "I'm okay. I'm doing good work. I'm helping people." (He elaborates the reassurance because he doesn't trust it himself; she trims because she does.)
-- **Where Dorenne says** "We can deploy you to the northern quarter," **Ash says** (early) "I could try. I don't know if it'll work. I'll go." (Hedge, doubt, commit.) Late: "Four walls today." (The borrowed cadence is the warning sign.)
-- **Where Ryn says** "Have you eaten?" **Ash says** "I had bread, I'm fine, sorry — what were you saying?" (She trims; he diverts.)
-- **Where Haran says** "How much is left?" **Ash says** "Enough. I think. Probably." (Haran asks the resource question in five words; Ash answers it in three hedges.)
+- **Where Maren says** "I'm fine," **Ash says** "I'm okay, I'm doing good work, I'm helping people, sorry, what was the question?" (She trims because she's certain; he elaborates because he isn't.)
+- **Where Dorenne says** "We can deploy you to the northern quarter," **Ash says** (early) "I could try, I mean, I don't know if it'll work but I'll go, yeah." Late: "Four walls today." (The borrowed cadence is the warning sign.)
+- **Where Ryn says** "Have you eaten?" **Ash says** "I had bread, ages ago, technically that counts, sorry, what were you saying?" (She trims; he diverts via word count.)
+- **Where Haran says** "How much is left?" **Ash says** (early) "Enough, I think, probably, hard to say, you know how it is." (Five-word resource question; fifteen-word non-answer.)
 
 ### Gold-standard dialogue (untagged, should still read as Ash)
-1. "Sorry — yeah. I'll figure it out. It's probably just the alignment."
-2. "I'm okay. I'm doing good work. I'm helping people. This is what I wanted — what we wanted. Remember?"
-3. "Four walls today. The retaining wall behind the market, and three sections of the canal lining."
-4. "I built a pointing tool once. For the workshop. A modified spatula." *(borrowing Father's pattern when he's reaching back for who he used to be — a rare echo)*
+1. *(Pre-Wellspring chatter mode)* "Sorry, yeah, no, I can do it, I just, give me a second, I'll figure it out, it's probably just the alignment, that's usually what it is, ask Haran, he'll tell you the same thing."
+2. *(Mid-arc, lying to himself)* "I'm okay. I'm doing good work. I'm helping people. This is what I wanted, what we wanted. Remember?"
+3. *(Post-Wellspring flattening)* "Four walls today. The retaining wall behind the market, and three sections of the canal lining."
+4. *(Reaching back to who he was, briefly)* "I built a pointing tool once. For the workshop. A modified spatula." *(borrowed Father-cadence; rare echo)*
 
 ### Sample bank (curated from drafted chapters)
-- *Ch11, on Dorenne's bridge:* "Still — I should be more careful." (apology-as-correction)
-- *Ch11, family table:* "Four walls today. The retaining wall behind the market, and three sections of the canal lining. Orett says the retaining wall will hold for a year." (post-Wellspring scope-talk leaking into family register — the warning sign)
-- *Ch11, with mother:* "I'm okay. I'm doing good work. I'm helping people. This is what I wanted — what we wanted. Remember? When I got the job at the Hall — when I came home and told you — you cried." (over-elaborated reassurance because he's lying to himself)
+- *Ch11, on Dorenne's bridge:* "Still, I should be more careful." (apology-as-correction)
+- *Ch11, family table:* "Four walls today. The retaining wall behind the market, and three sections of the canal lining. Orett says the retaining wall will hold for a year." (post-Wellspring scope-talk leaking into family register, the warning sign)
+- *Ch11, with mother:* over-elaborated reassurance because he's lying to himself; the rambly mode briefly returns when he's defending a story he doesn't believe.
 
 ## Contradictions to Preserve
 - He's cheerful and warm, AND he's carrying deep private grief

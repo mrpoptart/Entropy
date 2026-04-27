@@ -62,11 +62,11 @@ Ash looked at her.
 
 She was writing. A pencil had appeared in her hand (he hadn't seen her pick it up) and she was making notes in the margin of the deployment chart. Small, precise figures. Calculations.
 
-"If we reduce the western district work," she said, the pencil moving, "and focus on the three critical aqueducts, the Thornwall main, the Ridgeline feed, and the southern collector, we can extend the useful output by—" She paused. Calculated. "Six to eight weeks. Possibly more, if we shift the heating grid maintenance to conventional crews and reserve your capacity for structural and water."
+"If we reduce the western district work," she said, the pencil moving, "and focus on the three critical aqueducts, the Thornwall main, the Ridgeline feed, and the southern collector, we can extend the useful output by..." She paused. Calculated. "Six to eight weeks. Possibly more, if we shift the heating grid maintenance to conventional crews and reserve your capacity for structural and water."
 
 She looked up. Her eyes were clear. Focused. The eyes of a woman who had received information and was processing it, not as news about a person, but as a constraint on a system she managed.
 
-"The secondary bridge reinforcements can wait," she continued. "They're rated for another two years minimum without channeling. The eastern residential blocks, those are cosmetic, frankly. The cracks are unsightly but not structural. If we cut those entirely and redirect—"
+"The secondary bridge reinforcements can wait," she continued. "They're rated for another two years minimum without channeling. The eastern residential blocks, those are cosmetic, frankly. The cracks are unsightly but not structural. If we cut those entirely and redirect..."
 
 "Dorenne."
 
@@ -90,7 +90,7 @@ Something moved across her face. Not the institutional mask, something underneat
 
 "Yes."
 
-"Before you—" He stopped. He didn't know how to say it. Before you reacted. Before you felt anything. Before you looked at me and saw a person instead of a resource.
+"Before you..." He stopped. He didn't know how to say it. Before you reacted. Before you felt anything. Before you looked at me and saw a person instead of a resource.
 
 But he couldn't say that, because he wasn't sure it was fair. And he couldn't say it because some part of him, the part that had spent a lifetime reading rooms and managing other people's comfort, understood that fairness was beside the point. What mattered was what he'd watched. What he'd seen her hands do.
 
@@ -102,7 +102,7 @@ The question was genuine. He heard it in her voice, not defensive, not rhetorica
 
 "I don't know," he said.
 
-"I have a responsibility," she said. "To the districts that depend on this work. To the crews. To the forty thousand people who drink from the Thornwall aqueduct every day." She wasn't raising her voice. She never raised her voice. "You've told me that a critical resource is finite and declining. My job—my actual, specific job—is to manage finite resources for the greatest public benefit. That's what I was doing."
+"I have a responsibility," she said. "To the districts that depend on this work. To the crews. To the forty thousand people who drink from the Thornwall aqueduct every day." She wasn't raising her voice. She never raised her voice. "You've told me that a critical resource is finite and declining. My job, my actual, specific job, is to manage finite resources for the greatest public benefit. That's what I was doing."
 
 "I know."
 
@@ -118,7 +118,7 @@ Dorenne's jaw tightened. A small motion, the kind of motion you'd miss if you we
 
 Silence.
 
-"But the power is a resource," she said. "It has always been a resource. That's not—I didn't make that true, Ash. The Wellspring has always been finite and deployable and subject to allocation decisions. The only thing that's changed is that now you know the timeline."
+"But the power is a resource," she said. "It has always been a resource. That is not. I did not make that true, Ash. The Wellspring has always been finite and deployable and subject to allocation decisions. The only thing that's changed is that now you know the timeline."
 
 She was right.
 
@@ -138,21 +138,21 @@ Dorenne was quiet for a moment. "The second week of reconstruction."
 
 "You watched the number climb. Week after week. You tracked it. You calculated what I was spending and you saw the trajectory, and you didn't tell me." His voice was level. Not accusing. Factual, the way she was factual. "You let me keep going."
 
-"The work was necessary. Every site—"
+"The work was necessary. Every site..."
 
 "I know. Every site was necessary. Every deployment was justified. Every allocation was correct." He pressed his palms flat on his thighs. "That's not what I'm asking. I'm asking why you didn't tell me I was running down."
 
 Her jaw tightened. The small motion, the one you'd miss if you weren't watching.
 
-"Because you would have stopped," she said. Quietly. "Or slowed. Or started making your own calculations about which sites mattered and which didn't, and the work would have suffered, and people would have—"
+"Because you would have stopped," she said. Quietly. "Or slowed. Or started making your own calculations about which sites mattered and which didn't, and the work would have suffered, and people would have..."
 
 "So you managed it."
 
-"I managed the information. The way I manage—"
+"I managed the information. The way I manage..."
 
 "The way you manage a resource." The word sat between them. He heard himself say it and felt the shape of the thing that had been building in his chest since the pencil. "That's what I am in the framework. In your framework. A resource with a depletion curve. And the optimal strategy for a depleting resource is to extract maximum value before it's gone."
 
-"That is not—" Her voice cracked. Not much. A hairline fracture. "That is not what I—"
+"That is not..." Her voice cracked. Not much. A hairline fracture. "That is not what I..."
 
 "I know." And he did. He could see it in her face: the genuine anguish, the woman behind the institution fighting to get past the walls she'd built around herself. She hadn't meant to. The framework had done it for her, the same framework that made her brilliant, that made her effective, that made her the best Director of Infrastructure in a generation. The framework that turned everything it touched into a system to be optimized. Including him.
 
@@ -166,7 +166,7 @@ Her hand moved to the tea cup. Lifted it. Set it down without drinking. The moti
 
 "Time."
 
-"To think. About the deployment schedule. About the allocation. About—" He stopped. About whether I'm a person to you, or a line item that learned to talk. But he didn't say that. It would have been cruel, and it would have been only partly true, and Dorenne didn't deserve cruelty, even now. Especially now.
+"To think. About the deployment schedule. About the allocation. About..." He stopped. About whether I'm a person to you, or a line item that learned to talk. But he didn't say that. It would have been cruel, and it would have been only partly true, and Dorenne didn't deserve cruelty, even now. Especially now.
 
 "About what I want to build with what's left," he said.
 
@@ -174,13 +174,13 @@ Something crossed her face at the word *build*. He couldn't read it. Surprise, m
 
 "How much time?" she asked.
 
-He almost laughed. The question was so perfectly Dorenne—so precisely, beautifully, devastatingly institutional, that it nearly broke the flat calm he'd maintained since sitting down. How much time. As though grief operated on a schedule. As though the process of deciding whether you were a person or a resource could be mapped onto a Gantt chart and assigned a completion date.
+He almost laughed. The question was so perfectly Dorenne, so precisely, beautifully, devastatingly institutional, that it nearly broke the flat calm he'd maintained since sitting down. How much time. As though grief operated on a schedule. As though the process of deciding whether you were a person or a resource could be mapped onto a Gantt chart and assigned a completion date.
 
 "I don't know," he said.
 
 She nodded. The nod was careful. Measured.
 
-"The Thornwall aqueduct—" she began.
+"The Thornwall aqueduct..." she began.
 
 "Not today."
 
@@ -200,7 +200,7 @@ He didn't name it. He couldn't. It was there and then the institutional mind clo
 
 "Thank you."
 
-"The aqueducts can't wait more than two weeks. The Ridgeline feed is—"
+"The aqueducts can't wait more than two weeks. The Ridgeline feed is..."
 
 "I know."
 
@@ -214,7 +214,7 @@ He stopped. Didn't turn.
 
 He stood in the doorway and listened.
 
-"That wasn't allocation," she said. "That was—I was there because I wanted to be there."
+"That wasn't allocation," she said. "That was, I was there because I wanted to be there."
 
 He believed her. That was the worst of it. He believed her completely, and it didn't change anything, because the woman who sat with him in the transit hub and the woman who pulled out the deployment chart in the same breath as learning he was running down, they were the same woman. They had always been the same woman. The care and the calculation lived in the same hands, drew from the same well, operated on the same face. He couldn't take one without the other, and he couldn't live with both.
 
@@ -340,7 +340,7 @@ He thought of Haran's question.
 
 *What do you want to build?*
 
-He didn't have an answer. Not yet. But the question was there, solid as a workbench, and the deployment chart was there too, and the pencil was there, and the pump was there, and Ryn's hand on his arm was there—warm, brief, gone—and all of it sat in the same space inside him, crowded and irreconcilable and true.
+He didn't have an answer. Not yet. But the question was there, solid as a workbench, and the deployment chart was there too, and the pencil was there, and the pump was there, and Ryn's hand on his arm was there, warm, brief, gone, and all of it sat in the same space inside him, crowded and irreconcilable and true.
 
 He stood.
 

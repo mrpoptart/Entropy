@@ -2,7 +2,7 @@
 
 Dorenne's office smelled like cold tea and old paper.
 
-She was standing at the map when Ash arrived—a wide-format rendering of Solathis pinned to the wall behind her desk, districts outlined in different colors, annotations in her tight handwriting clustered around the eastern and southern edges. She didn't look up. She was tracing a line with her finger from the eastern heating grid to the southern water junction, and the line kept stopping where her finger stopped, as if the city's problems were a sentence she couldn't finish.
+She was standing at the map when Ash arrived, a wide-format rendering of Solathis pinned to the wall behind her desk, districts outlined in different colors, annotations in her tight handwriting clustered around the eastern and southern edges. She didn't look up. She was tracing a line with her finger from the eastern heating grid to the southern water junction, and the line kept stopping where her finger stopped, as if the city's problems were a sentence she couldn't finish.
 
 "Sit," she said.
 
@@ -18,7 +18,7 @@ He did. He'd filed the reports himself, back before the Wellspring. The maintena
 
 She pulled a sheet from her desk: figures, names, dates. The particular organization of information that was Dorenne at her most precise.
 
-"Four hundred and twelve households. Roughly sixteen hundred people. They've been hauling water from the market district for bathing. Wearing layers indoors. The children are getting sick, not from anything specific, just from cold. The kind of slow, grinding illness that comes from four months of never being warm enough." She set the sheet down. "Two elderly residents have died. Not from cold directly. From the complications of cold—pneumonia, falls on icy interior floors. The kind of deaths that get listed as natural causes, because nobody tracks what cold does to people who are already fragile."
+"Four hundred and twelve households. Roughly sixteen hundred people. They've been hauling water from the market district for bathing. Wearing layers indoors. The children are getting sick, not from anything specific, just from cold. The kind of slow, grinding illness that comes from four months of never being warm enough." She set the sheet down. "Two elderly residents have died. Not from cold directly. From the complications of cold (pneumonia, falls on icy interior floors). The kind of deaths that get listed as natural causes, because nobody tracks what cold does to people who are already fragile."
 
 Ash looked at the sheet. The names were listed in Dorenne's handwriting, neat and impersonal, the same hand that wrote budget projections and crew schedules. Two names circled at the bottom.
 
@@ -60,7 +60,7 @@ The first junction box was set into a wall at the intersection of two residentia
 
 "The lattice is intact?" Ash asked.
 
-"Structurally, yes. The channels are clear—we checked last month. It's just empty. Like a pipe with no water."
+"Structurally, yes. The channels are clear, we checked last month. It's just empty. Like a pipe with no water."
 
 He stepped up to the interface. Put his palm on the disc.
 
@@ -68,25 +68,25 @@ Cold. The stone bit into his skin. Behind it, through it, he could feel the latt
 
 He pushed.
 
-The reservoir responded the way it always did: instantly, enormously, with a force that had nothing to do with his intention. He wanted a stream. He got a river. Energy poured through his palm into the interface disc and the disc heated under his hand in seconds, the stone going from cold to warm to hot. He felt the lattice behind it drinking—pulling the energy inward, distributing it through the network, the channels filling like dry riverbeds in a sudden rain.
+The reservoir responded the way it always did: instantly, enormously, with a force that had nothing to do with his intention. He wanted a stream. He got a river. Energy poured through his palm into the interface disc and the disc heated under his hand in seconds, the stone going from cold to warm to hot. He felt the lattice behind it drinking, pulling the energy inward, distributing it through the network, the channels filling like dry riverbeds in a sudden rain.
 
 Too fast. The disc under his palm was scorching. He pulled back on the output, clamped down the way he'd practiced at the quarry, pressing the reservoir's surface flat, and the flow reduced. Not to a trickle. To a heavy pour. The disc glowed faintly at its edges, heat shimmering in the air above it.
 
 Waste. He could feel it. The heat bleeding from his hand into the air, radiating from the disc in all directions, warming the street instead of the buildings. At the quarry, the waste hadn't mattered. Here it was energy that could have gone into walls, into homes, into the hands of children. He clamped down harder. The output narrowed.
 
-The lattice was filling. He could feel it through the interface—the network coming alive section by section as channels warmed in sequence as the energy propagated through the stone. A rumble in the walls, barely audible. The deep sound of stone expanding as it heated, the building's structure adjusting to a temperature it hadn't held in months.
+The lattice was filling. He could feel it through the interface, the network coming alive section by section as channels warmed in sequence as the energy propagated through the stone. A rumble in the walls, barely audible. The deep sound of stone expanding as it heated, the building's structure adjusting to a temperature it hadn't held in months.
 
 Verant put her hand on the wall of the nearest building. Her eyes widened.
 
 "It's warm," she said. She looked at her colleague. "The wall is warm."
 
-Ash kept channeling. The lattice was greedy—four months of cold had left the stone depleted, and the network was absorbing everything he gave it, pulling the energy deeper into the structure, distributing it through floors and walls and ceilings. He could feel the propagation—room by room, the buildings warming from the interface outward, heat moving through stone the way color spread through water.
+Ash kept channeling. The lattice was greedy. Four months of cold had left the stone depleted, and the network was absorbing everything he gave it, pulling the energy deeper into the structure, distributing it through floors and walls and ceilings. He could feel the propagation, room by room, the buildings warming from the interface outward, heat moving through stone the way color spread through water.
 
 He held the output for five minutes. Ten. The waste heat was constant: his hand was hot, the air around the disc shimmered, and the pavement at his feet was warm enough that the frost in the cracks had melted. Inefficient. Wildly, extravagantly inefficient. A trained channeler would have done this with a fraction of the energy. Haran would have threaded a needle where Ash was using a hammer.
 
-He didn't care. The buildings were warming. He could feel it through the lattice—room after room, wall after wall, the cold retreating as the energy pushed through. Sixteen hundred people were about to be warm.
+He didn't care. The buildings were warming. He could feel it through the lattice, room after room, wall after wall, the cold retreating as the energy pushed through. Sixteen hundred people were about to be warm.
 
-He stepped back. The interface disc glowed faintly, residual heat dissipating into the lattice. The air around it was tropical—waste energy radiating in all directions, creating a pocket of warmth in the cold street.
+He stepped back. The interface disc glowed faintly, residual heat dissipating into the lattice. The air around it was tropical, waste energy radiating in all directions, creating a pocket of warmth in the cold street.
 
 Verant was staring at him. Her colleague had put both hands on the wall now and was pressing her cheek against the stone, eyes closed, the way you pressed your face to a warm pillow.
 
@@ -114,7 +114,7 @@ She went back inside. A minute later, a child appeared in the doorway, small, ma
 
 Ash moved to the next junction.
 
-By the seventh, the doors were opening before he arrived. Word moved through the district faster than he did—passed from building to building, from window to hallway to street. People were gathering at the intersections, watching him work. Not cheering. Not yet. Something more careful: the wary attention of people who had been let down by the system too many times to celebrate a repair they hadn't confirmed yet.
+By the seventh, the doors were opening before he arrived. Word moved through the district faster than he did, passed from building to building, from window to hallway to street. People were gathering at the intersections, watching him work. Not cheering. Not yet. Something more careful: the wary attention of people who had been let down by the system too many times to celebrate a repair they hadn't confirmed yet.
 
 He fed junction eight. The lattice sang, a resonance he hadn't noticed before, a harmonic in the stone that emerged when the network was more than half-charged. The buildings hummed.
 
@@ -122,13 +122,13 @@ A man stepped out of a doorway in block twenty-two. Old, elder generation, but t
 
 Then he went back inside. When Ash passed the window a few minutes later, the man was sitting in a chair by the wall with his eyes closed, his face tilted toward the warmth the way you tilted toward the sun in winter.
 
-Junction eleven. Junction twelve. The circuit was taking longer now—not because the work was harder, but because people kept stopping him. Not to thank him, not exactly. They stopped him to tell him things. Which floor had been coldest. Which family had a new baby. Which building had lost its heating first and had been waiting longest. They told him these things the way you told a doctor your symptoms: precisely, urgently, with the compressed emotion of people who had been enduring something and had finally found someone who might understand why it mattered.
+Junction eleven. Junction twelve. The circuit was taking longer now, not because the work was harder, but because people kept stopping him. Not to thank him, not exactly. They stopped him to tell him things. Which floor had been coldest. Which family had a new baby. Which building had lost its heating first and had been waiting longest. They told him these things the way you told a doctor your symptoms: precisely, urgently, with the compressed emotion of people who had been enduring something and had finally found someone who might understand why it mattered.
 
 He listened. Dorenne waited.
 
 Junction thirteen. Fourteen.
 
-He stepped back from the last interface and flexed his hands. The waste heat was considerable—the street was ten degrees warmer than it should have been, a pocket of artificial summer in the district's cold. His shirt was damp with sweat, though the sweating had nothing to do with effort. The reservoir hadn't noticed. He checked it the way he'd learned to—the brief internal inventory, a glance at the ocean, and found it exactly where it had been that morning. The fourteen junctions, the hours of sustained channeling, the raw force he'd poured into the lattice: all of it had cost him less than he could measure.
+He stepped back from the last interface and flexed his hands. The waste heat was considerable. The street was ten degrees warmer than it should have been, a pocket of artificial summer in the district's cold. His shirt was damp with sweat, though the sweating had nothing to do with effort. The reservoir hadn't noticed. He checked it the way he'd learned to, the brief internal inventory, a glance at the ocean, and found it exactly where it had been that morning. The fourteen junctions, the hours of sustained channeling, the raw force he'd poured into the lattice: all of it had cost him less than he could measure.
 
 Dorenne was standing at the end of the street with her engineers, making notes. She looked up as he approached.
 
@@ -140,7 +140,7 @@ She wrote something down. The pen moved without hesitation; she'd been making ma
 
 "The southern quarter's water system has been on my list for six weeks," she said. She didn't look up from the page. "Tomorrow?"
 
-He looked back down the street. Doors were open. Windows that had been dark were lit. The district had the particular quality of a place coming back to life—not the sharp animation of celebration but the slow, deep breath of relief. People moved differently in warm buildings. Their shoulders dropped. Their voices carried.
+He looked back down the street. Doors were open. Windows that had been dark were lit. The district had the particular quality of a place coming back to life, not the sharp animation of celebration but the slow, deep breath of relief. People moved differently in warm buildings. Their shoulders dropped. Their voices carried.
 
 A child was laughing somewhere. Not the giddy laughter of play but the involuntary, startled laughter of someone who had just pressed their bare feet to warm stone for the first time in four months.
 
@@ -168,11 +168,11 @@ Her eyes were wet. She didn't speak. She didn't need to. She stood in her doorwa
 
 He nodded. She nodded. He walked on.
 
-Twenty-three years. Twenty-three years of being the person who couldn't contribute. Who ate the food and used the water and occupied the space and gave nothing back. Who smiled and helped and worked with his hands and tried—tried so hard, to be worth the resources he consumed, to offset the cost of his existence with warmth and humor and willingness. Twenty-three years of the careful performance, the cheerful mask, the private accounting of every meal he didn't pay for with channeling and every maintenance shift he couldn't take and every heating cycle someone else spent on his behalf.
+Twenty-three years. Twenty-three years of being the person who couldn't contribute. Who ate the food and used the water and occupied the space and gave nothing back. Who smiled and helped and worked with his hands and tried, tried so hard, to be worth the resources he consumed, to offset the cost of his existence with warmth and humor and willingness. Twenty-three years of the careful performance, the cheerful mask, the private accounting of every meal he didn't pay for with channeling and every maintenance shift he couldn't take and every heating cycle someone else spent on his behalf.
 
 He had fixed a neighborhood in an afternoon.
 
-The thought arrived without drama. It settled into him the way the heat settled into stone, quietly, deeply, reaching places that had been cold for so long. He walked the warm streets and the thought expanded. He'd fixed it. Not partially, not temporarily, not with the half-measures of a crew running on empty pools. He'd filled the lattice to capacity. The district would stay warm for days on the charge he'd given it—weeks, if the engineers were right about the stone's retention. And when it faded, he could come back and fill it again. And again. And again.
+The thought arrived without drama. It settled into him the way the heat settled into stone, quietly, deeply, reaching places that had been cold for so long. He walked the warm streets and the thought expanded. He'd fixed it. Not partially, not temporarily, not with the half-measures of a crew running on empty pools. He'd filled the lattice to capacity. The district would stay warm for days on the charge he'd given it. Weeks, if the engineers were right about the stone's retention. And when it faded, he could come back and fill it again. And again. And again.
 
 His hands were open at his sides. The reservoir pressed behind them, patient and enormous. He'd poured hours of sustained channeling into fourteen junction boxes and the ocean hadn't noticed.
 
@@ -184,7 +184,7 @@ He stood in the intersection and breathed.
 
 The southern quarter's water system was worse than the heating grid.
 
-Ash went the next morning. Dorenne met him at the junction of the Third and Fourth Terraces with a different pair of engineers and a map of the water network that was more annotation than map—red marks covering the original lines. Each one a failure point, a blockage, a junction where the channeled pressure had dropped below the minimum needed to push water uphill through stone pipes.
+Ash went the next morning. Dorenne met him at the junction of the Third and Fourth Terraces with a different pair of engineers and a map of the water network that was more annotation than map, red marks covering the original lines. Each one a failure point, a blockage, a junction where the channeled pressure had dropped below the minimum needed to push water uphill through stone pipes.
 
 "The system was built two hundred years ago," said the senior engineer, a grey-haired man named Torath. "The original channelers could maintain pressure across the entire network from three master junctions. We've been running it with twelve, and as of last month, we can't staff more than eight."
 
@@ -194,15 +194,15 @@ The water system didn't use heating lattices. It used pressure channels: stone p
 
 "Six thousand."
 
-He worked the junction boxes the way he'd worked the eastern district—one by one, feeding energy into the interfaces, feeling the system respond. The water network was different from the heating lattice, less forgiving, more mechanical. Heat distributed evenly through stone. Water required sustained pressure, constant force, the channeled equivalent of a pump running at full capacity. When he pushed too hard, a pipe in block thirty-one groaned and Torath grabbed his arm.
+He worked the junction boxes the way he'd worked the eastern district, one by one, feeding energy into the interfaces, feeling the system respond. The water network was different from the heating lattice, less forgiving, more mechanical. Heat distributed evenly through stone. Water required sustained pressure, constant force, the channeled equivalent of a pump running at full capacity. When he pushed too hard, a pipe in block thirty-one groaned and Torath grabbed his arm.
 
 "Less," Torath said. "The joints are old. If you blow a seal, we lose the section for a week."
 
-He pulled back. Adjusted. Found the ceiling the system could handle and held the output just below it. The water moved—he could hear it, the gurgle and rush of flow returning to dry pipes, the particular music of a system coming back to life. Above him, in the upper floors, he heard a different sound: taps opening. The hollow thunder of water filling empty tanks.
+He pulled back. Adjusted. Found the ceiling the system could handle and held the output just below it. The water moved. He could hear it, the gurgle and rush of flow returning to dry pipes, the particular music of a system coming back to life. Above him, in the upper floors, he heard a different sound: taps opening. The hollow thunder of water filling empty tanks.
 
 Someone shouted. A window opened and a woman leaned out, wet to the elbows, grinning.
 
-"It's running!" she called. Not to him—to the street, to anyone. "The water's running!"
+"It's running!" she called. Not to him, to the street, to anyone. "The water's running!"
 
 * * *
 
@@ -212,7 +212,7 @@ It stood at the western edge of the middle districts, twelve stories of elder-er
 
 Dorenne brought him three days after the water system.
 
-He stood at the base and looked up. The tower's beauty was still visible—the carved stonework, the sweeping lines of a structure designed by people who could shape rock like clay. But the beauty had a quality that Ash recognized from years of cataloguing infrastructure decline. It was the beauty of a thing that had been left too long. Hairline fractures in the facade. A slight lean he could only see from ground level. The eighth floor, where the drop had occurred, was visible as a discontinuity in the stone, a horizontal line where the wall above didn't quite meet the wall below.
+He stood at the base and looked up. The tower's beauty was still visible (the carved stonework, the sweeping lines of a structure designed by people who could shape rock like clay). But the beauty had a quality that Ash recognized from years of cataloguing infrastructure decline. It was the beauty of a thing that had been left too long. Hairline fractures in the facade. A slight lean he could only see from ground level. The eighth floor, where the drop had occurred, was visible as a discontinuity in the stone, a horizontal line where the wall above didn't quite meet the wall below.
 
 He pressed his palms to the foundation. Pushed.
 
@@ -222,21 +222,21 @@ This was different from heating or water. The reservoir responded the same way, 
 
 He stopped. The groan faded.
 
-"Structural reinforcement requires distribution," Verant said. She was pressing her palm to the wall beside him, reading what he'd done. "You can't just flood it. The building has load paths—walls, columns, arches. Your energy has to follow them. You pushed straight up and it all went into the south column."
+"Structural reinforcement requires distribution," Verant said. She was pressing her palm to the wall beside him, reading what he'd done. "You can't just flood it. The building has load paths: walls, columns, arches. Your energy has to follow them. You pushed straight up and it all went into the south column."
 
-He tried again. Slower. He couldn't feel the load paths the way Verant described—the building was just stone, undifferentiated mass under his hands, but he could feel where the energy went when he pushed, and he could feel where it pooled and where it flowed. He shifted. Tried to spread the output wider.
+He tried again. Slower. He couldn't feel the load paths the way Verant described. The building was just stone, undifferentiated mass under his hands, but he could feel where the energy went when he pushed, and he could feel where it pooled and where it flowed. He shifted. Tried to spread the output wider.
 
-Better. The stone accepted it differently now—not a single column overloading but a broader distribution. Still uneven. He could feel a void on the eighth floor, a section where the reinforcement had thinned to nothing, the stone carrying its own weight without magical assistance, and losing.
+Better. The stone accepted it differently now, not a single column overloading but a broader distribution. Still uneven. He could feel a void on the eighth floor, a section where the reinforcement had thinned to nothing, the stone carrying its own weight without magical assistance, and losing.
 
 "Move your hands apart," Verant said. "Wider base, wider distribution."
 
-He spread his palms. Pushed again. This time the energy rose through the structure—not following specific paths he could identify, but spreading more evenly, filling gaps he could feel but couldn't name. At the eighth floor, the void drank. The stone was starving, starved of the energy that had held it rigid for two centuries. His force poured in and the building settled. Not dropped. Settled. A deep, structural exhalation, the sound of stone relaxing into support it had been missing.
+He spread his palms. Pushed again. This time the energy rose through the structure, not following specific paths he could identify, but spreading more evenly, filling gaps he could feel but couldn't name. At the eighth floor, the void drank. The stone was starving, starved of the energy that had held it rigid for two centuries. His force poured in and the building settled. Not dropped. Settled. A deep, structural exhalation, the sound of stone relaxing into support it had been missing.
 
-Above him, something clinked. He looked up. A window on the ninth floor had been propped open with a wooden wedge, and the wedge had fallen—knocked loose by the building's shift. A face appeared. Looked down.
+Above him, something clinked. He looked up. A window on the ninth floor had been propped open with a wooden wedge, and the wedge had fallen, knocked loose by the building's shift. A face appeared. Looked down.
 
 "What was that?" the face called.
 
-He didn't answer. He was still channeling. The building was pulling differently now—hungrily in some places, resistant in others. He couldn't read the specific stresses the way Verant could, but he could feel where the energy went and where it didn't. He pushed more where the stone drank and less where it pushed back, adjusting by feel, the way you adjusted your grip on something heavy when you couldn't see what you were carrying.
+He didn't answer. He was still channeling. The building was pulling differently now, hungrily in some places, resistant in others. He couldn't read the specific stresses the way Verant could, but he could feel where the energy went and where it didn't. He pushed more where the stone drank and less where it pushed back, adjusting by feel, the way you adjusted your grip on something heavy when you couldn't see what you were carrying.
 
 He worked for an hour. Dorenne's engineers monitored from inside, measurement tools pressed to walls and floors, tracking the reinforcement as it spread. When he finally stepped back, his arms ached. Not from the channeling, but from pressing against the foundation stone for an hour, a physical posture his body wasn't accustomed to.
 
@@ -244,7 +244,7 @@ He worked for an hour. Dorenne's engineers monitored from inside, measurement to
 
 "Can you bring it to full?" Dorenne asked. She was looking at Ash.
 
-He checked the reservoir. The morning's work—the tower, the walk here, the sustained structural channeling—sat against the total like a coin against a vault.
+He checked the reservoir. The morning's work (the tower, the walk here, the sustained structural channeling) sat against the total like a coin against a vault.
 
 "Yes," he said.
 
@@ -254,7 +254,7 @@ He went back. Pressed his palms to the stone. Pushed until the engineers said st
 
 The transit shaft on Meridian Street had been dead for two years.
 
-It was a vertical shaft—a stone tube three meters wide running from the base of the Fourth Terrace to the top of the Seventh. A channeled platform sat at the bottom, designed to rise through the shaft on sustained force. You pressed your palm to the interface stone at the center, fed it a pulse, and the platform climbed. In the high-magic era, a single operator could power the ascent. Now it took three, working in concert, and even then the platform rose in lurches that rattled the shaft walls.
+It was a vertical shaft, a stone tube three meters wide running from the base of the Fourth Terrace to the top of the Seventh. A channeled platform sat at the bottom, designed to rise through the shaft on sustained force. You pressed your palm to the interface stone at the center, fed it a pulse, and the platform climbed. In the high-magic era, a single operator could power the ascent. Now it took three, working in concert, and even then the platform rose in lurches that rattled the shaft walls.
 
 This shaft had no operators. The last crew had been reassigned to the Northridge Terrace shaft, which served a wealthier district and had political priority. Meridian Street's residents used the stairs. Nine hundred steps from bottom to top. The elderly used the stairs. Parents with children used the stairs. Workers carrying loads used the stairs. For two years, nine hundred steps, every day.
 
@@ -292,7 +292,7 @@ She had a folder in her hands. He could see the papers inside: maps, diagrams, l
 
 "When?" he said.
 
-"We'll build a schedule." She opened the folder. "The northern aqueduct serves the agricultural terraces. Food production has dropped twelve percent since the pressure failed. That should be next. Then the Third Terrace foundation; the retaining wall is showing stress fractures. After that—"
+"We'll build a schedule." She opened the folder. "The northern aqueduct serves the agricultural terraces. Food production has dropped twelve percent since the pressure failed. That should be next. Then the Third Terrace foundation; the retaining wall is showing stress fractures. After that..."
 
 She stopped. Looked at him.
 
@@ -312,27 +312,27 @@ The pattern had a name, though no one used it: need, deployment, gratitude, next
 
 The northern aqueduct took half a day. The pressure channels were simpler than the residential water network: larger pipes, fewer junctions, a system designed for volume rather than precision. He fed force into the master junction and the water moved, a great hydraulic sigh as months of dry pipe filled and the agricultural terraces received the irrigation pressure they'd been supplementing with bucket chains and prayer.
 
-The Third Terrace retaining wall took longer. The wall was massive—fifty meters long, eight meters tall, holding back the weight of the terrace above and everything built on it. The stress fractures Dorenne had mentioned were visible from the street, a web of hairline cracks radiating from the wall's midpoint, each one a failure waiting to cascade. He pressed himself against the stone and channeled for an hour. The reinforcement spread through the wall—he could feel it taking hold, the stone stiffening under his hands. But the cracks stayed. He pushed harder, expecting them to close, willing the stone to knit together.
+The Third Terrace retaining wall took longer. The wall was massive: fifty meters long, eight meters tall, holding back the weight of the terrace above and everything built on it. The stress fractures Dorenne had mentioned were visible from the street, a web of hairline cracks radiating from the wall's midpoint, each one a failure waiting to cascade. He pressed himself against the stone and channeled for an hour. The reinforcement spread through the wall. He could feel it taking hold, the stone stiffening under his hands. But the cracks stayed. He pushed harder, expecting them to close, willing the stone to knit together.
 
-Nothing. The cracks didn't move. He could reinforce the wall—pour strength into its skeleton—but he couldn't reshape it. The stone wouldn't do what he wanted it to. It was like pressing harder on a broken bone and expecting the pieces to fuse: force without precision, strength without understanding. The gap between what the reservoir could provide and what his hands could direct was visible here, written in hairline fractures that his power could hold stable but not heal.
+Nothing. The cracks didn't move. He could reinforce the wall, pour strength into its skeleton, but he couldn't reshape it. The stone wouldn't do what he wanted it to. It was like pressing harder on a broken bone and expecting the pieces to fuse: force without precision, strength without understanding. The gap between what the reservoir could provide and what his hands could direct was visible here, written in hairline fractures that his power could hold stable but not heal.
 
 He channeled for two more hours. The wall stopped moving. The engineers confirmed: fracture propagation halted. The cracks remained.
 
 A residential block in the southern quarter. A water junction in the market district. A heating grid in the lower terraces that had been running at half capacity for a year.
 
-Each one was a genuine crisis. Each one was real people in real difficulty. And each one, when he'd finished, left him standing in a place where things worked that hadn't worked before, surrounded by people who looked at him the way the old woman in the eastern district had looked at her warm wall—with something too large and too immediate for gratitude.
+Each one was a genuine crisis. Each one was real people in real difficulty. And each one, when he'd finished, left him standing in a place where things worked that hadn't worked before, surrounded by people who looked at him the way the old woman in the eastern district had looked at her warm wall, with something too large and too immediate for gratitude.
 
-At a heating junction in the lower terraces, the output started climbing on its own—the reservoir pushing harder than he'd intended, the waste heat rising, the air around the interface shimmering. He caught it, not because someone told him to stop, not because a pipe groaned, but because he felt the climb in his hands and pulled back before the disc scorched. The output settled. The lattice filled evenly.
+At a heating junction in the lower terraces, the output started climbing on its own, the reservoir pushing harder than he'd intended, the waste heat rising, the air around the interface shimmering. He caught it, not because someone told him to stop, not because a pipe groaned, but because he felt the climb in his hands and pulled back before the disc scorched. The output settled. The lattice filled evenly.
 
 He stood there for a moment afterward, hands on the warm disc, and realized he was getting better.
 
 Not at the precision work (that was still beyond him, the micro-pulse technique still three or four times too much output for anything delicate) but at the brute channeling, the sustained heavy work that Dorenne's deployments required. He learned to feel the systems through the interface stones before he pushed, to adjust his output to what the system could absorb rather than what the reservoir wanted to give.
 
-Raw practice. Hour after hour, junction after junction, building after building. His hands learned the feel of different materials the way a carpenter's hands learned wood—the particular resistance of heating lattice stone, the flex of pressurized pipe, the deep structural vocabulary of a load-bearing wall. He wasn't clean or efficient. A trained channeler with a fraction of his power would have done each job with less waste, less ambient heat, less force bleeding uselessly into the air.
+Raw practice. Hour after hour, junction after junction, building after building. His hands learned the feel of different materials the way a carpenter's hands learned wood: the particular resistance of heating lattice stone, the flex of pressurized pipe, the deep structural vocabulary of a load-bearing wall. He wasn't clean or efficient. A trained channeler with a fraction of his power would have done each job with less waste, less ambient heat, less force bleeding uselessly into the air.
 
 But no trained channeler had the power to do what he was doing. That was the math that made everything else irrelevant.
 
-He checked the reservoir each evening, the way he'd learned to—the internal inventory, the brief glance at the ocean. Each day's work sat against the total like a drop against a sea. The infrastructure jobs were expensive by any standard—each deployment costing more than a young channeler spent in a year; by any rational measure, he was spending extravagantly.
+He checked the reservoir each evening, the way he'd learned to, the internal inventory, the brief glance at the ocean. Each day's work sat against the total like a drop against a sea. The infrastructure jobs were expensive by any standard, each deployment costing more than a young channeler spent in a year; by any rational measure, he was spending extravagantly.
 
 The ocean didn't notice. Day after day after day, and the level hadn't moved in any way he could perceive. The reservoir sat behind his ribs, vast and patient, undiminished by the morning's work or the afternoon's or the week's. Infinite wasn't the right word. He knew it wasn't infinite. Haran's voice lived in some careful corner of his mind, asking the question that was always the same question.
 
@@ -344,21 +344,21 @@ Dorenne's office wall changed.
 
 The map was the same (Solathis, districts outlined, annotations clustered) but the annotations were different now. Beside the red marks, she'd added green ones. Each green mark was a deployment: date, location, a brief description of the work. Eastern district heating grid. Southern quarter water system. Grayspire tower. Meridian Street transit shaft. Northern aqueduct. Third Terrace retaining wall. The green marks multiplied as the days passed, spreading across the map like a second city overlaid on the first.
 
-He noticed. He didn't think about what it meant—not yet, not in the way that would matter later. He noticed the way you noticed weather, as a fact of the environment, neither good nor bad.
+He noticed. He didn't think about what it meant, not yet, not in the way that would matter later. He noticed the way you noticed weather, as a fact of the environment, neither good nor bad.
 
-What he noticed more—what he felt in his body, in his posture, in the particular quality of his step when he left the Hall each morning, was the way the deployments felt. Each one was a door opened in a building where the doors had been closed. Each one was the sound of water running in pipes that had been dry. Each one was the moment when a building settled under his hands and the people inside felt the walls stop moving.
+What he noticed more, what he felt in his body, in his posture, in the particular quality of his step when he left the Hall each morning, was the way the deployments felt. Each one was a door opened in a building where the doors had been closed. Each one was the sound of water running in pipes that had been dry. Each one was the moment when a building settled under his hands and the people inside felt the walls stop moving.
 
-He carried the feeling the way you carried warmth from a good fire, not in his hands but in his body, in the deep places where temperature lived. He walked through the city and saw things he'd seen before—the cracked pavements, the dim district lighting, the transit shafts that lurched or didn't run, and instead of the old inventory of things that were broken, he saw a list of things he could fix. The shift was total. Where he'd once catalogued failure as a witness, he now catalogued it as a repairman.
+He carried the feeling the way you carried warmth from a good fire, not in his hands but in his body, in the deep places where temperature lived. He walked through the city and saw things he'd seen before: the cracked pavements, the dim district lighting, the transit shafts that lurched or didn't run, and instead of the old inventory of things that were broken, he saw a list of things he could fix. The shift was total. Where he'd once catalogued failure as a witness, he now catalogued it as a repairman.
 
-There were so many things to fix. The city was full of them—more than he'd known, more than Dorenne's maps showed, more than the reports he'd filed as her aide had captured. Solathis was held together by people whose pools were too small for the systems their grandparents had built, and the gap between what the city needed and what its residents could provide was growing wider every year. He'd known this. He'd filed the reports. But knowing it as data and knowing it as the particular weight of a failing retaining wall under his hands were different things, the way knowing the word for hunger and being hungry were different things.
+There were so many things to fix. The city was full of them, more than he'd known, more than Dorenne's maps showed, more than the reports he'd filed as her aide had captured. Solathis was held together by people whose pools were too small for the systems their grandparents had built, and the gap between what the city needed and what its residents could provide was growing wider every year. He'd known this. He'd filed the reports. But knowing it as data and knowing it as the particular weight of a failing retaining wall under his hands were different things, the way knowing the word for hunger and being hungry were different things.
 
-He could feel the city's need through the interface stones. When he pressed his palms to a junction box, the system behind it told him how long it had been starving. The eastern district's lattice had been a four-month fast. The northern aqueduct had been longer—slow degradation over a year, the kind of failure that happened in increments too small to trigger emergency response. Grayspire, a decade of neglect.
+He could feel the city's need through the interface stones. When he pressed his palms to a junction box, the system behind it told him how long it had been starving. The eastern district's lattice had been a four-month fast. The northern aqueduct had been longer, slow degradation over a year, the kind of failure that happened in increments too small to trigger emergency response. Grayspire, a decade of neglect.
 
 All of it fixable. All of it within his reach.
 
 Dorenne brought him a new list every morning. He worked through it every afternoon. The green marks on her map spread.
 
-One evening his mother's message reached him at the end of a deployment day. *Dinner tomorrow? Maren's coming.* He read it standing in Dorenne's office, the next morning's schedule spread on the desk between them—the Thornwall aqueduct survey, a residential block on the Fourth Terrace, a follow-up at Grayspire. He looked at the schedule. He looked at the message.
+One evening his mother's message reached him at the end of a deployment day. *Dinner tomorrow? Maren's coming.* He read it standing in Dorenne's office, the next morning's schedule spread on the desk between them: the Thornwall aqueduct survey, a residential block on the Fourth Terrace, a follow-up at Grayspire. He looked at the schedule. He looked at the message.
 
 "Next time," he wrote back.
 
@@ -368,7 +368,7 @@ In his pocket, the gear casing from Haran's workshop sat against his hip. He had
 
 Three weeks into the deployment schedule, Dorenne called him into her office.
 
-She was sitting behind her desk this time—not standing at the map, not holding reports. Sitting with her hands folded, in the particular posture she adopted when she was about to say something she'd been thinking about for longer than it would take to say it.
+She was sitting behind her desk this time, not standing at the map, not holding reports. Sitting with her hands folded, in the particular posture she adopted when she was about to say something she'd been thinking about for longer than it would take to say it.
 
 "The Council's quarterly review is in two days," she said. "I'd like you to attend."
 
@@ -376,11 +376,11 @@ He'd sat in on Council sessions before, as her aide, in the back row, taking not
 
 "What for?"
 
-"The infrastructure report. My department's allocation for the next quarter." She picked up a document and set it down, a gesture that had nothing to do with the document and everything to do with the rhythm of what she was saying. "The eastern district deployment alone has reduced emergency maintenance requests by sixty percent. The water system repairs saved an estimated forty thousand labor-hours that would have been spent on bucket chains. The transit shaft—"
+"The infrastructure report. My department's allocation for the next quarter." She picked up a document and set it down, a gesture that had nothing to do with the document and everything to do with the rhythm of what she was saying. "The eastern district deployment alone has reduced emergency maintenance requests by sixty percent. The water system repairs saved an estimated forty thousand labor-hours that would have been spent on bucket chains. The transit shaft..."
 
 "I know what the deployments did."
 
-"The Council doesn't." She looked at him. "They know the Wellspring exists. They know I've been directing deployments. What they don't know—what I'd like them to see—is the scope of what's possible. Not the spectacle. The infrastructure."
+"The Council doesn't." She looked at him. "They know the Wellspring exists. They know I've been directing deployments. What they don't know, what I'd like them to see, is the scope of what's possible. Not the spectacle. The infrastructure."
 
 He understood. She wanted him in the room so the Council could see what his deployments had accomplished. The green marks on her map; she wanted those translated into political capital. Funding, authority, the institutional weight that came from having produced results no one else could produce.
 

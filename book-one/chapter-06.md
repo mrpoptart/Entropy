@@ -16,7 +16,7 @@ Ash nodded. He was still looking at the mirror. His hands, the calloused knuckle
 
 "They will. Say that testing is ongoing and the full picture is still being assessed. That's true and it's enough." Dorenne straightened her notes. "If they press, defer to me. That's what I'm there for."
 
-"And if they ask what it means? For the city, for—"
+"And if they ask what it means? For the city, for..."
 
 "That's my part." She looked up. Her eyes held the same quality they always held: the layered attention, the calculations running behind the warmth. "Ash. Listen to me. You don't need to win them over. You don't need to explain yourself. You stand, you answer what you're asked, you demonstrate what we've prepared. I'll do the rest."
 
@@ -28,7 +28,7 @@ He turned from the mirror. "What are we demonstrating?"
 
 "A man who can warm a room that size, alone, in seconds, that's not a spectacle, Ash. That's a city that can heat its buildings again." She paused. "Presentable is exactly the word I was hoping for. Remarkable is my job."
 
-Something shifted behind her expression. Not a smile. The architecture of one—the adjustment of muscles that preceded warmth without quite arriving there. "You'll be fine. You've been channeling for ten days. The control is better than it was."
+Something shifted behind her expression. Not a smile. The architecture of one, the adjustment of muscles that preceded warmth without quite arriving there. "You'll be fine. You've been channeling for ten days. The control is better than it was."
 
 It was better. Marginally. He'd spent the days since the testing working with Vasra in the basement, learning to find the space between nothing and everything: the crack in the valve, the thread instead of the flood. He could heat a basin now without boiling it. He could light a channeling strip without fusing it to the wall. Progress measured in things not broken. A strange metric, but his.
 
@@ -38,7 +38,7 @@ It was better. Marginally. He'd spent the days since the testing working with Va
 
 *Happens to carry.* As if the ocean behind his ribs were an accident. As if the pressure that beat like a second heart could be reduced to something that happened.
 
-But she was right. He knew she was right. He could feel the rightness of it the same way he could feel the power—as a physical fact, undeniable, present in the room.
+But she was right. He knew she was right. He could feel the rightness of it the same way he could feel the power, as a physical fact, undeniable, present in the room.
 
 "I understand," he said.
 
@@ -58,7 +58,7 @@ He let it press.
 
 * * *
 
-The Hall of Infrastructure had a main gallery on the second floor that Ash had walked past a hundred times in three weeks and never entered. It was the kind of space that existed for occasions—high-ceilinged, stone-floored, the walls lined with channeling strips that cast even, institutional light. Three tall windows faced west, and the afternoon sun cut through them in bars that divided the room into bright and shadow. The air was cool. The kind of cool that a building held when its heating lattice ran on rotation and no rotation had reached this floor yet today, a bone-deep chill that seeped through the stone and settled in the joints of every chair.
+The Hall of Infrastructure had a main gallery on the second floor that Ash had walked past a hundred times in three weeks and never entered. It was the kind of space that existed for occasions, high-ceilinged, stone-floored, the walls lined with channeling strips that cast even, institutional light. Three tall windows faced west, and the afternoon sun cut through them in bars that divided the room into bright and shadow. The air was cool. The kind of cool that a building held when its heating lattice ran on rotation and no rotation had reached this floor yet today, a bone-deep chill that seeped through the stone and settled in the joints of every chair.
 
 Someone had arranged chairs in rows. A dozen rows, then standing room behind. A raised platform at the front, wide enough for a table and two positions. The table held a water basin, a set of measurement instruments that the audience wouldn't be able to read but that looked, from a distance, like precision. Behind the platform, the eastern wall rose in smooth stone to the vaulted ceiling. Ash could see the lattice channels carved into it, thin lines branching through the rock face like veins through the back of a hand. Dark. Cold. Dormant.
 
@@ -80,7 +80,7 @@ He stayed where he was. Hands at his sides. Collar tight.
 
 The room filled. Standing room packed. Bodies pressing against the walls, the heat of sixty, seventy people raising the temperature enough that the channeling strips dimmed slightly, the building's systems adjusting, the constant invisible negotiation between what was built and what was spent.
 
-Dorenne entered from the same side door. She didn't hurry. She crossed to the platform with the unhurried precision of a woman who understood that timing was a form of authority, and the room quieted as she reached the table. Not silence—a settling, the acoustic equivalent of attention turning like a compass needle.
+Dorenne entered from the same side door. She didn't hurry. She crossed to the platform with the unhurried precision of a woman who understood that timing was a form of authority, and the room quieted as she reached the table. Not silence, a settling, the acoustic equivalent of attention turning like a compass needle.
 
 She set her notes on the table. She didn't look at them.
 
@@ -92,7 +92,7 @@ She paused. The pause was a tool. Ash had watched her use it in briefings, the c
 
 A murmur. The term landed the way she'd intended it to, the bluntness cutting through institutional language, the audience hearing the word they all used privately now spoken aloud in a formal setting.
 
-"The activation occurred under extreme stress. His family's building was collapsing. His mother was trapped. What happened next—" She paused again. "What happened next has been assessed by my office's examination team and independently by Scholar Vasra, who I believe most of you know by reputation."
+"The activation occurred under extreme stress. His family's building was collapsing. His mother was trapped. What happened next..." She paused again. "What happened next has been assessed by my office's examination team and independently by Scholar Vasra, who I believe most of you know by reputation."
 
 Eyes moved. Heads turned, scanning the room. Vasra wasn't present. Dorenne had said she wouldn't be, that Vasra had declined the invitation with the precise disinterest of a scientist who considered press events beneath her instruments. But the name did work in the room. Ash could see it: the shift in posture among the Council members, the pen-points pressing harder into notebooks.
 
@@ -100,7 +100,7 @@ Eyes moved. Heads turned, scanning the room. Vasra wasn't present. Dorenne had s
 
 She let the room hold that.
 
-"Scholar Vasra has described it as a wellspring—a deep-source reservoir, unprecedented in documented channeling history. The testing instruments in the Hall basement were exceeded. Every calibration stone provided was destroyed during routine assessment. The resonance measurement, Vasra's personal instrument, calibrated over four decades, was insufficient to determine the reservoir's depth."
+"Scholar Vasra has described it as a wellspring, a deep-source reservoir, unprecedented in documented channeling history. The testing instruments in the Hall basement were exceeded. Every calibration stone provided was destroyed during routine assessment. The resonance measurement, Vasra's personal instrument, calibrated over four decades, was insufficient to determine the reservoir's depth."
 
 Silence. Not a murmur. Not the settling of attention. Silence. The flat, dense quiet of a room full of people who had stopped breathing at the same time.
 
@@ -120,7 +120,7 @@ The lattice channels were carved into the stone in branching lines that spread f
 
 Ash placed his palm against the stone.
 
-The interface was cold under his hand. He could feel the lattice channels spreading outward from his palm like roots—the carved paths through the rock, empty and waiting.
+The interface was cold under his hand. He could feel the lattice channels spreading outward from his palm like roots, the carved paths through the rock, empty and waiting.
 
 *Gentle. Find the thread.*
 
@@ -128,9 +128,9 @@ He pushed.
 
 The lattice activated.
 
-Not gradually—not the slow crawl of a pool feeding through channels one at a time, the way a six-person team would have done it, each channeler taking a section, managing their budget, rationing their daily reserves across a careful schedule. This was immediate. The channels lit from the point of contact outward in a single sustained pulse, the stone glowing amber where the energy moved through it, the branching lines spreading across the eastern wall like veins filling with warmth.
+Not gradually, not the slow crawl of a pool feeding through channels one at a time, the way a six-person team would have done it, each channeler taking a section, managing their budget, rationing their daily reserves across a careful schedule. This was immediate. The channels lit from the point of contact outward in a single sustained pulse, the stone glowing amber where the energy moved through it, the branching lines spreading across the eastern wall like veins filling with warmth.
 
-The lattice covered the eastern wall. Then turned the corner. Then spread across the northern face, the channels connecting and branching and carrying the energy through the room's skeleton the way blood moved through veins. The stone glowed. The air thickened with warmth—not the harsh, breaking intensity of his first tests, but a sustained, building warmth that moved through the chamber like sunlight through a window. Slow. Steady. Enormous.
+The lattice covered the eastern wall. Then turned the corner. Then spread across the northern face, the channels connecting and branching and carrying the energy through the room's skeleton the way blood moved through veins. The stone glowed. The air thickened with warmth, not the harsh, breaking intensity of his first tests, but a sustained, building warmth that moved through the chamber like sunlight through a window. Slow. Steady. Enormous.
 
 He held it.
 
@@ -174,13 +174,13 @@ He looked at the woman. She was young, his age, maybe a year or two older. Her p
 
 A small sound from the room. Not laughter. Something closer to recognition.
 
-Dorenne stepped in. "As I mentioned, the assessment is ongoing. We'll be providing regular updates through my office as the picture becomes clearer. I want to thank you all for—"
+Dorenne stepped in. "As I mentioned, the assessment is ongoing. We'll be providing regular updates through my office as the picture becomes clearer. I want to thank you all for..."
 
 "One more question, Director."
 
 The heavy-set Council member. The silver chain caught the light as he leaned forward. His voice carried the particular authority of someone accustomed to being the last speaker in any room.
 
-"The Wellspring. However unprecedented—it changes the resource picture for this city. Every district, every allocation decision. I assume your office has begun calculating the implications."
+"The Wellspring. However unprecedented, it changes the resource picture for this city. Every district, every allocation decision. I assume your office has begun calculating the implications."
 
 Dorenne's expression didn't change. "We have."
 
@@ -278,17 +278,17 @@ She put her hand on his face. Her palm was rough, a working hand, a mother's han
 
 "You didn't have to do this," she said.
 
-"It's just a briefing, Ma. It's—"
+"It's just a briefing, Ma. It's..."
 
 "Not the briefing." Her fingers tightened against his cheek. "This. All of this. Standing up there. Letting them look at you."
 
-"Dorenne thought it was—"
+"Dorenne thought it was..."
 
 "I know what Dorenne thought." Her voice was quiet and fierce. Not angry at him, not exactly at Dorenne. Angry at the mechanism. At the machine that took her boy and set him on a platform and called it necessary. "I know what she thinks is best. She's very good at what she thinks is best."
 
-Her hand tightened on the broadsheet under the blanket. "These people. The Council, the scholars—they didn't know your name a week ago. Now they want—"
+Her hand tightened on the broadsheet under the blanket. "These people. The Council, the scholars, they didn't know your name a week ago. Now they want..."
 
-She looked at him the way she'd looked at him every morning of his life—the look that held everything she knew about him, including the things he didn't know about himself. Sharper than Vasra's instruments. Deeper than any resonance stone.
+She looked at him the way she'd looked at him every morning of his life, the look that held everything she knew about him, including the things he didn't know about himself. Sharper than Vasra's instruments. Deeper than any resonance stone.
 
 "Everything," she said. "They'll want everything."
 
@@ -316,15 +316,15 @@ They sat in the quiet. The kitchen's channeling strips hummed faintly, a sound A
 
 "Mm."
 
-"Are you—" He stopped. The question felt wrong in his mouth, too large, too formless. He tried again. "Is this all right? Everything that's happening?"
+"Are you..." He stopped. The question felt wrong in his mouth, too large, too formless. He tried again. "Is this all right? Everything that's happening?"
 
 His father set down his cup. He looked at Ash for a long time. Not the way the Council member had looked at him, not at his hands, not at the power they held. At his face. At the boy underneath the suit and the collar and the ocean behind his ribs.
 
 "Your mother is scared," his father said. "Not of you. Of what's coming. She spent twenty-three years making sure the world couldn't take too much from you, and now the world wants to take everything, and she doesn't know how to fight that."
 
-"She doesn't need to fight anything. I'm—"
+"She doesn't need to fight anything. I'm..."
 
-"Let me finish." His father's voice was quiet. Not sharp. Just steady, the voice of a man who had something to say and meant to say it. "She's scared, and she's right to be. I'm proud of you—I was proud of you before this, Ash, I need you to hear that. But I'm watching people look at my son the way they look at the heating lattice. Like a thing that provides." His throat moved. He picked up his cup again. Drank. Set it down.
+"Let me finish." His father's voice was quiet. Not sharp. Just steady, the voice of a man who had something to say and meant to say it. "She's scared, and she's right to be. I'm proud of you. I was proud of you before this, Ash. I need you to hear that. But I'm watching people look at my son the way they look at the heating lattice. Like a thing that provides." His throat moved. He picked up his cup again. Drank. Set it down.
 
 "She's worried they'll use you," he said. "I'm worried you'll let them, because it'll feel like being useful."
 
@@ -334,7 +334,7 @@ The words landed in the kitchen like heat into stone. Ash sat with them. He didn
 
 "Please."
 
-His father heated the water with his palm on the kettle. The small, deliberate expenditure of a man's daily pool, offered without ceremony. Ash watched his father's hand on the metal and felt, for the first time, the precise shape of the distance between them—not the distance of magic and its absence, which was old and familiar, but a new distance. The kind that came from having too much of what someone you loved could barely afford.
+His father heated the water with his palm on the kettle. The small, deliberate expenditure of a man's daily pool, offered without ceremony. Ash watched his father's hand on the metal and felt, for the first time, the precise shape of the distance between them, not the distance of magic and its absence, which was old and familiar, but a new distance. The kind that came from having too much of what someone you loved could barely afford.
 
 * * *
 
@@ -376,7 +376,7 @@ She nodded. She didn't ask for details. She didn't ask what the room looked like
 
 "I'm not hungry."
 
-She looked at him. The look was direct and uncomplicated and entirely Ryn—a quality of seeing that had nothing to do with power or politics or the careful, layered calculations that every other person in his life seemed to be running. She saw him. Just him. The boy from the same street who'd been dead weight for twenty-three years and who was now, apparently, the most significant channeling event in recorded history.
+She looked at him. The look was direct and uncomplicated and entirely Ryn, a quality of seeing that had nothing to do with power or politics or the careful, layered calculations that every other person in his life seemed to be running. She saw him. Just him. The boy from the same street who'd been dead weight for twenty-three years and who was now, apparently, the most significant channeling event in recorded history.
 
 She didn't seem to find the second thing more interesting than the first.
 
@@ -386,13 +386,13 @@ She didn't seem to find the second thing more interesting than the first.
 
 "Have you talked to Haran?"
 
-"Not yet. I've been—it's been busy."
+"Not yet. I've been, it's been busy."
 
 "You should talk to Haran."
 
 "I know."
 
-She leaned back in the chair. The silence between them had a different quality than the silences he'd held today—different from the coached silence of the platform, the institutional silence of the gallery, the heavy silence of his father's kitchen. This silence was old and comfortable, and it smelled like the district they'd grown up in, like cold mornings and shared walks and the accumulated weight of years spent in each other's company.
+She leaned back in the chair. The silence between them had a different quality than the silences he'd held today, different from the coached silence of the platform, the institutional silence of the gallery, the heavy silence of his father's kitchen. This silence was old and comfortable, and it smelled like the district they'd grown up in, like cold mornings and shared walks and the accumulated weight of years spent in each other's company.
 
 "The lattice thing," she said. "Did it cost you much?"
 
@@ -402,13 +402,13 @@ She was quiet for a moment. Then: "I'm glad."
 
 He looked at her.
 
-"About the—all of it. The Wellspring, or whatever they're calling it. I'm glad it happened to you."
+"About the, all of it. The Wellspring, or whatever they're calling it. I'm glad it happened to you."
 
 *Happened to you.* The phrasing landed in the same place Dorenne's *happens to carry* had landed, but differently. Dorenne's version had framed the power as incidental, a thing to be managed, positioned, controlled. Ryn's version framed it as weather. Something that had arrived in his life. Not who he was. Not what he was for. Just a thing that had happened, the way a storm happens, or a season, or a piece of luck that falls on you without asking whether you're ready.
 
-He appreciated it. The part of him that had been standing on platforms and fielding questions and being looked at like a heating lattice—that part wanted to hear someone say *it happened to you* instead of *you are this now*.
+He appreciated it. The part of him that had been standing on platforms and fielding questions and being looked at like a heating lattice, that part wanted to hear someone say *it happened to you* instead of *you are this now*.
 
-And underneath the appreciation, faint as a thumbprint on glass: something else. Something that tightened in his chest when she said *happened to you*—because it didn't just happen to him. It was him. The ocean behind his ribs was not separate from the ribs. The warmth in his palms was not visiting. It lived there. It would always live there. And to hear someone he loved describe it as something that happened *to* him—as if it were an accident, a circumstance, a thing that could be set down and walked away from—
+And underneath the appreciation, faint as a thumbprint on glass: something else. Something that tightened in his chest when she said *happened to you*,because it didn't just happen to him. It was him. The ocean behind his ribs was not separate from the ribs. The warmth in his palms was not visiting. It lived there. It would always live there. And to hear someone he loved describe it as something that happened *to* him, as if it were an accident, a circumstance, a thing that could be set down and walked away from.
 
 He didn't say any of this. He smiled. "Thanks, Ryn."
 
@@ -434,7 +434,7 @@ She sat back down. She looked at the kitchen, at the channeling strips, the work
 
 "That's not what I asked."
 
-He exhaled. "She's scared. She doesn't want—she thinks everyone wants something from me."
+He exhaled. "She's scared. She doesn't want, she thinks everyone wants something from me."
 
 "Everyone does want something from you."
 
@@ -448,7 +448,7 @@ Ryn shrugged. The shrug was small, practical. "She's not wrong. Doesn't mean it 
 
 The silence held. He wanted to tell her about the Councilor who'd looked at his hands instead of his face, about his mother's hand on his cheek in the corridor, about the word *everything* still hanging in the air.
 
-He wanted to tell her that for the first time in his life, people wanted him. That the wanting felt like sunlight after twenty-three years of cold—warming, necessary, impossible to distinguish from the thing he'd spent his whole life craving. That he knew, in the part of him that counted and measured and saw systems clearly, that being wanted for what you could do was not the same as being wanted for who you were. He knew this. And knowing it didn't help.
+He wanted to tell her that for the first time in his life, people wanted him. That the wanting felt like sunlight after twenty-three years of cold, warming, necessary, impossible to distinguish from the thing he'd spent his whole life craving. That he knew, in the part of him that counted and measured and saw systems clearly, that being wanted for what you could do was not the same as being wanted for who you were. He knew this. And knowing it didn't help.
 
 He didn't tell her any of it. He sat in the kitchen with his oldest friend and let the silence hold what words couldn't carry.
 
@@ -474,7 +474,7 @@ Somewhere in those layers, people were talking about him. Council members in the
 
 They were building him. Not the person. The idea. The Wellspring. The resource. The thing that the city needed and the Director had found and the Council would argue about and the broadsheets would print and the public would absorb until the name Ashlyn Torren meant something that had nothing to do with a boy who'd washed in cold water every morning and climbed forty flights because he couldn't use the lift.
 
-He pressed his palms against the window glass. The glass warmed under his touch—not deliberately, not channeled, just the ambient leak of a reservoir so vast that his body couldn't contain it entirely. The excess bled through his skin like heat from a furnace whose door wouldn't close.
+He pressed his palms against the window glass. The glass warmed under his touch, not deliberately, not channeled, just the ambient leak of a reservoir so vast that his body couldn't contain it entirely. The excess bled through his skin like heat from a furnace whose door wouldn't close.
 
 Outside, the city glowed. Inside, the ocean pressed.
 

@@ -144,7 +144,7 @@ The tag should tell us *how* the line is delivered when it's not obvious from co
 
 **Naturalistic.** Characters speak in fragments, interrupt each other, trail off, and leave things unsaid. People don't talk in complete paragraphs unless they're giving a speech.
 
-- Em dashes for interruptions (including self-interruptions): "I just think that maybe—"
+- Interruptions (including self-interruptions): use a comma plus restart, e.g., "I just think that, I don't know, maybe..." — **no em dashes** (see No Em Dash Rule in CLAUDE.md)
 - Ellipses for trailing off: "I thought it would be different..."
 - Characters talk past each other. Not every question gets answered. Not every point gets addressed.
 - Each character should have a distinct speech pattern. Voice specs live in the `## Voice` section of each character profile in `characters/` — drafters MUST consult those specs before writing any character's dialogue, and reviewers check dialogue against them. Per-character voice agents (`voice-ash`, `voice-maren`, `voice-haran`, `voice-ryn`, `voice-dorenne`, `voice-leska`, `voice-father`) audit each chapter for spec drift and cross-character collapse.
@@ -266,7 +266,7 @@ Within chapters, scene breaks (shifts in time or location) are marked with a cen
 
 ### Punctuation and Formatting
 
-- **Em dashes** for interruptions, asides, and abrupt shifts — no spaces around them.
+- **Interruptions, asides, and abrupt shifts:** use a comma plus restart, or an ellipsis for trailing off. **No em dashes** (see No Em Dash Rule in CLAUDE.md).
 - **Ellipses** for trailing off... three dots, no spaces before.
 - **Italics** for interior monologue, emphasis (sparingly), and foreign/technical terms on first use.
 - **No bold text** in prose, ever.

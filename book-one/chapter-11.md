@@ -26,7 +26,7 @@ She turned. Her eyes moved across him the way they'd always moved across him, ca
 
 "And after that?"
 
-"Southern quarter, maybe. Dorenne mentioned the—"
+"Southern quarter, maybe. Dorenne mentioned the..."
 
 "Dorenne mentioned." His mother's voice didn't sharpen. It flattened, which was worse. A sharpness you could push against. A flatness just lay there, absorbing everything you threw at it. "Dorenne always mentions."
 
@@ -40,7 +40,7 @@ The words came out faster than he meant them. Not cruel, factual. His schedule h
 
 His mother's face didn't change. Her hands tightened on the chair back.
 
-"I used to know where you were," she said. Quieter now. Not the flatness, something beneath it. "Every day. I knew where you walked. I knew who you saw. I knew when you'd be home because there was nowhere else for you to go, and I—"
+"I used to know where you were," she said. Quieter now. Not the flatness, something beneath it. "Every day. I knew where you walked. I knew who you saw. I knew when you'd be home because there was nowhere else for you to go, and I..."
 
 She stopped. She let go of the chair. She went back to the curtains.
 
@@ -62,13 +62,13 @@ He pulled his hands away. His palms were warm from the waste heat, always the wa
 
 Tirsa's equivalent on the northern crew, a middle-generation man named Orett with a patient expression and the permanent squint of someone who spent his days staring at cracks, pressed his own palm to the wall and closed his eyes. He held the contact for several seconds, reading the stone the way a doctor might read a pulse.
 
-"Solid," he said. He opened his eyes. He looked at Ash with the expression that Ash had learned to recognize in every district he'd worked—the expression that was part gratitude, part awe, and part something else, something that flickered behind the gratitude like a shadow behind a lamp. "Months' worth. Maybe a year, depending on the weather."
+"Solid," he said. He opened his eyes. He looked at Ash with the expression that Ash had learned to recognize in every district he'd worked, the expression that was part gratitude, part awe, and part something else, something that flickered behind the gratitude like a shadow behind a lamp. "Months' worth. Maybe a year, depending on the weather."
 
 A year. One wall, four minutes, a year of structural integrity. The arithmetic of the Wellspring. He'd stopped being amazed by the arithmetic, but he hadn't stopped loving it.
 
 "Good," Ash said. He wiped his palms on his trousers. "What's next?"
 
-"Three more in this section. Then the canal bridge, if you've got the—"
+"Three more in this section. Then the canal bridge, if you've got the..."
 
 "I've got it."
 
@@ -88,13 +88,13 @@ She nodded. She unrolled the survey on the bridge's stone railing and weighted t
 
 "These three are failing," she said. "The channeled lining is degrading, the water's finding gaps, soaking into the underlying stone. Two residential blocks are showing moisture damage. If the degradation continues, we'll lose the canal entirely within the season, and the runoff will have to be rerouted through the market district."
 
-"Through the market—"
+"Through the market..."
 
 "Through the foundation system. Under the stalls. It would functionally destroy the northern market."
 
 She said it cleanly. Not dramatically; Dorenne didn't dramatize. She presented facts and let the facts carry their own weight. The northern market served eight thousand people. The canal system protected it. The canal was failing. The equation was simple.
 
-"I can line the failing sections today," Ash said. "Same approach as the retaining wall. Push energy into the degraded channeling, harden the—"
+"I can line the failing sections today," Ash said. "Same approach as the retaining wall. Push energy into the degraded channeling, harden the..."
 
 A voice behind him.
 
@@ -124,13 +124,13 @@ He hadn't forgotten it. He hadn't taken it because he'd planned to eat at one of
 
 The words landed between them like a stone dropped in still water. Dorenne's expression didn't change. His mother's expression didn't change. The surface held. Beneath it, the ripples spread.
 
-"Of course," Dorenne said. She glanced at the survey. Back at Leska. "He's doing extraordinary work. The northern quarter—"
+"Of course," Dorenne said. She glanced at the survey. Back at Leska. "He's doing extraordinary work. The northern quarter..."
 
 "I know what he's doing." His mother took a step forward. Not aggressive, purposeful. The step of a woman who'd stood between her son and a world that didn't want him for two decades and had never once stepped back. "I read the district reports. I hear the criers. My neighbors tell me things they've heard about my son before my son tells me himself." She looked at Ash. The look was a blade, but the edge was turned inward. "I'm proud of him. I've always been proud of him. I was proud of him before any of this."
 
 The last sentence sat in the air. It was addressed to him and to Dorenne and to no one, a statement released into the open because the container she'd been holding it in was too small and the pressure had built past what the walls could bear.
 
-Dorenne waited a precisely calibrated beat. Then she said, "The canal survey needs attention before the afternoon crews arrive. Ash—when you're ready."
+Dorenne waited a precisely calibrated beat. Then she said, "The canal survey needs attention before the afternoon crews arrive. Ash, when you're ready."
 
 It was not a command. It was not an interruption. It was a reorientation, the gentle, gravitational pull of a planet redirecting a moon. She turned back to the survey on the railing. She didn't look at his mother. She didn't need to. The turning was the statement: *There is work. The work matters. The work is where he belongs now.*
 
@@ -178,7 +178,7 @@ Ash sat at the table. His father sat across from him. Maren was in the doorway b
 
 His father listened. He always listened. He was a listener the way some people were talkers, the quality built into him so deeply it looked like passivity to anyone who wasn't paying attention. His hands were on the table, bracketing his plate, and the fingers were calloused in the particular pattern of a man who'd worked with tools his whole life: thick pads on the palms, roughness at the fingertips, a scar on the left index finger from a chisel that slipped twenty years ago. His hands were still while Ash talked.
 
-"The canal was interesting," Ash said. "Harder than I expected—the lining's thinner, more intricate. I had to slow down. But the original builders—you should have seen the work, Dad. They understood how the water would move through every bend, every corner. I couldn't match it. I just reinforced what was there."
+"The canal was interesting," Ash said. "Harder than I expected. The lining's thinner, more intricate. I had to slow down. But the original builders, you should have seen the work, Dad. They understood how the water would move through every bend, every corner. I couldn't match it. I just reinforced what was there."
 
 His father nodded. "Like pointing," he said.
 
@@ -192,23 +192,23 @@ His father chewed. He swallowed. He said, carefully, as though the words needed 
 
 "I remember."
 
-"You were, what—sixteen? Seventeen? You filed that blade for a week. You wore through two files getting it right." His father's eyes had a quality Ash recognized: brightness, warmth, the particular luminance of a man looking at something he valued. "Haran said it was the best pointing tool he'd ever used. Said it was better than the manufactured ones. He still has it."
+"You were, what, sixteen? Seventeen? You filed that blade for a week. You wore through two files getting it right." His father's eyes had a quality Ash recognized: brightness, warmth, the particular luminance of a man looking at something he valued. "Haran said it was the best pointing tool he'd ever used. Said it was better than the manufactured ones. He still has it."
 
 "I think he does, yeah."
 
 "That was a good tool."
 
-His father looked at him. The look held. In the look was a question, not asked, not quite formed, the shape of it present the way a word is present on the tip of the tongue: you can feel its weight, its syllables, the space it would occupy in the air, but it won't come. The question was: *Do you remember what you were before this? Do you know that the boy who filed that blade for a week was worth something? Do you know that I was proud of you then—before the ocean, before the deployments, before Dorenne's maps?*
+His father looked at him. The look held. In the look was a question, not asked, not quite formed, the shape of it present the way a word is present on the tip of the tongue: you can feel its weight, its syllables, the space it would occupy in the air, but it won't come. The question was: *Do you remember what you were before this? Do you know that the boy who filed that blade for a week was worth something? Do you know that I was proud of you then, before the ocean, before the deployments, before Dorenne's maps?*
 
 The question hovered. It needed something from Ash: a pause, a recognition, a moment of stillness in which the old life and the new one could coexist. A moment in which his father's pride could land as what it was: not pride in the Wellspring but pride in the boy who had made things with his hands because his hands were all he had.
 
-"That canal was something, though," Ash said. He tore more bread. "The original work—you should see it, Dad. First-generation channeling. The precision is incredible. They understood fluid dynamics at a level I can't even—"
+"That canal was something, though," Ash said. He tore more bread. "The original work, you should see it, Dad. First-generation channeling. The precision is incredible. They understood fluid dynamics at a level I can't even..."
 
 He kept talking. His father kept listening. The question withdrew. Not answered, not dismissed, just uncollected, like a letter slipped under a door in an empty room. His father's hands rested on the table, steady and still, and his eyes were bright, and the brightness dimmed by a degree so small that you'd have to be watching for it to see it. His mother wasn't watching. She was at the stove, stirring. Ash wasn't watching. He was talking about canals.
 
 Maren was watching.
 
-She stood in the doorway with her tea and she saw the whole thing—the question offered, the question missed, the dimming. Her face showed nothing. Her face was a surface trained to show nothing. She sipped her tea and the tea was the exact right temperature because she'd made it that way, precisely, the warmth going exactly where it needed to go and nowhere else.
+She stood in the doorway with her tea and she saw the whole thing: the question offered, the question missed, the dimming. Her face showed nothing. Her face was a surface trained to show nothing. She sipped her tea and the tea was the exact right temperature because she'd made it that way, precisely, the warmth going exactly where it needed to go and nowhere else.
 
 * * *
 
@@ -220,11 +220,11 @@ He couldn't feel it that way. The Wellspring was too big and his training was to
 
 "Ash." Maren's voice from the hallway. Level. Unsurprised.
 
-"I know, I know—"
+"I know, I know..."
 
 "The bedroom wall."
 
-He pulled back. He could feel it—the pulse had raced through the lattice and hit the bedroom wall at full strength, the channels there narrower than the living room's main line, the energy compressing and intensifying as it squeezed through smaller conduits. The wall would be blazing. The temperature in the bedroom would be—
+He pulled back. He could feel it. The pulse had raced through the lattice and hit the bedroom wall at full strength, the channels there narrower than the living room's main line, the energy compressing and intensifying as it squeezed through smaller conduits. The wall would be blazing. The temperature in the bedroom would be...
 
 "I'll fix it," he said.
 
@@ -242,11 +242,11 @@ It took her three minutes. He sat on the living room floor and listened to the s
 
 She went to the kitchen. He heard her pour water, the small sounds of someone making more tea, the kettle on the stove, her palm against the interface this time instead of the direct warming. She was using the interface now, at least some of the time. Learning the new kitchen's rhythms. Adapting. The way she adapted to everything, quietly, competently, without announcement or complaint.
 
-He should thank her properly. He should go to the kitchen and say something more than *thanks*—should acknowledge that she'd fixed what he'd broken, that she'd been fixing what he'd broken since the Wellspring activated, that every time he overloaded a lattice or cracked a fitting or fused a joint, she was the one who came behind him and set it right. He should say: *I notice. I see what you're doing. You're holding this household together the way you've always held it together, and I see it.*
+He should thank her properly. He should go to the kitchen and say something more than *thanks*, should acknowledge that she'd fixed what he'd broken, that she'd been fixing what he'd broken since the Wellspring activated, that every time he overloaded a lattice or cracked a fitting or fused a joint, she was the one who came behind him and set it right. He should say: *I notice. I see what you're doing. You're holding this household together the way you've always held it together, and I see it.*
 
 He didn't go to the kitchen. He turned back to the wall and tried again.
 
-The lattice accepted his second pulse more evenly this time. Not because he'd improved—because Maren's adjustments had redistributed the load, clearing the narrower channels so his next attempt had room to breathe. He felt the warmth spread through the walls—still too fast, still too much, but more distributed, less explosive. The room warmed without fogging the windows. Progress.
+The lattice accepted his second pulse more evenly this time. Not because he'd improved. Because Maren's adjustments had redistributed the load, clearing the narrower channels so his next attempt had room to breathe. He felt the warmth spread through the walls, still too fast, still too much, but more distributed, less explosive. The room warmed without fogging the windows. Progress.
 
 He was getting better. He was sure of it.
 
@@ -266,7 +266,7 @@ His father came in from outside. He'd been on a labor shift, physical work, haul
 
 "Dorenne's got council today."
 
-His father nodded. He didn't say anything else. He sat with his water and his tired hands and the quiet of the kitchen around them, and for a while the two of them just existed in the same room—the father who'd carried things his whole life and the son who could now carry everything, sharing a table the way they'd shared a table in the old apartment and the one before that, except that in the old apartments the silence had been companionable and this silence had something underneath it, something his father was holding in his calloused hands the way he held a tool he didn't know how to use.
+His father nodded. He didn't say anything else. He sat with his water and his tired hands and the quiet of the kitchen around them, and for a while the two of them just existed in the same room: the father who'd carried things his whole life and the son who could now carry everything, sharing a table the way they'd shared a table in the old apartment and the one before that, except that in the old apartments the silence had been companionable and this silence had something underneath it, something his father was holding in his calloused hands the way he held a tool he didn't know how to use.
 
 From the back of the apartment, the sound of Maren's door opening. She was awake, moving, beginning her own day. She had a shift at the restoration site, a project she'd been assigned to before the Wellspring, before everything. Structural assessment and repair on a series of buildings in the middle districts. The work used her skills, her precision, her ability to read channeled structures, and it used her pool, and lately it used more of her pool than it should have. Ash didn't know this. He hadn't asked.
 
@@ -290,7 +290,7 @@ He found Maren in the hallway, pulling on her coat.
 
 Fine. Maren's fine was a sealed container. It held whatever was inside it without letting anything leak, and the seal was so complete that you couldn't tell from the outside whether the container held water or acid or nothing at all.
 
-"The lattice last night," he said. "Sorry about that. I was trying to—"
+"The lattice last night," he said. "Sorry about that. I was trying to..."
 
 "I know what you were trying to do." She pulled her collar straight. "It's fine. The lattice can take it. The main-line channels are first-generation work; they're overbuilt for the current load. Your excess just fills the headroom."
 
@@ -330,11 +330,11 @@ Not literally. She was too practiced for that, too skilled at the geometry of ro
 
 "Sit down," she said.
 
-"I was going to—"
+"I was going to..."
 
 "Sit down."
 
-He sat. Across from her, at the table, the deployment brief from the morning still where he'd left it. His mother looked at it—at the paper, the official seal, Dorenne's handwriting in the margins. Her expression was the expression of someone looking at a document written in a language she could read but not speak.
+He sat. Across from her, at the table, the deployment brief from the morning still where he'd left it. His mother looked at it, at the paper, the official seal, Dorenne's handwriting in the margins. Her expression was the expression of someone looking at a document written in a language she could read but not speak.
 
 "I spoke to Director Kharren today," his mother said.
 
@@ -342,9 +342,9 @@ Ash's stomach tightened. "You went to the Hall?"
 
 "I went to the Hall."
 
-"Mum—"
+"Mum..."
 
-"I wanted to see your schedule. I wanted to understand what they're asking you to do. How many deployments, how many districts, how many—" She stopped. Her jaw worked. "I have a right to know, Ashlyn."
+"I wanted to see your schedule. I wanted to understand what they're asking you to do. How many deployments, how many districts, how many..." She stopped. Her jaw worked. "I have a right to know, Ashlyn."
 
 "I tell you about the deployments."
 
@@ -354,17 +354,17 @@ Ash's stomach tightened. "You went to the Hall?"
 
 "She said the deployments were a matter of public infrastructure planning and that the scheduling was coordinated between her office and you directly, and that she appreciated my concern for my son's well-being and that she shared it, and that she would be happy to answer any questions I had about the general nature of the work while respecting the operational details that were part of her office's mandate."
 
-His mother delivered this in a single breath. The words were Dorenne's, her vocabulary, her syntax, the precisely calibrated warmth of her professional voice—coming from his mother's mouth like a language being translated in real time, and the effect was devastating.
+His mother delivered this in a single breath. The words were Dorenne's, her vocabulary, her syntax, the precisely calibrated warmth of her professional voice, coming from his mother's mouth like a language being translated in real time, and the effect was devastating.
 
 "She politely told me it's none of my business," his mother said. "In the most respectful possible way, she told me that my son is hers now."
 
-"That's not what she—"
+"That's not what she..."
 
 "She was very kind about it. She offered me tea."
 
-The tea. He could see it—Dorenne's office, the high ceilings, the maps on the walls, and his mother sitting in one of the chairs across from the Director's desk with a cup of tea she hadn't asked for in a building where she couldn't operate the transit lift and everyone else could. Dorenne being warm. Being precise. Being exactly the right temperature to make the kindness feel like a wall.
+The tea. He could see it: Dorenne's office, the high ceilings, the maps on the walls, and his mother sitting in one of the chairs across from the Director's desk with a cup of tea she hadn't asked for in a building where she couldn't operate the transit lift and everyone else could. Dorenne being warm. Being precise. Being exactly the right temperature to make the kindness feel like a wall.
 
-"Mum, Dorenne isn't trying to—she's helping me. She's giving me work that matters. The districts I've been in, the people—"
+"Mum, Dorenne isn't trying to, she's helping me. She's giving me work that matters. The districts I've been in, the people..."
 
 "I know about the people." His mother's voice cracked. Not loudly, a hairline fracture, the kind you could only see if you were looking for it. "I know about the twelve hundred families and the heating lattice and the woman who cried. I know about the water system and the canal and the transit shaft. The whole city knows." She leaned forward. "I don't care about the city."
 
@@ -380,19 +380,19 @@ The words hung in the air.
 
 "Isn't it?"
 
-The question was sharp enough to cut. He felt it—a sting, a flash of something that might have been anger or might have been the reflex of someone whose new life was being questioned by the person most qualified to question it. His mother had protected him for twenty-three years. She'd stood between him and the world. She'd been the shield, the advocate, the fierce and tireless defender of a son who couldn't defend himself.
+The question was sharp enough to cut. He felt it: a sting, a flash of something that might have been anger or might have been the reflex of someone whose new life was being questioned by the person most qualified to question it. His mother had protected him for twenty-three years. She'd stood between him and the world. She'd been the shield, the advocate, the fierce and tireless defender of a son who couldn't defend himself.
 
 He could defend himself now. That was the point. That was the change she couldn't absorb.
 
-"Mum," he said. He reached across the table and took her hands. Her fingers were cold—not from the temperature (the apartment was warm, the lattice humming in the walls) but from the inside, from whatever was circulating through her that made her hands shake and her voice crack and her eyes bright with a moisture she wouldn't let fall. "I'm okay. I'm doing good work. I'm helping people. This is what I wanted—what we wanted. Remember? When I got the job at the Hall—when I came home and told you—you cried. You were happy."
+"Mum," he said. He reached across the table and took her hands. Her fingers were cold, not from the temperature (the apartment was warm, the lattice humming in the walls) but from the inside, from whatever was circulating through her that made her hands shake and her voice crack and her eyes bright with a moisture she wouldn't let fall. "I'm okay. I'm doing good work. I'm helping people. This is what I wanted, what we wanted. Remember? When I got the job at the Hall, when I came home and told you, you cried. You were happy."
 
-"I was happy because you had a job." Her voice was small. "A job. A desk. A schedule I could understand. Not—" She gestured at the deployment brief. At the walls. At everything. "Not this."
+"I was happy because you had a job." Her voice was small. "A job. A desk. A schedule I could understand. Not..." She gestured at the deployment brief. At the walls. At everything. "Not this."
 
 "This is better than a job."
 
 She looked at him. In her eyes was the thing she wouldn't say and he wouldn't hear, the thing that lived in the space between *I'm proud of you* and *I don't know what I'm for anymore*. For twenty-three years, she had been the person who kept him alive in a world that had no place for him. She had fought teachers and officials and neighbors. She had heated his water and warmed his room and made his bread. She had carried the weight of his impossibility on her back and called it love, and the weight had given her shape, had given her purpose, had given her the thing that got her up before dawn and kept her moving through days that were hard in ways that only the parent of a disabled child in an abled world could understand.
 
-The weight was gone. Her son didn't need her to heat his water—he could boil a river. He didn't need her to warm his room; he could warm a district. He didn't need her to fight for him. Dorenne was doing that, or something that looked like fighting and might have been something else, and either way the role was filled and the position was taken and the woman who had spent her life being necessary was now, for the first time, not.
+The weight was gone. Her son didn't need her to heat his water; he could boil a river. He didn't need her to warm his room; he could warm a district. He didn't need her to fight for him. Dorenne was doing that, or something that looked like fighting and might have been something else, and either way the role was filled and the position was taken and the woman who had spent her life being necessary was now, for the first time, not.
 
 Ash heard *I'm proud of you* and missed the harmonics underneath.
 
@@ -406,13 +406,13 @@ Late. The apartment dark except for the heating lattice's faint glow in the wall
 
 Ash stood at the window of his room and looked out at the city.
 
-Solathis spread below him—the plateau's tiers descending toward the gorge, the upper districts lit, the middle districts dimmer, the lower districts dimmer still. From here, at night, the stratification was visible in light: the elder districts blazing with the easy confidence of strong pools, the young districts flickering with the careful economy of weak ones. His work was out there. The Thornwall heating lattice. The northern retaining walls. The canal lining. The transit shaft. Dots on Dorenne's map, each one a place where the Wellspring had pushed back against the arithmetic of decline.
+Solathis spread below him: the plateau's tiers descending toward the gorge, the upper districts lit, the middle districts dimmer, the lower districts dimmer still. From here, at night, the stratification was visible in light: the elder districts blazing with the easy confidence of strong pools, the young districts flickering with the careful economy of weak ones. His work was out there. The Thornwall heating lattice. The northern retaining walls. The canal lining. The transit shaft. Dots on Dorenne's map, each one a place where the Wellspring had pushed back against the arithmetic of decline.
 
 He pressed his palm to the window. The glass was cool, thinner than the walls, outside the lattice's reach. He warmed it. A pulse, small, and the glass went from cool to warm under his hand. A trivial act. The kind of thing any channeler could do. The kind of thing he couldn't do eight weeks ago.
 
 The reservoir was there. Behind his ribs. Oceanic. Patient. Unchanged.
 
-He was useful. He was extraordinary. He was the most important person in the city and his mother worried about whether he ate bread, and his father talked about shelves, and his sister fixed the things he broke, and all of it was fine. All of it was the background noise of a life that had been transformed, the residual hum of old patterns adjusting to new reality. They'd adjust. Everyone adjusts. The weight shifts and the balance changes and eventually the new position feels natural, and the old one—the old one where he couldn't warm a cup of tea, where his mother heated his water and his sister outshone him and his father built things because building was what you did when you couldn't channel, the old one becomes the thing you mention at dinner, the nostalgic thing, the *do you remember* thing.
+He was useful. He was extraordinary. He was the most important person in the city and his mother worried about whether he ate bread, and his father talked about shelves, and his sister fixed the things he broke, and all of it was fine. All of it was the background noise of a life that had been transformed, the residual hum of old patterns adjusting to new reality. They'd adjust. Everyone adjusts. The weight shifts and the balance changes and eventually the new position feels natural, and the old one, the old one where he couldn't warm a cup of tea, where his mother heated his water and his sister outshone him and his father built things because building was what you did when you couldn't channel, the old one becomes the thing you mention at dinner, the nostalgic thing, the *do you remember* thing.
 
 The shelf. The pointing tool. The old kettle in the cabinet.
 
@@ -420,13 +420,13 @@ Memories. Good ones. But small.
 
 He let the window go and went to bed. The lattice hummed in the walls around him, steady, warm, the sound of a system that was full and working and would need to be refilled in a week because nothing he did lasted forever but everything he did lasted long enough.
 
-Behind her closed door, light. Maren was still awake. She was always awake late now. He assumed she was reading, studying, doing whatever Maren did after a full day of channeling at the restoration site. He'd noticed, at dinner, the way she'd flexed her hands under the table when she thought no one was looking. The way she'd paused, barely a beat, barely anything—before rebalancing the lattice he'd overloaded. She'd seemed tired. Not unusually tired. Just tired in the particular way she'd been tired for weeks now, the tiredness sitting a little deeper each time he looked, though he wasn't looking closely and wouldn't have known what to look for.
+Behind her closed door, light. Maren was still awake. She was always awake late now. He assumed she was reading, studying, doing whatever Maren did after a full day of channeling at the restoration site. He'd noticed, at dinner, the way she'd flexed her hands under the table when she thought no one was looking. The way she'd paused, barely a beat, barely anything, before rebalancing the lattice he'd overloaded. She'd seemed tired. Not unusually tired. Just tired in the particular way she'd been tired for weeks now, the tiredness sitting a little deeper each time he looked, though he wasn't looking closely and wouldn't have known what to look for.
 
 The light stayed on behind her door. He went to bed.
 
 Behind her wall, the lattice hummed. Her brother's warmth. His excess, redistributed, made manageable by her hands. The system worked because she balanced it. Nobody noticed the balancing.
 
-In his room, Ash slept too. His dreams were warm and vast and full of faces—grateful faces, awed faces, the faces of people seeing help arrive after months of waiting. In the dreams, the reservoir never thinned. In the dreams, the work never ended. In the dreams, everyone he loved was fine, was happy, was adjusted and adjusted and adjusted, and the curtains hung perfectly on the rod, and the shelf held, and the tea was always hot, and nobody needed anything he wasn't already giving.
+In his room, Ash slept too. His dreams were warm and vast and full of faces: grateful faces, awed faces, the faces of people seeing help arrive after months of waiting. In the dreams, the reservoir never thinned. In the dreams, the work never ended. In the dreams, everyone he loved was fine, was happy, was adjusted and adjusted and adjusted, and the curtains hung perfectly on the rod, and the shelf held, and the tea was always hot, and nobody needed anything he wasn't already giving.
 
 Outside, the city dimmed by tiers. The elder districts held their light. The young districts flickered.
 

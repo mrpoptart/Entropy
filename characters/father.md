@@ -1,6 +1,6 @@
 # The Father
 
-**Father** *(personal name not yet established — flag for the outline when first used in dialogue. Surname: **Torren**, per Maren's "I'm used to being the Torren who channels.")*
+**Rendell Torren.** Established in chapter 7 ("I can see the step, Rendell." Leska, in the new flat). Surname **Torren** per Maren's "I'm used to being the Torren who channels."
 
 ## Basics
 - **Age:** Late 40s to mid 50s
@@ -39,10 +39,31 @@ He becomes a quieter presence as Ash's world expands. Visits to the workshop wit
 ### Book Three
 He is the reader's reminder that the ordinary life Ash is returning to was always there, always working, always quietly proud. If he lives to the end of the trilogy, the final scenes likely include a workbench and his hands. If he doesn't, the absence carries the same weight.
 
+## What He Does When Ash Is Not Present
+
+Rendell's life, like Leska's, does not pause when their son leaves the room. Per D3 (parents get offstage normal-life beats), the book should periodically render him as a tradesman with a workweek, not just as the parent who watches Ash leave. Three available beats writers can reach for:
+
+- **Joinery work, in someone else's house.** A commission. A door that does not hang right; a stair tread that flexes. He arrives with a leather case of files and chisels, talks for two minutes with the householder about the weather and the price of stock, and gets to work. The job is dull. The dullness is the point. The reader should sit beside him for two paragraphs of him fitting a tenon, and not feel the absence of plot. A specific available householder: **Tomek**, retired river-trader, mid-sixties, talkative; the kind of man who pulls up a stool to watch the work and tell stories over it. Rendell with Tomek is in journeyman mode, the warm conversational register the family rarely sees: *Yes, my wife is well, thank you for asking. The door, if you'll look here, has dropped about a finger over the winter; it's the frame, not the hinge, but I'll work with the hinge first because it's cheaper for you.* Ash, who has only ever heard his father in the placed-words family register, would not recognize this man.
+- **The weekly tradesmen's table.** A standing arrangement at a wineshop near the joinery district. A mason, a glazier, and Rendell. The three of them have been meeting on the same evening for eleven years. They talk about work, about prices, about whose son is at sea and whose daughter is being courted, about the weather and the council and the price of glass. Across an entire evening, Ash is not mentioned. Not from avoidance; just because the conversation does not require him. The reader should witness this once, briefly, and feel the relief of a room where the Wellspring is not the subject.
+- **A repair at home, for himself.** A drawer that sticks. A hinge that has gone soft. He fixes it on a Saturday morning while Leska is on her bread route. No one watches. The fix is small and competent. He puts the tools away. He makes tea. The whole beat is two pages and contains no information; that is the function of the beat.
+
+These beats are plot-irrelevant. That is their function. They establish Rendell as a man whose life has its own shape, not as a structural prop in his son's story.
+
 ## Voice
 
+### Backstory shaping the voice
+Rendell apprenticed as a stonemason at twelve. The masonry guild collapsed in his thirties when channeled-stone construction made traditional cut-stone work uneconomical; he reinvented himself as a joiner, learning a new trade in his forties under men ten years younger than him. Watched his trade hollow out twice across his working life. Has the pragmatic optimism of a man who has rebuilt himself once and would do it again.
+
+This shapes his voice in two ways. First, **he learned to charm clients to keep work coming**, because joinery commissions go to the man who feels easiest to have in your home. He developed a warm, conversational register for strangers, easy small talk, the polite professional banter of a man knocking on a door for a quote. Second, **with his family he is the quiet man** we know, because at home he never had to charm anyone, and quiet was always the registered default. The two registers are real and distinct. The contrast between them, when readers glimpse it, *means something.*
+
 ### Structural pattern
-**Analogical-pedagogical.** Father teaches through analogy from his trade. He does not give advice directly; he gives a comparison from masonry, joinery, or mechanism, and lets Ash do the work of mapping it. Sentences trend short, with deliberate pauses between them. He often opens with a one-word noticing ("Like X."), pauses, then unpacks the analogy in three or four short sentences before letting it settle. He almost never strings clauses together with conjunctions; his rhythm is *period, period, period.* Per Ch. 11: *as though the words needed to be placed just so.*
+**Two registers, switched by audience.**
+
+**With family (the analogical-pedagogical mode):** teaches through analogy from his trade. Doesn't give advice directly; gives a comparison from masonry, joinery, or mechanism, and lets the listener do the mapping. Sentences trend short with deliberate pauses. Opens with a one-word noticing ("Like X.") sparingly, not every scene. Rhythm is *period, period, period.* Per Ch. 11: *as though the words needed to be placed just so.*
+
+**With strangers and clients (the journeyman mode):** warm, easy, conversational. Asks after the family. Talks about the weather and the work and the price of stock. Sentences flow at a normal social tempo. He's not performing; he's the version of himself that earned a living for forty years by being pleasant company.
+
+The reader should see both registers at least once. Reviewers should flag scenes where Father is talking to a stranger and *still* sounds like the family-mode quiet man, that's the spec being misapplied.
 
 ### Vocabulary register
 - **Trade vocabulary.** *Pointing, mortar, brick, joint, tolerance, blade, file, tool, fit, set, hold.* These are the words his life has trained him to reach for, and they appear naturally in dialogue about anything — including emotions.
@@ -50,14 +71,21 @@ He is the reader's reminder that the ordinary life Ash is returning to was alway
 - **Plain register.** No jargon. No softeners. No abstractions when a concrete word will do.
 - **Almost no emotional vocabulary.** He does not say *proud, scared, sad.* He says *good work,* and the word *good* is doing all the heavy lifting.
 
-### Verbal tics & habits
-- **"Like X."** A signature opener. He hears the situation, names the analogy in two words, then explains it.
-- **The named-act compliment.** Praise is almost always tied to a specific past act, not a general quality. *"You built a pointing tool once."* not *"You're handy."*
-- **The one-beat pause.** He waits longer than the conversation expects. Reviewers should preserve the pause — it's part of the character's cadence.
-- **Quiet voice.** Per Ch. 11: *"Good work," his father said. Quietly. The way he said everything that mattered.* If a Father line is loud, it's wrong.
+### Verbal tics & habits (family-mode)
+- **"Like X."** A signature opener, used *sparingly*. When he reaches for it, Ash should recognize the move. Overuse turns it into a verbal ringtone.
+- **The named-act compliment.** Praise is almost always tied to a specific past act, not a general quality. *"You built a pointing tool once,"* not *"You're handy."*
+- **The one-beat pause.** He waits longer than the conversation expects. Preserve the pause; it's part of the cadence.
+- **Quiet voice.** Per Ch. 11: *"Good work," his father said. Quietly. The way he said everything that mattered.* If a Father line is loud in family mode, it's wrong.
 - **The shoulder grip.** The hand on the shoulder, held a beat too long. Sometimes it replaces the line entirely.
-- **Sentences placed, not flowed.** He puts the words down where they go. There's a slight, deliberate weight to each one.
-- **Returns to the workbench.** Even mid-conversation, he handles a tool, tests a joint, runs a thumb along an edge. The handling is part of the speech.
+- **Sentences placed, not flowed.** Slight, deliberate weight to each one.
+- **Returns to the workbench.** Mid-conversation, he handles a tool, tests a joint, runs a thumb along an edge. The handling is part of the speech.
+
+### Verbal tics & habits (journeyman-mode, with strangers)
+- **Easy small talk.** Asks after the family. Talks weather, work, materials. Is unhurried about getting to the point.
+- **Self-effacing professional.** "I do a little of this, a little of that, mostly joinery these days, used to be stone before the lattices took over." The autobiography is short and rehearsed; he's said it a thousand times.
+- **Compliments the work he sees.** Notices joinery in a stranger's hallway. Comments on a well-set door. The trade respects the trade.
+- **Quietly funny.** Dry one-liners about clients, materials, weather. Lands them at normal social tempo, not the family-mode placed-just-so tempo.
+- **Uses the listener's name back.** "Thank you, Marra." "Appreciate that, Tomek." The acknowledgment is a charm honed across a working life.
 
 ### What he doesn't say
 - He does not say *I'm proud of you* in those words. He says *good work* — and which work, specifically.

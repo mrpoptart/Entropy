@@ -36,9 +36,9 @@ One of the women, tall, her grey hair pulled back tight, a maintenance crew badg
 
 "How many people?"
 
-"Three hundred on the east terrace. Some injured. No other way down except a scramble path that drops two hundred feet to the gorge floor. For the elderly and the children—" She stopped. She didn't need to finish.
+"Three hundred on the east terrace. Some injured. No other way down except a scramble path that drops two hundred feet to the gorge floor. For the elderly and the children..." She stopped. She didn't need to finish.
 
-Ash walked to the center of the bridge. He could feel it moving under his feet—a faint, rhythmic shift, the stone flexing in a way that stone should never flex. He knelt and pressed his palms flat against the surface.
+Ash walked to the center of the bridge. He could feel it moving under his feet, a faint, rhythmic shift, the stone flexing in a way that stone should never flex. He knelt and pressed his palms flat against the surface.
 
 The bridge's internal structure opened to his sensing like a diagram: the keystone at the apex, the cascading lattice radiating downward through both arms of the arch, the precise and elegant geometry of Ancient engineering reduced to a network of fractures and overstressed joints. He could see where the lattice was still holding, thin bright lines of channeled force, fading, the echo of work done by people whose pools had been ten times larger than anyone alive today. And he could see where it was failing: dark spots, gaps, places where the channeling had simply run out and the stone was bearing loads it was never meant to carry without magical support.
 
@@ -76,7 +76,7 @@ Dorenne listened. He watched her face as she took it in, the numbers, the scope,
 
 "That's where the damage is."
 
-"That's where the damage is worst, yes. But the mid-city transit network is failing. If we lose the upper lifts, we can't move supplies downhill. The Council is meeting this afternoon, and they need to see—" She stopped herself. Ash watched the calculation happen in real time, the institutional logic running its course, the strategy forming, the impulse to deploy him where his work would be most visible. Then something in her face shifted. She looked at the water main he'd sealed, at the puddle around his knees, at the people gathered on the terrace above them waiting for the pipes to hold so they could fill their buckets.
+"That's where the damage is worst, yes. But the mid-city transit network is failing. If we lose the upper lifts, we can't move supplies downhill. The Council is meeting this afternoon, and they need to see..." She stopped herself. Ash watched the calculation happen in real time, the institutional logic running its course, the strategy forming, the impulse to deploy him where his work would be most visible. Then something in her face shifted. She looked at the water main he'd sealed, at the puddle around his knees, at the people gathered on the terrace above them waiting for the pipes to hold so they could fill their buckets.
 
 "Where do you need to go next?" she asked.
 
@@ -94,7 +94,7 @@ She was good at this. She was very good at this. And she needed him to be the fo
 
 He stood up from the sealed water main. His knees ached from kneeling on wet stone, a mundane discomfort that felt strange amid the Wellspring's sustained hum. "I'll start with the dam."
 
-"I'll have a crew there within the hour. Halsten will coordinate." She looked at him, and for a moment the Director of Infrastructure was simply a woman who had not slept, whose city was broken, who was holding the response together with the same desperate competence that the maintenance workers were holding their buildings together, not enough power, not enough people, the gap between what was needed and what was available visible in every line of her face. "Ash. What you've been doing—what you did last night—"
+"I'll have a crew there within the hour. Halsten will coordinate." She looked at him, and for a moment the Director of Infrastructure was simply a woman who had not slept, whose city was broken, who was holding the response together with the same desperate competence that the maintenance workers were holding their buildings together, not enough power, not enough people, the gap between what was needed and what was available visible in every line of her face. "Ash. What you've been doing, what you did last night..."
 
 She stopped. He watched her search for the word. *Strategic. Valuable. Essential.* He could see them queuing behind her eyes, the institutional vocabulary she reached for instinctively.
 
@@ -138,7 +138,7 @@ She didn't turn. Her jaw was clenched, the tendons in her neck standing taut, he
 
 "You've been channeling since last night?"
 
-"Not continuously. I rest. Ten minutes on, five minutes off. My pool replenishes a little, just a little, if I stop and breathe and let it cycle. I can feel it pulling from..." She trailed off. Her hands shook. "It's not enough. Every time I stop, the fractures spread. I close one and two more open. The water pressure is—" Her voice caught. She breathed. Her hands steadied. "The water pressure is constant. It doesn't rest."
+"Not continuously. I rest. Ten minutes on, five minutes off. My pool replenishes a little, just a little, if I stop and breathe and let it cycle. I can feel it pulling from..." She trailed off. Her hands shook. "It's not enough. Every time I stop, the fractures spread. I close one and two more open. The water pressure is..." Her voice caught. She breathed. Her hands steadied. "The water pressure is constant. It doesn't rest."
 
 Ash looked at the dam. He looked at the woman. She was holding eleven thousand people's water supply together with her pool, a pool that was, at best, a full day's worth on a good morning and was now, after hours of sustained channeling through the night, nearly dry. She had been cycling, pushing to empty, resting for five minutes of partial recharge, pushing again, stretching a young-generation pool across a task that would have challenged an elder. The technique she was using was the only reason the dam was still standing. If she had been sloppy, if she had flooded the wall the way Ash would have, her pool would have emptied in minutes and the wall would have failed hours ago.
 
@@ -158,7 +158,7 @@ Ash kept his hands on the dam. The Wellspring hummed through the wall, steady an
 
 She was sitting on the ground at the base of the dam, her hands in her lap, and her face was doing something that he would carry with him for a long time. Her eyes were bright, not with tears, or not only with tears, but with the particular brightness of a person looking at something they didn't know how to categorize. She was staring at the dam wall, at his hands on the stone, at the faint shimmer of heat radiating from his palms, and her expression was not gratitude.
 
-Or it was gratitude—but gratitude was only the top layer, the part that had words. Underneath it, in the set of her mouth and the angle of her brows and the way her hands curled slowly closed in her lap, was something else. Something that lived in the space between relief and loss. She had been holding the dam. She had been holding it all night, alone, with everything she had, and it had not been enough. It had been close to enough. It had been heartbreakingly close to enough, her technique, her discipline, her fierce and precise channeling keeping the wall together through the long hours while the city broke apart around her. She had been doing the thing she was trained to do, the thing her life's work had prepared her for, and she had been failing slowly and she had stayed anyway and she had not stopped.
+Or it was gratitude, but gratitude was only the top layer, the part that had words. Underneath it, in the set of her mouth and the angle of her brows and the way her hands curled slowly closed in her lap, was something else. Something that lived in the space between relief and loss. She had been holding the dam. She had been holding it all night, alone, with everything she had, and it had not been enough. It had been close to enough. It had been heartbreakingly close to enough, her technique, her discipline, her fierce and precise channeling keeping the wall together through the long hours while the city broke apart around her. She had been doing the thing she was trained to do, the thing her life's work had prepared her for, and she had been failing slowly and she had stayed anyway and she had not stopped.
 
 And he had walked up and done in seconds what she could not have done in days.
 
@@ -166,7 +166,7 @@ He didn't have a word for what he saw beneath the gratitude. It looked like some
 
 "Thank you," she said. Her voice was steady. Her hands were shaking. The two facts existed simultaneously, the way the gratitude and the grief existed simultaneously, contradictions that the moment was large enough to hold.
 
-"You held it through the night," Ash said. "If you hadn't—"
+"You held it through the night," Ash said. "If you hadn't..."
 
 "If I hadn't, you would have gotten here and fixed it anyway." She said it without bitterness. Without anger. With the flat, honest precision of someone stating a mathematical fact. "I was the stopgap. You're the solution."
 
@@ -174,13 +174,13 @@ He wanted to argue with her. He wanted to tell her that her work mattered, that 
 
 "The people downstream are alive because of you," he said.
 
-She looked at him. Her eyes were the color of the morning, grey and clear and carrying the residue of a long night. "I know," she said. "I know they are. And I know that tomorrow my pool will be full again and it will still be a fraction of what you spent in the last thirty seconds." She paused. Her hands opened in her lap. Closed again. "I'm not angry. I'm glad you came. I'm glad the dam is holding. I just—"
+She looked at him. Her eyes were the color of the morning, grey and clear and carrying the residue of a long night. "I know," she said. "I know they are. And I know that tomorrow my pool will be full again and it will still be a fraction of what you spent in the last thirty seconds." She paused. Her hands opened in her lap. Closed again. "I'm not angry. I'm glad you came. I'm glad the dam is holding. I just..."
 
 She stopped. She looked at her hands.
 
 "I just wanted it to be enough," she said.
 
-The morning air carried the sound of the reservoir behind the dam—the deep, patient press of water against stone, the sound of a force that did not care about skill or effort or the difference between a young woman's pool and a Wellspring. The water pressed. The stone held. The sun climbed higher through the dusty air, and the dam's shadow shortened on the ground where the young channeler sat with her hands in her lap and her face turned toward a wall she had held through the night and would never need to hold again.
+The morning air carried the sound of the reservoir behind the dam, the deep, patient press of water against stone, the sound of a force that did not care about skill or effort or the difference between a young woman's pool and a Wellspring. The water pressed. The stone held. The sun climbed higher through the dusty air, and the dam's shadow shortened on the ground where the young channeler sat with her hands in her lap and her face turned toward a wall she had held through the night and would never need to hold again.
 
 Ash did not let go of the stone. He held the dam with the Wellspring's vast, crude, inexhaustible force, and he held it while Halsten's crew arrived, and he held it while they assessed the damage and began the methodical work of permanent repair, and he held it while the young channeler (her name was Voss, he learned later, Jelen Voss, twenty-three years old, four years on the infrastructure maintenance crews, pool rating in the upper range of her generation, technique rating exceptional) got to her feet and walked away without looking back, her spine straight, her hands at her sides, her shadow long in the morning light.
 
@@ -194,7 +194,7 @@ Rescue crews had been working the site since dawn. They had found the edges of t
 
 Eleven people. Three voids. And the problem was this: the compressed building was unstable. The voids existed because the rubble above them was balanced in a precarious equilibrium: stone resting on stone resting on broken timber resting on nothing, a house of cards made of a house. Any attempt to dig into the structure, to remove the layers of debris above the trapped survivors, would shift the equilibrium. The rubble would resettle. The voids would compress. The people inside them would die.
 
-"We need someone to hold the whole thing," the crew chief said. She was a woman named Breslin, stocky, grey-haired, with the blunt manner of someone who had been pulling people out of damaged buildings for thirty years and had learned to speak in the language of problems and solutions because the language of grief was not useful when people were still alive and waiting. "Hold every piece of it, simultaneously, while we dig. Not just the top. The internal structure. Every beam, every joint, every piece of rubble that's balanced on something else. If anything shifts while we're inside—" She drew a finger across her throat. Simple.
+"We need someone to hold the whole thing," the crew chief said. She was a woman named Breslin, stocky, grey-haired, with the blunt manner of someone who had been pulling people out of damaged buildings for thirty years and had learned to speak in the language of problems and solutions because the language of grief was not useful when people were still alive and waiting. "Hold every piece of it, simultaneously, while we dig. Not just the top. The internal structure. Every beam, every joint, every piece of rubble that's balanced on something else. If anything shifts while we're inside..." She drew a finger across her throat. Simple.
 
 "For how long?"
 
@@ -222,7 +222,7 @@ The crew reached it from above: a pocket perhaps eight feet across and three fee
 
 The mother was conscious. She was lying on her side with her body curved around the youngest child, a boy of perhaps two, pressed against her chest, his face hidden in her shirt. She had been lying like this for eighteen hours. She had not moved because moving would disturb the delicate balance of the rubble above her, and some instinct, the same instinct that had made her curl around her child when the ceiling fell, told her that stillness was survival.
 
-She looked up when the light broke through above her. Ash saw her face—saw the fear and the relief and the raw, animal intensity of a mother who had kept her body between her child and the weight of a building for a day and a night and was now seeing the sky.
+She looked up when the light broke through above her. Ash saw her face, saw the fear and the relief and the raw, animal intensity of a mother who had kept her body between her child and the weight of a building for a day and a night and was now seeing the sky.
 
 "Don't move," Breslin said from above. "We're going to lift you out. One at a time. Stay exactly where you are."
 
@@ -252,7 +252,7 @@ Four hours. The third void.
 
 The deepest. Thirty feet of compressed rubble between the surface and the pocket where two people waited. Breslin's crew worked methodically, layer by layer, and Ash held every piece of debris in place as they removed the weight above it. The stabilizing field was an intricate thing now, a lattice of channeled force as complex as the building it was holding, each strand of energy calibrated to a specific stress point, each adjustment rippling through the entire structure in a cascade of compensations that required his full and constant attention.
 
-He was tired. Not in his body—the Wellspring carried no physical cost, his muscles were fine, his breathing was steady. The tiredness was in his attention, in the sustained act of holding a thousand variables in balance simultaneously, the cognitive effort of maintaining a stabilizing field that had been running for four hours and could not lapse for a second. His palms were hot. The stone under them was warm. The air around him shimmered with waste heat, the visible evidence of his inefficiency, the energy he was losing to imprecise channeling radiating outward in a haze that made the afternoon light waver.
+He was tired. Not in his body, the Wellspring carried no physical cost, his muscles were fine, his breathing was steady. The tiredness was in his attention, in the sustained act of holding a thousand variables in balance simultaneously, the cognitive effort of maintaining a stabilizing field that had been running for four hours and could not lapse for a second. His palms were hot. The stone under them was warm. The air around him shimmered with waste heat, the visible evidence of his inefficiency, the energy he was losing to imprecise channeling radiating outward in a haze that made the afternoon light waver.
 
 He held.
 
@@ -262,7 +262,7 @@ A woman and a child. The woman was young, thirty, maybe, though the dust and the
 
 The woman was talking. Ash could hear her as the crew cleared the last layer of debris above the void, a low, steady murmur, a voice that had been speaking for hours, the content less important than the sound, the sound of a human presence in the dark, the voice that said *I am here, you are not alone, the world is still the world*.
 
-"—and then the baker puts the dough in the oven, and the oven is warm, and the bread rises, and when it comes out it's golden and the whole street smells like morning, and the baker's daughter takes the first loaf and she wraps it in cloth and she carries it—"
+"...and then the baker puts the dough in the oven, and the oven is warm, and the bread rises, and when it comes out it's golden and the whole street smells like morning, and the baker's daughter takes the first loaf and she wraps it in cloth and she carries it..."
 
 The light hit them. The woman stopped mid-sentence and looked up through the opening the crew had made, and her eyes, wide, dark, adjusted to eighteen hours of blackness, flinched from the afternoon sun and then opened and found the sky.
 
@@ -292,7 +292,7 @@ Breslin stood beside him. She was watching the eleven survivors, scattered acros
 
 He hadn't. The realization arrived with the suggestion, the sudden awareness of a body that had been running on the Wellspring's energy and adrenaline and the simple fact of things that needed doing, a body that was hungry and thirsty and had been kneeling on broken stone for hours. He stood. His legs protested.
 
-"Is there—"
+"Is there..."
 
 "Food tent, two streets north. Halsten's people set it up this morning." She paused. "Eat. Then there's a residential block on Weaver's Terrace that needs reinforcement before nightfall. And the Council briefing." She checked a timepiece. "Two hours."
 
@@ -314,7 +314,7 @@ A Councillor, an older man with the silver hair and strong bearing of the elder 
 
 The room shifted. The question was casual but the interest behind it was not. Ash felt the change in the air, the Councillors' attention sharpening, focusing on the thing they actually wanted to know, the question beneath the questions. Not *what has he done* but *how much does he have left* and *how much more can he do*.
 
-"We don't have precise measurements—" Dorenne began.
+"We don't have precise measurements..." Dorenne began.
 
 "I'm fine," Ash said. The words came before the thought. He looked at the Councillors, twelve faces, most of them elder-generation, most of them carrying pools that made them comfortable in a world that was increasingly uncomfortable for everyone else. "The reservoir is large. What I've spent in the last two days is significant but not limiting. I can continue."
 
@@ -326,7 +326,7 @@ He said it simply. He meant it. The reservoir hummed behind his ribs, diminished
 
 Dorenne looked at him. Something moved in her expression, not contradiction, not correction, but the flicker of a thought held back, a calculation interrupted. She knew something he didn't, or suspected something he hadn't articulated, and she chose not to say it here, in this room, in front of twelve Councillors whose support she needed and whose confidence in the Wellspring's capacity was the foundation of every plan she was presenting.
 
-"The allocation framework I'm proposing," she said, turning back to the room, "prioritizes structural reinforcement in the most affected districts, followed by water system restoration, followed by transit network repair. The Wellspring is the centerpiece of this plan. With Ash's continued cooperation—"
+"The allocation framework I'm proposing," she said, turning back to the room, "prioritizes structural reinforcement in the most affected districts, followed by water system restoration, followed by transit network repair. The Wellspring is the centerpiece of this plan. With Ash's continued cooperation..."
 
 "Partnership," Ash said.
 

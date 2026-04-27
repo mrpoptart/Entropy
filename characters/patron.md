@@ -98,8 +98,17 @@ She is the **stewardship vs. control** argument made flesh. She believes she's a
 
 ## Voice
 
+### Backstory shaping the voice
+Dorenne came up through field engineering, not politics. At twenty-six she was on the response crew at the lower-terrace collapse, the one that killed forty-seven people, including children, including the wife of the senior engineer she had been apprenticing under. She spent three days digging bodies out of channeled rubble and learned, in those three days, that the city's infrastructure was on a downhill slope nobody at the Hall was willing to name out loud.
+
+She built the institutional-precise voice **deliberately, in her thirties,** to make politicians take her seriously. It worked. By forty she was running deployments. By fifty she was Director. The voice is real now, calcified into how she speaks even when she's alone. But there is **a second register underneath**, the field engineer who can swear at a stuck valve, who has dirt under her nails, who lost her husband Marek twelve years ago and has never quite finished grieving him. The private voice exists. It almost never appears. When it does, it *means something.*
+
 ### Structural pattern
-**Institutional-precise.** Clean, measured, complete sentences. Subordinate clauses used purposefully — never to ramble, always to sequence. She speaks the way she manages: triage first, action second, reassurance last. Her cadence is unhurried because hurry would suggest she's not in control. Even under pressure, she keeps the same metronomic pace; the pressure shows in word choice (sharper, more specific) rather than tempo.
+**Two registers, one almost always on.**
+
+**Public/professional (almost every scene):** clean, measured, complete sentences. Subordinate clauses used purposefully, never to ramble, always to sequence. Triage first, action second, reassurance last. Cadence unhurried because hurry would suggest she isn't in control. Even under pressure, the same metronomic pace; the pressure shows in word choice (sharper, more specific), not tempo.
+
+**Private/exhausted (rare; load-bearing when it appears):** shorter, more vernacular, the field engineer underneath. Contractions return. The occasional muttered profanity. First names dropped from their tactical use into something closer to actual warmth. The institutional armor doesn't vanish; it just slips a half-inch. Reviewers should treat any private-register moment as a *seismic* event in the chapter and check that the surrounding scene earns it.
 
 ### Vocabulary register
 - **Operational vocabulary.** *Deployment, allocation, scope, capacity, framework, system, coordinate, prioritize, resource, asset, engagement, infrastructure.* This is her native register and it bleeds into everything she says, including affection.
@@ -108,13 +117,20 @@ She is the **stewardship vs. control** argument made flesh. She believes she's a
 - **No contractions in formal moments.** *We will, we are, do not.* Contracts up slightly when she's actually relaxing, but never to Ash's casual register.
 - **Active voice.** She does not say *it was decided.* She says *I decided.* Or *we decided.* Ownership is a habit.
 
-### Verbal tics & habits
-- **The gentle reorientation.** Not interruption — redirection. She turns toward the work, the map, the survey, and the conversation follows. "Of course. The northern quarter—" The body language is the interruption; the words are seamless.
-- **"Of course."** A signature opener that simultaneously concedes a point and reframes it.
-- **First-name-as-warmth-as-tool.** "Leska." "Ash." Used precisely, often once per exchange, when she wants the conversation to move where she needs it to.
-- **The half-sentence handoff.** She begins a sentence and lets the listener complete the thought ("The northern quarter—"). It feels collaborative; it's also leading.
-- **Care-as-anticipation.** She remembers what people need and provides it before they ask. The provision is the affection.
-- **Never asks what someone wants.** She tells them what she's prepared to offer. Reviewers should flag any line where she asks Ash what *he* wants — that's a violation of the character.
+### Verbal tics & habits (public register)
+- **The gentle reorientation.** Not interruption, redirection. Body turns toward the map, the survey, the work; conversation follows. "Of course. The northern quarter..." The body language is the interruption; the words are seamless.
+- **"Of course."** Signature opener that concedes and reframes in the same beat.
+- **First-name-as-tool.** "Leska." "Ash." Used precisely, often once per exchange, to move conversation where she needs it.
+- **The half-sentence handoff.** Begins a sentence and lets the listener complete it ("The northern quarter..."). Feels collaborative; is leading.
+- **Care-as-anticipation.** Remembers what people need and provides it before they ask. The provision is the affection.
+- **Never asks what someone wants.** She tells them what she's prepared to offer.
+- **The reach for the pencil.** When a conversation slips out of her control, her hand moves to a pencil, a paperweight, a survey. The reach is the tell.
+
+### Verbal tics & habits (private register, rare)
+- **A muttered "*shit*"** when paperwork goes wrong or a deployment fails. The only profanity she uses; it's a leak from the field-engineer.
+- **First-name dropped into actual warmth**, as opposed to first-name-as-tool. Same word, different temperature; the difference is everything.
+- **The unfinished sentence she lets stay unfinished.** Public-register Dorenne always recovers from a half-sentence. Private-register Dorenne lets one trail off and doesn't pick it back up.
+- **A reference to Marek**, ever, anywhere, is private-register. The name should appear no more than once or twice across an entire book, and each appearance should crack the chapter open.
 
 ### What she doesn't say
 - She doesn't apologize. Even when she might. An apology would concede that her judgment was wrong, and she doesn't believe it ever has been.

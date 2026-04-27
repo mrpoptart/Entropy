@@ -117,8 +117,17 @@ She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a politi
 
 ## Voice
 
+### Backstory shaping the voice
+Ryn is the third child of a bakery family on the lower terraces. Pulled out of school at twelve to work the counter; reads voraciously on her own time and has opinions about books nobody around her has read. Has spent eleven years feeding hungry strangers at speed, which means she has the sharp social intelligence of someone who reads a room in three seconds and turns out small kindnesses on a clock.
+
+She is **funny.** Not Maren's deadpan-engineer funny: Ryn is the *performer* in any room she's in. She does impressions. She has running bits. She'll voice-act a stranger's complaint with their accent two minutes after they've left the bakery, and the line cooks will laugh because she's *good at it.* Her humor is warm, observational, occasionally cutting when someone deserves it.
+
+She is also **physical.** She touches people. Hand on the wrist, elbow nudge, palm flat between the shoulder blades. Where Maren shows love through *competence,* Ryn shows love through *proximity.* Her economy on the page isn't withholding; it's the economy of someone who can't stop and chat because the line is forming, but who has a punchline ready when there's a beat.
+
 ### Structural pattern
-**Practical-direct, occasionally sharp.** Short sentences. Statements rather than questions when she's confident, questions like jabs when she's not. She doesn't build arguments — she lands observations. Her cadence is the cadence of someone who works with her hands all day and has no patience for verbal busywork. When she does say more than four words, it's because she's actually trying to land something, and the unusual length signals it.
+**Practical, warm, comically timed.** Short sentences when she's working or busy; longer when she's tired or relaxed or eating. Statements rather than questions when she's confident; questions like jabs when she's not. **She lands jokes.** Punchlines sit at the ends of her lines as a matter of habit, even in serious conversations, because that's how she's built. Reviewers should look for the *joke* in any Ryn line and flag lines that are sober without earning it.
+
+When she's drinking or it's late, she sprawls verbally. Long, looping sentences with side-jokes and impressions. The contrast between work-mode Ryn (clipped, fast) and off-shift Ryn (rambly, performative) is one of her best signals.
 
 ### Vocabulary register
 - **Plainspoken, working-trade vocabulary.** She names things by what they do, not what they're called in official terminology.
@@ -128,12 +137,14 @@ She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a politi
 - **Refuses scope-talk.** When someone (Ash, post-Wellspring) talks about districts and quarters, she pulls the conversation back to a person. "What did the woman whose roof you fixed say to you?"
 
 ### Verbal tics & habits
-- **The deflating question.** "Have you tried fixing it yet?" "When did you last sleep?" "Are you actually hungry, or are you just bored?" The question that makes the other person's complaint smaller without being unkind.
-- **Direct second-person.** She says "you" a lot. She makes it personal.
-- **Truth-as-friendship.** She tells the truth even when it costs her, and she sometimes uses it as a weapon when she's hurt. Reviewers should be alert to that edge — it's part of her, not a violation.
-- **Refuses to perform.** No awe, no deference, no fake enthusiasm. If someone praises Ash near her, she doesn't echo it.
-- **Teases.** A specific teasing register — affectionate, dry, never cruel except when she's hurt.
-- **Beats Ash to the punchline** of his own self-deprecation. "Don't bother — I was going to say it."
+- **The deflating question.** "Have you tried fixing it yet?" "When did you last sleep?" "Are you actually hungry, or are you just bored?" Makes the other person's complaint smaller without being unkind.
+- **Impressions.** She does voices. Mutual acquaintances, customers, occasionally Dorenne. The impression is precise and brief. Don't over-deploy it; once or twice per scene.
+- **Running bits.** Callbacks across chapters. A joke about Ash's bad knee, a thing she always says when she pours him tea. Reviewers should track running bits and reuse them.
+- **Physical contact.** Hand on his wrist for *don't.* Elbow nudge for *I see you.* Palm between the shoulder blades for *go.* The body is doing half the talking.
+- **Direct second-person.** She says "you" a lot. Makes it personal.
+- **Truth-as-friendship.** Tells the truth even when it costs her; sometimes uses it as a weapon when she's hurt. The edge is part of her.
+- **Refuses to perform reverence.** No awe, no deference. If someone praises Ash near her, she doesn't echo it.
+- **Beats Ash to the punchline** of his own self-deprecation. "Don't bother, I was going to say it."
 
 ### What she doesn't say
 - She doesn't perform awe at the Wellspring. Not once. The absence of awe is the loudest thing she does.
@@ -145,7 +156,7 @@ She is **the anti-patron.** Dorenne sees Ash as a function, a resource, a politi
 ### Contrast with other characters
 - **Where Dorenne says** "He's doing extraordinary work," **Ryn says** "He hasn't slept in three days." (Dorenne narrates impact; Ryn narrates body. Their lines should be unswappable.)
 - **Where Ash says** (post-Wellspring) "I'm helping people," **Ryn says** "Which people? What did they tell you?" (He generalizes; she particularizes.)
-- **Where Maren says** nothing and adjusts Ash's collar, **Ryn says** "That's not you. I know you. That's the Wellspring talking." (Both are truth-tellers. Maren delivers truth in gesture; Ryn delivers it in plain language. Reviewers should flag any overlap — Ryn says the line out loud; Maren never would.)
+- **Where Maren says** nothing and adjusts Ash's collar, **Ryn says** "That's not you. I know you. That's the Wellspring talking." (Both are truth-tellers, but Maren is *cool, surgical, withholding warmth as a discipline*; Ryn is *warm, physical, lands jokes inside the truth.* Maren's economy reads as guarded; Ryn's reads as busy. If a Ryn line is sober without a punchline, or if there's no body in it, it's drifting toward Maren.)
 
 ### Gold-standard dialogue (untagged, should still read as Ryn)
 1. "Have you tried fixing it yet?"

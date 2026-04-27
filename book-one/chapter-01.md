@@ -100,7 +100,7 @@ He found the posting board. Aide positions, administrative staff, maintenance co
 
 He read it twice. The words were familiar; he'd read versions of them on every posting board in the city since he was sixteen. The polite, systemic exclusion that didn't need to be hostile because it was structural. You couldn't do the job without channeling, the way you couldn't swim without arms. Nobody was being cruel. The water was just shaped that way.
 
-He was copying down the office number anyway—force of habit, or stubbornness, or the particular optimism of someone who'd learned to find cracks in walls that other people saw as solid—when a voice behind him said, "That lift at the end of the hall. Is it running?"
+He was copying down the office number anyway, force of habit, or stubbornness, or the particular optimism of someone who'd learned to find cracks in walls that other people saw as solid, when a voice behind him said, "That lift at the end of the hall. Is it running?"
 
 He turned. The woman was perhaps sixty, with the bearing of someone accustomed to rooms rearranging themselves around her. Sharp face, sharp eyes, gray hair pulled back in a way that meant she'd spent exactly as long on it as she intended to and not a second more. She wore the formal half-cloak of a Council officeholder, dark fabric with the Infrastructure seal on the collar, and she was trailed by two younger staff members who were trying to look unhurried and not quite managing it.
 
@@ -162,7 +162,7 @@ Dorenne was quiet for several steps. The ramp curved upward. Through the windows
 
 "I lost my aide two weeks ago," she said. "Third one in four years. I train them, I invest in them, they're talented, and the moment another office offers them a better position, they leave. Every one of them has been a gifted channeler, and every one of them has used my office as a stepping stone."
 
-Ash waited. He knew what was coming—could feel the shape of it in the air the way you feel a change in weather—but he'd learned not to reach for things before they were offered. Reaching looked desperate. Desperate made people reconsider.
+Ash waited. He knew what was coming, could feel the shape of it in the air the way you feel a change in weather, but he'd learned not to reach for things before they were offered. Reaching looked desperate. Desperate made people reconsider.
 
 "I need someone who's smart, organized, and good with people. Someone who can sit in a briefing about aqueduct failures and follow the engineering even if they can't do the channeling. Someone who'll stay."
 
@@ -176,7 +176,7 @@ Ash waited. He knew what was coming—could feel the shape of it in the air the 
 
 Ash looked at her hand. She looked at his face. And she didn't withdraw it.
 
-He reached out and took her hand—his palm against hers, dry and warm and entirely ordinary. No pulse. No resonance. Just the pressure of skin on skin, the way people must have sealed agreements before magic, the way no one in Solathis did anymore.
+He reached out and took her hand, his palm against hers, dry and warm and entirely ordinary. No pulse. No resonance. Just the pressure of skin on skin, the way people must have sealed agreements before magic, the way no one in Solathis did anymore.
 
 "When do I start?" he said.
 
@@ -188,7 +188,7 @@ He walked home fast.
 
 The stairs blurred under his feet, forty flights downhill, and his legs knew the way well enough that his mind could be somewhere else entirely. Somewhere bright and unfamiliar, a room in his chest that had been locked for so long he'd forgotten what it felt like to stand in it.
 
-He had a job. A real job. Not charity, not a favor, not the kind of work people offered him with careful voices and lowered expectations. A job in the infrastructure office, for the Director herself, because she'd looked at him and seen something she could use, and the thing she could use was the thing he actually was—smart, organized, good with people, willing to work harder than anyone around him because he'd never had the option of working less.
+He had a job. A real job. Not charity, not a favor, not the kind of work people offered him with careful voices and lowered expectations. A job in the infrastructure office, for the Director herself, because she'd looked at him and seen something she could use, and the thing she could use was the thing he actually was, smart, organized, good with people, willing to work harder than anyone around him because he'd never had the option of working less.
 
 The streets passed in a smear of noise and cold air. He dodged a maintenance crew channeling heat into the road surface (a seasonal job, keeping the stone warm enough to prevent frost cracking) and barely noticed the familiar pang of watching people do with their hands what he could never do with his. The pang was there. It was always there. But today it was smaller, pushed to the margins by something bigger, something that made his chest feel strange and full, like his lungs had been replaced with something that held more air.
 
@@ -196,7 +196,7 @@ He was almost running by the time he reached the building. Took the stairs three
 
 "I got a job."
 
-He said it before he could modulate it, before the performance could kick in and smooth the edges and make it sound reasonable and measured. He said it the way a child would—raw, too loud, cracking open.
+He said it before he could modulate it, before the performance could kick in and smooth the edges and make it sound reasonable and measured. He said it the way a child would, raw, too loud, cracking open.
 
 His mother's face went through three things in the space of a heartbeat. Surprise, then understanding, then something that broke. Her eyes filled and her hand came up to her mouth and she crossed the kitchen in two steps and wrapped her arms around him with a fierceness that had nothing to do with the size of her body. She was not a large woman. She held him like she was bracing a wall.
 
@@ -206,7 +206,7 @@ He told her. The annex, the posting board, the transit lift, the woman with the 
 
 "I need to tell your father." She was already moving toward the resonance shelf, a pair of smooth stones, palm-sized, that connected to a matching pair his father carried. She pressed her hand to one and channeled, a brief, bright pulse that would buzz against his father's stone wherever he was, a signal that meant *come home* or *call me* or simply *something happened.*
 
-Ash watched her channel—watched the faint warmth leave her palm and enter the stone, watched the stone hum and go still. A gesture so ordinary it was invisible. Like watching someone breathe.
+Ash watched her channel, watched the faint warmth leave her palm and enter the stone, watched the stone hum and go still. A gesture so ordinary it was invisible. Like watching someone breathe.
 
 "He'll come home for lunch," his mother said. "We'll tell him then. We'll have a proper meal." She was already calculating; he could see it, the pivot from emotion to logistics, the thing she did when the feelings were too big and needed to be translated into action. "I'll use the good flour. And the saffron. Did you get the saffron?"
 
@@ -214,7 +214,7 @@ Ash watched her channel—watched the faint warmth leave her palm and enter the 
 
 "Good. Good." She took the envelope from him, her hands steadier now, the tears not dried but managed. "Sit down. You're flushed. Have you eaten?"
 
-"I had porridge. Mum, I'm fine—"
+"I had porridge. Mum, I'm fine..."
 
 "You climbed eighty flights of stairs this morning and you're telling me you're fine. Sit."
 
@@ -240,7 +240,7 @@ They ate. His mother had channeled the stove to its full capacity, more heat tha
 
 They drank. The wine was sweet and slightly too strong, and Ash felt it in his chest before he felt it in his head. A loosening, a warmth that had nothing to do with alcohol and everything to do with the way his parents looked at each other across the table, the particular quality of relief that comes when a fear you've been carrying for decades lifts by a single degree.
 
-He knew what this meant to them. Not just the job—the proof that the world had room for him somewhere. That he wasn't going to spend his life in this apartment, climbing stairs, fixing hinges, performing cheerfulness until the performance became the whole of him. They had never said this fear aloud. They were too careful for that, too gentle with each other. But he'd seen it in his mother's face when she thought he wasn't looking, the late-night expression, after the channeling was done and the house was quiet, when she sat with whatever version of the future she was brave enough to imagine.
+He knew what this meant to them. Not just the job, the proof that the world had room for him somewhere. That he wasn't going to spend his life in this apartment, climbing stairs, fixing hinges, performing cheerfulness until the performance became the whole of him. They had never said this fear aloud. They were too careful for that, too gentle with each other. But he'd seen it in his mother's face when she thought he wasn't looking, the late-night expression, after the channeling was done and the house was quiet, when she sat with whatever version of the future she was brave enough to imagine.
 
 That face was gone today. In its place was something fierce and proud and cracked right down the center, like a wall that had held for so long it didn't know how to stand without the pressure.
 
@@ -254,11 +254,11 @@ Maren turned to him. Her face was open, curious, already calibrating. He could s
 
 "I got a job," Ash said. "Aide to the Director of Infrastructure. I start tomorrow."
 
-Her face broke into a smile that reached all the way. "Ash." She crossed the kitchen and hugged him—quick, tight, the way she did everything. "That's wonderful. How did you—tell me everything."
+Her face broke into a smile that reached all the way. "Ash." She crossed the kitchen and hugged him, quick, tight, the way she did everything. "That's wonderful. How did you, tell me everything."
 
 He told her. She listened with the focused attention she gave to things that mattered, leaning forward, asking sharp questions, laughing at the right parts. She channeled absently while she listened, warming a dish that had gone cool, sealing a hairline crack in her teacup with a brush of her thumb, in the efficient, disciplined way that defined her. Every gesture was precise. No energy wasted. The kind of channeling that made her supervisors write favorable reports and her colleagues feel, faintly, that they should be trying harder.
 
-"Dorenne Kharren," she said. "She's serious. The infrastructure office is—Ash, that's one of the most important offices in the city right now. You know the condition of the aqueduct system? She's been fighting the Council for funding for two years."
+"Dorenne Kharren," she said. "She's serious. The infrastructure office is, Ash, that's one of the most important offices in the city right now. You know the condition of the aqueduct system? She's been fighting the Council for funding for two years."
 
 "I know. I've read the public briefs."
 
@@ -266,7 +266,7 @@ He told her. She listened with the focused attention she gave to things that mat
 
 The celebration folded her in. More wine. More food. Their mother telling the story again for Maren's benefit, embellishing the parts about Dorenne's expression and the handshake with escalating specificity. Their father mostly quiet, mostly smiling, refilling cups when they went empty.
 
-And then—later, when the conversation had settled into the comfortable murmur of a family that had run out of superlatives—Maren said, "I had a good day too, actually."
+And then, later, when the conversation had settled into the comfortable murmur of a family that had run out of superlatives, Maren said, "I had a good day too, actually."
 
 The table shifted. Everyone looked at her.
 
@@ -282,7 +282,7 @@ But the conversation was already turning; their mother asking Ash what he planne
 
 She didn't bring it up again. She didn't sulk or withdraw or do anything that would register as resentment, because she never did, because she had learned at a very young age that the family's bandwidth for celebration had a shape, and the shape was her brother. She finished her wine. She helped clear the table. She channeled the heating lattice in the wall to keep the kitchen warm while their mother rested, and the channeling was so controlled, so quietly generous, that no one noticed the cost.
 
-Ash noticed. Not the cost—the gesture. He saw his sister's hand on the wall, saw the faint pulse of warmth move through the stone, saw the way she did it without being asked and without mentioning it. He'd seen this a thousand times. He'd never once thought to wonder what it meant.
+Ash noticed. Not the cost, the gesture. He saw his sister's hand on the wall, saw the faint pulse of warmth move through the stone, saw the way she did it without being asked and without mentioning it. He'd seen this a thousand times. He'd never once thought to wonder what it meant.
 
 Tonight, buoyed by the first good thing that had happened to him in years, he didn't wonder either. He smiled at her across the kitchen. She smiled back. The smiles were real, both of them, and the thing that lived in the gap between them was something neither of them had ever named.
 
@@ -290,8 +290,8 @@ Later, when the apartment was quiet and his parents had gone to bed and Maren ha
 
 Tomorrow he would climb the stairs again. He would arrive early, because that was who he was. He would learn the job, and do it well, and give Dorenne Kharren no reason to regret the impulse that had made her stop and look at a man who couldn't activate a transit lift.
 
-He pressed his forehead to the cold glass and closed his eyes. In his chest, in the place where the scaffolding usually lived, something had shifted—not collapsed, not rebuilt, just rearranged. The structure was the same. The performance was the same. But underneath it, for the first time in longer than he wanted to calculate, there was something bearing weight that wasn't just endurance.
+He pressed his forehead to the cold glass and closed his eyes. In his chest, in the place where the scaffolding usually lived, something had shifted, not collapsed, not rebuilt, just rearranged. The structure was the same. The performance was the same. But underneath it, for the first time in longer than he wanted to calculate, there was something bearing weight that wasn't just endurance.
 
-It felt fragile. It felt like a hairline crack in reverse—not a failure, but an opening. Something letting light in instead of letting strength out.
+It felt fragile. It felt like a hairline crack in reverse, not a failure, but an opening. Something letting light in instead of letting strength out.
 
 He stayed at the window until his forehead ached from the cold. Then he went to bed, in his childhood room, in his parents' house, and for the first time in a long time, the fact of being here didn't feel like the whole of what he was.

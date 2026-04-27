@@ -108,7 +108,7 @@ He took it. Warm. Not hot, just the temperature of skin that had been in sunligh
 
 She picked up another stone and handed it to him.
 
-He held it between his palms. Closed his eyes. Reached for the reservoir—
+He held it between his palms. Closed his eyes. Reached for the reservoir.
 
 The stone cracked. A sharp sound, like a knuckle popping, and heat bloomed between his hands. He opened his eyes. The stone was in two pieces, a clean fracture through the center, both halves too hot to hold. He dropped them in the grass and shook his hands.
 
@@ -124,7 +124,7 @@ She picked up another stone. Handed it to him.
 
 He held it more carefully this time. Let the reservoir rise to the surface, just the surface, the membrane Haran had taught him. He thought about the pipe in the workshop, the thread of warmth, the wire that hadn't smoked.
 
-The stone warmed. Faster than Ryn's, much faster, and the warmth wasn't even. He could feel it concentrating at the points where his palms made contact, blooming outward from there. Too much. He pulled back, clamped down on the output—
+The stone warmed. Faster than Ryn's, much faster, and the warmth wasn't even. He could feel it concentrating at the points where his palms made contact, blooming outward from there. Too much. He pulled back, clamped down on the output.
 
 The stone detonated.
 
@@ -152,11 +152,11 @@ Ryn figured it out before he did.
 
 "You need a target," she said. She was sitting cross-legged on the quarry floor, a dozen stones arranged in front of her in a rough line. "Not something to throw. Something to match."
 
-She picked up a stone. Held it. Channeled—and the stone glowed, a faint warmth visible as a shimmer in the air above her palm. She held it steady.
+She picked up a stone. Held it. Channeled, and the stone glowed, a faint warmth visible as a shimmer in the air above her palm. She held it steady.
 
 "Match that."
 
-He picked up a stone from her line. Held it. Tried to feel for the output she was producing—the scale of it, the volume—
+He picked up a stone from her line. Held it. Tried to feel for the output she was producing, the scale of it, the volume.
 
 Too much. The stone cracked.
 
@@ -198,7 +198,7 @@ His was cracked but whole. Warm. Not glowing; the output had been close enough t
 
 He thought about Haran, saying the same word over a coil of wire that hadn't smoked. The direction, not the destination.
 
-"I can't get it smaller," he said. "I can feel where your output is. I can feel the shape of it. But the minimum I can do is still—" He gestured at the cracked stone.
+"I can't get it smaller," he said. "I can feel where your output is. I can feel the shape of it. But the minimum I can do is still..." He gestured at the cracked stone.
 
 "Three or four times too much."
 
@@ -222,11 +222,11 @@ He'd given less than he could measure and shattered three stones.
 
 "I thought about them."
 
-"I know you did." She looked at him. "The point is, now you can do all of that. You can do it a thousand times over. You can do it until a quarry looks like this." She gestured at the ruined landscape below. "And the thing that's genuinely hard for you—the thing you're still working on—is the thing I do every day. The normal amount. The regular human dose."
+"I know you did." She looked at him. "The point is, now you can do all of that. You can do it a thousand times over. You can do it until a quarry looks like this." She gestured at the ruined landscape below. "And the thing that's genuinely hard for you, the thing you're still working on, is the thing I do every day. The normal amount. The regular human dose."
 
 She said it plainly, the way she said everything. No sentiment. Just the observation, set down like a tool on a workbench.
 
-He felt something shift in his chest. Not the reservoir—something older and smaller. The feeling of hearing a truth that had been in the room for hours, waiting.
+He felt something shift in his chest. Not the reservoir, something older and smaller. The feeling of hearing a truth that had been in the room for hours, waiting.
 
 "Come on," she said. She stood up, brushing grass from her legs. "You've got more rocks to break."
 
@@ -236,7 +236,7 @@ The afternoon stretched. Shadows moved across the quarry floor.
 
 He kept practicing. Ryn sat on her boulder and watched. She had nothing left to channel, her pool spent on the demonstration, but she stayed. She handed him stones when he ran out. She told him when his wrists were tensing. She said "closer" and "too much" and "hold it" with the steady patience of someone who had decided to be useful and was being useful and didn't need the usefulness to mean anything beyond itself.
 
-The precision came in increments so small he couldn't feel them arriving. Each stone lasted a little longer than the last. Each crack was a little finer. The waste heat in the air dropped—not to nothing, not to anything close to nothing, but from a constant radiant warmth to something intermittent, pulsing with his attempts rather than bleeding continuously.
+The precision came in increments so small he couldn't feel them arriving. Each stone lasted a little longer than the last. Each crack was a little finer. The waste heat in the air dropped, not to nothing, not to anything close to nothing, but from a constant radiant warmth to something intermittent, pulsing with his attempts rather than bleeding continuously.
 
 He was getting closer. Not close, but closer. The distinction mattered and he knew it.
 
@@ -260,7 +260,7 @@ She was sitting on her boulder with her knees drawn up, her chin resting on her 
 
 "You're having a good day," she said.
 
-"The best day." He meant it. Every part of his body felt correct: his hands, his arms, the muscles of his back and shoulders, all of them aligned with something they'd been built to do and had never known it. The reservoir was full and his body was its instrument and the world responded to him the way it had never responded before. Twenty-three years of not being able to do the things everyone else did without thinking, twenty-three years of working around a gap that sat at the center of his life, and now the gap was gone and in its place was this—this capacious, inexhaustible ability to act on the world and have the world answer.
+"The best day." He meant it. Every part of his body felt correct: his hands, his arms, the muscles of his back and shoulders, all of them aligned with something they'd been built to do and had never known it. The reservoir was full and his body was its instrument and the world responded to him the way it had never responded before. Twenty-three years of not being able to do the things everyone else did without thinking, twenty-three years of working around a gap that sat at the center of his life, and now the gap was gone and in its place was this, this capacious, inexhaustible ability to act on the world and have the world answer.
 
 He picked up another stone. Not a boulder, but a flat piece, palm-sized.
 
@@ -300,7 +300,7 @@ She didn't answer immediately. The gorge below them was filling with blue shadow
 
 They sat. The stone was still warm under them, residual heat from his afternoon of waste, the quarry rim holding the energy he'd bled into it. Ryn's hands were still in her lap. Her pool was empty (she'd spent it hours ago on a single warm stone) and the emptiness was in her posture, the particular tiredness of a body that had given what it had and was waiting for sleep to refill it.
 
-He wasn't tired. The reservoir was full. After an entire afternoon of hurling boulders and melting walls and shattering stones—after hours of raw, extravagant, wildly inefficient channeling—he was exactly where he'd started. The ocean hadn't noticed.
+He wasn't tired. The reservoir was full. After an entire afternoon of hurling boulders and melting walls and shattering stones, after hours of raw, extravagant, wildly inefficient channeling, he was exactly where he'd started. The ocean hadn't noticed.
 
 He thought about telling her that. Thought about saying the number, making the comparison, her day spent on a single stone, his afternoon that hadn't registered. He thought about the comedy of it, the absurdity, the two of them sitting side by side with their different emptinesses.
 
@@ -328,21 +328,21 @@ He wanted to say something back. Something that matched what she'd given him, no
 
 "Mm."
 
-The thing he wanted to say was too large for the space between them and too fragile for the quarry air and he didn't have the right shape for it yet. He could feel it in his chest—not the reservoir, something else, something the channeling couldn't reach and the power couldn't move.
+The thing he wanted to say was too large for the space between them and too fragile for the quarry air and he didn't have the right shape for it yet. He could feel it in his chest, not the reservoir, something else, something the channeling couldn't reach and the power couldn't move.
 
 "Same time next week?" he said.
 
-She looked at him. Something moved across her face—not a smile, not the absence of a smile. Something that lived in the space between those two things and didn't resolve into either one.
+She looked at him. Something moved across her face, not a smile, not the absence of a smile. Something that lived in the space between those two things and didn't resolve into either one.
 
 "Sure," she said. "Bring your own stones."
 
-He laughed. She almost laughed. The almost was a hairline fracture, invisible, structural, the kind of crack you couldn't see until you knew where to look. Then she did—a small sound, expelled, as if the laugh had been sitting in her chest and she'd decided to let it go rather than hold it any longer.
+He laughed. She almost laughed. The almost was a hairline fracture, invisible, structural, the kind of crack you couldn't see until you knew where to look. Then she did, a small sound, expelled, as if the laugh had been sitting in her chest and she'd decided to let it go rather than hold it any longer.
 
 They sat in the cooling quarry as the light left. His body was warm from the reservoir and hers was cooling in the evening air and neither of them moved to close the space between their shoulders. Below them, the gorge filled with shadow. Above them, the sky held onto its blue.
 
 "Watch this," he said. One more time.
 
-He held up his hand. Palm open, facing the sky. He let the reservoir rise—just to the surface, the thinnest membrane—and channeled light. Not heat, not force. Light. A small, pale glow in the center of his palm, barely brighter than the fading sky. He held it there. Steady. Controlled. The waste heat was almost nothing; he could feel a faint warmth on his wrist but the air around his hand stayed cool. The glow didn't flicker.
+He held up his hand. Palm open, facing the sky. He let the reservoir rise, just to the surface, the thinnest membrane, and channeled light. Not heat, not force. Light. A small, pale glow in the center of his palm, barely brighter than the fading sky. He held it there. Steady. Controlled. The waste heat was almost nothing; he could feel a faint warmth on his wrist but the air around his hand stayed cool. The glow didn't flicker.
 
 He held it for thirty seconds. A minute. The sky darkened around it.
 
@@ -350,7 +350,7 @@ It was the smallest thing he'd done all day. It was also the most difficult. The
 
 Ryn looked at the light in his palm. Her face in its glow was close and clear, the lines of tiredness around her eyes, the particular set of her mouth that meant she was holding something back. She looked at the light the way she'd looked at the boulders and the craters and the melted wall: not performing awe, not withholding it. Seeing it for what it was.
 
-She reached out and closed his hand. Her fingers folded over his, pressing his palm shut, and the light went out. Her hand was cool against his. She held it for a moment—one breath, two—and then let go.
+She reached out and closed his hand. Her fingers folded over his, pressing his palm shut, and the light went out. Her hand was cool against his. She held it for a moment, one breath, two, and then let go.
 
 "That's the one," she said.
 
@@ -394,6 +394,6 @@ He stood at the junction. The street was dim, district lighting, the kind that c
 
 Ryn's shape diminished down the street. Smaller. Still certain. Still walking with the stride that didn't need to look back.
 
-He turned right. Toward the Third Terrace, the transit lift, the apartment where Maren's calibrated heating lattice would be holding its steady warmth. The reservoir pressed against his ribs—patient, enormous, unmoved by everything he'd done and everything he'd felt and the particular quality of a hand closing his and the light going out.
+He turned right. Toward the Third Terrace, the transit lift, the apartment where Maren's calibrated heating lattice would be holding its steady warmth. The reservoir pressed against his ribs, patient, enormous, unmoved by everything he'd done and everything he'd felt and the particular quality of a hand closing his and the light going out.
 
 The cracked gear casing from Haran's workshop was still in his coat pocket. He touched it through the fabric. Small, hard, broken in a specific way. He carried it home.

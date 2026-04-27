@@ -124,6 +124,26 @@ Run all 7 review agents on the revised chapter:
 
 > **Note:** Pay special attention to the Pace Keeper and Continuity Tracker results. Revisions that change timeline or add/remove scenes often introduce pacing regressions or continuity breaks with adjacent chapters.
 
+### 7b. Run Per-Character Voice Agents (parallel)
+
+Identify every speaking character in the revised chapter. For each speaking character with a dedicated voice agent, invoke that agent **in parallel** (single message, multiple tool calls). Skip voice agents for characters who don't speak in this chapter.
+
+Available per-character voice agents:
+
+- **🗣️ Voice — Ash** (`voice-ash`)
+- **🗣️ Voice — Maren** (`voice-maren`)
+- **🗣️ Voice — Haran** (`voice-haran`)
+- **🗣️ Voice — Ryn** (`voice-ryn`)
+- **🗣️ Voice — Dorenne** (`voice-dorenne`)
+- **🗣️ Voice — Leska** (`voice-leska`)
+- **🗣️ Voice — Father** (`voice-father`)
+
+Each per-character agent audits its character's dialogue against the voice spec in the corresponding `characters/*.md` profile and flags any lines that could be confused with another speaker (the **cross-character collapse check**).
+
+For maximum efficiency, all agents in steps 7 and 7b can be invoked in a single message with multiple tool calls.
+
+**No Em Dash Rule:** All agents must comply with the No Em Dash Rule in `CLAUDE.md`. Any REPLACEMENT lines proposed must not contain em dashes (U+2014).
+
 ### 8. Compile Feedback
 
 Combine all review feedback into a **Revision Review**:

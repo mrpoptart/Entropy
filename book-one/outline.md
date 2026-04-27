@@ -95,6 +95,8 @@ Maren is there. She's radiant, congratulatory, genuinely happy for him. She chan
 
 **Emotional beat:** Joy that cracks through the armor. For the first time in a long time, hope feels earned. And in the margin of the celebration, Maren's silence — the first thread of a pattern the reader will learn to watch for.
 
+**Weakness beat (per D2):** During the encounter on the stairs, Dorenne reads Ash quickly: she sees the one-on-one charm work on her in real time, and she likes it enough to offer the position on the strength of it. A few minutes later, on a landing, four other staff members catch up and form a small group around them. Dorenne asks Ash a casual question in front of the group, expecting the same easy charm. He fumbles. The chatter contracts. He says three half-sentences and trails off. Dorenne notices, files it, does not retract the offer. The audience-of-four failure plants the public-speaking weakness on page one.
+
 ---
 
 ### Chapter 2 — The First Real Day
@@ -122,6 +124,8 @@ In her presence, the performance drops. He doesn't have to be cheerful — he is
 **Establish:** Dorenne's office and the scope of her responsibilities. Ash's non-magical intelligence as genuinely valuable. The infrastructure crisis as background tension. Ryn as the person who sees him clearly. The feeling of finally contributing.
 
 **Emotional beat:** For the first time, Ash doesn't have to act happy. He *is* happy. The distinction is everything.
+
+**Weakness beat (per D2):** Late in the day, Dorenne hands Ash a deployment summary memo to write up from the briefing notes. He labours over it for an hour. She reads it that evening, sits him down the next morning, and marks it up line by line. The conventions he missed; the order things should appear in; the things institutional readers expect that he did not provide. The exchange is not unkind. He asks her to mark up the next one. She agrees without comment. The administrative-writing weakness is established as a permanent feature of the working relationship: he writes the draft, she fixes it, neither of them pretends this is a temporary stage.
 
 ---
 
@@ -171,7 +175,7 @@ Sorren orders evacuation. Most of the residents are already outside watching. Bu
 
 He takes the stairs three at a time. He reaches the apartment. The ceiling has partially collapsed — a section of the floor above has come down. His father is pulling his sister toward the door. She's resisting — she's turned back toward the bedroom. The mother. A beam and a section of stone ceiling have come down on her. She's pinned — conscious, scared, in pain. Not crushed, but trapped. The rubble on top of her is heavy and the structure above is still shifting.
 
-**Maren.** She's channeling. Everything she has — focused, disciplined, precise. She's trying to lift the beam, or stabilize the rubble, or shift the weight enough to pull their mother free. Her hands are shaking. She's exceptionally skilled for her generation — but the beam is high-era stone reinforced by channelers whose pools dwarfed anything alive today. Everything she has, and the beam barely trembles.
+**Maren.** She's channeling. Everything she has, focused, disciplined, precise. She's trying to lift the beam, or stabilize the rubble, or shift the weight enough to pull their mother free. Her hands are shaking. Her pool is on the weaker side of her generation, and what she has she's already squeezing past its sensible limit through pure technique; the beam is high-era stone reinforced by channelers whose pools dwarfed anything alive today. Everything she has, applied with everything she knows, and the beam barely trembles.
 
 Ash gets his hands under the rubble. He lifts. Physically. With his body. The way he has solved every problem his entire life. His muscles strain. The stone is too heavy. He repositions, finds a better angle, braces his legs and pulls. It moves — barely. Not enough.
 
@@ -255,6 +259,8 @@ Closing: "Nobody had seen his hands." Ash at the window, the city glowing, the o
 
 **Emotional beat:** The first hint that being extraordinary comes with a gravity that pulls everything toward it. Ash's first taste of being wanted — not for who he is, but for what he can do. He can't tell the difference yet. It feels the same.
 
+**Weakness beat (per D2):** At the press event, after Dorenne finishes her framing remarks, a journalist directs a question at Ash. He has to step to the front of the gallery and answer it on his feet, in front of perhaps eighty people. He panics through three sentences. The chatter-armor that works in small rooms collapses; his voice goes thin and his hands go to his pockets. Dorenne smooths the moment, takes the rest of the questions herself, and gives him only one more, short and pre-rehearsed. In the corridor afterward, walking away from the gallery, she says, level: "You're not going to a podium without me." It is not a threat. It is a logistical statement; she has just learned what he is and is not. He is grateful and embarrassed in the same breath. The public-speaking weakness is now visible to both of them and on the page.
+
 ---
 
 ### Chapter 7 — The Move
@@ -273,9 +279,11 @@ Ash, meanwhile, is channeling at home — small things, testing, playing. He tri
 
 He does this repeatedly — breaks small household systems with too much force, and his sister or the building's maintenance workers repair the damage. Each repair is minor. The pattern is not.
 
-**Establish:** The material dimension of the drift — new things replacing old things, new neighborhood replacing old community. Ash's good intentions creating distance. Maren as the invisible repair crew — competent, essential, unseen.
+**Establish:** The material dimension of the drift, new things replacing old things, new neighborhood replacing old community. Ash's good intentions creating distance. Maren as the invisible repair crew, competent, essential, unseen. Father's given name, **Rendell**, is established for the first time in this chapter ("I can see the step, Rendell." Leska, in the new flat).
 
 **Emotional beat:** Ash sees only improvement. The reader sees what's being lost. The mother keeping the old kettle is the image that should stick.
+
+**Parent offstage beat (per D3):** A short scene, 200 to 400 words, of Leska in the new neighborhood with a new neighbor, **Saren** (mid-40s, schoolteacher, dry and brisk, talks in lists). Ash is not present and is not the subject. They argue, in the friendly way of women feeling each other out, about how to handle bread in cold weather. Leska says you let it rest longer; Saren says you knock it down twice and accept the denser crumb. The conversation is real and unresolved. It establishes that Leska has begun to build a network in the new district, that her life contains people who do not know her primarily as the Wellspring's mother, and that the world goes on at a regular pace in rooms Ash has never seen.
 
 ---
 
@@ -365,11 +373,15 @@ The mother struggles. Her son doesn't need her fierce protection anymore — he'
 
 The father adapts more quietly. His pride is genuine — enormous, visible, the kind that makes his eyes bright at dinner. But there's a question underneath that he can't quite ask: did you know I loved you before this? Did you know I was proud of you before? He expresses it sideways — mentions old accomplishments, things Ash built with his hands, as though trying to remind both of them that the boy before the Wellspring was worth something too. Ash, high on power, misses the point entirely.
 
-Maren is working harder than ever. Her pool — already at the weak end of her generation — feels somehow thinner against the backdrop of her brother's ocean. She has always been the talented one, the competent one, the child who didn't need extra help. Now she's the ordinary sibling. She handles this the way she handles everything: with discipline and grace and not a single word of complaint. We see it in small moments — a channeling task that takes her two attempts instead of one, a flicker of frustration quickly buried. She's still fixing the household systems her brother accidentally overloads. Nobody thanks her.
+Maren is working harder than ever. Her pool, already at the weak end of her generation, feels somehow thinner against the backdrop of her brother's ocean. She has always been the reliable one, the disciplined one, the child who didn't need extra help. She was never the talented one. She was the one who outworked the gap. Now even outworking the gap reads as small. She handles this the way she handles everything: with discipline and grace and not a single word of complaint. We see it in small moments — a channeling task that takes her two attempts instead of one, a flicker of frustration quickly buried. She's still fixing the household systems her brother accidentally overloads. Nobody thanks her.
 
 **Establish:** The Wellspring as a detonation in the family system. Each person's identity — built around Ash's disability — is suddenly without foundation. The mother who protected, the father who quietly supported, Maren who excelled — all of their roles assumed a version of Ash that no longer exists.
 
 **Emotional beat:** Ash notices none of this. He's too high. The reader notices all of it.
+
+**Weakness beat (per D2):** During the family dinner scene, Rendell, in his quiet placed-words mode, mentions the letter of recommendation Ash wrote at twenty-one for the workshop friend. He says it, warm: "That was the worst letter I have ever read in my life. I've kept it." He says this as a compliment, the way he says everything that matters, and Ash recognizes what his father is doing, anchoring him to a specific past failure as proof that the boy who could not write a clean sentence was also worth loving. Ash flinches and laughs. The named-act compliment lands; the persistent-weakness reframe lands too. The reader is reminded that Ash is not, and never has been, good with formal writing.
+
+**Parent offstage beat (per D3):** A short marital scene, 200 to 400 words, after the dishes are cleared. Leska and Rendell at the table or in the small front room of the new flat. Leska narrates her day in her continuous-narration mode (the bread route, what Saren said, what the cobbler's wife said the cobbler said about the new district inspector). Rendell listens. He offers one observation from his work, a piece of timber he was waiting on came in finally, the grain turned out better than the supplier had promised. He puts his hand on hers. Neither of them mentions Ash. The beat ends with one of them saying it is late, and the lamp going down. The point: an entire evening passes between two people who have been married thirty years, in which their grown son is not the subject of a single sentence, and the silence on his name is not a wound, just the shape the evening took.
 
 ---
 
@@ -414,6 +426,8 @@ He doesn't stay long. Haran walks him to the door and says: "The bench is here w
 **Establish:** Dorenne's framework becoming Ash's framework. The shift from "she's directing me" to "we're partners" to "I think in her categories now." The ledger underneath the generosity — invisible to both of them.
 
 **Emotional beat:** The first time Ash thinks of himself as a resource instead of a person, and doesn't notice.
+
+**Weakness beat (per D2):** Ash has been sitting on a stack of deployment summaries for three days. He drafts and redrafts, gets nothing past the second paragraph he is willing to send. Tessaly, Dorenne's senior scheduler, takes the stack from his desk one morning and rewrites the lot in twenty minutes flat: clean, brisk, in the institutional register the office expects. From that day on, Ash routes administrative writing through her by default. He thanks her each time. He does not pretend to be learning. The internal recognition is not articulated yet, but the reader should feel it: this too is competence, the willingness to give the failed thing to the person who can do it cleanly, instead of clinging to the pretence of doing it himself.
 
 ---
 
@@ -501,6 +515,8 @@ He pushes the feeling away. There's too much work to do.
 
 **Emotional beat:** The reader should feel it too. Should want this to last. The deconstruction lands harder because the thing being deconstructed was real.
 
+**Weakness beat (per D2):** During the Council session where Dorenne presents the post-earthquake deployment plan, a councillor asks Ash directly to address the chamber on a desperation contingency: what would he commit to if the rebuilds outpaced the schedule? He stands. He gets four sentences in, two of them complete, before his voice goes thin and his hands grip the rail. Dorenne rises smoothly beside him and takes the floor, answering the question in his place. The chamber notes the takeover and lets it pass; the public-speaking weakness is now visible at council scale, and Dorenne's role as the person who speaks for him in formal rooms is now formally established.
+
 ---
 
 ## ACT THREE — The Reckoning
@@ -523,7 +539,9 @@ Maren isn't home. She's working late — picking up maintenance shifts in the mi
 
 **Establish:** The shift from unconscious spending to uneasy awareness. Dorenne's tracking system as a mirror — she's been counting what he hasn't. The family visit grounds the abstract fear in something personal — what he's spending isn't just power, it's the time he could have with the people he's drifting from.
 
-**Emotional beat:** The first cold thread of fear. Not panic — not yet. Just the recognition that the ocean has a floor. And underneath the math, something quieter: the kettle his mother kept, the shelf his father remembers. The life that existed before the Wellspring, still waiting.
+**Emotional beat:** The first cold thread of fear. Not panic, not yet. Just the recognition that the ocean has a floor. And underneath the math, something quieter: the kettle his mother kept, the shelf his father remembers. The life that existed before the Wellspring, still waiting.
+
+**Parent offstage beat (per D3):** A short scene, 200 to 400 words, of Rendell on a job in someone else's house. The householder is **Tomek**, a retired river-trader, mid-sixties, talkative; the kind of man who pulls up a stool to watch the work and tell stories over it. Ash is not present and is not the subject. Rendell is in his journeyman register, the warm conversational mode the family rarely sees: he asks after Tomek's family, takes the proffered tea, talks weather and the price of stock, and sets to work on a door that has dropped a finger over the winter. He compliments the joinery in the hallway on his way through. He uses Tomek's name back to him. Tomek tells a story about a barge that sank in '98; Rendell laughs in the right places. The whole beat is a man earning a living by being pleasant company, doing skilled work with his hands, in a register Ash has never witnessed. POV note: this beat sits outside Ash's POV; if the chapter holds strict third-limited Ash, render it through a narration the writer flags as offstage texture, or move it to a brief observed-from-outside frame (Ash passes the open doorway, sees his father at work, hears the laugh, walks on without going in).
 
 ---
 
@@ -653,12 +671,12 @@ He doesn't know yet. But he's in the right place to start.
 
 | Character | Arc in Book One | Status at Close |
 |---|---|---|
-| **Ash** | Helpless → euphoric → intoxicated → awakened | Knows the truth; doesn't know what to do with it |
+| **Ash** | Helpless → euphoric → intoxicated → awakened | Knows the truth; doesn't know what to do with it. Persistent weaknesses (public speaking, administrative writing) intact across the book; the gift is the leaning, not the overcoming. |
 | **Dorenne** | Protector → partner → optimizer | Fractured relationship; still in power, still managing |
 | **Haran** | Steady presence → teacher → abandoned → returned to | Demonstrated the philosophy that will save the city; asked the question that reframes everything |
 | **Maren** | Competent sibling → destabilized | Surface intact, ground shifting underneath |
 | **The Mother** | Fierce protector → purposeless | Identity crisis; son doesn't need saving anymore |
-| **The Father** | Quiet pride → quiet fear | Loves his son; fears the son before power is forgotten |
+| **Rendell Torren** (Father) | Quiet pride → quiet fear | Loves his son; fears the son before power is forgotten |
 | **Childhood Friend** | Warm → honest → shut out | The distance is real and unresolved |
 
 ## Seeds Planted for Book Two

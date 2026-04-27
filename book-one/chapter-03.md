@@ -38,7 +38,7 @@ Haran was at the main bench, bent over something small. He didn't look up when A
 
 Ash paused in the doorway. "What?"
 
-"Faster. Chest up." Haran glanced at him, finally—a brief, dry assessment, the same look he gave a mechanism before deciding whether it needed adjustment. "New coat?"
+"Faster. Chest up." Haran glanced at him, finally, a brief, dry assessment, the same look he gave a mechanism before deciding whether it needed adjustment. "New coat?"
 
 "It's the same coat."
 
@@ -48,7 +48,7 @@ Ash came in and found his stool. It was where it always was, pulled up to the se
 
 He sat. The stool creaked under him, the same creak it had made since the left leg developed a slight bow. He'd offered to fix it. Haran had told him the creak was useful: it told him when someone was sitting down to work instead of standing around talking.
 
-He pulled the folded deployment brief from his coat pocket—Dorenne's seal at the top, Tessaly's notations cramped in the margins—and set it on the bench beside his calipers. The paper looked startled against the oil-stained wood, like a guest who'd been brought to the wrong house.
+He pulled the folded deployment brief from his coat pocket, Dorenne's seal at the top, Tessaly's notations cramped in the margins, and set it on the bench beside his calipers. The paper looked startled against the oil-stained wood, like a guest who'd been brought to the wrong house.
 
 "I solved something today," Ash said.
 
@@ -58,7 +58,7 @@ He pulled the folded deployment brief from his coat pocket—Dorenne's seal at t
 
 Haran filed. The brass sang faintly under the stroke.
 
-"It sounds small," Ash said. "But the overlap was creating a bottleneck at the Thornwall junction. Two crews showing up on the same day, neither with full capacity, both of them waiting for the other to finish before they could start. Now they alternate. Seamless coverage. Tessaly said it was—she didn't say much, actually. She just nodded."
+"It sounds small," Ash said. "But the overlap was creating a bottleneck at the Thornwall junction. Two crews showing up on the same day, neither with full capacity, both of them waiting for the other to finish before they could start. Now they alternate. Seamless coverage. Tessaly said it was, she didn't say much, actually. She just nodded."
 
 "Tessaly sounds like someone worth knowing."
 
@@ -72,13 +72,13 @@ Ash picked up a file from the bench and turned it in his hands. His fingers knew
 
 "Patterns are your talent."
 
-"It's not just patterns. It's —" He stopped, searching. "Dorenne put me at the briefing table. Not the corner. The table. She asked me for my analysis of a deployment conflict, and I gave it, and three senior staff changed their plans based on what I said."
+"It's not just patterns. It's..." He stopped, searching. "Dorenne put me at the briefing table. Not the corner. The table. She asked me for my analysis of a deployment conflict, and I gave it, and three senior staff changed their plans based on what I said."
 
 He waited for something. He wasn't sure what. Haran filed.
 
 "For the first time," Ash said, "I feel like I'm actually contributing something."
 
-Haran's hand paused. The file rested on the brass fitting. His eyes moved—not to Ash, but to the wall behind the second bench, where a shelf held a row of mechanical devices in various stages of completion. In the center of the row, mounted on a square of wood with a small tin plate beneath it to catch drips, sat a water pump.
+Haran's hand paused. The file rested on the brass fitting. His eyes moved, not to Ash, but to the wall behind the second bench, where a shelf held a row of mechanical devices in various stages of completion. In the center of the row, mounted on a square of wood with a small tin plate beneath it to catch drips, sat a water pump.
 
 It was compact. Elegant, in the way that working things are elegant: no wasted material, no decorative flourish, every component shaped to its function. The brass had darkened from kitchen steam and the oil of palms that gripped the crank each morning. Ash had designed it over the course of a month, filing and adjusting and starting over, testing three different valve configurations before settling on the one that gave the best draw with the least effort. It ran without channeling. It ran without anyone's pool. It drew water from a cistern to a basin with nothing more than a person's hand on the crank, and the crank was worn to a smoothness that only daily use could give.
 
@@ -96,13 +96,13 @@ Ash handed him the small pliers.
 
 "When you got around to it."
 
-Ash opened his mouth. Closed it. The silence that followed had a shape to it—warm and patient and faintly amused, like the workshop itself, like the man who ran it. Ash looked at the pump on the shelf, then at the deployment brief sitting crisp and official on his oil-stained bench, and for a moment the two objects occupied the same space in his vision and neither one blinked.
+Ash opened his mouth. Closed it. The silence that followed had a shape to it, warm and patient and faintly amused, like the workshop itself, like the man who ran it. Ash looked at the pump on the shelf, then at the deployment brief sitting crisp and official on his oil-stained bench, and for a moment the two objects occupied the same space in his vision and neither one blinked.
 
 "I'll go by tomorrow," Ash said.
 
 "Mhm."
 
-Haran squeezed the pliers around something too small for Ash to see, made a quarter-turn, and released. A faint click. He held the fitting up to the light from the stove—the warm, uneven light that came from burning wood instead of channeled radiance—and studied it.
+Haran squeezed the pliers around something too small for Ash to see, made a quarter-turn, and released. A faint click. He held the fitting up to the light from the stove, the warm, uneven light that came from burning wood instead of channeled radiance, and studied it.
 
 "This new coat of yours," he said.
 
@@ -132,7 +132,7 @@ Haran took the assembly. He pressed the latch himself, watching the spring. He p
 
 "The spring is fine."
 
-"It's not fine, it —"
+"It's not fine, it..."
 
 "The catch plate is too high. File it down a quarter-width and it'll release smooth."
 
@@ -186,13 +186,13 @@ Tal stared at the drawing. His brow furrowed. He pulled a charcoal stick from hi
 
 Haran watched him for a moment, then turned back to his own work. Ash caught the expression on his face: the barest ghost of a smile, there and gone, the warmth of a man watching someone learn the thing that mattered.
 
-The workshop settled into its rhythm. The sound of work filled the space—files on metal, the scrape of wood on wood, the quiet click of Torren's gears finding their mesh. Haran's stove popped as a knot in the wood caught and split. Lenne's breath came steady and focused as she drew her file across the catch plate in slow, measured strokes. Tal muttered to himself, sketching.
+The workshop settled into its rhythm. The sound of work filled the space, files on metal, the scrape of wood on wood, the quiet click of Torren's gears finding their mesh. Haran's stove popped as a knot in the wood caught and split. Lenne's breath came steady and focused as she drew her file across the catch plate in slow, measured strokes. Tal muttered to himself, sketching.
 
 *They're all building things that don't need them to keep working.*
 
 The thought was quiet, small, the kind that arrived without announcement and left without closing the door. Ash filed a burr from a hinge pin and let it go.
 
-This was the workshop. Not the tools, not the benches, not the stove—the sound of people building things. The particular silence between the sounds, where concentration lived. The warmth that came from bodies working in the same room, aimed at different problems, connected by the shared understanding that the thing you were making would work because of how you shaped it.
+This was the workshop. Not the tools, not the benches, not the stove, the sound of people building things. The particular silence between the sounds, where concentration lived. The warmth that came from bodies working in the same room, aimed at different problems, connected by the shared understanding that the thing you were making would work because of how you shaped it.
 
 Haran had handed him his first file on his second visit. Hadn't asked if he could channel, hadn't asked what he could do. Had just held out a file and a piece of copper and said, "This needs to be round."
 
@@ -200,7 +200,7 @@ It had taken him an hour to make it round. It should have taken twenty minutes. 
 
 * * *
 
-An hour passed. Maybe more. The light outside had gone fully dark and the workshop's own lamps—oil-fueled, wick-trimmed, because Haran's stove wasn't the only non-magical system in this room—threw warm uneven light across the benches.
+An hour passed. Maybe more. The light outside had gone fully dark and the workshop's own lamps, oil-fueled, wick-trimmed, because Haran's stove wasn't the only non-magical system in this room, threw warm uneven light across the benches.
 
 Ash had moved from the hinge pins Haran had set him to a project of his own. It sat in front of him now: a small mechanical timer, no bigger than his fist, designed to regulate the flow of water through a pipe by opening and closing a valve at set intervals. The concept was simple. The execution was not.
 
@@ -210,7 +210,7 @@ He'd been working on it for a month. The idea had been in his head since last wi
 
 "You can't fix a system by asking people to use less," Haran had said. "People are people. Fix the system."
 
-So Ash was fixing the system. The timer would sit in the main distribution line and portion the flow—enough for everyone, all the time, without anyone needing to think about it. Without anyone needing to channel. A mechanism that managed a resource because the mechanism didn't get tired, didn't run low, didn't decide to spend its pool on something more urgent.
+So Ash was fixing the system. The timer would sit in the main distribution line and portion the flow, enough for everyone, all the time, without anyone needing to think about it. Without anyone needing to channel. A mechanism that managed a resource because the mechanism didn't get tired, didn't run low, didn't decide to spend its pool on something more urgent.
 
 He picked up the escapement wheel and turned it between his fingers. Brass, hand-cut, the teeth filed to a precision that would have been trivial for a channeler shaping metal with their mind and was painstaking by hand. Each tooth had taken him twenty minutes. There were thirty-two teeth. He didn't let himself calculate the hours.
 
@@ -268,7 +268,7 @@ He spent the next half hour teaching Tal to cut gear teeth by hand: the angle of
 
 "Fidgeting and steadiness aren't the same thing. You fidget because your hands want to be doing something. When they're doing something that matters, they're steady."
 
-Tal looked at him like he'd said something enormous. Ash hadn't meant it that way. He'd just been describing what he saw. The smile on his face was small, unguarded—nothing like the one he wore at the Hall, the one that had learned to carry the weight of *I'm fine, I'm useful, I'm worth the space I take up*. This one was lighter. Simpler. The smile of a person who had just watched a boy discover something true.
+Tal looked at him like he'd said something enormous. Ash hadn't meant it that way. He'd just been describing what he saw. The smile on his face was small, unguarded, nothing like the one he wore at the Hall, the one that had learned to carry the weight of *I'm fine, I'm useful, I'm worth the space I take up*. This one was lighter. Simpler. The smile of a person who had just watched a boy discover something true.
 
 * * *
 
@@ -278,7 +278,7 @@ The evening deepened. Torren left first, wrapping his gears in their cloth with 
 
 "It's called a hole." She held up her latch mechanism. "Watch."
 
-She pressed the latch. It caught, held, and released with a smooth, even action—no snap, no jump, just the quiet authority of parts that fit.
+She pressed the latch. It caught, held, and released with a smooth, even action, no snap, no jump, just the quiet authority of parts that fit.
 
 "Better," Haran said from his bench, without looking up.
 
@@ -290,7 +290,7 @@ Haran stood from his bench and crossed to the stove. He opened the iron door, ch
 
 As Haran straightened, the stove's iron door swung shut. Not pushed. Not touched. It moved on its own, settling into its frame with a faint click. Haran's hand had been near it but not on it. He hadn't looked at it.
 
-Haran did these things the way a person breathed—without deciding to, without effort, without spending what Ash imagined a person spent when they channeled. As if the cost were so low, the control so refined, that the difference between doing it and not doing it was negligible.
+Haran did these things the way a person breathed, without deciding to, without effort, without spending what Ash imagined a person spent when they channeled. As if the cost were so low, the control so refined, that the difference between doing it and not doing it was negligible.
 
 Ash had never asked about it. The workshop ran on an unspoken agreement: what Haran did with his pool was his business. What mattered here was what your hands could do.
 
@@ -300,7 +300,7 @@ Ash had never asked about it. The workshop ran on an unspoken agreement: what Ha
 
 Haran poured himself a cup anyway, from a kettle on the stove, water heated by the fire. He leaned against the bench and drank. The quiet stretched. Ash recognized it: Haran's version of holding a door open. Not pushing. Just leaving the space.
 
-"Dorenne asked me to analyze the western aqueduct routing," Ash said. "The full system—every junction, every maintenance route, every pressure point. She wants options for reducing the crew overlap."
+"Dorenne asked me to analyze the western aqueduct routing," Ash said. "The full system, every junction, every maintenance route, every pressure point. She wants options for reducing the crew overlap."
 
 "Big project."
 
@@ -308,7 +308,7 @@ Haran poured himself a cup anyway, from a kettle on the stove, water heated by t
 
 "And you like being that piece."
 
-"I'm good at it." He said it simply, without the defensive edge it might have carried a week ago. "I can see how the systems connect. Where the bottlenecks are, where the coverage gaps create cascades, where a small change in one schedule unlocks capacity somewhere else. It's —" He turned the drill bit between his fingers, a habit, something to do with his hands while his mind moved. "It's the same thing I do here. Patterns. Mechanisms. How parts fit together."
+"I'm good at it." He said it simply, without the defensive edge it might have carried a week ago. "I can see how the systems connect. Where the bottlenecks are, where the coverage gaps create cascades, where a small change in one schedule unlocks capacity somewhere else. It's..." He turned the drill bit between his fingers, a habit, something to do with his hands while his mind moved. "It's the same thing I do here. Patterns. Mechanisms. How parts fit together."
 
 "Is it the same."
 
@@ -320,7 +320,7 @@ Ash looked at the drill bit. He turned it once more, then set it on the bench.
 
 "It is that."
 
-"And it matters. The work she's doing—the schedules, the deployments, the resource allocation—that's what keeps the city running. What keeps people warm. What keeps the water flowing."
+"And it matters. The work she's doing, the schedules, the deployments, the resource allocation, that's what keeps the city running. What keeps people warm. What keeps the water flowing."
 
 Haran sipped his tea.
 
@@ -338,7 +338,7 @@ Haran sipped his tea.
 
 "That's what I do."
 
-"Yes." Haran looked at him with the expression Ash had spent nine years learning to read—the one that contained more than it showed, that held back not from secrecy but from a discipline so long practiced it had become reflex. Patient. Warm. Amused at something Ash couldn't quite locate. "What the old folks used to say—build what lasts longer than you do."
+"Yes." Haran looked at him with the expression Ash had spent nine years learning to read, the one that contained more than it showed, that held back not from secrecy but from a discipline so long practiced it had become reflex. Patient. Warm. Amused at something Ash couldn't quite locate. "What the old folks used to say, build what lasts longer than you do."
 
 "Yes," Haran said again. "That is what you do."
 
@@ -370,15 +370,15 @@ Whether Ash walked through it was Ash's business.
 
 "I heard you."
 
-Ash stepped into the alley. The night air was cold—real cold, not the managed chill of the middle districts where the streets held enough residual channeling to take the edge off. Down here, the stone was stone, and the wind came off the gorge without mediation. He pulled his coat tighter. The same coat.
+Ash stepped into the alley. The night air was cold, real cold, not the managed chill of the middle districts where the streets held enough residual channeling to take the edge off. Down here, the stone was stone, and the wind came off the gorge without mediation. He pulled his coat tighter. The same coat.
 
 He walked up. The terraces rose ahead of him, each one a step closer to the districts where the paving was smooth and the walls held their heat and the systems worked because someone in an office like Dorenne's had decided they should. The Hall of Infrastructure was up there, dark now, its high windows catching the starlight. Tomorrow he would climb the ramp, sit at the table, and do the work that kept forty thousand people connected to clean water.
 
-Behind him, below him, the workshop's light leaked into the alley—warm and uneven, the color of burning wood. The sound of the broom carried faintly. Haran, sweeping. Alone in the warm room, putting things in order, the door open to anyone who might walk through it.
+Behind him, below him, the workshop's light leaked into the alley, warm and uneven, the color of burning wood. The sound of the broom carried faintly. Haran, sweeping. Alone in the warm room, putting things in order, the door open to anyone who might walk through it.
 
 He wasn't aware of a choice being made, the way a person didn't notice a current when the river was only ankle-deep.
 
-On the shelf inside, the water pump sat where it always sat—the one running in three homes, the one that carried water uphill while people slept, the one he'd designed with his own hands and his own mind, the one that worked without channeling, without fuel, without anyone's pool or anyone's table.
+On the shelf inside, the water pump sat where it always sat, the one running in three homes, the one that carried water uphill while people slept, the one he'd designed with his own hands and his own mind, the one that worked without channeling, without fuel, without anyone's pool or anyone's table.
 
 It worked in the dark. It worked alone.
 

@@ -61,9 +61,17 @@ All intermediary files are preserved:
 [book]/drafts/chapter-[NN]-evaluation.md
 ```
 
-#### 2c. Update Outline (if needed)
+#### 2c. Update Outline and Plan (always)
 
-If the drafted chapter introduced any plot changes, new scenes, altered character decisions, or shifted timelines compared to the outline entry, update `[book]/outline.md` and any affected planning documents (per the Plot Sync Rule in CLAUDE.md).
+After every chapter is saved, reconcile planning docs with what was actually written. This is not conditional on "did anything change" — run the check every chapter, because drift compounds:
+
+1. **`[book]/outline.md`** — update the chapter entry to reflect the scenes, decisions, beats, named characters, named locations, and reservoir delta as written. If the chapter diverged from the outline brief, rewrite the entry to match the chapter, not the original plan.
+2. **`[book]/plan.md`** — if the chapter shifted the book's arc, theme emphasis, thread state, or pacing assumptions, update the relevant sections.
+3. **`convergence-map.md`** — update thread plant/progress/converge state for any thread this chapter touched.
+4. **`characters/*.md`** — if a character's voice, relationships, or arc state evolved in this chapter, update the profile.
+5. **Named Locations gazetteer** in `[book]/outline.md` — add any new location introduced.
+
+Per the Plot Sync Rule and Character/Location Name Rules in CLAUDE.md. Surface the diffs you made before moving to the next chapter.
 
 #### 2d. Move to Next Chapter
 

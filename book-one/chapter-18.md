@@ -56,7 +56,7 @@ A woman sat on a stool inside, working at a bench despite the crack. She was old
 
 "The wall," Ash said. "Can I?"
 
-She stared at him. Looked at the crack. Looked back at him. "You're—"
+She stared at him. Looked at the crack. Looked back at him. "You're..."
 
 "I was in the district. I saw the brace."
 
@@ -72,7 +72,7 @@ He stood. The woman was watching him with an expression he'd seen before: gratit
 
 "The mechanism," he said, nodding at the bench. "What is it?"
 
-She blinked. "It's—a valve assembly. For a water filter. Mechanical filtration, no channeling required." She paused. "It's a project. Not important."
+She blinked. "It's, a valve assembly. For a water filter. Mechanical filtration, no channeling required." She paused. "It's a project. Not important."
 
 "It's important."
 
@@ -98,19 +98,19 @@ Dorenne crossed the courtyard with the particular stride she used when she was c
 
 "I know."
 
-"Verin's crew—the eastern wall team—has been waiting since ten."
+"Verin's crew, the eastern wall team, has been waiting since ten."
 
 "I'll go this afternoon."
 
 "You were supposed to be there this morning." She let that sit. Not accusatory. Factual. "Where were you?"
 
-"Here." He gestured at the district around them. "The tinkerer workshop on the south edge had a cracked wall. The house on Colter Street—"
+"Here." He gestured at the district around them. "The tinkerer workshop on the south edge had a cracked wall. The house on Colter Street..."
 
 "I know which buildings you repaired. The crew chiefs report to me." She unclasped her hands and pulled a folded paper from her jacket, a list, shorter than his, written in her own hand. "Two sites. Neither on the deployment schedule. Neither priority-flagged."
 
 "They needed it."
 
-"Everything needs it." She unfolded the paper. He could see the writing from where he sat: building addresses, durations, the same shorthand the crew chiefs used. She'd already calculated what he'd spent. "The workshop wall. The lintel on Colter Street." She folded the paper again. "Roughly five minutes of active channeling. At your current efficiency, that's—" She paused, not for drama but for accuracy. "That's not negligible, Ash. Time and output you could have given the eastern wall."
+"Everything needs it." She unfolded the paper. He could see the writing from where he sat: building addresses, durations, the same shorthand the crew chiefs used. She'd already calculated what he'd spent. "The workshop wall. The lintel on Colter Street." She folded the paper again. "Roughly five minutes of active channeling. At your current efficiency, that's..." She paused, not for drama but for accuracy. "That's not negligible, Ash. Time and output you could have given the eastern wall."
 
 He looked at her. The bread was still in his hand. He set it down on the wall beside him.
 
@@ -140,7 +140,7 @@ He stopped at a terrace overlook. Below, the city spread in the late-afternoon l
 
 Smaller.
 
-Not by much. Not by any amount he could measure or name. But the sense of it had changed again. Not the ghost of edges now, but something more solid. The reservoir had a shape, and the shape had dimensions, and the dimensions were not infinite. He could feel the floor the way you could feel the bottom of a deep lake when you dove far enough—not touching it, not close to touching it, but knowing it was there. Knowing the water ended somewhere.
+Not by much. Not by any amount he could measure or name. But the sense of it had changed again. Not the ghost of edges now, but something more solid. The reservoir had a shape, and the shape had dimensions, and the dimensions were not infinite. He could feel the floor the way you could feel the bottom of a deep lake when you dove far enough, not touching it, not close to touching it, but knowing it was there. Knowing the water ended somewhere.
 
 The thought surfaced and he let it sit. He'd known this. Dorenne had said it in the Council chamber: "unprecedented but not infinite." The examiners had hedged. Haran had asked, months ago, a question about cost that Ash had shrugged away. Everyone had been telling him, and he'd listened, and he'd heard, and he hadn't believed. Because the reservoir had felt like an ocean, and oceans didn't have floors. That was what made them oceans.
 
@@ -154,7 +154,7 @@ The house looked the same. Smaller than he remembered; it always looked smaller 
 
 He left it alone.
 
-His mother opened the door before he knocked. She'd seen him from the window, the kitchen window that overlooked the street, and she spent her evenings there, he knew, the way she'd always spent her evenings there, watching the neighborhood settle into dark. She stood in the doorway and looked at him, and for a moment her face did the thing it always did when she saw him: the flash of fierce, protective attention, the quick scan—is he eating, is he sleeping, is he whole. Then she caught herself. Pulled the fierceness back behind something more careful. Something she'd learned to wear since the Wellspring, since the earthquake, since her son became too important for a mother to fuss over.
+His mother opened the door before he knocked. She'd seen him from the window, the kitchen window that overlooked the street, and she spent her evenings there, he knew, the way she'd always spent her evenings there, watching the neighborhood settle into dark. She stood in the doorway and looked at him, and for a moment her face did the thing it always did when she saw him: the flash of fierce, protective attention, the quick scan, is he eating, is he sleeping, is he whole. Then she caught herself. Pulled the fierceness back behind something more careful. Something she'd learned to wear since the Wellspring, since the earthquake, since her son became too important for a mother to fuss over.
 
 "Ashlyn," she said. "Come in."
 
@@ -224,11 +224,11 @@ His mother's expression shifted, not much, a tightening around the eyes. "She's 
 
 He hadn't known that. He hadn't asked, before now. Maren, working extra maintenance shifts, spending her pool, her small and precise and diminishing pool, covering for crews that were stretched thin because the infrastructure demanded more channeling than the available workers could provide. Doing the math of her own capacity every day, the way everyone in her generation did, the way everyone except him did.
 
-The thought caught and held. He sat with it—Maren's pool against his reservoir. Her daily budget, rationed down to the last useful drop, stretched across shifts and repairs and the quiet maintenance that nobody thanked her for. His ocean, with its new geometry of edges. She spent what an elder produced in a day and called it a full shift. He spent what an elder produced in a year and called it Tuesday.
+The thought caught and held. He sat with it, Maren's pool against his reservoir. Her daily budget, rationed down to the last useful drop, stretched across shifts and repairs and the quiet maintenance that nobody thanked her for. His ocean, with its new geometry of edges. She spent what an elder produced in a day and called it a full shift. He spent what an elder produced in a year and called it Tuesday.
 
 The disproportion was grotesque. He'd known it intellectually, had known it since the activation, since the numbers started. But knowing it as arithmetic and feeling it as his sister's hands flexing in the dark were different things. She came home tired the way he came home tired, except her tired meant the well was dry and his tired meant he'd used a cupful of the sea.
 
-He pushed the thought away. Not gently—with the practiced force of a person who had learned that some comparisons, followed to their conclusion, made the work impossible.
+He pushed the thought away. Not gently, with the practiced force of a person who had learned that some comparisons, followed to their conclusion, made the work impossible.
 
 "She'll be sorry she missed you," his mother said.
 
@@ -238,11 +238,11 @@ He didn't ask what time she'd be home. He didn't ask which districts. He looked 
 
 He set down the cup. "I should go."
 
-His mother nodded. She didn't argue. There was a time—before—when she would have. When she would have insisted on dinner, on an hour more, on the particular necessity of a mother feeding her son. That time was gone. She'd learned the new choreography. The son who came and left on a schedule she couldn't see, who belonged to a city that needed him more than she did, who sat at her table and drank her tea and thought about something else.
+His mother nodded. She didn't argue. There was a time, before, when she would have. When she would have insisted on dinner, on an hour more, on the particular necessity of a mother feeding her son. That time was gone. She'd learned the new choreography. The son who came and left on a schedule she couldn't see, who belonged to a city that needed him more than she did, who sat at her table and drank her tea and thought about something else.
 
 She walked him to the door. His father stayed at the table, cup in hand, watching him go with the expression he always wore when Ash left: pride and a question, tangled together, neither one resolved.
 
-At the door, his mother touched his arm. Quick, light—the way you'd touch something you weren't sure you were allowed to touch. "Come back," she said. "When you can."
+At the door, his mother touched his arm. Quick, light, the way you'd touch something you weren't sure you were allowed to touch. "Come back," she said. "When you can."
 
 He stepped into the street. The evening air was cool, carrying the smell of someone's dinner from an open window, the ordinary smell of an ordinary street. Behind him, the door closed. He could picture her: returning to the kitchen, to the counter, to the tin kettle that was still warm. Standing at the window to watch him walk away. Holding herself still until he turned the corner, because if she moved, she might follow, and she'd learned not to follow.
 
@@ -256,7 +256,7 @@ The next morning, he arrived at the command post before Dorenne.
 
 Her operations room was empty at this hour; the staff wouldn't arrive for another thirty minutes. The four panels stood at the front of the room, the crisis maps and the reconstruction plan, the blue sites and the red hash marks. He crossed to the fourth panel and stood in front of it.
 
-The numbers were clearer in the early light. Each hash mark: a site, a date, a duration, an estimated energy cost. The estimates were crude; Dorenne's staff were guessing, extrapolating from observable outputs, building a model from the outside because nobody could see the reservoir from within. But they were in the right range. He could feel that. The proportions made sense. The bigger deployments—the retaining walls, the transit shafts, the deep structural work—were marked with larger numbers. The smaller ones, water junctions, building reinforcements, the routine tightening of the city's bones, were marked with smaller numbers. The model was rough, but it was honest.
+The numbers were clearer in the early light. Each hash mark: a site, a date, a duration, an estimated energy cost. The estimates were crude; Dorenne's staff were guessing, extrapolating from observable outputs, building a model from the outside because nobody could see the reservoir from within. But they were in the right range. He could feel that. The proportions made sense. The bigger deployments, the retaining walls, the transit shafts, the deep structural work, were marked with larger numbers. The smaller ones, water junctions, building reinforcements, the routine tightening of the city's bones, were marked with smaller numbers. The model was rough, but it was honest.
 
 He followed the columns forward. Weeks one through six: completed. The hash marks filled in, each one a site visited, a deployment finished, a withdrawal made. The cumulative numbers at the bottom of each column climbed in a progression that looked, from a certain angle, like a countdown.
 
@@ -308,7 +308,7 @@ He walked out into the morning and went to the first site on the list.
 
 That evening, in his quarters at the command post, he sat on the cot and pressed his palms together and felt for the reservoir.
 
-It was there. Warm. Present. Vast—still vast, still more than anyone alive had ever held, still enormous by any measure except the one that mattered: his own. He held the feeling the way he'd learned to hold channeled force: with attention, with precision, with the awareness of dimension that came from weeks of practice.
+It was there. Warm. Present. Vast, still vast, still more than anyone alive had ever held, still enormous by any measure except the one that mattered: his own. He held the feeling the way he'd learned to hold channeled force: with attention, with precision, with the awareness of dimension that came from weeks of practice.
 
 The edges were there. Not close. Not crowding him. But present, the way the walls of a large room were present even when you stood in the center, invisible if you didn't think about them, undeniable once you did. The reservoir had a shape. The shape had limits. He didn't look at them too closely.
 
@@ -316,7 +316,7 @@ He thought about the chart. The columns climbing forward across months. The hash
 
 He thought about the shelf. Seven years. Mortise and tenon. The joints that didn't crack.
 
-He thought about the kettle—the tin one, dented, cord-wrapped, steaming on his mother's counter. The copper one in the cabinet, bright and unused. The distance between them measured in something he didn't have a unit for. Something that wasn't energy or power or force. Something older.
+He thought about the kettle, the tin one, dented, cord-wrapped, steaming on his mother's counter. The copper one in the cabinet, bright and unused. The distance between them measured in something he didn't have a unit for. Something that wasn't energy or power or force. Something older.
 
 He lay down on the cot. The ceiling above him was stone, channeled stone, reinforced, the kind of work that lasted generations when it was done well. Someone had built this ceiling with their hands and their pool, years ago, spending what they had to make something that would stand. The stone was still standing. The person was gone.
 

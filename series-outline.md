@@ -6,6 +6,8 @@ This document maps the full plot across all three books, showing how each book's
 
 A young man born without magic in a magical world becomes the most powerful channeler alive — then watches that power drain away while the world's magic dies around him. His journey from euphoria through crisis to acceptance mirrors the civilization's journey, and his answer to the question "who am I without power?" becomes the template for how everyone else will eventually need to answer it too.
 
+**About Ash specifically.** Ash carries two persistent weaknesses across all three books: public speaking and administrative writing. He is bad at both, he stays bad at both, and his arc is not a story of overcoming them. He routes around them by leaning on people who are good at them (Dorenne, Tessaly, and their equivalents in Books Two and Three). The load-bearing trait under his apparent competence is not intellect, not the Wellspring, and not latent gift; it is the capacity to swallow his pride, ask for help, accept correction, and try the thing he is bad at again. A lifetime of being the constrained one made pride-swallowing his deepest competence, and that engine, not the power, is what produces every visible success across the trilogy. Reviewers and writer agents should hold these as load-bearing across all three books and flag any draft that quietly heals either weakness or that reframes Ash's competence as latent talent.
+
 **The Series Clock:** Ash's reservoir drains across three books — 100% → ~44% (Book One) → ~15-20% (Book Two) → 0% (Book Three). The world's magic declines on a generational timescale, but accelerates visibly across the trilogy.
 
 **The Grief Progression:** The antagonists embody stages of grief in response to the decline:

@@ -53,9 +53,29 @@ Run these agents on the chapter, each reading the draft and relevant source file
 7. **🔗 Continuity Tracker** — Facts and cross-chapter consistency
 8. **🌀 Convergence Tracker** — Thread management and avalanche pacing
 
+#### 2a-bis. Run Per-Character Voice Agents (parallel)
+
+Identify every speaking character in the chapter draft. For each speaking character with a dedicated voice agent, invoke that agent **in parallel** (single message, multiple tool calls). Skip voice agents for characters who don't speak in this chapter.
+
+Available per-character voice agents:
+
+- **🗣️ Voice — Ash** (`voice-ash`)
+- **🗣️ Voice — Maren** (`voice-maren`)
+- **🗣️ Voice — Haran** (`voice-haran`)
+- **🗣️ Voice — Ryn** (`voice-ryn`)
+- **🗣️ Voice — Dorenne** (`voice-dorenne`)
+- **🗣️ Voice — Leska** (`voice-leska`)
+- **🗣️ Voice — Father** (`voice-father`)
+
+Each per-character agent audits its character's dialogue against the voice spec and flags any lines that could be confused with another speaker (the **cross-character collapse check**).
+
+For maximum efficiency, all agents in 2a *and* 2a-bis can be invoked in a single message with multiple tool calls.
+
+**No Em Dash Rule:** All agents must comply with the No Em Dash Rule in `CLAUDE.md`. Any REPLACEMENT lines proposed must not contain em dashes (U+2014).
+
 #### 2b. Compile Revision Brief
 
-Combine all review feedback into a single revision brief:
+Combine all review feedback (8 reviewers + per-character voice agents) into a single revision brief:
 
 ```markdown
 # Revision Brief — Chapter [N]
@@ -69,8 +89,18 @@ Combine all review feedback into a single revision brief:
 ## Polish Notes (nice to have)
 [Minor style refinements, missed opportunities, dialogue tweaks]
 
+## Voice Review (per-character)
+For each per-character voice agent that ran:
+- **[Character Name]:** one-paragraph summary of voice health, with line-level drift items folded into Critical/Important/Polish above.
+
+### Confirmed Cross-Character Collapse
+Pairs (A, B) where **both** A's voice agent flagged A's line as reading-like-B *and* B's voice agent independently flagged B's line as reading-like-A in the same scene. Treat as critical.
+
+### Suspected Cross-Character Collapse
+One-sided flags. Warrant a human eye but are not confirmed.
+
 ## Strengths (what's working well)
-[What each reviewer praised — important to know what to preserve]
+[What each reviewer praised, including each voice agent's "Working Lines" section.]
 ```
 
 Save to `[book]/drafts/chapter-[NN]-revision-brief.md`.

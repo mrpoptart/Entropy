@@ -16,7 +16,7 @@ He set his bag on the bed. Two changes of clothes. A deployment brief. The crack
 
 Dorenne nodded. The particular nod she gave when something had been arranged and the arrangement was correct. "The northern quarter retaining walls need assessment by end of week. Sorren's team flagged three new fractures. And the Council liaison wants to discuss the lower terrace heating schedule."
 
-She left. Her footsteps receded down the corridor—measured, unhurried, the cadence of a woman who had already moved to the next problem.
+She left. Her footsteps receded down the corridor, measured, unhurried, the cadence of a woman who had already moved to the next problem.
 
 Ash looked at the room. The window. The light on the floor. The bed where he would sleep tonight, forty steps from the map room where Dorenne's green marks spread across the city.
 
@@ -30,7 +30,7 @@ Four districts in two weeks. Northern quarter, Ridgewall, the lower terraces twi
 
 The northern quarter retaining walls were the worst. Three fractures in a fifty-meter span, each one deeper than Sorren's initial assessment had estimated. Ash pressed his palms to the stone and channeled for four hours. The fractures stabilized. The buildings above stopped settling. Sorren documented the readings with the concentrated attention of someone who was still recalibrating what he expected from a single channeler.
 
-"The wall needs monthly maintenance now," Sorren said, marking her notebook. "Standard reinforcement, sustained output. We can schedule a crew—"
+"The wall needs monthly maintenance now," Sorren said, marking her notebook. "Standard reinforcement, sustained output. We can schedule a crew..."
 
 "Or I can come back," Ash said.
 
@@ -54,7 +54,7 @@ He missed the workshop on a Tuesday.
 
 Not deliberately. The deployment in the lower terraces ran long: a junction that refused to stabilize, the old channeling in the pipes fighting his input like scar tissue resisting new growth. Torath worked beside him until the system accepted the charge, and by then the light was gone and the terrace streets were dark and the workshop was across the city.
 
-He'd go tomorrow. He'd go in the morning, before the next deployment. He'd told Haran about the northern quarter fractures—no, he hadn't told Haran about the northern quarter fractures. He'd meant to. He'd been meaning to visit for a week, since before the room, since the retaining wall assessment that had eaten his schedule.
+He'd go tomorrow. He'd go in the morning, before the next deployment. He'd told Haran about the northern quarter fractures, no, he hadn't told Haran about the northern quarter fractures. He'd meant to. He'd been meaning to visit for a week, since before the room, since the retaining wall assessment that had eaten his schedule.
 
 Tomorrow.
 
@@ -68,7 +68,7 @@ A week passed. Then part of another.
 
 Haran sent no message.
 
-Ash noticed this the way he noticed the gear casing in his bag—as a fact that existed at the edge of awareness, carrying weight he chose not to lift. Haran didn't chase. That was Haran. The old man kept the workbench clear and the door unlocked and waited, because waiting was what he did, because Haran's faith was the patient kind, the kind that didn't need to announce itself or defend itself or prove itself by reaching out.
+Ash noticed this the way he noticed the gear casing in his bag, as a fact that existed at the edge of awareness, carrying weight he chose not to lift. Haran didn't chase. That was Haran. The old man kept the workbench clear and the door unlocked and waited, because waiting was what he did, because Haran's faith was the patient kind, the kind that didn't need to announce itself or defend itself or prove itself by reaching out.
 
 The pump project continued without him.
 
@@ -130,7 +130,7 @@ He stood on the street afterward and flexed his hands. The soreness was physical
 
 *I could do this forever.*
 
-The thought arrived without announcement. He was looking at the stabilized buildings—the walls that had been moving and were now still, the hairline cracks frozen mid-propagation, the foundation slab holding firm under his reinforcement—and the thought was simply there, the way the reservoir was simply there, a fact too large to question.
+The thought arrived without announcement. He was looking at the stabilized buildings, the walls that had been moving and were now still, the hairline cracks frozen mid-propagation, the foundation slab holding firm under his reinforcement, and the thought was simply there, the way the reservoir was simply there, a fact too large to question.
 
 He flexed his hands. The soreness felt good. The earned ache of work that mattered.
 
@@ -148,7 +148,7 @@ He didn't visit the family. He didn't walk to the workshop. He didn't send Ryn a
 
 He canceled on Ryn a second time three days later.
 
-She'd suggested the quarry. Not the high ledge where they'd climbed and he'd thrown boulders at the sky—just the lower trail, the walk they used to take before any of this, the path along the gorge where the river ran and the air smelled like wet stone and they could talk without the city pressing in.
+She'd suggested the quarry. Not the high ledge where they'd climbed and he'd thrown boulders at the sky, just the lower trail, the walk they used to take before any of this, the path along the gorge where the river ran and the air smelled like wet stone and they could talk without the city pressing in.
 
 He sent the message. Different words, same shape.
 
@@ -188,15 +188,15 @@ Twenty-three years of nothing. Twenty-three years of being the room's problem, t
 
 The reservoir pressed through his palms. The building warmed.
 
-He wasn't performing anymore. He wasn't offsetting. He was producing—generating value so vast it showed up on Dorenne's maps, in Sorren's assessments, in the Council committee's expanded budget projections. He was the reason the eastern district's emergency maintenance requests had dropped sixty percent. He was the reason six thousand people in the southern quarter had running water above the fourth floor. He was the reason Grayspire still stood.
+He wasn't performing anymore. He wasn't offsetting. He was producing, generating value so vast it showed up on Dorenne's maps, in Sorren's assessments, in the Council committee's expanded budget projections. He was the reason the eastern district's emergency maintenance requests had dropped sixty percent. He was the reason six thousand people in the southern quarter had running water above the fourth floor. He was the reason Grayspire still stood.
 
-He stepped back from the junction. Flexed his hands. The soreness was there—the good soreness, the earned weight.
+He stepped back from the junction. Flexed his hands. The soreness was there, the good soreness, the earned weight.
 
 A woman was watching from a doorway. She held a child against her hip, small, bundled, the layers that people wore in unheated buildings. She was looking at the wall. Her hand reached out and pressed flat against the stone, and the child squirmed, and the woman's face did the thing that faces did when the cold stopped. The thing he'd seen in the eastern district, in the lower terraces, in every building he'd touched. Not gratitude. Something more immediate. Relief so deep it lived in the muscles.
 
 He walked to the next junction.
 
-The power felt like an extension of himself. Not a gift, not an accident, not something that had happened to him. It felt like a limb he'd been missing—a hand he'd always known was supposed to be there, and now it was, and every time he used it the rightness deepened. He thought in terms of what he could do. Not what he might do, not what he should do—what he *could* do. The grammar of his inner life had shifted. He finished the Ridgewall circuit. Five junctions. Four hours. The district breathed warm air into the evening.
+The power felt like an extension of himself. Not a gift, not an accident, not something that had happened to him. It felt like a limb he'd been missing, a hand he'd always known was supposed to be there, and now it was, and every time he used it the rightness deepened. He thought in terms of what he could do. Not what he might do, not what he should do, what he *could* do. The grammar of his inner life had shifted. He finished the Ridgewall circuit. Five junctions. Four hours. The district breathed warm air into the evening.
 
 Walking back to the Hall, he passed through the lower market district. The streets were busy: evening crowds, the particular density of people moving between work and home. He walked easily, his stride long, the reservoir a steady warmth behind his ribs. People recognized him. Not everyone; he wasn't famous the way a public figure was famous. But the infrastructure workers knew his face, and the district managers knew his name, and occasionally someone in the crowd would glance twice, the way you glanced at a person you'd heard about and were seeing for the first time.
 
@@ -204,15 +204,15 @@ He passed the Council Hall. Its broad facade was lit from within, the warm glow 
 
 The banner read: OUR POOLS, OUR FUTURE.
 
-Below it, smaller lettering he couldn't read from the street. The group was talking—animated, sharp gestures, the body language of people who were angry about something specific. One of them held a sheaf of broadsheets and was pressing them into the hands of passersby with the particular urgency of a person who believed the paper mattered more than the person holding it.
+Below it, smaller lettering he couldn't read from the street. The group was talking, animated, sharp gestures, the body language of people who were angry about something specific. One of them held a sheaf of broadsheets and was pressing them into the hands of passersby with the particular urgency of a person who believed the paper mattered more than the person holding it.
 
-A woman in the group saw Ash looking. She held his gaze for a moment—direct, appraising, the look of someone who was deciding whether he was relevant to their cause. Then a passerby took a broadsheet and the woman turned to them, and the moment passed.
+A woman in the group saw Ash looking. She held his gaze for a moment, direct, appraising, the look of someone who was deciding whether he was relevant to their cause. Then a passerby took a broadsheet and the woman turned to them, and the moment passed.
 
 Ash walked on.
 
-Two blocks further, he passed a community hall with its doors open. The sound of voices came through—not angry, exactly, but heated, the particular register of people arguing about something that affected them personally. He caught a fragment as he passed.
+Two blocks further, he passed a community hall with its doors open. The sound of voices came through, not angry, exactly, but heated, the particular register of people arguing about something that affected them personally. He caught a fragment as he passed.
 
-"—dependent on one person. What happens when he's not available?"
+"...dependent on one person. What happens when he's not available?"
 
 The voice faded as he walked. The evening crowd absorbed the sound. He turned onto the main avenue and the Hall of Infrastructure rose ahead of him, its corridors lit, Dorenne's window a bright square on the third floor.
 
@@ -220,7 +220,7 @@ A broadsheet was pasted to a wall near the avenue's entrance. He glanced at it, 
 
 He walked past it.
 
-The broadsheet stayed on the wall. The voices in the community hall continued. The young channelers at the Council steps shifted their banner in the evening wind. The seeds of something planted themselves in the soil of a city he crossed every day, and he walked through them the way he walked through weather—aware of the temperature, unaware of the season changing.
+The broadsheet stayed on the wall. The voices in the community hall continued. The young channelers at the Council steps shifted their banner in the evening wind. The seeds of something planted themselves in the soil of a city he crossed every day, and he walked through them the way he walked through weather, aware of the temperature, unaware of the season changing.
 
 He climbed the stairs to the third floor. Passed Dorenne's office; she was at her desk, her pen moving, the map behind her green and red and annotated in her tight script. He went to his room. The window faced east. The light was gone now, the glass dark, reflecting the room back at him: the desk, the bed, the deployment briefs, the bag where the cracked gear casing sat at the bottom beneath his folded clothes.
 
@@ -242,23 +242,23 @@ She picked up the loaf. Turned it over. Set it down. "This isn't the place on Se
 
 She was right. He'd grabbed it from the bakery closest to the administrative wing, the one he passed every morning on the way to Dorenne's office. He hadn't gone to Second Terrace. Second Terrace was twenty minutes in the wrong direction.
 
-"Sorry. I thought—"
+"Sorry. I thought..."
 
 "It's fine." She opened the bread. The interior was good: soft, well-risen. Different from the rosemary bread, but good. "Sit."
 
-He sat. The kitchen was clean. The kitchen was always clean—his mother's domain, maintained with the particular discipline of a woman whose territory had been shrinking and who held what remained with both hands. The cups in the cabinet were the old ones, the chipped ones, the mismatched set she'd carried from the old apartment. The new cups he'd bought were in the back.
+He sat. The kitchen was clean. The kitchen was always clean, his mother's domain, maintained with the particular discipline of a woman whose territory had been shrinking and who held what remained with both hands. The cups in the cabinet were the old ones, the chipped ones, the mismatched set she'd carried from the old apartment. The new cups he'd bought were in the back.
 
 "Where's everyone?"
 
 "Your father's at the market. Maren's working." She poured tea. The old kettle, the dented spout, the familiar rattle of the lid. "She picks up extra shifts now. Weekends. There are maintenance emergencies. The earthquake damaged more systems than the Bureau can staff, and the crews are short."
 
-"I could—"
+"I could..."
 
 "She doesn't want you to fix it." His mother set the cup in front of him. "She wants to do her job."
 
 The words sat between them. His mother stood at the counter with the old kettle in her hand and the morning light through the window catching the dent in its side, and the words meant more than what they said, but Ash heard only what they said.
 
-"I know," he said. "I just meant—the Bureau could request a Wellspring deployment for the backlog. Dorenne has a process."
+"I know," he said. "I just meant, the Bureau could request a Wellspring deployment for the backlog. Dorenne has a process."
 
 His mother put the kettle down.
 
@@ -266,7 +266,7 @@ His mother put the kettle down.
 
 He drank his tea. It was good: the same blend she'd used his entire life, the dark leaves from the market in the old district. She must have brought the tea with her when they moved, the way she'd brought the cups and the kettle and the oil lamp and all the small objects that carried the shape of the life she'd built around his absence of power.
 
-She sat across from him. Her hands folded on the table. She looked at him the way she'd been looking at him for weeks—with the fierce attention of a woman who was searching for something in her son's face and not finding it.
+She sat across from him. Her hands folded on the table. She looked at him the way she'd been looking at him for weeks, with the fierce attention of a woman who was searching for something in her son's face and not finding it.
 
 "You look well," she said.
 
@@ -276,7 +276,7 @@ She sat across from him. Her hands folded on the table. She looked at him the wa
 
 He looked up.
 
-"Your posture," she said. "The way you hold your shoulders. The way you sit. You never used to sit like that—like the chair owed you something." She unfolded her hands. Folded them again. "You sit the way she sits."
+"Your posture," she said. "The way you hold your shoulders. The way you sit. You never used to sit like that, like the chair owed you something." She unfolded her hands. Folded them again. "You sit the way she sits."
 
 He didn't know what to say to this. He looked at his shoulders, at his hands on the table, at the way he was occupying the chair. He couldn't see what she was seeing. He felt the same. He sat the same. The reservoir pressed behind his ribs, vast and warm, and his posture was the posture of a person who was full.
 
@@ -290,7 +290,7 @@ She looked at her tea. The surface trembled. The building's heating lattice vibr
 
 "Your father misses you," she said. "He won't say it. He talks about things you built: the shelf, the cistern, the door you planed when you were thirteen. He talks about them the way people talk about someone who's gone."
 
-The words should have landed harder. They should have opened something—a crack, a fissure, the kind of structural failure that let the deeper weight through. But the reservoir hummed, and the deployment schedule waited, and the northern quarter retaining walls needed a third pass by end of week, and the words arrived at the surface of his attention and stayed there, like rain on stone that was already full.
+The words should have landed harder. They should have opened something, a crack, a fissure, the kind of structural failure that let the deeper weight through. But the reservoir hummed, and the deployment schedule waited, and the northern quarter retaining walls needed a third pass by end of week, and the words arrived at the surface of his attention and stayed there, like rain on stone that was already full.
 
 "I'm not gone," he said. "I'm right here."
 
@@ -308,17 +308,17 @@ He stayed for an hour. His father came home from the market with vegetables and 
 
 "Some of it."
 
-His father nodded. The nod carried something—a weight, a direction—but Ash was already thinking about the retaining walls, about the fractures that were deeper than Sorren's estimate, about the deployment brief on his desk back at the Hall.
+His father nodded. The nod carried something, a weight, a direction, but Ash was already thinking about the retaining walls, about the fractures that were deeper than Sorren's estimate, about the deployment brief on his desk back at the Hall.
 
 "I should go," he said.
 
-His mother didn't argue. His father walked him to the door. At the threshold, his father put a hand on his shoulder—the same gesture, the same weight, the same hand that had held him when he was small and the world was large and the magic that everyone else had was a river he stood beside but never in.
+His mother didn't argue. His father walked him to the door. At the threshold, his father put a hand on his shoulder, the same gesture, the same weight, the same hand that had held him when he was small and the world was large and the magic that everyone else had was a river he stood beside but never in.
 
 "Come back soon," his father said.
 
 "I will."
 
-He walked down the stairs. Behind him, the door closed. His mother's voice reached him through the walls—muffled, indistinct, the particular register of a woman speaking to her husband about their son in the careful voice they used when the son wasn't supposed to hear.
+He walked down the stairs. Behind him, the door closed. His mother's voice reached him through the walls, muffled, indistinct, the particular register of a woman speaking to her husband about their son in the careful voice they used when the son wasn't supposed to hear.
 
 He kept walking. The transit shaft near the apartment was running: his work, his deployment, the green mark on Dorenne's map. He rode the platform down to the lower terrace and crossed the market district and climbed the stairs to the Hall, and by the time he reached his quarters, the visit had already acquired the quality of a task completed. A box checked. A duty discharged.
 
@@ -338,7 +338,7 @@ He was inside the machine now. Part of the infrastructure. A component that move
 
 He passed the Council Hall and the young channelers were there again, different people, same banner. OUR POOLS, OUR FUTURE. They'd added a second banner: REDISTRIBUTION IS JUSTICE. A woman was speaking to a small crowd, her voice carrying across the plaza in the particular cadence of someone who had rehearsed what she was saying and meant every word.
 
-"—the Wellspring serves the Director's priorities. Not ours. Not the people whose pools are failing—"
+"...the Wellspring serves the Director's priorities. Not ours. Not the people whose pools are failing..."
 
 Ash walked past. He was late for a junction assessment in the southern quarter. The woman's voice faded behind him, absorbed by the crowd, by the traffic, by the constant background noise of a city that was always in the process of either breaking down or being repaired.
 
@@ -358,29 +358,29 @@ Three weeks after moving into his quarters, he walked past the workshop.
 
 Not to it. Past it.
 
-He was returning from a deployment in the lower districts—a long day, four junctions, the particular exhaustion that came from hours of sustained contact with resistant stone. The route back to the Hall took him through the district where Haran's workshop stood, the poorer neighborhood where the buildings leaned and the streets were narrow and the people fixed things by hand because the channeling infrastructure had never been reliable enough to depend on.
+He was returning from a deployment in the lower districts, a long day, four junctions, the particular exhaustion that came from hours of sustained contact with resistant stone. The route back to the Hall took him through the district where Haran's workshop stood, the poorer neighborhood where the buildings leaned and the streets were narrow and the people fixed things by hand because the channeling infrastructure had never been reliable enough to depend on.
 
-The workshop's door was open. Light came through—warm, yellow, the oil lamps that Haran preferred to the building's unreliable lattice. The sound of voices. The particular percussion of work: metal on metal, the scrape of a file, the low murmur of people talking while their hands moved.
+The workshop's door was open. Light came through, warm, yellow, the oil lamps that Haran preferred to the building's unreliable lattice. The sound of voices. The particular percussion of work: metal on metal, the scrape of a file, the low murmur of people talking while their hands moved.
 
-He slowed. Through the doorway, he could see the workbench—his workbench, the one Haran had cleared for him years ago, the surface worn smooth by his hands. His tools were arranged along the back edge. The wrench. The calipers. The small hammer with the replaced handle. Each one exactly where he'd left it, as if the workbench were a place setting at a table where the guest hadn't arrived.
+He slowed. Through the doorway, he could see the workbench, his workbench, the one Haran had cleared for him years ago, the surface worn smooth by his hands. His tools were arranged along the back edge. The wrench. The calipers. The small hammer with the replaced handle. Each one exactly where he'd left it, as if the workbench were a place setting at a table where the guest hadn't arrived.
 
 Two tinkerers were working at the bench beside his. Young, teenagers, maybe, the particular intensity of people learning something they cared about. One of them was fitting a valve into a copper pipe, hands steady, the focused attention of a novice imitating a technique they'd been shown. The other was sketching on a piece of rough paper, a mechanism, gears meshing, the kind of design work that happened before the building.
 
-Haran was at the far bench. He was working on something Ash couldn't see—his back turned, his hands moving with the unhurried precision that made everything he did look simple. He didn't look up. He might not have known Ash was there. He might have known and chosen not to look.
+Haran was at the far bench. He was working on something Ash couldn't see, his back turned, his hands moving with the unhurried precision that made everything he did look simple. He didn't look up. He might not have known Ash was there. He might have known and chosen not to look.
 
 The pump. The installed pump, the running pump, the sixty-percent-of-channeled-capacity pump that served the tinkerer district's water needs without a Wellspring, without a deployment schedule, without a green mark on anyone's map. It was somewhere in the district now, bolted to a wall or sunk into a foundation, the mechanical heart of a system that worked because Haran had spent decades thinking about what worked without magic.
 
 Ash stood in the street. The reservoir hummed. The workshop's light fell across the cobblestones like a doorway he could walk through.
 
-He thought about walking through it. He thought about sitting at his workbench, picking up the calipers, fitting his hands around the tools that fit his hands. He thought about Haran's voice—dry, patient, the sideways observations about gears and load-bearing that turned out to be about life.
+He thought about walking through it. He thought about sitting at his workbench, picking up the calipers, fitting his hands around the tools that fit his hands. He thought about Haran's voice, dry, patient, the sideways observations about gears and load-bearing that turned out to be about life.
 
 The deployment brief for tomorrow was in his bag. The southern quarter foundation, three buildings, four hundred residents.
 
 He kept walking.
 
-The workshop's light dimmed behind him as the street curved. The sound of metal on metal faded. The cobblestones gave way to the wider paving of the main avenue, and the Hall rose ahead—lit, organized, the green marks on Dorenne's map multiplying in the room at the end of the third-floor corridor.
+The workshop's light dimmed behind him as the street curved. The sound of metal on metal faded. The cobblestones gave way to the wider paving of the main avenue, and the Hall rose ahead, lit, organized, the green marks on Dorenne's map multiplying in the room at the end of the third-floor corridor.
 
-His workbench stayed clear. His tools stayed arranged. The workshop continued without him, the way the pump continued without him, the way Haran's philosophy continued without him—patient, steady, built on the principle that no single person should be necessary for the system to work.
+His workbench stayed clear. His tools stayed arranged. The workshop continued without him, the way the pump continued without him, the way Haran's philosophy continued without him, patient, steady, built on the principle that no single person should be necessary for the system to work.
 
 He kept walking.
 
@@ -392,7 +392,7 @@ The foundation. Three buildings. Four hundred residents. He would press his hand
 
 Then the Thornwall aqueduct, third pass. Then the lower terrace cistern network, which Torath's team had flagged for capacity expansion. Then the Council's infrastructure committee, which wanted to discuss a formal deployment framework: a schedule, a protocol, a system for managing the Wellspring's output the way they managed every other city resource.
 
-His hands were open on his chest. The reservoir moved under them—not with his heartbeat, not with his breathing, but with its own rhythm, the vast pulse of something that lived in him and through him and was becoming indistinguishable from him. He couldn't remember what his body felt like without it. Couldn't remember the particular emptiness—not absence, not loss, but the specific shape of a space that had always been full and that he'd lived beside without knowing.
+His hands were open on his chest. The reservoir moved under them, not with his heartbeat, not with his breathing, but with its own rhythm, the vast pulse of something that lived in him and through him and was becoming indistinguishable from him. He couldn't remember what his body felt like without it. Couldn't remember the particular emptiness, not absence, not loss, but the specific shape of a space that had always been full and that he'd lived beside without knowing.
 
 He curled his fingers. Energy gathered in his palms, a faint warmth, the merest edge of the reservoir's surface. He could feel the building through his body: the stone floor, the walls, the channeled lattice in the ceiling. He could feel the city through the building: the network of systems, maintained and failing and maintained again, the constant pulse of a civilization held together by people pouring themselves into stone.
 
@@ -402,6 +402,6 @@ He closed his eyes. The deployment brief sat on his desk. Ryn's silence sat on t
 
 He thought about what he could do.
 
-The list was long. The reservoir was deep. The city was full of things that needed him, and he needed to be needed the way the heating lattice needed power—structurally, fundamentally, in the load-bearing walls of who he was.
+The list was long. The reservoir was deep. The city was full of things that needed him, and he needed to be needed the way the heating lattice needed power, structurally, fundamentally, in the load-bearing walls of who he was.
 
 He slept. The reservoir hummed. Outside, the broadsheets dried on the walls and the young channelers planned their next gathering and the pump in the tinkerer district pushed water through pipes without magic and without permission and without anyone extraordinary at its center, and the world moved slowly toward something Ash couldn't see because he was standing in the middle of it, holding it up, certain that this was what he was for.
