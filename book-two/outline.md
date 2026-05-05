@@ -27,7 +27,8 @@ Writer agents: use these established names. Do not invent new district, building
 | Haran's workshop | Primary workshop in The Splits (from Book One) | B1 Ch3 |
 | District workshop | Secondary workshop Haran sets up in a cleared ground-floor space in the proof-of-concept district | Ch5 |
 | Building Four | District building — heating system keeps failing | Ch7 |
-| Building Six | District building — pump seal fails, site of the 80% repair | Ch10 |
+| Building Three | District building — Stonecurve; site of the first valve failure in Ch5 | Ch5 |
+| Building Six | District building — first appears Ch5 (valve failure during tour); pump seal fails and site of the 80% repair in Ch10 | Ch5 |
 | Block Three | District block — heating chimney draws poorly | Ch10 |
 | Eastern block / eastern row | District area — pump needs unfabricable part (Ch7); insulation panel cracks (Ch10) | Ch7 |
 | Tesha's workshop | Converted storage room in the district where Tesha teaches maintenance | Ch18 |
@@ -193,9 +194,9 @@ The liaison's expression says what he doesn't: *They're not ready for that.*
 **Cast (named in chapter):**
 - Ash, Haran, Felden (Dorenne's mid-level liaison; first onstage rendering, established offstage in Ch3/4).
 - **Vell** (~15, district girl, fastest pump operator, claims the east square pump as "hers"). *Voice: clipped factual, single-syllable replies, body does most of the talking; carries the proprietary quiet of a kid who has finally found a thing she's good at.*
-- **Tesha** (district worker training in pump-valve repair). *Voice: methodical, asks small clarifying questions, narrates her own work under her breath as a self-teaching habit; long pauses before she answers.*
-- **Dael** (returning from Ch4; the wrench-worker; mid-chapter shifts toward heating-crew ownership). *Voice: dry deflection, jokes-as-armor, says less when something matters more.*
-- **Corren** (district worker training alongside Tesha). *Voice: brisk, practical, a foreman cadence; asks "what next" rather than "why."*
+- **Tesha** (district worker training in pump-valve repair; Dael is her Building Six repair partner in this chapter). *Voice: methodical, asks small clarifying questions, narrates her own work under her breath as a self-teaching habit; long pauses before she answers.*
+- **Dael** (returning from Ch4; the wrench-worker; Tesha's repair partner at Building Six mid-chapter; shifts toward heating-crew ownership by chapter's end). *Voice: dry deflection, jokes-as-armor, says less when something matters more.*
+- **Corren** (district worker; appears briefly on the east elevation fitting window seals; not Tesha's primary repair partner in this chapter). *Voice: brisk, practical, a foreman cadence; asks "what next" rather than "why."*
 - Felden's voice: clerk-precise, single-nod repertoire, neutral institutional cadence; distinct from Dorenne's chess-move register.
 
 **Locations (named in chapter):**

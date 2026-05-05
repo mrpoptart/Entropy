@@ -158,7 +158,7 @@ Legend: `—` dormant | `🌱` planted | `📈` progressing | `⚡` converging |
 
 ## Section 3 — Book Two Thread Map
 
-Legend: `—` dormant | `→` carries forward | `🌱` planted | `📈` progressing | `⚡` converging | `✅` resolved (for this book)
+Legend: `—` dormant | `→` carries forward | `🌱` planted | `📈` progressing | `⚡` converging | `✅` resolved (for this book) | `~` soft ambient presence (thread appears in background; POV character does not actively register it)
 
 ### Act One — The Builder's Hubris (Chapters 1–7)
 
@@ -166,7 +166,7 @@ Legend: `—` dormant | `→` carries forward | `🌱` planted | `📈` progress
 |--------|-----|-----|-----|-----|-----|-----|-----|
 | 1. Reservoir | → 📈 | — | — | 📈 | 📈 | — | 📈 |
 | 2. Infrastructure | → 📈 | 📈 | 📈 | 📈 | 📈 | — | 📈 |
-| 3. Levelers | → 📈 | — | — | — | — | — | 📈 |
+| 3. Levelers | → 📈 | — | — | — | `~` | — | 📈 |
 | 4. District | — | 🌱 | — | 📈 | 📈 | 📈 | 📈 |
 | 5. Efficiency | — | — | — | — | 🌱 | — | — |
 | 6. Dorenne | — | — | 📈 | — | 📈 | — | 📈 |

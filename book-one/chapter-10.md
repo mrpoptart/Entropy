@@ -38,7 +38,7 @@ The words were calm. Measured. Dorenne didn't raise her voice. She didn't need t
 
 It wasn't a question. They both knew it wasn't a question.
 
-"When do we go?" he said.
+"Yeah. Yeah, okay. When, when do we go? I can go now, if that's, yeah. Now works."
 
 Something crossed her face, brief and controlled. Not a smile. Satisfaction, maybe. Or relief. The expression of a person who had solved a logistics problem that had been sitting on her desk for months.
 
@@ -58,7 +58,7 @@ The first junction box was set into a wall at the intersection of two residentia
 
 "This feeds blocks twelve through nineteen," said the engineer who'd been glancing at him. Verant, her name was. "Eight buildings. Hundred and twenty households."
 
-"The lattice is intact?" Ash asked.
+"Sorry, before I do anything, the lattice is intact? Like, structurally? I just, I'd rather know before I push too hard and make it worse, which is, that's a real possibility."
 
 "Structurally, yes. The channels are clear, we checked last month. It's just empty. Like a pipe with no water."
 
@@ -96,7 +96,7 @@ Verant was staring at him. Her colleague had put both hands on the wall now and 
 
 He heard Haran's voice saying it. The workshop. The pipe fitting. The question that was always the same question.
 
-"I'm fine," he said. "Where's the next junction?"
+"Still have, yeah. I'm okay. Where's the next junction? I'm, it's fine, let's keep going."
 
 * * *
 
@@ -144,7 +144,9 @@ He looked back down the street. Doors were open. Windows that had been dark were
 
 A child was laughing somewhere. Not the giddy laughter of play but the involuntary, startled laughter of someone who had just pressed their bare feet to warm stone for the first time in four months.
 
-"Tomorrow," he said.
+"Yeah. Tomorrow."
+
+He looked at the open doors.
 
 * * *
 
@@ -246,7 +248,7 @@ He worked for an hour. Dorenne's engineers monitored from inside, measurement to
 
 He checked the reservoir. The morning's work (the tower, the walk here, the sustained structural channeling) sat against the total like a coin against a vault.
 
-"Yes," he said.
+"Yeah, I think so. Give me, I just need a minute. Yeah."
 
 He went back. Pressed his palms to the stone. Pushed until the engineers said stop.
 
@@ -290,7 +292,7 @@ Dorenne arrived at the end of the hour. She stood at the bottom of the shaft and
 
 She had a folder in her hands. He could see the papers inside: maps, diagrams, lists. The infrastructure of a city's failure organized into deployable packages.
 
-"When?" he said.
+"Whenever you need. Tomorrow morning?"
 
 "We'll build a schedule." She opened the folder. "The northern aqueduct serves the agricultural terraces. Food production has dropped twelve percent since the pressure failed. That should be next. Then the Third Terrace foundation; the retaining wall is showing stress fractures. After that..."
 
@@ -301,6 +303,8 @@ She stopped. Looked at him.
 He was. He hadn't decided to. It was the other kind of smile, the one that happened to his face without his permission.
 
 "Build the schedule," he said.
+
+The phrase was hers. He didn't notice.
 
 * * *
 
@@ -399,6 +403,8 @@ She slid a map across the desk. The aqueduct was marked in red, a long line runn
 He took the map. Folded it. Put it in his pocket, where it sat against the cracked gear casing from Haran's workshop that he still carried and hadn't looked at in weeks.
 
 "After the Council session," he said.
+
+He repeated her phrase back to her. She didn't notice either.
 
 Dorenne went back to her work. He went back to his.
 

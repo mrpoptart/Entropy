@@ -94,17 +94,15 @@ Toraven looked at Ash. "Young man?"
 
 Ash stood. Every eye in the chamber shifted. He could feel it: the attention, the weight of it, the particular quality of being watched by people who were trying to decide what you meant for their future.
 
-"The Director's plan is the best use of my abilities I've seen," he said. "The districts that held during the earthquake were the ones I'd reinforced before. The ones that collapsed were the ones we hadn't reached. The plan addresses that. I support it."
+"The buildings I touched before the quake are standing. The ones I didn't, aren't." A beat; he almost stopped there. "That's the whole plan, I think. I, yeah. I support it."
 
-He sat down. The simplicity of the statement did its own work: no qualification, no caveat, no performance. He supported it because it was right.
-
-The vote was eleven in favor, none opposed. Toraven abstained, not out of opposition but out of the particular stubbornness of an elder who didn't like voting for things he hadn't suggested himself. The plan passed. Dorenne gathered her panels with the contained satisfaction of someone who had expected exactly this outcome and had prepared for every alternative.
+He sat down. The vote was eleven in favor, none opposed. Toraven abstained, not out of opposition but out of the particular stubbornness of an elder who didn't like voting for things he hadn't suggested himself. The plan passed. Dorenne gathered her panels with the contained satisfaction of someone who had expected exactly this outcome and had prepared for every alternative.
 
 Afterward, in the corridor, she found him.
 
 "Thank you," she said. "For what you said in there."
 
-"I meant it."
+"I meant it. The plan is good."
 
 "I know." She held his gaze. "That's why it worked."
 
@@ -112,7 +110,7 @@ They stood in the corridor of the Council Hall, the same corridors he'd walked a
 
 "The first deployment is tomorrow morning," she said. "Southern transit shafts. I've scheduled the crews."
 
-"I'll be there."
+"I'll be there. Seven, or when you need me."
 
 She nodded. Checked her list; she had a new list, fresh, the reconstruction plan already translating into daily operations. She turned to leave, then paused.
 
@@ -146,7 +144,7 @@ Ash stopped. "I'm..."
 
 "You held the building." The man set the chair down. "My wife's cousin was inside. Third pocket. The family, mother and father and the boy."
 
-"They came out safe."
+"They came out, yeah. All three. The boy was..." He trails off.
 
 "They came out because of you." The man stood. He was taller than Ash by an inch or two, and he used the height the way some people used it, not as threat but as frame, a way of being present. "I'm Tereth. My wife is Sera. We live here." He gestured at the building behind him. "Third floor."
 
@@ -170,7 +168,7 @@ Tereth pulled a third cup from the shelf. Sera settled the baby into a basket on
 
 "We watched you from the roof," Tereth said. He sat across from Ash at the table. "During the quake. On the third day, when you were working the retaining walls. We could see you from up there, just this figure, kneeling, hands on the stone. Sera said you were there for hours."
 
-"The walls needed it."
+"Yeah, the walls, I could see where the stress was. Old channeling, the kind that's held for thirty years and then one bad day is all it takes. I just, I couldn't not."
 
 "Our building held because of you. The one next to us..." Tereth gestured east. "You reinforced that before the quake. Two weeks before. Part of the Director's program."
 
@@ -190,7 +188,7 @@ Ash looked at the baby. Ashyn. A name that sounded like his but wasn't quite. So
 
 His throat tightened. He picked up the tea. Drank. It was good, warm and slightly bitter, the kind of tea that grounded you in the present, in the taste, in the heat of the cup against your palms.
 
-"That's..." He set the cup down. Started again. "Thank you."
+"That's..." He set the cup down. He looked at the baby rather than finishing.
 
 Sera smiled. Not the broad public smile of the sweeping woman on the terrace road. Something quieter. The smile of someone who had given a gift and watched it land.
 

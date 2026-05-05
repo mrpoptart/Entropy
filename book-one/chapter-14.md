@@ -18,7 +18,7 @@ They stood on either side of the bridge approach. Ten feet of paving stone betwe
 
 She shifted the bag on her shoulder. "I heard about the Thornwall aqueduct. Sorren's crew was talking about it at the junction station. Three critical points in six hours."
 
-"The stone was cooperative."
+"The stone was... it was actually pretty cooperative, which, that doesn't always happen, Sorren would say that's the wrong word for stone but I don't know what the right word is."
 
 "Forty-three thousand people." She said it without inflection. A number. She'd heard the number the way the whole city had heard it: on broadsheets, in briefings, in the particular way Dorenne's office disseminated achievement.
 
@@ -32,19 +32,19 @@ He kept walking.
 
 "How are you?" she asked.
 
-"Good. Busy. Dorenne's projections have us stabilizing core infrastructure in eight more weeks. The heating grids are ahead of schedule. Ridgewall's almost done, and the northern quarter grid is holding from the first pass. Sorren thinks we can extend the maintenance cycles if the reinforcement depth holds."
+"Good, busy, Dorenne's projections have us stabilizing core infrastructure in eight more weeks. The heating grids are ahead of schedule. Ridgewall's almost done, and the northern quarter grid is holding from the first pass. Sorren thinks we can extend the maintenance cycles if the reinforcement depth holds."
 
 "That's not what I asked."
 
 He glanced at her. She was looking ahead, her profile sharp in the evening light. The oil smudge on her jaw caught the last of the sun.
 
-"I'm good," he said. "Really."
+"I'm good," he said. "Really. I had bread this morning and everything, that's, that's how you can tell things are under control."
 
 "You said that."
 
 They turned onto the lower terrace walkway. The route was one they'd taken before, years ago, when walking together was something that happened without scheduling, without resonance disc messages, without the machinery of his new life pressing in on every idle hour. The walkway ran along the gorge's edge, the river below catching the fading light in long copper streaks.
 
-"Dorenne's framework is working," he said. "The population-weighted allocation, it's the right approach. Each deployment measured against maximum impact. She's got the Council behind her now. Vesk's committee approved the expanded schedule last week."
+"Dorenne's framework is, the allocation system she's built, it makes it possible to, I mean, the population-weighted approach, each deployment gets measured against maximum, I keep using her words, sorry, but it is working. Vesk's committee approved the expanded schedule last week."
 
 "You sound like a briefing."
 
@@ -68,7 +68,7 @@ He looked at her.
 
 "The Ash I knew talked about people. About Haran's new mechanism. About the way your father's shelf had a shimmy in the third bracket. About the woman at the market who sold the crooked bread." She looked at the river. "You used to notice things. Small things. Things that weren't measured."
 
-His jaw tightened. "You don't understand."
+His jaw tightened. "You've had magic your whole life, you can't, I mean, it's..."
 
 "I know."
 
@@ -106,17 +106,13 @@ He almost turned back. His weight shifted, a half-step, the beginning of a pivot
 
 He thought about the deployment brief on his desk. The Ridgewall second pass. Population: 8,400. Estimated: four hours.
 
-"I should go," he said.
+"I should go. I've got, the Ridgewall deployment is, it's an early start, I, sorry."
 
 She nodded. One nod. The kind that closed a door without slamming it.
-
-"Early deployment tomorrow," he said.
 
 "Sure."
 
 They stood on the walkway above the gorge. The river below. The lamps coming alive on the terrace, one by one, the lamplighter's careful pulse repeating. Ten feet between them. The same ten feet that had been there at the bridge, but different now, denser, heavier, filled with everything she hadn't said and everything he hadn't heard.
-
-"I'll see you," he said.
 
 "Okay."
 
@@ -310,7 +306,7 @@ His father nodded. The nod was slow. Deliberate. The nod of a man who had heard 
 
 "Eighty-four hundred." His father repeated the number. His voice was even. His hands were still flat on the table. "That's a lot of people depending on you."
 
-"Yes."
+"Yes. Yeah. A lot of people."
 
 His father looked at him. The look was long. Unhurried. It held everything his father had been trying to say with mentions of the shelf and the cistern and the dovetail joints, everything he'd been reaching for in sideways compliments and remembered projects. Ash didn't hear it. The look arrived at the surface of his attention and stayed there, the way Ryn's silence had stayed, present, visible, carrying weight he registered but didn't lift.
 

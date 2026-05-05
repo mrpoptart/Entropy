@@ -148,9 +148,9 @@ Reconstruction: ~400 elder-days
 
 Total: ~3,000 elder-days
 
-*No.*
+*Wait. He went back through the early numbers.*
 
-He went back through the early numbers. The training period, had he really spent four hundred elder-days? He reconstructed it day by day. The first days were the worst: massive waste, untrained flooding, the practice room turned into an oven. But the later days were better. The curve was steep. He revised downward: three hundred, maybe. The first deployments, he cross-referenced with Dorenne's records, her staff's careful estimates. Their numbers were slightly lower than his for the routine work, slightly higher for the complex structural jobs. He split the difference. Five hundred and fifty.
+The training period, had he really spent four hundred elder-days? He reconstructed it day by day. The first days were the worst: massive waste, untrained flooding, the practice room turned into an oven. But the later days were better. The curve was steep. He revised downward: three hundred, maybe. The first deployments, he cross-referenced with Dorenne's records, her staff's careful estimates. Their numbers were slightly lower than his for the routine work, slightly higher for the complex structural jobs. He split the difference. Five hundred and fifty.
 
 The reconstruction phase. Three weeks of steady work, improved efficiency, but more sites per day. Dorenne's cumulative total, the number circled at the bottom of the attachment, covered weeks one through six. He'd been working for three weeks since the earthquake. Her number was three hundred and eighty elder-days for the reconstruction alone.
 
@@ -168,9 +168,7 @@ Total: ~2,830 elder-days
 
 Nearly eight years. He could feel the precision tightening, the range narrowing. Some of these numbers could be off by ten or twenty percent, but the order of magnitude was right. He wasn't wrong by half. He wasn't wrong by a third. The total was somewhere between 2,500 and 3,200 elder-days.
 
-Call it what it was.
-
-He'd burned through roughly half the Wellspring in eight weeks.
+He set the pencil down. He'd burned through roughly half the Wellspring in eight weeks.
 
 The pencil sat on the paper. The candle guttered again, lower now, the tallow pooling, the flame leaning sideways in the draft. He should replace it. He didn't move.
 
@@ -250,8 +248,6 @@ With master-level efficiency (unlikely in timeframe): ~21 weeks
 Range: 11 to 21 weeks.
 
 He drew a box around the range. The box was small. It fit neatly on the page, a rectangle of pencil marks containing the span of his remaining usefulness.
-
-*That's all there is.*
 
 He sat with it. The reservoir was there, warm in his chest, present, familiar. He reached for it the way he always did, the unconscious check, the reassurance. It was still vast. Still more than anyone alive had ever held. Still enormous by any measure except the one on the paper in front of him.
 
@@ -339,7 +335,7 @@ She'd been living with this math her whole life.
 
 He stood up. Sat down. Stood up again. Walked to the window and back. The quarters were too small for pacing, four steps in any direction before a wall stopped him, so the movement was a kind of contained restlessness, a body that wanted to go somewhere and had nowhere to go.
 
-She'd never had the luxury of thinking the well was infinite.
+"She'd always known. Every morning: how much do I have, what does it cost, what can I afford."
 
 Every morning of her life, Maren had woken up with barely enough in her pool for a day's honest work. Every morning, she'd calculated, not consciously, not with paper and pencil, but with the bone-deep awareness of a person who'd grown up inside constraints. Can I heat the water and still have enough for work? Can I take the extra shift and still channel for dinner? Can I heal this, fix this, warm this, do this, and still have something left for tomorrow, and the day after, and the year after that?
 
@@ -365,7 +361,7 @@ He sat down at the desk. The papers were spread in front of him: his numbers, hi
 
 He looked at the numbers and they were still his numbers and they were still true and they still mattered. But they were smaller than he'd thought. Not in magnitude, in scope. He'd been treating the Wellspring as a unique phenomenon, a singular event, a story about one man and his extraordinary problem. And it was that. It was also the most common story in the world, told at a scale that made it obvious and a speed that made it undeniable.
 
-He was the world in small. The world was him in slow.
+He reached for the reservoir, the warm edge of it, and felt the numbers on the page and the numbers in his chest and could not tell which was which.
 
 The candle had burned to a stub. The flame was low, a blue flicker barely clearing the rim of the holder, the last of the tallow pooling around the wick. He watched it. The flame leaned, straightened, leaned again. The draft from the window touched it and it shivered.
 

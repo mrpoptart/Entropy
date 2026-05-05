@@ -8,7 +8,7 @@ Ash sat at the kitchen table with a deployment brief in one hand and a piece of 
 
 "You should eat more than that," she said, not turning from the window. "You're going out again today."
 
-"I'm fine."
+"I'm fine, Mum, I eat plenty, you know I eat plenty."
 
 "You had bread yesterday. And the day before."
 
@@ -18,11 +18,11 @@ She turned. Her eyes moved across him the way they'd always moved across him, ca
 
 "Dorenne has you in the northern quarter today," she said.
 
-"The retaining wall. The one behind the market."
+"Yeah, the, the retaining wall, the big one, behind the market. The one that's been..."
 
 "The one that's been cracking since before you were born."
 
-"That's the one."
+"Yeah, the one. The one that's been..." He trailed off. "That one."
 
 "And after that?"
 
@@ -34,7 +34,7 @@ Ash set down the bread. "What does that mean?"
 
 "It means you've been out every day this week. It means you come home after dark and leave before light. It means I hear about what my son is doing from the neighbors, who hear about it from the district criers, who hear about it from the Hall." She came to the table. She didn't sit. She stood with her hands on the back of a chair (the old chair, the one from the previous apartment, the one his father had carried in with the scarred legs and the reglued joints) and her knuckles were pale against the dark wood. "It means I don't know your schedule. I used to know your schedule."
 
-"My schedule used to be nothing."
+"My schedule used to be... I mean. It's different now."
 
 The words came out faster than he meant them. Not cruel, factual. His schedule had been nothing. Twenty-three years of nothing: walks to the market, errands for his mother, afternoons at the workshop, the slow filling of days that had no demands because no one demanded anything of someone who couldn't channel. His schedule now was full. It was overflowing. It was the opposite of nothing, and the opposite of nothing was everything, and everything felt like proof.
 
@@ -110,7 +110,7 @@ She'd walked here. The northern quarter was forty minutes from the new apartment
 
 He hadn't forgotten it. He hadn't taken it because he'd planned to eat at one of the district halls Dorenne's staff used during deployments, proper meals, hot, provided as part of the infrastructure operations budget. He hadn't told his mother this. He hadn't thought to tell her.
 
-"Thanks," he said. He came down to take the bundle. His mother's eyes moved past him to Dorenne, who stood on the bridge with the survey unrolled and the river stones weighting it and the posture of someone whose time had a value measured in districts saved.
+"Thanks, Mum." He came down to take the bundle. His mother's eyes moved past him to Dorenne, who stood on the bridge with the survey unrolled and the river stones weighting it and the posture of someone whose time had a value measured in districts saved.
 
 "Director Kharren," his mother said.
 
@@ -134,9 +134,7 @@ Dorenne waited a precisely calibrated beat. Then she said, "The canal survey nee
 
 It was not a command. It was not an interruption. It was a reorientation, the gentle, gravitational pull of a planet redirecting a moon. She turned back to the survey on the railing. She didn't look at his mother. She didn't need to. The turning was the statement: *There is work. The work matters. The work is where he belongs now.*
 
-Ash stood between them. His mother with the wrapped lunch in her hands. Dorenne with the survey on the bridge. He didn't eat it. It sat in his pocket through the rest of the afternoon, growing cold.
-
-"I'll eat this later," Ash said. He took the bundle. "Thanks, Mum."
+Ash stood between them. His mother with the wrapped lunch in her hands. Dorenne with the survey on the bridge.
 
 His mother looked at him. Her face did something, a motion that started as a smile and didn't quite arrive, a contraction around the eyes that might have been pride or might have been the effort of holding something back. She nodded. She turned. She walked back the way she'd come, forty minutes of streets and stairs ahead of her, the stiffness in her leg visible in the first few steps before she smoothed it out with the discipline of a woman who'd spent her life refusing to be seen as someone who needed help.
 
@@ -220,13 +218,13 @@ He couldn't feel it that way. The Wellspring was too big and his training was to
 
 "Ash." Maren's voice from the hallway. Level. Unsurprised.
 
-"I know, I know..."
+"Yeah, I, I feel it, I'm pulling back, give me a, I'll fix it."
 
 "The bedroom wall."
 
 He pulled back. He could feel it. The pulse had raced through the lattice and hit the bedroom wall at full strength, the channels there narrower than the living room's main line, the energy compressing and intensifying as it squeezed through smaller conduits. The wall would be blazing. The temperature in the bedroom would be...
 
-"I'll fix it," he said.
+"I can, I'll, just let me."
 
 "I've got it."
 
@@ -236,7 +234,7 @@ It took her three minutes. He sat on the living room floor and listened to the s
 
 "The bedroom channels are fine," she said. "I pulled the excess into the main line. The lattice can handle it there; the channels are wider." She paused. "You should try the secondary input next time. The one in the hallway. The channels from there go straight to the main line. Less branching, less compression."
 
-"Thanks."
+"Thanks. Yeah. I, that helps."
 
 "Sure."
 
@@ -300,7 +298,7 @@ She knew the system. She'd mapped it within a week of moving in, walked the apar
 
 "You should use the hallway input." She said it again, the same advice from last night, delivered with the same levelness. Not impatient. Not tired. Not anything. "The channels from there are twice the gauge. You could push three times what you pushed last night and the system would handle it."
 
-"I'll try that."
+"Yeah, I, I'll try the hallway one. Thanks."
 
 "Okay."
 
@@ -310,7 +308,7 @@ She moved toward the door. He watched her go and something caught, a hitch in th
 
 She turned. Her face was the face she always showed him, open, composed, the warm surface of a person who didn't need anything from anyone and never had. The face she'd perfected at six or seven, the face that said *I'm fine, focus on your brother, I don't need the room*.
 
-"Have a good day," he said.
+"Maren. I, yeah. Have a good day."
 
 "You too."
 

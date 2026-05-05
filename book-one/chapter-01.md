@@ -2,9 +2,9 @@
 
 Ash woke in the dark and lay still for a moment, listening to the house breathe around him. The heating lattice in the walls had gone cold sometime in the night; his parents' channeling faded while they slept, the way it always did, and the stone had given up the last of its warmth by three or four in the morning. He could feel it in the air, that particular stillness of a room that had stopped being cared for.
 
-He pushed the blankets back and set his feet on the floor. The cold came up through the stone like a reprimand.
+He pushed the blankets back and set his feet on the floor. The cold was immediate, the deep kind that lived in stone and didn't let go, and his body absorbed it the way it always did, without protest, a thing it had learned.
 
-The washroom was down the hall. He moved quietly, bare feet placed with the deliberateness of long practice, avoiding the board outside his parents' door that groaned under any weight, the spot near the stairs where the floor had settled and a careless step would knock against the wall beneath. He'd mapped these sounds years ago. The house was small enough that clumsiness carried.
+The washroom was down the hall. He moved quietly, bare feet placed with the deliberateness of long practice, avoiding the slab outside his parents' door that clinked against its neighbor under any weight, the spot near the stairs where the floor had settled and a careless step would knock against the wall beneath. He'd mapped these sounds years ago. The house was small enough that clumsiness carried.
 
 The water in the basin was cold. It was always cold. The heating lattice beside the tap was a smooth oval of pale stone set into the wall at shoulder height, sized for a palm, worn to a soft shine by decades of use. Every morning his mother pressed her hand against it and the water ran warm within seconds, a gesture so automatic she did it while still talking, still thinking about something else. Every child in Solathis learned to activate a heating lattice by the time they were five. It was one of the first things: warm your water, warm your hands, warm the stone beneath your cup. The foundational kindness of magic, the thing so basic it wasn't even called channeling. Just living.
 
@@ -30,7 +30,7 @@ The porridge was thickening on the stove when he heard his father's footsteps ov
 
 His father's eyes came up from the cup. Just for a moment. A flicker of something, hope, maybe, or the reflex to suppress it. "That's the infrastructure office?"
 
-"Council annex, but same building. I won't get it." Ash said this lightly, with the smile that had become so habitual it was nearly involuntary. "But I figure I should at least make them tell me no in person."
+"Council annex, but same building. I won't get it, I mean, I basically never do, but, Haran says you don't stop knocking on doors just because no one's home, which is a very Haran way to phrase it but still." Ash said this lightly, with the smile that had become so habitual it was nearly involuntary. "But I figure I should at least make them tell me no in person."
 
 His father nodded. The nod carried twenty years of carefully managed expectations, not low expectations, exactly, but expectations that had learned to absorb disappointment without breaking. He drank his tea. "The porridge smells good."
 
@@ -70,7 +70,7 @@ At a spice vendor's stall, the display cases were sealed with channeled locks. T
 
 "The saffron threads, third shelf. My mother called ahead."
 
-The woman pressed her palm to the lock, the case slid open, and she measured out the threads into a paper envelope. "Payment?"
+The woman pressed her palm to the lock, the case slid open, and she measured out the threads into a paper envelope with the speed of someone who'd done it a thousand times. "Your mother wanted the full measure, yes? That's fourteen." She folded the envelope shut and slid it across.
 
 He counted coins. Currency was one of the few systems in Solathis that didn't run on channeling, metal stamped with the Council's seal, the universal language of people who couldn't or didn't want to transact in magical favors. Money was how the magicless lived, and it was how the rest of the city condescended to deal with them.
 
@@ -110,7 +110,7 @@ He turned. The woman was perhaps sixty, with the bearing of someone accustomed t
 
 At the lift, she stepped onto the stone platform and turned. "Coming up?"
 
-"I'll take the stairs, thanks."
+"I'm fine with the stairs, actually, I, sorry, I usually take them, it's just habit at this point."
 
 Her hand was already on the interface stone. She paused. "The annex stairs are closed for reshoring. They've been closed for a week."
 
@@ -124,7 +124,7 @@ Her staff exchanged a glance, the quick, involuntary kind that meant they were r
 
 "At all," she repeated. Not a question. A calibration.
 
-"Since birth. It's not a condition that improves with time."
+"Since birth, yeah, which, I know, it's, people always ask if there's a treatment or something they missed, and there isn't, it's just, it's just how I am, sorry, that's probably more than you needed."
 
 "How did you get up here?"
 
@@ -166,7 +166,7 @@ Ash waited. He knew what was coming, could feel the shape of it in the air the w
 
 "I need someone who's smart, organized, and good with people. Someone who can sit in a briefing about aqueduct failures and follow the engineering even if they can't do the channeling. Someone who'll stay."
 
-"Because no one will poach me."
+"Because, I mean, it's not like I have a lot of options knocking on my door, so, that's, that's not entirely wrong."
 
 "Because you'd have a reason to be loyal." She stopped walking and turned to face him. The ramp had brought them to the upper level; the infrastructure office was at the end of the hall, its doors open, the sound of voices and the rustling industry of people managing systems that were more fragile than anyone wanted to admit. "I won't pretend this is purely generous. I need an aide I can rely on. But I've been watching you for the last five minutes, and you read the posting board with the kind of attention that tells me you understand what those jobs actually require, not just what they list. You navigated forty flights of stairs to get here because you don't have an alternative, and you're not winded, and you didn't complain about it, and you made a joke. That's a skill set."
 
@@ -210,11 +210,11 @@ Ash watched her channel, watched the faint warmth leave her palm and enter the s
 
 "He'll come home for lunch," his mother said. "We'll tell him then. We'll have a proper meal." She was already calculating; he could see it, the pivot from emotion to logistics, the thing she did when the feelings were too big and needed to be translated into action. "I'll use the good flour. And the saffron. Did you get the saffron?"
 
-"I got the saffron."
+"I got the saffron. It's the good kind, I think, the woman at the stall measured it out, so."
 
 "Good. Good." She took the envelope from him, her hands steadier now, the tears not dried but managed. "Sit down. You're flushed. Have you eaten?"
 
-"I had porridge. Mum, I'm fine..."
+"I had porridge, hours ago technically, and I climbed eighty flights of stairs and I feel absolutely tremendous, Mum, I promise, I, sit down, you sit down."
 
 "You climbed eighty flights of stairs this morning and you're telling me you're fine. Sit."
 

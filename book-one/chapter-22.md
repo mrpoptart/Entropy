@@ -46,7 +46,7 @@ The pencil would be moving. The charts would be covered in the fresh annotations
 
 He turned away.
 
-Something released in his chest. Not the fist, the fist was still there, the one that had settled behind his ribs in her office that morning, the tight compression of a person who had watched someone they trusted reach for a pencil before they reached for him. That hadn't loosened. That might not loosen for a long time. What released was something adjacent to it, the last thread of expectation, maybe. The last filament of the hope that she would be different from what she was. She was not different. She was Dorenne. She was brilliant and devoted and trapped inside a framework that couldn't distinguish between caring and managing, and she would manage his absence the way she managed everything: effectively, efficiently, with the optimized allocation of her formidable attention, and the city would be better for it, and the loss would register on no chart she kept.
+Something released in his chest. Not the fist, the fist was still there. Something adjacent to it. He didn't have a word for it. The light in her window burned steady, the way it always had, and he stood in the street and did not go inside and did not call up and did not know what that meant yet. He turned away.
 
 He had loved being seen by her. He had loved the morning he walked into her office for the first time: the ramp, the conversation, the handshake with no pulse behind it, the moment a woman with sharp eyes looked at a man with no magic and saw something worth keeping. That morning was real. It had happened. It was the first day of his life that felt like the beginning of something, and it had been, and the thing it began had led him here, to this street, in the dark, looking up at a lit window and understanding that the woman behind it had given him everything she was capable of giving and it was not enough.
 
@@ -140,9 +140,7 @@ He almost stepped out of the shadows.
 
 *Maren.*
 
-The word was there. Her name. And after it, what? I see you. I'm sorry. I didn't know. I should have known. You were always here and I was looking at the sky and I didn't look down.
-
-He didn't know what he'd say. He didn't know if saying anything would be an interruption of the work, of the rhythm, of the fierce and private concentration that was the only thing keeping her upright in a trench at this hour. She was doing her job. She was doing it the way she did everything, completely, precisely, without asking anyone to watch.
+The word was there. And after it, what. He didn't know. Something about the trench, maybe, or her hands. He didn't have the sentence. He was still looking for the first word when she moved to the next section of pipe.
 
 He didn't call out.
 
@@ -200,7 +198,7 @@ He set the calipers down. He picked up a file, the fine one, the one with the wo
 
 He didn't start working. Not yet. He sat with the file in his hand and the model on the bench and the dark workshop around him and the city above and below him (the lit window on the Second Terrace, the broadsheet on the wall, the sealed pipe in the trench, the pump in the Velden building that ran on a crank and a spring) and he breathed, and the breathing came easier than it had in weeks.
 
-The reservoir sat in his chest. Warm. Finite. Twenty-two hundred elder-days, give or take. A season. Maybe two. The fear of what came after was still there, lodged behind his ribs, in the architecture of his chest. The fear of going back. But his hands were on a workbench. And the model under his palm was a mechanism he'd designed, not channeled, not powered, designed.
+The reservoir sat in his chest. Warm. Twenty-two hundred elder-days, give or take. A season. Maybe two. The fear of what came after was still there, lodged behind his ribs, in the architecture of his chest. But his hands were on a workbench. And the model under his palm was a mechanism he'd designed, not channeled, not powered, designed.
 
 *What do you want to build with what's left?*
 

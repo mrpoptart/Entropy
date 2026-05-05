@@ -332,7 +332,7 @@ He didn't ask.
 
 "I should go," he said.
 
-His father stood when he stood. Walked with him to the door. The short hallway—four steps—that separated the table from the threshold. The same hallway where Ash had walked ten thousand times, coming and going, the wood floor worn smooth by the family's passage.
+His father stood when he stood. Walked with him to the door. The short hallway—four steps—that separated the table from the threshold. The same hallway where Ash had walked ten thousand times, coming and going, the stone floor worn smooth by the family's passage.
 
 At the door, his father put a hand on his shoulder again. The same grip. The same weight. But his father didn't let go immediately this time. He held on. His fingers pressed into Ash's shoulder through the fabric of his coat, and the pressure was specific—the grip of a man holding something he was afraid of losing, not to danger but to distance.
 

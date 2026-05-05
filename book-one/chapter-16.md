@@ -284,9 +284,9 @@ Breslin stood beside him. She was watching the eleven survivors, scattered acros
 
 "Didn't waver," Breslin said. Not praise, exactly. An observation, the way a structural engineer might observe that a beam held. Professional respect, rendered in the language of the profession. "Five and a half hours. Didn't waver once."
 
-"I wasn't going to let it fall," Ash said.
+"Eleven people," he said. "Breslin's crew didn't waver either."
 
-"No." Breslin looked at him. "No, you weren't." She held her gaze on him for a moment, and something in her expression shifted, the professional assessment giving way to something else, something that had to do with the child holding the stone and the mother's story about bakers and the old couple who had climbed out of the rubble with their hands joined and their faces carrying the reckoning of people who understood the mathematics of their survival.
+She held her gaze on him for a moment, and something in her expression shifted, the professional assessment giving way to something else, something that had to do with the child holding the stone and the mother's story about bakers and the old couple who had climbed out of the rubble with their hands joined and their faces carrying the reckoning of people who understood the mathematics of their survival.
 
 "You should eat," she said. "You look like you haven't eaten since the quake hit."
 
@@ -316,19 +316,19 @@ The room shifted. The question was casual but the interest behind it was not. As
 
 "We don't have precise measurements..." Dorenne began.
 
-"I'm fine," Ash said. The words came before the thought. He looked at the Councillors, twelve faces, most of them elder-generation, most of them carrying pools that made them comfortable in a world that was increasingly uncomfortable for everyone else. "The reservoir is large. What I've spent in the last two days is significant but not limiting. I can continue."
+"I'll be at the Millworks district tomorrow," Ash said. "And the day after." A beat. "The reservoir's held so far."
 
 "For how long?" the Councillor pressed.
 
-"For as long as the city needs."
+"I don't know. Tomorrow I'll be at the dam junction. We'll see what's after that."
 
-He said it simply. He meant it. The reservoir hummed behind his ribs, diminished by two days of maximum effort but still vast, still deep, an ocean that had lost water but was still an ocean. He could feel the edges now, the faintest outline of the reservoir's shape, a sense of boundary that had not existed before the earthquake, the way you can feel the walls of a room in the dark even if you can't touch them. But the edges were distant. The reservoir was still enormous. He could do this. He was doing this. The city needed him and he was enough.
+The Councillor's brow creased. The reservoir hummed behind Ash's ribs, diminished by two days of maximum effort but still vast, still deep, an ocean that had lost water but was still an ocean. He could feel the edges now, the faintest outline of the reservoir's shape, a sense of boundary that had not existed before the earthquake, the way you can feel the walls of a room in the dark even if you can't touch them. But the edges were distant. The reservoir was still enormous. He could do this. He was doing this. The city needed him and he was enough.
 
 Dorenne looked at him. Something moved in her expression, not contradiction, not correction, but the flicker of a thought held back, a calculation interrupted. She knew something he didn't, or suspected something he hadn't articulated, and she chose not to say it here, in this room, in front of twelve Councillors whose support she needed and whose confidence in the Wellspring's capacity was the foundation of every plan she was presenting.
 
 "The allocation framework I'm proposing," she said, turning back to the room, "prioritizes structural reinforcement in the most affected districts, followed by water system restoration, followed by transit network repair. The Wellspring is the centerpiece of this plan. With Ash's continued cooperation..."
 
-"Partnership," Ash said.
+"I, sorry, partnership," he said, quietly enough that she might not have caught it.
 
 She looked at him. The correction had been quiet, not confrontational, not angry, just the substitution of one word for another, the kind of correction that mattered only if you were listening carefully. Several Councillors were listening carefully.
 
@@ -350,7 +350,7 @@ The briefing ended. The Councillors filed out. Dorenne turned to him, and for a 
 
 "You were good in there," she said.
 
-"I told the truth."
+He nodded. He picked up his coat from the chair back. "It was a long day."
 
 "You told them what they needed to hear. Sometimes that's the same thing."
 
@@ -360,11 +360,11 @@ The sentence landed slightly off. He filed it somewhere he didn't examine. She g
 
 "And Ash." She paused. The charts were in her hands. The room was empty except for the two of them and the evening light coming through the window, golden and dusty and warm, the light of a city that was damaged and alive. "What you did at Harrier Street. The building. Five and a half hours."
 
-"Six hours, nearly."
+"That was extraordinary. I want you to know that. What you did today, what you've been doing since this started, the city will remember."
 
-"Six hours." She held the charts against her chest. Her face carried something he rarely saw on it, not calculation, not strategy, but the residue of something genuinely felt. "That was extraordinary. I want you to know that. What you did today, what you've been doing since this started, the city will remember."
+He looked at his hands. "The crew was good."
 
-He nodded. He didn't know what to say. The word *extraordinary* sat in the air between them, and it meant different things to each of them. To her, a resource performing at peak capacity, a justification for every decision she'd made since the Wellspring activated, the proof that her strategy was correct. To him, something simpler and larger. Eleven people in the rubble. Seven of them in one pocket, two in another, two in the smallest and deepest, and all of them alive. A mother telling a story about bakers to keep the dark at bay. A child holding a stone.
+She held the charts against her chest. Her face carried something he rarely saw on it, not calculation, not strategy, but the residue of something genuinely felt.
 
 He left the Hall. The evening was cool, the air clearing as the dust continued to settle, and the city spread out below him in the fading light: the layered terraces descending from the heights to the edges, the grand districts glowing with channeled warmth, the middle districts lit by scattered lamps and the effort of people who had enough pool to keep their homes bright, the lower districts dark and quiet, waiting for morning and the water that would flow when the pipes were mended and the help that would come when the Wellspring walked back down from the heights.
 

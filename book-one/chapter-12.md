@@ -12,7 +12,7 @@ He stepped inside. The floor was smooth stone, polished by decades of administra
 
 He set his bag on the bed. Two changes of clothes. A deployment brief. The cracked gear casing from Haran's workshop, which he'd carried in his pocket for weeks and had transferred to the bag without thinking about why.
 
-"Thank you," he said.
+"Thank you. I, it's more than I expected, sorry, I don't mean that like, thank you."
 
 Dorenne nodded. The particular nod she gave when something had been arranged and the arrangement was correct. "The northern quarter retaining walls need assessment by end of week. Sorren's team flagged three new fractures. And the Council liaison wants to discuss the lower terrace heating schedule."
 
@@ -32,7 +32,7 @@ The northern quarter retaining walls were the worst. Three fractures in a fifty-
 
 "The wall needs monthly maintenance now," Sorren said, marking her notebook. "Standard reinforcement, sustained output. We can schedule a crew..."
 
-"Or I can come back," Ash said.
+"I could come back, I mean, if that's easier," Ash said.
 
 Sorren looked at him. At the wall. At her notebook, where the readings showed reinforcement levels that her crew would need a full day to match.
 
@@ -74,7 +74,7 @@ The pump project continued without him.
 
 He learned this not from Haran but from Verant, who mentioned it in passing during a junction assessment in the northern quarter. "The tinkerer district's water system," she said, checking a pressure reading. "The mechanical pump. It's running."
 
-Ash looked up. "The pump is installed?"
+Ash looked up. "Wait, it's, they installed it? When did, I didn't know it was that far along."
 
 "Last week. Gravity-fed, with a mechanical pressure assist, some kind of cam mechanism. Three of Haran's people did the fitting. The district council provided labor." She shrugged. "It's crude, but it works. The flow rate's about sixty percent of a channeled system."
 
@@ -84,7 +84,7 @@ Ash looked up. "The pump is installed?"
 
 Ash didn't answer immediately. The pump. The project he'd been part of, the valve junctions, the pressure calculations, the afternoons at the workbench fitting components with Haran and the other tinkerers. The project that had moved forward without him the way water moved through pipes: following the path, filling the space, not caring who had dug the channel.
 
-"Haran's idea," he said. "Yes."
+"Haran's, yeah. I mean, I helped with some of the valve junctions early on, but the whole design, the counterweight approach, that was Haran."
 
 He went back to the junction box. The pressure readings were stable. He moved to the next one.
 
@@ -258,7 +258,7 @@ He sat. The kitchen was clean. The kitchen was always clean, his mother's domain
 
 The words sat between them. His mother stood at the counter with the old kettle in her hand and the morning light through the window catching the dent in its side, and the words meant more than what they said, but Ash heard only what they said.
 
-"I know," he said. "I just meant, the Bureau could request a Wellspring deployment for the backlog. Dorenne has a process."
+"I know. I just, I could ask Dorenne, she has, I mean there's a schedule now, a process, she'd add it."
 
 His mother put the kettle down.
 
@@ -270,7 +270,7 @@ She sat across from him. Her hands folded on the table. She looked at him the wa
 
 "You look well," she said.
 
-"I am well."
+"I'm good. Really. I've been sleeping, eating, the quarters have running water, which, I mean, that's an upgrade."
 
 "You look like Dorenne."
 
@@ -292,13 +292,13 @@ She looked at her tea. The surface trembled. The building's heating lattice vibr
 
 The words should have landed harder. They should have opened something, a crack, a fissure, the kind of structural failure that let the deeper weight through. But the reservoir hummed, and the deployment schedule waited, and the northern quarter retaining walls needed a third pass by end of week, and the words arrived at the surface of his attention and stayed there, like rain on stone that was already full.
 
-"I'm not gone," he said. "I'm right here."
+"I'm, I'm here right now. I brought the bread. Bad bread, maybe, but."
 
 His mother looked at him. Her mouth opened. Closed. She picked up her cup and drank, and the silence that followed was the particular silence of a woman who had decided not to say the thing she was thinking, because saying it would be a fight, and fighting with your son when he only visited once a week was a luxury she couldn't afford.
 
 He stayed for an hour. His father came home from the market with vegetables and a jar of oil and the bright, specific smile he wore when Ash was in the apartment. They talked about the market. They talked about the weather. His father mentioned the cistern pump again, the one Ash had designed years ago, the counterweight system, the one Haran had called elegant.
 
-"I heard Haran's pump project is installed," Ash said. "In the tinkerer district. Running on mechanical pressure."
+"Did you hear Haran finished the pump?" Ash said. "In the tinkerer district. I, I saw a report from one of the assessment teams, apparently it's running."
 
 "I heard that too." His father set the vegetables on the counter. "Good design. I saw it last week. Haran walked me through. He's proud of it."
 
@@ -306,7 +306,7 @@ He stayed for an hour. His father came home from the market with vegetables and 
 
 "He said you helped with the valve junctions. The early design work."
 
-"Some of it."
+"I mean, the early valve work, a little. Haran had already figured out the counterweight part before I, I wasn't there for most of it."
 
 His father nodded. The nod carried something, a weight, a direction, but Ash was already thinking about the retaining walls, about the fractures that were deeper than Sorren's estimate, about the deployment brief on his desk back at the Hall.
 
@@ -316,7 +316,7 @@ His mother didn't argue. His father walked him to the door. At the threshold, hi
 
 "Come back soon," his father said.
 
-"I will."
+"Yeah. I will."
 
 He walked down the stairs. Behind him, the door closed. His mother's voice reached him through the walls, muffled, indistinct, the particular register of a woman speaking to her husband about their son in the careful voice they used when the son wasn't supposed to hear.
 

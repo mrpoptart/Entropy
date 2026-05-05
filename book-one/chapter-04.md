@@ -22,11 +22,11 @@ Dorenne's office was on the fifth floor of the Hall, and the light came through 
 
 He set the morning brief on her desk beside the tea he'd placed there eight minutes ago, cooled now to the temperature she preferred, which he'd learned by watching her push fresh cups aside and drink them twenty minutes later.
 
-"The Karrath Street aqueduct team is down a person," he said. "Tessaly moved Prenn from the western pool to cover, but that leaves a gap in the Thornwall rotation on day three."
+"The Karrath Street crew is short a person," he said. "Tessaly moved Prenn over from the western pool to plug it, but that leaves a gap in the Thornwall run on day three, which, I wasn't sure how you wanted to handle that."
 
 "Fill it from the reserve roster."
 
-"I did. But the reserve is thin this week. The Oldgate project pulled two."
+"I did, yeah, I filled it from reserve, but the reserve is pretty thin this week because the Oldgate project pulled two people, so it's, there's really only Rellen left, which is, I wanted to flag that."
 
 Dorenne looked up. Her pen rested on the page, held precisely, the way she held everything. "How thin?"
 
@@ -34,7 +34,7 @@ Dorenne looked up. Her pen rested on the page, held precisely, the way she held 
 
 "Rellen's competent."
 
-"Rellen's competent and exhausted. She's been on reserve three weeks running."
+"She is, yeah, she's good. I just, she's been on reserve three weeks running, so I thought it was worth mentioning, I don't know if that changes anything."
 
 Something moved behind Dorenne's eyes: the recalculation he'd learned to recognize, the rapid triage of resources and priorities that happened faster than most people could follow. She made a note on the brief.
 
@@ -48,7 +48,7 @@ He waited until midday. Until the brief was filed and the afternoon schedule con
 
 She was reading. She looked up.
 
-"I'd like to propose a project."
+"Sorry, do you have, I mean, if you have a minute, there's something I wanted to run by you, it's, I wrote it up, actually, I have a brief."
 
 He'd written it out. Two pages: the building's address, its construction date, its current condition based on his own observations and the maintenance records he'd pulled from the archive three days ago. He'd framed it the way she'd taught him: not as a request, but as an opportunity. Not charity; infrastructure. The building was one of the oldest residential structures in the lower-middle band, dating to the early post-founding era. Historically significant. Structurally compromised in ways that represented a cascading risk to adjacent buildings. A case study in neglected-district maintenance that would demonstrate the Director's commitment to equitable infrastructure investment.
 
@@ -62,19 +62,19 @@ Dorenne read the two pages. She read them slowly, which meant she was reading th
 
 "Groaning is structural."
 
-"Yes."
+"Yeah, that's, that's what I thought."
 
 She set the pages down. Her fingers rested on the edge, not quite releasing them. He waited.
 
 "You wrote this like a deployment brief," she said.
 
-"I learned from the best ones."
+"I, thank you, I just, I copied the format from the ones you signed off on, I wasn't sure if that was the right, if it read wrong I can redo it."
 
 Something crossed her face, not quite a smile, but adjacent. A recognition of a thing she'd built, operating as designed.
 
 "I'll send an assessment team this week," she said. "If the structural risk is what you're describing, it goes on the priority list. If it's routine degradation, it queues with the rest of the district." She picked up her pen. "You understand the difference."
 
-"I do."
+"Yeah, I, I think so, the risk index versus the routine queue, I've got it."
 
 "Good." She looked at him for a moment longer than the conversation required. "You're learning to speak the right language, Ash. That matters."
 
@@ -98,11 +98,11 @@ He waited.
 
 "You could have mentioned that."
 
-"I mentioned the infrastructure."
+"I, I know. I thought the brief covered it. I wasn't sure if it would, if it would matter to the assessment, or change anything."
 
 Her pen tapped the desk. Twice. A rhythm he'd come to recognize as the sound of Dorenne deciding whether to be annoyed or impressed. "I'm moving it up. A full structural team: four channelers, reinforcement and restoration. The heating lattices, the foundation, the load-bearing walls. Two days of work, possibly three."
 
-"Thank you."
+"I, yeah. Thank you."
 
 "Don't thank me. The building scored a seven on the risk index. At eight, I'd be evacuating it."
 
@@ -134,7 +134,7 @@ His mother stepped back and wiped her eyes with the heel of her hand and turned 
 
 "Sixthday." She stirred. "The building's going to be full of strangers."
 
-"The building's going to be warm."
+"The building's going to be warm, which, I know that's not, that's not everything, but it'll be warm."
 
 She didn't answer. She stirred the onions and the steam rose and the heating lattice beside the stove hummed faintly under her palm, her own channeling, steady and familiar, the warmth she'd been pouring into these walls for as long as Ash could remember. Every morning. Every evening. A woman warming her home the only way she could, one day's pool at a time, holding back the cold that crept in through every crack her son had been measuring with his thumb.
 
@@ -154,17 +154,19 @@ Maren arrived at quarter past. She came up the walkway with her coat buttoned to
 
 "How long have you been planning this?" she asked.
 
-"A couple weeks."
+"A couple weeks, maybe three, I started pulling the archive records and then I, I don't know, I figured I'd see if it had legs first before I said anything."
 
 "You didn't say anything."
 
-"I didn't want to say anything until it was real."
+"I didn't, no. I wasn't sure it would, I wanted to wait until it was actually, until it was real."
+
+"I just, I didn't want to say anything until it was real, in case it wasn't."
 
 She looked at the channelers. Sorren had her palms flat against the foundation stone, eyes closed, her team arrayed along the building's base in a line. The effort showed in their faces: the set of their jaws, the stillness of their bodies, the particular focused absence that Ash had learned to recognize as channeling at capacity.
 
 "I'm proud of you," she said. Simply, the way she said things that were true but insufficient, as if the words were a container too small for what she was putting into them.
 
-"It's infrastructure work."
+"It's, I mean, it's infrastructure work, it's just work, it scored a seven on the risk index, Dorenne said if it were an eight she'd evacuate it, which, I just wrote up what I saw, honestly."
 
 "It's our home."
 

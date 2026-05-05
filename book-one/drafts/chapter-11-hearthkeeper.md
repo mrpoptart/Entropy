@@ -382,7 +382,7 @@ The lattice hummed. The walls were warm. Ash read his reports, and the evening s
 
 The next morning, Ash woke early and went to the retaining wall.
 
-He left before dawn — the apartment quiet, his parents still sleeping, the kitchen dark except for the faint glow of the lattice channels in the walls. He moved quietly out of habit, placing his feet the way he'd always placed them, avoiding the sounds. There were no sounds to avoid in the new apartment — no board that groaned outside his parents' door, no settling in the floor — but the choreography was in his body and his body didn't know the difference.
+He left before dawn — the apartment quiet, his parents still sleeping, the kitchen dark except for the faint glow of the lattice channels in the walls. He moved quietly out of habit, placing his feet the way he'd always placed them, avoiding the sounds. There were no sounds to avoid in the new apartment — no slab that ground against its neighbor outside his parents' door, no settling in the floor — but the choreography was in his body and his body didn't know the difference.
 
 The streets were empty at this hour. He walked fast, the Wellspring warm behind his ribs, the morning air cold on his face. The transit lift at the corner was running — it was always running now, the rotation schedule functioning, the channelers maintaining the shaft with the supplemental charge he'd given it — and he rode it down three levels to the northern quarter, the platform descending smoothly through the shaft, the counterweights clicking above him, the sound of a city that worked.
 

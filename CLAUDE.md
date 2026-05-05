@@ -31,6 +31,23 @@ Embrace dialogue. People talking to each other is one of the strongest tools ava
 
 The outline contains a **Named Locations** gazetteer listing all established district names, building names, infrastructure, and geographic features. Writer agents must check this list before drafting and use established names. Do not invent new location names when an existing one fits. When a chapter draft introduces a genuinely new location, add it to the gazetteer in the same pass with its type and the chapter that established it.
 
+## Voice Asymmetry Rule
+
+When two characters with contrasting voice specs share significant scene time, the **asymmetry between them must be legible on the page**. It is not enough for each character to be individually spec-compliant; the relationship between the two voices must do work. If both characters end up in the same register -- both terse, both warm, both declarative -- the contrast has collapsed and one of them has lost their voice.
+
+The Ash/Haran pairing is the canonical example. Haran is defined by economy: short, sideways, mechanism-first. Ash is defined by elaboration: chatter-as-armor, looping hedges, apology-tucked-into-mid-sentence. When they share a scene, the asymmetry should be audible -- Haran's five-word question answered by Ash's fifteen-word non-answer. If Ash matches Haran's register beat for beat, Ash has drifted.
+
+**The recovery rule:** Certain environments trigger partial recovery of a character's baseline register even when drift is otherwise established. For Ash, the workshop with Haran is an explicit recovery environment. Post-Wellspring drift compresses him toward declarative efficiency, but physical grounding at Haran's bench partially restores the chatter-armor. Any chapter set entirely in that environment where Ash never recovers is a voice failure regardless of how spec-compliant individual lines appear in isolation.
+
+**The audit process for voice asymmetry failures:**
+
+1. Run the per-character voice agent for the character whose voice has collapsed toward the other's.
+2. The agent produces line-level flags with proposed revisions.
+3. Apply all flagged fixes in a single pass using a writer agent, preserving all prose not listed in the fix set.
+4. Do not partial-apply: the asymmetry either exists or it doesn't, and spot-fixing two lines while leaving ten more collapsed achieves nothing.
+
+This rule applies to all paired characters with contrasting specs, not only Ash/Haran. Reviewers should flag any scene where two characters with documented spec contrast are indistinguishable in register.
+
 ## No Em Dash Rule
 
 Em dashes (`—`, U+2014) are **prohibited** in all prose, dialogue, planning documents, voice specs, agent outputs, and revision notes for this project. Em dashes have become an AI tell, and our texts overuse them to the point of caricature. Replace every em dash with one of the following, chosen by what the dash was actually doing:
@@ -71,3 +88,18 @@ This rule applies to:
 - This `CLAUDE.md` itself and any future project instructions.
 
 When revising or generating any text, do a final pass to confirm zero post-failure trailing reframes are present, and that the 50% cut has been applied to non-failure scene-end reframes. Existing trailing reframes encountered during normal editing should be cut in the same pass.
+
+## Tertiary Voice Rule
+
+Characters without a defined voice spec (unnamed vendors, passersby, clerks, neighbors, crowd members) must speak in a **neutral, mid-register voice**. They should sound like ordinary people conducting ordinary business. Not terse, not loquacious, not distinctive. The default for a person without a voice spec is *unremarkable*: polite, transactional, conversational, forgettable.
+
+Specifically prohibited for unvoiced tertiary characters:
+
+- **Single-word utterances used as complete dialogue beats** (e.g., "Payment?" or "Name?" as standalone lines). One-word dialogue is a strong stylistic choice that implies compression, withholding, or authority. Real people in service roles use full sentences.
+- **Hyper-compressed register** (three-word sentences, clipped fragments, zero pleasantries). This is a *voiced* register (Haran, Dorenne) and must not bleed into background characters.
+- **Dramatic silence or weighted pauses.** Tertiary characters do not have interior lives on the page. They say their line and the scene moves on.
+- **Distinctive verbal tics, unusual phrasing, or memorable cadence.** If a reader would remember how the character talked, the character has too much voice for their role.
+
+The principle: **voiced characters earn their distinctiveness by contrast with the ordinary.** If every character in the scene talks like a protagonist, no one does. Tertiary characters are the baseline that makes the voiced characters legible. Keep them in the middle of the road.
+
+When drafting or revising, check any unnamed character's dialogue against this rule. If the line would sound natural coming from a shop clerk or a transit worker on a normal morning, it passes. If it sounds like a line from a character with a backstory, it's over-voiced for its role.

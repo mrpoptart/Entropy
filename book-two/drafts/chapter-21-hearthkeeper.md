@@ -34,7 +34,7 @@ Haran did not say anything else for a moment. He took the spectacles off his for
 
 "How."
 
-"They were doing the work. Tilney had a wind rig half up. They had a fellow down from the Reach who'd been over to see Goss in the spring. They were building the catchment at Cresston with the stone they had. They were doing the work, Ash. They simply, they ran out of time."
+"They were doing the work. Tilney had a wind rig half up. They had a fellow down from the Reach who'd been over to see Goss in the spring. They were building the catchment at Cresston with the stone they had. They were doing the work, Ash. They simply... they ran out of time."
 
 Ash did not move. He had his hand on the lip of the forge still and the heat was coming up against his wrist and he held it there.
 

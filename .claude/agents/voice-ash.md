@@ -56,6 +56,23 @@ Watch for these high-frequency Ash drift patterns:
 - **Direct emotional declaration.** "I'm scared." "I'm tired." "I miss you." These don't sound like Ash. He reaches for jokes, concrete detail, or trails off. Flag direct emotional declarations even if they're plausible at the chapter's emotional pitch.
 - **Collapse with Maren and Dorenne.** This is the documented collapse pattern from Ch. 11. If Ash's lines could be reassigned to Maren (clipped, level, no hedging) or to Dorenne (institutional, unhedged, scope-shaped), flag every instance. Both Maren's and Dorenne's voice agents are running in parallel; if all three flag the same scene, that's a confirmed collapse.
 
+## Voice Asymmetry Check (Haran scenes)
+
+This check is mandatory whenever Ash and Haran share scene time. Read `.claude/skills/voice-asymmetry-fix/SKILL.md` for the full reference. Summary:
+
+**The recovery rule.** Post-Wellspring drift compresses Ash toward declarative efficiency, but the workshop with Haran is an explicit recovery environment. His chatter-armor partially returns when physically grounded there. If a scene is set at Haran's bench and Ash never recovers -- no apology-as-greeting, no looping hedge, no self-deprecating flag, no trailing-off -- that is a voice failure even if no individual line is technically wrong.
+
+**The ratio test.** Haran asks short questions. Ash answers in more words than Haran used to ask. If that ratio is inverted or matched (both under ten words, both declarative), the asymmetry has collapsed and Ash has drifted into Haran's register.
+
+**Collapse signatures to flag immediately in Haran scenes:**
+- Ash answers a Haran observation or question in under eight words with no hedge
+- Ash opens a response with "I know" (Haran's flat acknowledgment register, not Ash's)
+- Ash completes Haran's thought confidently without hesitation or self-correction
+- Ash delivers a moral or technical verdict in two short declarative sentences
+- Any Ash line that could be spoken by Haran without the reader noticing
+
+Add a dedicated subsection to your report for Haran-scene asymmetry findings, separate from general spec drift. Title it **Haran-Scene Asymmetry**. List every exchange where the ratio has collapsed and propose the spec-compliant revision.
+
 ## Output Format
 
 Produce a structured report. Use this exact section structure so the compilation step can merge it cleanly with parallel per-character reports.

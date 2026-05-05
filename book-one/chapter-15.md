@@ -30,7 +30,7 @@ Ash was already moving. The floor bucked under him and he staggered, caught hims
 
 The corridor was wrong. The floor sloped where it shouldn't slope. The ceiling had cracked, a single clean line running the length of the hallway, plaster dust falling from it in a steady white rain. People were emerging from offices on both sides, stumbling, shouting, a man carrying a ledger as if the numbers inside it still mattered. The building shook again, a second wave, deeper than the first, and Ash felt it in his chest, the Wellspring stirring as if the ground's shaking had reached something inside him. Not real resonance, not the reservoir responding to the quake, but the overwhelming wrongness of standing on moving ground while power pressed at his palms with nowhere to go.
 
-"Stairs," he said to Dalla. "Can you walk?"
+"Come on, the stairs, this way, can you walk?"
 
 She nodded. Her hands were shaking. Everyone's hands were shaking, or everything was shaking, and the distinction had stopped mattering.
 
@@ -126,7 +126,7 @@ The question landed in his chest. Not in his mind, in his chest, where the Wells
 
 He reached inward. The Wellspring was there. Vast. Oceanic. Formless: no ceiling he could feel, no edges, just depth after depth after depth. More than any work crew. More than any department. More than any district.
 
-"A lot," he said. "I can do a lot."
+"I don't know. A lot."
 
 She nodded. Something moved behind her eyes, something he'd seen before when a resource came through at the last moment. She had the Wellspring. The city had the Wellspring. The worst day in Solathis's history, and she had the single most powerful tool any Director of Infrastructure had ever commanded.
 
@@ -190,9 +190,9 @@ He lost track of time. The sun moved. The dust settled and rose and settled agai
 
 He was at the edge. The edge of the plateau, where a section of the gorge rim had sheared away entirely, a chunk of the city breaking off like ice calving from a glacier, sliding down the cliff face toward the river gorge below. Three buildings on that section. Three buildings still occupied. He stood at the new edge of the world with the gorge below him, two hundred meters of empty air and broken stone, and he channeled downward, channeled into the cliff face, channeled force into the sliding rock with everything he could reach and the Wellspring reached far, reached deep, and the slide slowed and stopped and the three buildings sat at an angle on their new cliff-face perch and the people inside them were alive and the people inside them needed to be evacuated immediately because the rock he was holding would not hold forever, not even for him, not even for the Wellspring.
 
-"Get them out!" he shouted. His voice was hoarse. He didn't know when it had gone hoarse. The dust, maybe. The screaming he didn't remember doing. "Get them out now!"
+"Get them out, go, get them out now!"
 
-Young channelers. Three of them: a man and two women, barely older than Ash, gorge-rim residents with small pools and terrified faces. They scrambled to the tilting buildings. They channeled reinforcement into the walls, small, precise amounts, everything they had, and they helped the residents out, one by one, an elderly couple from the first building, a young mother and two children from the second, a man alone from the third who kept saying "my tools, I need my tools" and the young channeler guiding him out said "we'll come back for your tools" and the lie was obvious but the lie was necessary.
+His voice was hoarse. He didn't know when it had gone hoarse. The dust, maybe. The screaming he didn't remember doing. Young channelers. Three of them: a man and two women, barely older than Ash, gorge-rim residents with small pools and terrified faces. They scrambled to the tilting buildings. They channeled reinforcement into the walls, small, precise amounts, everything they had, and they helped the residents out, one by one, an elderly couple from the first building, a young mother and two children from the second, a man alone from the third who kept saying "my tools, I need my tools" and the young channeler guiding him out said "we'll come back for your tools" and the lie was obvious but the lie was necessary.
 
 Ash held the cliff face until the last person was clear. Then he released it. The section of plateau slid in a slow, grinding descent, stone on stone, a geological sound, the sound of the ground reclaiming what the channelers had borrowed from it three hundred years ago. It took a long time to reach the bottom. The sound of impact carried upward through the rock, a deep thud that Ash felt in his knees.
 
@@ -208,7 +208,7 @@ Ash blinked. "What?"
 
 "The Kharren Fault teams. The ones who were supposed to keep this from happening." She gestured at the rubble, at the absence where three buildings had been, at the dust that covered everything. "Where were they?"
 
-"The fault monitoring teams have been..." He stopped. He'd read the reports. He'd filed the reports. Declining pool strength in the reinforcement crews. Reduced shift coverage. Budget constraints. Dorenne's assessments: *manageable*. "The crews have been understaffed."
+"The fault monitoring teams have been..." He stopped. He'd read the reports. He'd filed the reports. Declining pool strength in the reinforcement crews. Reduced shift coverage. Budget constraints. Dorenne's assessments: *manageable*. "The crews, there wasn't, the budget, they've been understaffed."
 
 "Understaffed." The word came back at him like a thrown stone. She was young, his age, maybe younger, with dark hair cut short and callused hands and a smear of masonry dust across her forehead. Kael, he would learn the name later, from a broadsheet, from a quoted voice he recognized before he recognized the name. The particular anger of someone who was looking at the ruins of their neighborhood and seeing a pattern. "The upper terraces held. We collapsed. How is that understaffed? That's a choice. That's someone choosing where to send the crews and where not to. That's someone deciding which buildings get reinforced and which buildings get..." She waved at the rubble. "This."
 
@@ -219,8 +219,6 @@ He opened his mouth to respond. The words that came were Dorenne's words: alloca
 "You know." She looked at his hands, at the power still crackling faintly around his fingers, the residual channeling visible as heat shimmer in the cool air. "You're the Wellspring. You could have reinforced every building on this rim. You reinforced the Threadneedle building instead. The heating grid in the eastern district. The southern cisterns. All up there." She pointed upward, toward the terraces above them. "All above us."
 
 His chest tightened. The Wellspring hummed behind his ribs and the hum felt different now, not warm, not reassuring, but heavy. She was wrong. The deployments had been chosen by need: by structural urgency, by population served, by Dorenne's triage calculations that weighed every system against every other system and chose the ones that mattered most. The gorge rim had been on the list. The gorge rim had been number fifteen. And number fifteen had collapsed while numbers one through ten were reinforced and fine.
-
-"I'm here now," he said.
 
 "Now," she said. The word held everything.
 

@@ -120,19 +120,19 @@ The next test was a targeting exercise. A stone disc mounted on the wall, divide
 
 Ash hit the center ring. He also hit every other ring. And the wall around the disc. And the floor beneath it. The stone disc cracked along its mounting bolts and fell in two pieces, trailing dust.
 
-"Sorry," Ash said.
+"Sorry, I, that was, I thought I was being careful, that was as gentle as I can manage right now, I think."
 
 The thin-faced examiner made a note.
 
 The next test was thermal regulation. A basin of water. Raise the temperature by exactly five degrees. Ash touched the basin and the water went from cold to boiling in two seconds. Steam erupted toward the ceiling. The younger examiner covered the basin with a metal lid and held it there while the water roiled underneath.
 
-"Sorry," Ash said again. His face was hot. Not from the steam.
+"Sorry. That's, yeah. Sorry." His face was hot. Not from the steam.
 
 The next test involved a set of weights on a balanced beam. Channel force into one side to tip the beam precisely to a marked angle. Ash tipped the beam so hard the weights on the opposite side launched off the surface and embedded in the ceiling.
 
 He stared at the ceiling. One of the weights was still vibrating in the stone, half-buried, like a nail driven by a hammer.
 
-"I can pay for that," he said.
+"I can pay for that. I mean, I realize that's not really the, yeah. I can pay for that."
 
 The thin-faced examiner looked at his clipboard. He'd filled two pages. His pen rested on a third, and Ash could see the numbers from where he sat: columns of readings, each one followed by a notation he couldn't decipher, each one larger than the last.
 
@@ -152,7 +152,13 @@ Ash placed one finger on the stone. He tried to imagine the smallest possible pu
 
 The stone turned violet and shattered.
 
-He worked through all six. Each one broke. The last one, the most sensitive in the set, designed to register the channeling of a four-year-old, held for almost a full second before a hairline crack appeared at its center and it split cleanly in two.
+He worked through the second. The third. Each one broke.
+
+"I had a plan, going in, I want to be clear about that. It just turns out the plan was terrible. Sorry."
+
+The thin-faced examiner made no response. Ash placed his finger on the fourth stone.
+
+It broke. The fifth broke. The last one, the most sensitive in the set, designed to register the channeling of a four-year-old, held for almost a full second before a hairline crack appeared at its center and it split cleanly in two.
 
 The room was warm enough now that the thin-faced examiner had removed his jacket. The younger examiner's forehead was sheened with sweat. The waste heat from Ash's channeling, the enormous inefficiency of a man who had no training, no control, no framework for modulating the force that moved through him, had raised the temperature of the sealed basement room by several degrees. The stone walls themselves held the heat, absorbing what his body radiated with each failed attempt at gentleness.
 
@@ -200,7 +206,7 @@ She removed her hand. She removed his, gently, lifting his fingers from the ston
 
 "How do you feel?" she asked.
 
-"Fine, I think. I barely felt it. Sorry, yeah. Fine." He was fine. The pulsing, the channeling, he'd barely felt it leave him. The reservoir behind his ribs was unchanged, the pressure no different from when he'd sat down. As if everything he'd done in this room, the broken stones, the overloaded instruments, the weight in the ceiling, had cost him nothing.
+"Fine, I think. I barely felt it, which, I don't know what that means, but, yeah. Sorry. Fine." He was fine. The pulsing, the channeling, he'd barely felt it leave him. The reservoir behind his ribs was unchanged, the pressure no different from when he'd sat down. As if everything he'd done in this room, the broken stones, the overloaded instruments, the weight in the ceiling, had cost him nothing.
 
 Nothing at all.
 
@@ -274,7 +280,7 @@ Vasra was watching him. He wondered what she saw, what her forty years of measur
 
 "I have more questions," she said. "Tests I'd like to run, over the coming days. Different instruments, better controlled conditions. With your permission."
 
-"Yeah, of course. Whatever you need."
+"Yeah, of course, whatever, I mean, whatever's useful, I'll be here. I don't have, yeah. Whatever you need."
 
 "And I'd like to understand the activation event itself. What happened, what you felt, the sequence. In your own words, when you're ready."
 
@@ -326,7 +332,7 @@ The corridor was cooler than the testing room. He walked it slowly, letting the 
 
 He passed the archive room where he'd pulled his building's maintenance records three weeks ago. The supply closet where he'd found cleaning rags on his second day. The junction where the corridor branched, left to the ramp, right to the lower storage levels he'd never had reason to visit.
 
-He knew this building. He'd worked here. He'd walked these corridors as Dorenne's aide, carrying briefs and deployment schedules, learning the language of systems and allocation and institutional power. He'd been good at it, good enough that Dorenne had put him at the table, good enough that senior staff had changed plans based on his analysis.
+He knew this building. He'd worked here. He'd walked these corridors as Dorenne's aide, carrying briefs and what Dorenne called deployment schedules, learning the shape of a language he'd started to borrow without meaning to. He'd been good at it, good enough that Dorenne had put him at the table, good enough that senior staff had changed plans based on his analysis.
 
 That had been enough. That had been more than enough. A desk, a role, a place in the machine. Proof that he belonged.
 
@@ -406,7 +412,7 @@ But Dorenne said *well*, and he suspected the meaning she carried was not the sa
 
 What he heard: you did well.
 
-"Thanks, really," he said. "For arranging this. For, all of it."
+"Thanks, yeah, really, I mean it, for arranging, all of this, and for my parents, and, I don't know, all of it, yeah."
 
 "Go home, Ash."
 

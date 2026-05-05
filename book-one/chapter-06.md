@@ -20,11 +20,11 @@ Ash nodded. He was still looking at the mirror. His hands, the calloused knuckle
 
 "That's my part." She looked up. Her eyes held the same quality they always held: the layered attention, the calculations running behind the warmth. "Ash. Listen to me. You don't need to win them over. You don't need to explain yourself. You stand, you answer what you're asked, you demonstrate what we've prepared. I'll do the rest."
 
-He turned from the mirror. "What are we demonstrating?"
+He turned from the mirror. "Sorry, wait, what are we actually, what's the plan for the demonstration part?"
 
 "The heating lattice." She let the words sit for a moment. "The gallery's lattice was designed for a six-person elder team working in rotation. It hasn't run at full capacity in years; the elder roster can't support it. You're going to place your palm on the wall and light it up. The whole thing. In one pulse."
 
-"And that's enough?"
+"Yeah, no, that makes sense. I just, what if they want more than, I don't know."
 
 "A man who can warm a room that size, alone, in seconds, that's not a spectacle, Ash. That's a city that can heat its buildings again." She paused. "Presentable is exactly the word I was hoping for. Remarkable is my job."
 
@@ -40,13 +40,13 @@ It was better. Marginally. He'd spent the days since the testing working with Va
 
 But she was right. He knew she was right. He could feel the rightness of it the same way he could feel the power, as a physical fact, undeniable, present in the room.
 
-"I understand," he said.
+"Right, yeah. Stay in the frame. Got it."
 
 "Good." She gathered her notes. "We leave in twenty minutes. Your family will be in the third row. I arranged it. Your mother's chair is positioned near the aisle in case she needs to leave."
 
 His mother's chair. His mother, with her broken leg still healing, the bone knitting under the elder healer's daily visits, his mother sitting in a crowd of strangers while the world learned what her son had become.
 
-"She didn't want to come," Ash said.
+"She, she mentioned it. That she wasn't sure about the crowd. She said the leg was still..."
 
 "I know. Your father convinced her." Dorenne tucked the notes into her coat. "He was right to. If she's not there, people will notice. People will ask why. Better to control the question."
 
@@ -218,7 +218,7 @@ Which meant terrified. Which meant holding it together with the same iron will t
 
 "She'd like that." His father's hand slid from his shoulder. He looked around the gallery, at the stone walls still radiating warmth, the tall windows, the platform where his son had stood, with the expression of a man cataloguing details he'd need later, when his wife asked what it was like. "This is big, Ash."
 
-"I know."
+"Yeah, I just, yeah."
 
 His father nodded, the same nod, the one that absorbed what it couldn't articulate, and turned to leave. He stopped once more at the side door and looked back, and in his face Ash saw the thing his father would never say aloud: the question underneath the pride, the worry that ran deeper than any fear about power or politics:
 
@@ -396,7 +396,7 @@ She leaned back in the chair. The silence between them had a different quality t
 
 "The lattice thing," she said. "Did it cost you much?"
 
-"Nothing. Basically nothing."
+"Nothing? Basically nothing, which, I don't even know what to do with that, honestly. It was like, you know when you push open a door and it's lighter than you expected? It felt like that. Just, nothing."
 
 She was quiet for a moment. Then: "I'm glad."
 
@@ -408,7 +408,7 @@ He looked at her.
 
 He appreciated it. The part of him that had been standing on platforms and fielding questions and being looked at like a heating lattice, that part wanted to hear someone say *it happened to you* instead of *you are this now*.
 
-And underneath the appreciation, faint as a thumbprint on glass: something else. Something that tightened in his chest when she said *happened to you*,because it didn't just happen to him. It was him. The ocean behind his ribs was not separate from the ribs. The warmth in his palms was not visiting. It lived there. It would always live there. And to hear someone he loved describe it as something that happened *to* him, as if it were an accident, a circumstance, a thing that could be set down and walked away from.
+And underneath the appreciation, faint as a thumbprint on glass: something else. Something that tightened in his chest when she said *happened to you*, because it didn't just happen to him. It was him. The ocean behind his ribs was not separate from the ribs. The warmth in his palms was not visiting. It lived there. It would always live there. And to hear someone he loved describe it as something that happened *to* him, as if it were an accident, a circumstance, a thing that could be set down and walked away from.
 
 He didn't say any of this. He smiled. "Thanks, Ryn."
 
@@ -434,7 +434,7 @@ She sat back down. She looked at the kitchen, at the channeling strips, the work
 
 "That's not what I asked."
 
-He exhaled. "She's scared. She doesn't want, she thinks everyone wants something from me."
+He exhaled. "She's, I don't know. Her hand on the armchair earlier, she was gripping it pretty hard. She thinks everyone wants something from me."
 
 "Everyone does want something from you."
 

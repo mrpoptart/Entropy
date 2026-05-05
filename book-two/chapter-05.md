@@ -1,142 +1,176 @@
 # Chapter 5
 
-Haran moved into Stonecurve the way he did most things. Without announcement.
+Haran moved into Stonecurve on a Tuesday, which was neither announced nor ceremonial nor, as far as Ash could tell, decided more than a day in advance.
 
-Ash arrived at the square before dawn on a morning eight days after the water came on, and found a handcart parked outside the cleared ground-floor shop on the square's east face. The shop had been a baker's once. The oven was still there, gutted, the flue rusted shut. A boy from the district held the cart's brake while Haran lifted a wooden chest of files down onto the flagstones. Three more chests sat already inside the doorway.
+Ash arrived at the district at the usual hour, just after sunrise, the air still holding the night's cold against the limestone walls, and found a handcart drawn up against the east face of the old bakery on the square's south side. The hall had stood empty for a year; one wall sagged where the earthquake had pushed it half a hand's breadth out of true, and the doorway hung open onto a ground-floor space that smelled, even from the street, of dust and pigeon and old rope. Beside the cart, a young man Ash didn't know was unloading a cast-iron vise.
 
-"Morning," Haran said.
+Haran was in the doorway with his sleeves rolled, holding a measuring stick to the inside of the door frame.
 
-Ash looked at the cart. "You're moving in."
+"You're moving in," Ash said.
 
-"Closer to the work."
+"Hm." Haran moved the stick a hand's width down, made a mark with the pencil he kept behind his ear, and stepped back. "Bringing the bench. The lathe. The small forge."
 
-"From The Splits."
+"Today."
 
-"From The Splits." Haran set the chest down beside the others. He didn't look up. "I'll keep the upper shop for the heavier presses. This is for the daily."
+"Today and tomorrow." He looked up. The morning light caught the white at his temples, the lines around his eyes that had been there as long as Ash had known him, the same patient, unhurried face that had bent over a thousand workbenches. "The forge will take three trips. Floor's not level. You'll want to set wedges before you bring the lathe in, or it'll walk."
 
-Ash watched him work. The old man's spine was bent more than he remembered, or perhaps only more visible without the workshop's familiar shadows. Haran lifted a second chest. The handle had been wrapped in twine, freshly, the knots tight.
+"Haran."
 
-"You should have asked," Ash said.
+"Mm."
 
-"For what."
+"You're moving."
 
-He didn't have an answer. The shop wasn't his. The district wasn't his. Haran had been making decisions about workshops for longer than Ash had been alive.
+Haran tucked the pencil back behind his ear. He looked at the doorway. Looked at the square, where the tap was running its thin, steady thread of water into the basin, and a woman with a bucket was waiting her turn behind a man whose own bucket was half full. He looked back at Ash.
 
-"Help or stand," Haran said.
+"It'll save the walk," he said.
 
-Ash helped.
+That was all.
 
-By midmorning the shop had become something. A bench along the long wall, salvaged from the bakery's prep table. A rack of files and chisels mounted above it, each tool in a slot Haran had cut to fit. A barrel of pipe stock by the door. A shelf of notebooks at the rear, the same notebooks Ash had seen in the upper shop, the spines worn in the places where Haran's thumb opened them.
+The young man wrestling the vise out of the cart was Petra's nephew, or a cousin of Petra's nephew; Ash never quite caught it. He was broad and quiet and moved tools with the same care his aunt had moved copper stock, and by mid-morning the ground floor of the grain hall had begun to organize itself around Haran's gravity. The bench went along the back wall, where the light from the high windows would fall across it for most of the day. The vise went on the bench's right corner. A row of pegs went up along the east wall for the hand tools, and Haran hung them in an order that Ash, who had spent half his life in the workshop in The Splits, could have reproduced from memory: hammers first, then mallets, then the chisels graduated from broadest to finest, then the files, then the drift pins. The order had been the same in Haran's old shop for thirty years. It would be the same here.
 
-"Permanent?" Ash asked.
+Ash stood in the doorway for a moment, watching him hang a draw-knife on the third peg from the left, and felt his throat tighten.
 
-Haran was hanging a plumb line from a hook in the rafters. He tested it with one finger. Watched it settle.
+"There's a back room," Haran said, without looking up. "Cot fits. Stove fits. Window's south."
 
-"For now."
+"You're sleeping here."
 
-It was as close as Haran came to a statement of intent. Ash filed it.
+"For a while." He set the draw-knife level and stepped back. "Bench like this, you don't want to leave it overnight in a building you don't know."
+
+"You've slept in your shop in The Splits for forty years."
+
+"And I know it." Haran turned and looked at him then, and the corner of his mouth did the thing it did when he was almost smiling. "So."
+
+"So," Ash said.
+
+He helped carry the lathe in after lunch. It took four of them, and a length of timber for a lever, and a great deal of grunting from the cousin or nephew, and when they had it set on the wedges Haran had cut for it, Haran put his hand flat on the casing and stood there for a moment with his eyes closed. Not channeling, as far as Ash could see. Just feeling for the level. He opened his eyes, made a quarter-turn adjustment with a wedge under the front-left foot, and said, "There."
+
+The cousin breathed out. "That's it?"
+
+"That's it."
+
+"It's level?"
+
+"It's level."
+
+The cousin looked at the lathe, then at Haran, then at Ash. He shrugged the shrug of a young man who has decided to trust an older one's judgment on a matter he can't verify, and went back out for the next load.
 
 * * *
 
 The teenage girl's name was Vell.
 
-She came to the square the morning the second pump was commissioned, walked past the workers waiting for instructions, walked past Tesha and Dael and the others, and stopped at the demonstration unit where Ash had shown Dael the crank a week earlier. She put her hand on the handle. Looked at Ash.
+Ash learned it on the third day of the second week, when he came down into the square at the change of the morning shift and found her on the platform of the demonstration pump, working the crank with both hands and the kind of rhythm that meant she had been doing it for a while and intended to keep going for a while more. The catch basin at the pump's foot was full to the lip. The overflow was running into the channel that fed the lower cistern. She was, Ash realized after watching for a minute, not pumping because the cistern needed water. She was pumping because she was faster than the boy who had been on the schedule, and the boy had been on the schedule, and she had taken the handle from him to demonstrate.
 
-"This one's mine," she said.
+The boy, perhaps fifteen, stood at the platform's edge with his arms crossed and an expression that suggested he had been demonstrated to before.
 
-She was perhaps fifteen. Thin in the way young-generation children were thin, her jaw a fraction sharper than well-fed children Ash remembered from the upper terraces. Her hair was cut blunt at the chin, practical, the kind of cut a mother gave with kitchen scissors.
+"Twenty," Vell said, on the downstroke.
 
-"Your what," Ash said.
+"That's not twenty."
 
-"My pump. The east square pump. I want to learn it."
+"It's twenty. I was counting before you got here."
 
-He looked at Haran. Haran was sitting on an upturned crate, sharpening a chisel on a leather strop, and he didn't look up, but the chisel paused on the strop for the length of a breath.
+"You weren't counting."
 
-"All right," Ash said.
+"Twenty-one." The crank's pulse didn't change. Her shoulders stayed loose. She had figured out, sometime in the past week, that the crank rewarded looseness, that you didn't fight it on the upstroke, that you let the cylinder do the work it was built to do. The boy hadn't figured this out yet. "Twenty-two."
 
-Vell learned the crank in twenty minutes. The mechanism wasn't difficult. The valve sequence took longer, and the priming, and the trick of recognizing when the cylinder had drawn air instead of water. She made the priming mistake twice and then never again. By the third day she could fill the rooftop cistern faster than Corren, who had thirty years and twice her shoulder width.
+"Vell. You can stop."
 
-She knew it. She didn't say so. She set her hands on the handle each morning and turned the crank with the still-faced concentration of someone counting strokes against a number only she could see.
+"Twenty-three."
 
-Ash watched her on the fifth morning. Stood in the square with a clipboard he didn't need and watched her work. The crank's pulse came down through the building wall behind him, regular, mechanical, the same rhythm Haran had pumped on the day they'd opened the system. Vell's pace was faster. Cleaner. Her elbows didn't drift. Her shoulders moved from the hips, the way Haran had shown her once and only once.
+She kept going for another minute, and then she let the crank ease to a halt at the top of its stroke, the way Haran had shown her, so the cylinder wouldn't drop the valve. She stepped back. She wiped her palms on the front of her tunic, which already had two faint dark smears from previous wipings, and looked at Ash with the particular, undisguised pride of a person who had discovered a thing she was good at and was not yet old enough to pretend she wasn't pleased about it.
 
-When the cistern indicator chimed, she stopped on the upstroke, locked the brake, and stepped back. Her face flushed from work, not from anything else. She wiped her palms on her trousers. She looked at the cistern bell as if she'd been arguing with it and won.
+"Three minutes faster than yesterday," she said.
 
-A woman crossed the square with a water jug. Stopped at the basin tap. Filled the jug, capped it, walked on. The water didn't stop running.
+"Faster than the schedule says you have to be."
 
-Vell watched her go. The line of her shoulders softened a quarter-inch.
+"Faster than anyone." Her chin lifted half an inch. "I asked Haran. He said the rated fill on this size cylinder is nine and a half minutes for the catch and forty for the rooftop. I'm doing the catch in seven."
 
-It was the closest thing to satisfaction Ash had seen on a face in Stonecurve since he'd come.
+"Seven."
 
-He didn't say anything to her. He walked back to where Haran was repacking a tool roll and said, quietly, "She's faster than Corren."
+"Seven and a quarter. He timed me on Tuesday." She glanced at the boy, who was unfolding his arms with the slow reluctance of someone who had been planning to argue and had lost the will. "He timed everyone."
 
-"I know."
+"And?"
 
-"You taught her the hip thing."
+"I'm fastest." This not as a boast but as a report. She had been asked a question; she was answering it. "Tomas is second. Tomas is good on the rooftop because he's tall."
 
-"Once."
+Tomas, the boy, said, "I'm good on the rooftop."
 
-Haran didn't look up from the tool roll. The corner of his mouth wasn't a smile. But it was something in the same family.
+"He's good on the rooftop."
+
+Ash held back a smile. He nodded at the basin. "Catch is full."
+
+"I was going to start the rooftop fill next."
+
+"It can wait ten minutes. Drink some water. Eat something."
+
+"I had bread."
+
+"Eat something else."
+
+She considered this with the seriousness of a small council. Then she nodded once, the way Haran nodded, which she had clearly picked up from Haran, and stepped down off the platform. She did not, Ash noticed, hand the crank back to Tomas. She left it where it was, at the top of its stroke, the way she'd been taught.
+
+Tomas climbed onto the platform after her. He took the handle. He pulled the upstroke too hard, and the cylinder coughed, and he set his jaw and started over, slower this time. Vell watched him from the edge of the basin. She didn't correct him. After a moment she looked over at Ash and said, with the same flat factual tone she had used about being fastest, "He'll get it."
+
+"He's getting it."
+
+"By the end of the week."
+
+"Maybe sooner."
+
+"By the end of the week," she said again, settled the matter, and left.
 
 * * *
 
-Heating was harder.
+The water system worked.
 
-The water had been a problem with one shape: get water from below to above, distribute by gravity, accept the loss to friction. Heating was a problem with five shapes at once. Insulate the walls. Seal the windows. Burn fuel without burning the building. Vent the smoke without venting the heat. Distribute warmth without a channeler standing in the room.
+Ash kept saying that to himself, in the small hours when he woke in Haran's back room or in the bunk Petra had sent over for the half-cleared room above the new district workshop. The water system worked. Three buildings on the rooftop cistern's primary feed. Two more on the secondary line that Tesha had laid herself, with Ash on the joints. The eastern branch finally running, after Felden had produced the wider pipe a week late and with the air of a man who had arranged something costly. The tap in the square never stopped. The catch basin filled and overflowed and filled again. Vell pumped, and Tomas pumped, and a quiet, dough-faced woman named Nera who lived on the eastern end pumped after her shift at the rope-walks, because she had decided, without telling anyone, that the eastern cistern was her responsibility now. The water moved by gravity, and gravity did not stop at two in the afternoon.
 
-Haran's notebook, the one with the cracked spine, had pages on each. The pages were thirty years old in some cases. Ash turned them and saw diagrams in three different inks, the latest annotations in pencil over the oldest in faded brown, the same diagram revisited and revised across decades.
+It was slower than the channeled aqueduct. It was less convenient. It was, Ash had come to understand, the most beautiful thing he had ever helped to build, and not because of any quality the system possessed but because every morning he could stand in the square and watch a child fill a cup and drink it and walk away, and nothing in the chain of events had cost anyone a single drop of pool.
 
-"Compressed fiber," Haran said. He'd opened the page on insulation. "Stuffed into the cavity behind the inner wall. Locks the air. Stops the bleed."
+The heating system was different.
 
-"Where do we get the fiber."
+He understood the difference within the first three days of trying.
 
-"Hill country. Petra knows a man."
+Haran had drawn the plans across two large sheets of butcher's paper that he had pinned to the wall of the new district workshop. The plans showed cross-sections of walls: compressed-fiber insulation packed into cavities between an inner and outer course of stone, sealed with a paste Haran had been refining for years, finished with a plaster skin. The plans showed window frames with mechanical seals, rubber gaskets pressed by a wooden lever into a groove cut into the frame itself. The plans showed small combustion stoves, squat and iron-bellied, with chimney flues that ran up through the building cores and vented above the rooflines.
 
-"How much."
+The plans were beautiful. The plans assumed craftsmanship the district did not yet have.
 
-Haran turned a page. Tapped a column of numbers. "Per building. Block Three needs eighty bales."
+Ash watched a worker named Bren try to fit a window frame on the second day. The frame was wooden, planed straight, the gasket groove cut to a tolerance of about a finger's breadth. Bren was thirty, broad-shouldered, careful with tools. He had been a stonemason's hand before the earthquake had taken half the masons' work, and he had the kind of patience that came from a life spent waiting for mortar to set. He measured the frame three times. He set it into the wall. He pressed the gasket. He tightened the lever.
 
-"That's a lot of fiber."
+The seal didn't take.
 
-"That's a lot of cold."
+He loosened the lever. Pressed the gasket flatter. Tightened it again.
 
-The fiber arrived in carts over four days. Bales the size of a man's torso, dense, wrapped in jute. The workers carried them up stairs. Tesha cut them open with a curved knife that left her palms raw by evening. The fiber came out in mats, springy, smelling of dry summer.
+The seal didn't take.
 
-The cavity work was the part Ash channeled.
+"It's the groove," Haran said. He had come up behind them without sound, which was a thing he did. He bent and ran his thumbnail along the groove's interior. "Bottom's not square. Gasket's compressing on the slope."
 
-The inner walls of the buildings in Block Three weren't designed for fiber fill. They were designed for nothing but channeled warmth, the old assumption: walls don't insulate, channelers do. To open a cavity meant cutting through plaster, packing the fiber, and resealing the wall in a way that would hold under a winter's worth of thermal cycling. Mechanical methods existed. Lath and patch. Mortared facing. They worked. They took weeks per room.
+"I cut it square."
 
-Or Ash channeled.
+"You cut it close to square." Haran straightened. His knees made the small dry sound they made these days when he straightened, and Ash, who had been hearing that sound for ten years now, looked away from it. "Off by maybe the thickness of a piece of paper. That's all it takes."
 
-He laid his palms flat on the cut plaster and pushed reservoir into the seam. Not heat exactly. Bonding. The same fusion he'd learned on the cistern, narrowed and refined: the plaster's grain reknit to itself across the cut, the fiber sealed inside the cavity, the wall returned to single-piece continuity. The seam disappeared. He felt the reservoir draw, small, specific. He moved to the next seam.
+Bren looked at the groove. He looked at the chisel he had used to cut it. He looked at Haran, with the particular silent appeal of a man asking, *and how am I supposed to do better than that?*
 
-Forty-two seams in the first building. Sixty-eight in the second.
+Haran took a small block of wood from his apron pocket. He set it against the chisel. He showed Bren how to hold the chisel against the block, so the angle was fixed, so the cut couldn't wander. He showed him without a single word about it, with the bare minimum of demonstration, and stepped back, and waited.
 
-By the end of the first afternoon, his hands trembled and the warmth behind his ribs had a definite edge. Haran walked through the rooms after him, pressing his palm to each seam in turn, the channeler's check, the slight unfocus in his eyes.
+Bren tried again. The cut went truer. Not perfect. Truer.
 
-"Clean," Haran said. "All of them."
+"Better," Haran said. "Try the gasket now."
 
-"How much did that cost."
+The seal took, mostly. The lever held the gasket against the groove with enough pressure to stop the visible draught. Ash put his hand to the frame's edge in the place where the cold had come through five minutes ago, and the cold was not coming through anymore. Not quite. There was still a faint thread of moving air at the corner where the frame met the sill.
 
-"Don't ask me."
+Haran felt it too. He didn't say so. He just watched Bren close the lever a second time, and his face did the thing it did when he was deciding whether to speak.
 
-"How much."
+He didn't speak.
 
-Haran considered. He set his hand flat on the wall. Held it. The unfocus settled deeper for a moment.
+That night, after Bren had gone home, Ash channeled the corner of the frame.
 
-"Less than the Velden pump," he said. "More than the cistern."
+He laid his palm flat to the wood and the stone where they met, and he pushed a thin warmth along the seam, slow, narrow, the way Haran had shown him to fuse the cistern walls on the first day. Not a flood. A thread. The wood and the stone bonded along the seam, and the thread of moving air stopped, and the room was quiet in the particular way that rooms became quiet when a draught you hadn't been hearing finished.
 
-He didn't offer a percentage. Ash didn't ask again. He'd been tracking, roughly, the way a man tracks the level of water in a well by looking. The reservoir sat at something less than forty-two now. A point or two below, perhaps. Three. The boundary closer. The wall he could feel when he reached.
+The reservoir shifted in his chest. Half a percent, maybe. Less.
 
-He walked through the second building on his own that evening, after the workers had gone. The fiber was inside the walls. The seams were closed. He laid his palm against the inner wall of the front room and felt nothing. Cool plaster. No channeled warmth, no reservoir thread, no magic.
+Permanent.
 
-He moved into the rear room, where Haran had lit a small combustion stove an hour earlier. The stove was Haran's design, cast iron, the size of a kettle, fed from a fuel hopper in the back. It burned a processed pellet Petra had developed with a chemist Ash had never met. The flame was small and contained. The chimney drew clean.
-
-The room was warm.
-
-He stood in the middle of it. Closed his eyes. Opened them.
-
-The wall was warm because the stove was burning. The wall held the warmth because the fiber stopped the bleed. The fiber stayed in the wall because the seam was sealed.
+He moved through the rest of the building, room by room. In the rear of the second floor, where someone had moved in a small combustion stove that afternoon, he stopped. Haran had lit it briefly, checked the flue, banked it. The room had held the warmth.
 
 He laid his hand on the plaster. Warm. Not from him.
 
@@ -144,155 +178,155 @@ He held it there a long time.
 
 * * *
 
-The combustion stoves were where the craftsmanship problem became plain.
+On a Thursday in the third week, a pump valve in Building Three failed.
 
-The stoves themselves were cast in The Splits, hauled down by handcart, set on stone hearths the workers had laid. The stoves worked. The hearths worked. The flue connections worked, more or less, when the connections were made by Haran or by Ash with reservoir fusion.
+Ash was on the rooftop of Building Five at the time, helping Tesha set the chimney flue for the second-floor stove, and he heard about the valve the way he heard about most things in the district now, which was from Vell, who had run from the square to the foot of Building Five and shouted up that the secondary pump was making a noise that wasn't right.
 
-The flues in between were the trouble.
+"What kind of noise?" Tesha said, before Ash could ask.
 
-A flue ran from the stove's back collar up through a hole cut in the inner wall, across a short ceiling run, and out through the building's outer wall to the chimney stack. The chimney stack was old. Half the buildings in Stonecurve had no chimney at all, the original architecture having assumed channelers and not fires, and Haran was building stacks from brick on the exterior walls, mortared courses tied to the wall with iron straps. The interior flue runs were sheet metal, riveted and lapped.
+"A clack. On the upstroke."
 
-Lapping sheet metal was a craft. Haran could do it. Ash could do it after Haran showed him twice. The workers needed weeks.
+"Sharp clack or soft clack?"
 
-The first flue Tesha tried leaked at the seam. Ash watched her do it. She measured, scored, bent the metal over the form Haran had cut, riveted, sealed the lap with the lead-tin solder Haran had taught her to use. The seam was straight. The rivets were even. The solder was a hair thin in the center of the lap.
+"Sharp. With a, with a kind of after-noise. Like it was shaking."
 
-She lit the stove. Smoke pooled at the seam and crept along the ceiling in a thin gray line.
+"Valve seat," Tesha said. To Ash: "Probably the brass insert. They've been loosening on the older units."
 
-She watched it.
+"Get Haran."
 
-"Again," she said.
+"I am Haran today," Tesha said, dryly, and was already going. "Or I'm trying to be." She had the particular cheerful grimness she had picked up over the last fortnight, the look of a person taking on more than she was certain she could do and making the choice on purpose. She climbed down the ladder. Ash watched her go, then climbed down himself, because if she was going to try to be Haran today, then he was going to watch.
 
-Haran was at the bench across the room. He didn't turn. "Again."
+By the time he got to Building Three, Tesha had the pump housing open and was looking at the cylinder with a brow that had drawn together and stayed that way. Three of the new workers stood around her, including Dael, who was holding a cloth and a small jar of grease and did not appear to know what either was for at this exact moment. Vell had stationed herself at the edge of the small crowd, clearly intending to absorb whatever was about to happen. Corren was on the east elevation with two of the newer workers, fitting the window seals.
 
-She pulled the flue. Heated the solder. Stripped the lap. Cut a new section. By the third attempt the seam held, and she stood back from the stove with her hair stuck to her temples and a streak of soot across one cheek and a face that had decided something it wasn't sharing.
+Haran arrived from the workshop a minute later. He had been expecting to be summoned, Ash thought, or had simply seen Vell running. He carried a roll of tools in a strip of canvas. He did not hurry. He set the canvas down on the platform beside the housing and said, "So."
 
-Haran walked over. Pressed his hand to the seam. Held.
+"Valve seat," Tesha said.
 
-"Works," he said.
+"Looks like it."
 
-Tesha breathed out.
+"Brass insert?"
 
-"Next one tomorrow," Haran said. "Block Three needs eight."
+"Probably." He bent. He looked into the housing for perhaps three seconds. He straightened. He nodded the small nod that meant yes, that's the thing. "Brass insert. Backed off about a turn and a half. Might be the threading. Might be we hit it too hard when we set it."
 
-She nodded. She wasn't smiling. But her hand on the flue lingered the way Vell's had lingered on the crank.
+"Replace it?"
+
+"Reseat it. New gasket under." He unrolled the canvas. The tools inside lay in their order: the small wrench Ash recognized from a thousand afternoons in The Splits, the brass-handled punch, the gasket cutter, three shims of progressively thinner cut. Haran selected the wrench and the punch. He laid the cutter on the platform within reach. He did not touch the shims yet.
+
+"Watch this," he said. Not to Tesha. To the group.
+
+Ash had, perhaps a hundred times, watched Haran take a thing apart. He had watched him replace a valve seat in The Splits in the year before activation, on a pump that supplied water to Comyn's building, and he remembered the deliberation of it, the way Haran's hands moved at the same pace whether the job was urgent or casual. What Ash had not understood, then, was that the hands were doing only part of the work.
+
+He watched now.
+
+Haran's left hand braced the cylinder. His right hand fitted the wrench to the brass insert. He did not turn the wrench yet. He held it, as if testing the resistance through the metal, and his eyes did the thing Ash had begun to learn to read over the last year, the slight unfocus of a channeler reaching with something other than vision.
+
+The reservoir, behind Ash's ribs, felt nothing. There was no flare, no warmth in the air, no sense of energy moving. If Ash had been across the square he would have seen an old man with his hand on a wrench and nothing else. Standing at Haran's elbow, he saw, or thought he saw, the smallest possible shift in the brass insert, a shimmer that was not a shimmer because it had no color and no light, a barely-anything that he might have invented if he had not been watching for it.
+
+The insert turned a quarter rotation under the wrench with no force he could see Haran apply.
+
+The wrench came off. Haran lifted the brass insert clear with his fingers. He tapped it, once, on the flat of the platform. He lifted the old gasket out with the punch, replaced it with a fresh one cut to size from a sheet at his elbow, and reseated the brass.
+
+His hand went back to the wrench. The eyes did the unfocused thing again.
+
+The insert turned home. Tight. Not over-tight. Tight in the precise way Ash had learned, last summer, that brass into iron must be tight: enough to hold, not enough to strip the threads in three years.
+
+Haran closed the housing. He stepped back.
+
+"Try it," he said.
+
+Tesha nodded to Dael. Dael, looking grateful to have been given a thing to do that he understood, gripped the crank and pulled an upstroke. The pump made the low even sound it had made on the day they had first set it. No clack. No after-noise. Just the cylinder doing the cylinder's work.
+
+Six minutes had passed since Haran had unrolled the canvas. Maybe seven.
+
+"All right," Haran said.
+
+The reservoir, behind Ash's ribs, had felt nothing. He stood very still for a moment, parsing what he had seen and what he had not seen, the gap between Haran's hands and Haran's pool, the place where the channeling had to have happened and where it had been so small that he, Ash, with a Wellspring sitting full under his sternum, had registered only the rumor of a thing.
+
+*A whisper,* he thought. *Where I would have used a shout.*
+
+He filed it away. He did not have a word for what he had just seen, and he did not, yet, want one. He wanted to keep watching.
+
+"Tesha," Haran said.
+
+"I saw the wrench part."
+
+"Hm. You'll want to do this one."
+
+Tesha looked at him. She had a smudge of grease on the side of her nose that she had not noticed yet. "Now?"
+
+"Building Six has a slow valve. Same insert size. Probably the same problem." He rolled the canvas closed and handed it to her. "Take Dael. He can hold the cylinder steady."
+
+Dael, who had been holding the cloth and the grease without purpose, stood up a little straighter when Haran said his name. He did not smile. He nodded, tight, the way a man nods when he is being given a thing he is not certain he can do but is determined to try. He took the canvas roll from Tesha when she handed it to him. He carried it carefully, as if it were heavier than it was.
+
+They went to Building Six. Ash followed, because he wanted to see, and because Vell was already running ahead, and because Haran, with his hands free now, had turned back toward the workshop without saying anything else, the way he did when he was finished with a thing.
 
 * * *
 
-The reinforced flues, the ones that mattered, Ash channeled.
+Building Six took them an hour.
 
-Chimney stacks tied into older walls. Flue collars sealed to the stove plate. The points where heat and stress would concentrate over years of use. Each one was a small expenditure. Each one was permanent.
+Tesha got the housing open in two minutes. She found the brass insert. She fitted the wrench to it. And then she stopped, because the insert would not turn.
 
-He tracked the cost. Forty-one percent at the start of the second week. The second week cost him more than he expected. By the end of it he was closer to thirty-nine.
+"Stuck," she said.
 
-He sat with Haran in the workshop one evening, the door propped open to the square, the sound of a child somewhere down the curve of the street singing one line of a song over and over. Haran was filing a valve seat. Ash was doing nothing. He had his hands flat on the bench and was watching the lamp's flame.
+"It's not stuck," Dael said, from his place at the cylinder. "It's, you know. It's tight."
 
-"How small can it go," Ash said.
+"Same thing."
 
-"What."
+"Not the same thing."
 
-"Channeling. The smallest useful application."
+"For our purposes."
 
-Haran kept filing. The sound was even. He didn't answer for a long time.
+She tried again. She braced harder. She turned the wrench with a slow even pressure, the way Ash had seen Haran turn it, and the insert did not move. She rocked the wrench. The insert did not move. She let go and shook out her hand and looked at the housing for a minute, and Ash kept his mouth shut, because Tesha had said, the first morning he had met her, that she preferred to figure a thing out before being told, and he had been trying since then to honor that.
 
-"Depends on the channeler," he said.
+"Heat," she said, finally.
 
-"That's not an answer."
+"Heat?"
 
-"It's the answer."
+"The brass'll be tight against the iron because the iron's cold. The seasons changed last week. We set the inserts when the iron was warmer."
 
-Ash watched the flame. The wick burned crooked. A drop of wax slid down the lamp's stem and froze.
+She looked at Ash.
 
-"You use less than I do," he said. "On the same work."
+He shook his head slightly, smiling. "Not me."
 
-"Yes."
+"Not you?"
 
-"By how much."
+"Not yet. Try the other thing first."
 
-The file paused on the valve seat. Haran's eyes lifted, briefly, and met Ash's, and went back to the work.
+"What other thing?"
 
-"Don't measure me against you," Haran said. "Measure you against you."
+"I don't know yet. You're the one figuring it out."
 
-He resumed filing. The valve seat brightened under the file. Ash watched the metal curl off in tiny bright shavings.
+She gave him a look that was three parts exasperation and one part the small grim pleasure of being trusted to do a thing alone, and then she went back to the housing. She tried the wrench again. She tried the wrench with the small mallet Haran had taught her to tap, very gently, on the wrench's handle, to break the static seal. She tried a longer wrench, which she sent Dael to fetch from the new workshop, and which gave her more leverage.
 
-He didn't ask again. He filed it.
+The insert turned, finally, on the longer wrench.
 
-* * *
+It came out rougher than Haran's had. The threads, Ash saw when she lifted it, had a faint score along one face, a place where the brass had dragged against the iron for just an instant longer than was clean. Not ruined. Marked. He could see, when she fitted the new gasket and set the insert back in its seat, that her hands were working at the same task Haran had worked at, but the hands themselves did not yet know the task. They were learning it. The brass insert turned home under her wrench in a way that worked.
 
-The pump valve broke on a Tuesday.
+She closed the housing. She stepped back. She wiped her hands on the cloth Dael handed her, which he had finally found a use for.
 
-The east square pump, Vell's pump, the one she'd commissioned with her hand on the crank. The intake valve seized between strokes, the cylinder filled with air, and the pump went dry on the upstroke. Vell tried to free it with the crank. Couldn't. She left the handle, walked to the workshop, and stood in the doorway.
+"Try it," she said.
 
-"My pump's stuck," she said.
+Dael cranked. The pump made the low even sound. No clack.
 
-Haran looked up from the bench. "Show me."
+Tesha breathed out. She did not, Ash noticed, smile. She nodded, the small nod, the one she had picked up from Haran. She rolled the canvas closed.
 
-He brought a roll of tools. Ash followed, partly because he wanted to see the repair, partly because Tesha and Dael and three others had drifted over when they saw Haran cross the square with the tool roll, and the small crowd was its own gravity.
+"It works," she said.
 
-Haran knelt at the pump. He didn't speak. He set the tool roll on the flagstones, untied the leather, and selected three tools without looking: a stub spanner, a thin chisel, and a brass-headed mallet that fit his hand the way other things didn't.
+"It works," Ash said.
 
-He removed the cylinder cap. Four bolts. The bolts came out smooth.
+Dael, who had been holding the cylinder for the last forty minutes with the patient steadiness of a man who had figured out that holding the cylinder was, in fact, his job, said, "An hour."
 
-He drew the piston. Looked at the valve. The valve was a brass disc on a guided stem, a simple flap, and the flap had cocked sideways in its seat where a flake of grit had wedged.
+"An hour."
 
-Haran held the valve up to the light. Turned it in his fingers.
+"He did the other one in seven minutes."
 
-Ash watched.
+"He did," Tesha said.
 
-He had been watching Haran's hands for years. He knew the shape of the watching now. The eye narrowed for the flow rather than the motion. The way he'd learned to see the reservoir's draw in his own body, turned outward, looking for the same thing in another channeler's. He looked for it in Haran's hands and almost couldn't find it.
+"And ours is rougher."
 
-Almost.
+"Ours is rougher."
 
-There. As Haran turned the valve, his thumb passed across the cocked flap, and something happened that wasn't physical. The flap straightened a fraction. The grit, half-fused into the brass seat, released its hold and dropped into Haran's palm. A breath of warmth moved through Haran's skin into the metal and out, so fine and so brief that Ash would not have seen it if he hadn't been looking specifically.
-
-A whisper. Where Ash would have used a shout.
-
-Haran wiped the flap on his trouser leg. Set it back into the cylinder. Reseated the piston. Replaced the cap. Tightened the four bolts. Stood.
-
-Total time, from the first bolt to the last: three minutes, perhaps.
-
-"Try it," he said to Vell.
-
-Vell took the crank. Pumped once. Twice. The cylinder caught water on the second stroke, and the third pulled it cleanly through the outlet into the basin.
-
-Vell exhaled. She didn't say anything. She turned the crank twice more for the satisfaction of it, the way someone tested a door they'd just hung.
-
-"Now Tesha," Haran said.
-
-He walked away from the pump and sat on the low wall by the basin. He pulled a heel of bread from his coat pocket and ate it slowly.
-
-Tesha looked at Ash. Ash gestured at the pump.
-
-She didn't have Haran's tools. She had her own. She knelt where Haran had knelt and set out a tool roll she'd assembled from Petra's stores, the spanners not quite the same gauge, the chisel a quarter-inch narrower. She set the brass mallet aside. She didn't have one.
-
-She removed the cylinder cap. The bolts went smoothly for the first three. The fourth bound. She worked it loose with patience. The cap came off.
-
-She drew the piston. The piston caught on the cylinder wall and she pulled too hard and the seal came out with the piston in two pieces.
-
-She stopped. Looked at the seal. Looked at Haran.
-
-Haran kept eating his bread.
-
-She went back to it. She replaced the seal from the spares roll Haran had taught her to keep. She inspected the valve. She found no grit, because Haran had cleaned it, but she inspected the flap anyway, ran a fingernail across the seat, satisfied herself. Reseated. Closed.
-
-The four bolts went on. Two of them weren't quite even. She loosened both, retorqued, brought them flush.
-
-Total time: one hour and four minutes.
-
-She stepped back from the pump.
-
-"Try it," she said to Vell.
-
-Vell tried it. The pump caught on the third stroke. The flow into the basin was steady. A hair slower than after Haran's repair, perhaps, or perhaps that was Ash imagining what he expected to see.
-
-Tesha stood with her hands at her sides. Her face was doing the thing faces do when a person doesn't know whether to be proud or ashamed.
-
-Haran finished his bread.
-
-"Works," he said.
-
-He brushed crumbs from his palm and stood and walked back to the workshop.
-
-Tesha watched him go. Then she watched the water run. Her face settled, slowly, into something neither proud nor ashamed but simpler: she had done it. The pump worked. The water came.
+Dael looked at the housing. He looked at Tesha. He looked, for a moment, at his own hands, the way a man does when he has just discovered that he has hands that did a thing they had not done before.
 
 "It's rougher than yours," Tesha said. To Ash. Not to Haran's back.
 
@@ -302,53 +336,15 @@ Tesha watched him go. Then she watched the water run. Her face settled, slowly, 
 
 "No."
 
-She nodded once. Picked up her tool roll. Walked toward the workshop with the roll under one arm and her other hand wiping soot from her cheek.
-
-Ash stayed at the pump a moment longer. Vell was still cranking, slow now, idling, the basin full. He stood beside her.
-
-"You all right," he said.
-
-"It's my pump."
-
-"I saw."
-
-She looked at him. Her face didn't move. But something in the angle of her chin said *of course you did.* She turned back to the crank.
-
-He walked back to the workshop alone.
-
-He didn't think, in the moment, about what he'd watched. The thinking came later, that night, sitting on the wall at the district's upper edge with the city below him going dark a window at a time. He thought about Haran's thumb crossing the brass disc. About the warmth that had passed through and out. About what Haran knew and what Haran had not said when Ash had asked the question.
-
-*Don't measure me against you. Measure you against you.*
-
-The reservoir sat behind his ribs. Less than yesterday. Less than the day before. He had been sealing seams and fusing flues with what he believed was precision, and Haran had looked at his work and called it clean. *Cleaner than the Velden job.* But Haran's whisper to a brass disc had cost less, by orders Ash couldn't measure, than Ash's most careful seal.
-
-He didn't know what the difference was made of. He knew it was there.
-
-He filed it.
+She nodded once. Picked up her tool roll. Walked toward the workshop with the roll under one arm and her other hand wiping grease from her knuckles.
 
 * * *
 
-The reservoir math was a shadow.
+The liaison arrived on Friday.
 
-It walked beside him in the square. It sat with him at the bench. It came with him up the stairs to the rooftops where the cisterns waited. He didn't speak it aloud. To Haran, who would have heard it in a single sentence and answered with a sentence Ash wasn't ready for. To the workers, who didn't need it. To Felden, when Felden came.
+Ash had been told, by a runner from Felden's office, to expect a "courtesy visit" from one of Dorenne's mid-level administrators. The runner had used "thorough" in the tone of someone who has been instructed to use the word and had concluded that it was a warning.
 
-One percent per week. A point and a half on the harder weeks. Sustainable, if the only district was Stonecurve. Sustainable, if the only year was this year. Sustainable, if the city had one neighborhood and not dozens, if the decline had paused, if the Wellspring were renewable.
-
-None of those were true.
-
-He did the arithmetic at night, on the wall, with the tap running below in the square. If Stonecurve cost him three percent a month at the construction phase, and there were perhaps forty districts of comparable scale that needed the same retrofit, the reservoir would not last the project. Not at his rate. Not at his current efficiency.
-
-*Don't measure me against you. Measure you against you.*
-
-He didn't speak it. He watched the lamps go out window by window across the lower city, and held the math in his chest beside the reservoir, and walked home in the dark.
-
-* * *
-
-Felden arrived on the morning of the fifteenth day.
-
-He came alone, on foot, with a clerk's satchel over one shoulder and a notebook already open. The compact posture, the habit of writing things down before they were said. The same man who had introduced the workers in the square and left without ceremony.
-
-He had walked from the Hall of Infrastructure. The walk was an hour and a quarter for a brisk man, longer for a careful one. Felden's boots were dusty to the ankle.
+Felden arrived in the middle of the morning, on foot, with a leather case under his arm and a notebook already open. The compact posture, the habit of writing things down before they were said. The same man who had introduced the workers in the square three weeks ago and left without ceremony. His boots were dusty to the ankle. The walk from the Hall of Infrastructure was an hour and a quarter for a brisk man. Felden had been brisk.
 
 "Director's compliments," he said. "She'd like a tour."
 
@@ -358,179 +354,240 @@ He had walked from the Hall of Infrastructure. The walk was an hour and a quarte
 
 Felden did not smile. Felden did not, as far as Ash had observed, possess a smile in his available set. He had a small repertoire of acknowledgments: the single nod, the pencil stroke, the half-step back that signaled his attention had moved to the next item.
 
-Ash showed him the cistern.
+He saw the system.
 
-They climbed to the rooftop. Felden made notes on the cistern wall, on the seams, on the pump platform. He asked the diameter of the feed pipe. He asked the fill time. He asked the pressure at the lowest tap, in units Ash provided in approximate centimeters of head and that Felden converted to whatever notation his office preferred.
+He saw the rooftop cistern and Haran's pump platform, and he asked about cistern volume, which Ash gave him in cubic feet and Haran's calculations, and refill time, which he gave him from memory. He saw the main feed and the three branches and the eleven secondary lines now running. He saw Building Three's pump and Building Six's pump and the joint Tesha had laid the previous Tuesday on the eastern feed. He saw the insulation work in Building Five, and he asked, with the quiet specificity of a man who knew what to ask, about thermal performance under sustained low temperatures, and Ash gave him Haran's numbers, and Felden wrote them down. He wrote everything down. The leather case opened to a spring-bound notebook with paper Ash recognized as Hall stock, and a pencil with a brass cap, and Felden's hand moved over the page in small even lines that did not pause.
 
-He did not, on the rooftop, ask the question.
+He did not, Ash noticed, look surprised by anything. He also did not look unimpressed.
 
-Ash showed him the tap in the square. The basin. The crank pump where Vell was working her morning shift. Felden watched Vell for perhaps thirty seconds, made a note, and asked her how long the cistern took to fill.
+He asked to be left alone in the front room of the insulated building for two minutes. Ash heard him through the door, his palm laid flat on the wall, the channeler's check, the small breath he let out when the seam confirmed. When Felden came out he made another note.
 
-"Forty-one minutes," Vell said. She didn't stop cranking.
+They came back to the square at noon. Vell had finished her fill and gone to find food. Tomas was on the crank now, slower, stiffer, but holding the rhythm. Felden watched him for a moment.
 
-"And how often do you fill it."
+Ash noticed, as Felden turned toward him, a broadsheet pinned to the post at the edge of the pump platform, its corner lifting in the shelf-wind off the terraces. He had walked past it two days running. He caught only the last line from this distance: *organizing near the Hall, peaceful, asking questions the Council won't.*
 
-"Twice. Morning. Late afternoon."
-
-"Have you missed a fill."
-
-"No."
-
-Felden made a note. Nodded once. Moved on.
-
-He toured Block Three. The flues, the stoves, the sealed walls. He asked to be left alone in the front room of the second building for two minutes. Ash heard him through the door, his palm laid flat on the wall, the channeler's check, the small breath he let out when the seam confirmed.
-
-When Felden came out he made another note.
-
-"Insulation sourced from?"
-
-"Hill country. Through Petra."
-
-"Cost?"
-
-"Petra has the figures."
-
-"I'll need them."
-
-"You'll have them."
-
-They walked out into the square. Felden stood at the basin and looked at the tap and the pump and the workshop door across the way where Tesha was visible inside, lapping a sheet metal seam with a hammer. He watched her work for the duration of one mallet stroke and one rest.
+Felden's gaze passed over it. His pencil hovered. He did not write it down.
 
 He turned to Ash.
 
-"What happens," he said, "when the Wellspring isn't here to install the next system."
+"What happens," Felden said, "when the Wellspring isn't here to install the next system."
 
-Felden didn't ask the question the way Dorenne would have. Dorenne would have asked it as a chess move, the words placed on the board so that Ash had to either take them or reveal that he couldn't. Felden asked it as a clerk asks a question that has already been asked and circled and underlined in the office above his.
+He asked it the way a clerk asks a question that has already been asked and circled and underlined in the office above his. Not a chess move. An item on a list.
 
 "The people here install it," Ash said.
 
-Felden's pencil moved. He wrote the answer down. He read it back to himself, silently, the way men did when they were testing a sentence for weight.
+Felden's pencil moved. He wrote the answer down. He read it back to himself, silently, testing the weight of it. His pencil hovered over the page for the half-beat that constituted, in Felden's small repertoire, an expression.
 
-He didn't argue.
-
-He didn't have to.
-
-His pencil hovered over the page for the half-beat that constituted, in Felden's small repertoire, an expression. Then he closed the notebook over the pencil and slid it into his satchel.
+He closed the notebook over the pencil and slid it into his case.
 
 "I'll have a written report by tomorrow," Felden said. "The Director will read it the same day."
 
-"Tell her..."
+"Tell her—"
 
-Ash stopped. He had been about to say *tell her it works.* He had been about to say *tell her the people are learning.* He had been about to say several things, all of which were partly true and none of which would survive the walk back to the Hall of Infrastructure intact.
+Ash stopped. He had been about to say tell her it works. He had been about to say tell her the people are learning. He had been about to say several things, all of which were partly true and none of which would survive the walk back to the Hall intact.
 
 "Tell her thank you for the workforce," he said.
 
 "I'll convey it."
 
-Felden adjusted his satchel. He turned to leave. At the edge of the square he paused and looked back, and for the first time in an hour Ash had the sense that Felden was looking at him and not at the project.
+Felden adjusted his case. He turned to leave. At the edge of the square he paused and looked back, and for a moment Ash had the sense that Felden was looking at him and not at the project.
 
 "It's good work," Felden said. "Director will see that."
 
-He didn't say *what comes after the work.* He didn't have to.
-
 He walked. He did not look back again.
 
-Ash stood in the square. The tap ran. Vell's crank pulse came down through the building wall behind him. Across the square, in the workshop, Tesha's mallet found a rhythm and held it, three taps and a pause, three taps and a pause.
-
-* * *
-
-Haran was at the workshop bench when Ash came in.
-
-The shop had filled out further over the weeks. A second tool rack on the back wall. A small forge in the corner, cold now, banked. The shelf of notebooks had grown by two. A curl of metal shaving lay on the bench, fresh, a single perfect spiral from the file Haran had been using.
-
-Ash sat on the upturned crate by the door. He didn't speak for a while.
-
-"Felden left," he said eventually.
-
-"Heard him."
-
-"He asked the question."
-
-Haran's file moved across the work. Even strokes. He didn't look up.
-
-"Which one."
-
-"What happens when I'm not here."
-
-The file paused. Resumed.
-
-"What did you say."
-
-"That the people install it."
-
-Haran nodded slowly. He set the file down. He picked up the piece he'd been working, a small brass fitting, and held it to the light. He turned it. Set it down.
-
-"That's the right answer," Haran said.
-
-"It's not the true answer."
-
-"It's the right answer."
-
-Ash watched the lamp. The flame burned crooked again. The wick needed trimming. He didn't trim it.
-
-"You can't train everyone," Haran said. He said it the way he said most things he meant. Without weight. Like a measurement read off a rule. "You train enough. The enough train more."
-
-"How long."
-
-"Years."
-
-"How many."
-
-Haran considered. He picked up the brass fitting again. His thumb crossed the edge of it, and something passed through his skin into the metal, the same whisper Ash had seen at the pump, a draw so small it wasn't a draw.
-
-"More than I have," Haran said.
-
-He set the fitting on the bench. Lined it up with the others.
-
-"Get to work," he said. "Tesha's lapping the eighth flue. You said you'd help her with the collar."
-
-Ash stood. He went.
-
-He didn't ask the other question. He didn't ask whether Haran had measured himself against the years he had left, or against the project's scale, or against the reservoir Ash carried behind his ribs. He didn't ask whether *you train enough* was a plan or a hope or the thing a man said when he had no other answer.
-
-He helped Tesha with the collar. The lap was uneven. He showed her where. She redid it. The second attempt was straight.
-
-* * *
-
-That night he sat on the wall again.
-
-The tap ran in the square below. Vell had filled the cistern at sundown. The pumps were still. The workshop window glowed, Haran inside, working at something Ash could see only as a moving shadow.
-
-Above Stonecurve, the upper terraces glittered the way they always did, the elder districts holding their channeled lamplight steady against the dark. Below, the lower city held a different pattern, lamps where there were lamps, dark windows where there weren't, the irregular constellation of people choosing where to spend.
-
-He held his hands open in his lap. The reservoir sat behind his ribs. The boundary closer than last week. Closer than last month. Forty percent, perhaps. Less. He could feel the wall when he reached now without trying.
-
-He thought about Vell. The angle of her shoulders softening when the woman with the jug walked away.
-
-He thought about Tesha. Her face at the flue when the smoke didn't come.
-
-He thought about the old man at his wall, channeling warmth into stone that would cool the moment he stopped. The old man had not come to the heating crews. He had not asked about the stoves. He had stayed at his wall every morning and pressed his hands to the limestone and given what he had to a thing that took everything and held nothing.
-
-He thought about Felden's pencil hovering over the page.
+Ash stood in the square for a long minute after he was gone. The tap was running. Tomas was on the crank. A woman had come to the basin with a clay jug and was waiting her turn behind a man Ash didn't know. Across the square, in the doorway of the new district workshop, Haran was setting something on the bench, turning his back to the light.
 
 *The people here install it.*
 
-He had said it like a man stating a fact. He had said it because it was the answer the project required him to have. He had not, until Felden's silence, allowed himself to feel how much of it was a sentence he had built and not yet tested.
+It had felt true when he said it. He had not tested it.
 
-He thought about Haran's thumb across the brass disc.
+Ash stood in the square. His hands were cold. He did not channel them warm.
 
-He didn't have a word for what Haran was doing. Precision wasn't it. Technique wasn't it. He had watched it happen and had seen the gap between Haran's whisper and his own shout, and he didn't know what occupied the gap or how to cross it.
+* * *
 
-He knew it was the only currency in which the math could change.
+Haran did not ask about the visit.
 
-He closed his eyes. The reservoir sat. The wall was there when he reached. He didn't reach.
+Ash came into the new district workshop at the end of the afternoon, because the workshop was where he ate now, most days, and because Haran had begun to keep a pot of soup on the small stove in the back room, and because he did not, today, want to walk back to The Splits to eat alone. Haran was at the bench. He was, Ash saw, working on the broken second valve from Building Three, the one Tesha and Dael had replaced that morning. He had it dismantled. He was filing the brass insert's threads, very lightly, with a needle file, and turning the insert as he filed.
 
-A door opened somewhere down the curve of the street. A child laughed once and was hushed. A bucket clanked, and the clank was different now, hollow, empty. A bucket carried for a use other than water.
+"Reusing it," Ash said.
 
-Eleven branches of twelve, the eastern run finally connected last week, all twelve flowing now, and three buildings warm without him, and Tesha lapping flues, and Vell at her crank, and Haran in his workshop where the lamp burned crooked, and Felden walking back to the Hall with a notebook full of numbers and one sentence underlined.
+"It'll seat clean once the score's filed off." Haran did not look up. "Spare for the eastern run."
 
-A start.
+"You don't trust the new ones."
 
-He sat on the wall a long time. The reservoir didn't move. The city went on going dark a window at a time. Somewhere below him, in Stonecurve, water ran into a stone basin by gravity alone and nobody was channeling, and nobody needed to.
+"I trust them fine. I also trust a spare."
 
-Yet.
+Ash sat on the stool at the corner of the bench. He watched Haran's hands. They were old hands; he had always known they were old hands. They had liver spots and a small knotted place at the base of the right thumb where a hammer had landed badly twenty years ago, and the nails were short and clean and the fingers were thinner than they had been a year ago, or Ash thought they were. He did not, when he watched the hands work, see the nearly-invisible thing he had seen that morning at the pump. Whatever Haran had done at the wrench, he was not doing it now. The file moved, the brass turned, the score lifted in fine bright threads. That was all.
 
-He climbed down. He walked home in the dark. Behind him the workshop window stayed lit a long while, and then went out, and Stonecurve held its small new warmth in its sealed walls and slept.
+"He asked me," Ash said, "what happens when I'm not here."
 
----
+"Hm."
 
+"I told him the people here install it."
+
+Haran turned the brass insert. He moved the file along a fresh quarter of its circumference. He did not look up. He did not speak for a long enough moment that Ash, in the time before he had known Haran, would have begun to fill the silence.
+
+He did not fill the silence.
+
+Haran set the file down. He held the brass insert up to the lamp, turned it, examined the surface where he had filed. He nodded the small nod. He set the insert in the small wooden tray beside the file, where the cleaned parts went.
+
+He picked up a second insert. Fitted it into the vise. Looked at it a moment.
+
+"Gear with a missing tooth," he said. "You don't replace the whole mechanism. The next tooth carries what the missing one can't." He turned the insert under the file. "The tooth after that learns to carry a bit more than it used to."
+
+"That's not an answer to whether they're ready."
+
+"No." Haran turned the brass another quarter. "It's an answer to a different question."
+
+"Which one?"
+
+Haran set the file down. He held the insert up to the lamp, examined the surface. He set it in the tray.
+
+"The one about what happens to the second tooth," he said.
+
+Ash watched him pick up the next insert.
+
+"And the other question?"
+
+"Hm?"
+
+"Whether they're ready."
+
+Haran fitted the new insert into the vise. He did not look up. "Ready for what."
+
+"For when I'm not here."
+
+A pause. The file moved over the brass, lifted a thread, moved again.
+
+"When are you not here?"
+
+"I, I don't know. Eventually. The way anyone isn't somewhere eventually."
+
+"Mm." Haran lifted the file. He looked, at last, at Ash. The corner of his mouth did the thing. "So. Ready isn't a place. It's a direction. You ask Tesha if she's ready and she'll say no. You ask her to fix Building Six and she'll fix it. The fix won't be pretty. Building Six won't care."
+
+"Felden cared."
+
+"Felden was sent to care. That's different."
+
+He set down the file. Quiet for a moment. He looked at the tray of cleaned inserts.
+
+"Whether anything works at all," Haran said. "Whether one district is possible. We know one district can work. What breaks on the second?"
+
+"And the other thirty-six."
+
+"Are not your problem tonight."
+
+Ash looked at the brass in the vise. He looked at the file. He looked at Haran's hands.
+
+"I want to ask you something," he said.
+
+"Mm."
+
+"This morning. At the valve. The brass insert."
+
+"Mm."
+
+"You did something."
+
+Haran turned the brass another quarter. "I had a wrench."
+
+"I know."
+
+"And a punch."
+
+"I know."
+
+Haran did not stop filing. He had heard the question. He had answered the part of the question he intended to answer. He was waiting, in his patient, infuriating way, to see whether Ash would push.
+
+Ash thought about pushing.
+
+He did not push.
+
+"Soup," Haran said, into the silence. Not quite a question. "Pot's on the stove."
+
+"Yes. Please."
+
+He went to the back room. He ladled soup into two bowls, the chipped one Haran had brought from The Splits and the new one Petra had sent over with the bench. He carried them both back to the bench. He set Haran's beside the file. He took his own to the stool. They ate without further talk, the way men eat together when they have already said the things that needed saying that day, and the small bright sounds of the file resumed when Haran had finished his bowl.
+
+Ash washed the bowls afterwards. The water from the workshop's small inside tap ran cold over his hands, gravity-fed from the secondary line, the same line Tesha had laid the previous Tuesday. He stood with his hands in the cold water for longer than the bowls required, feeling it, feeling the simple unmagical fact of it, water moving through pipe because pipe had been put where it could move.
+
+The reservoir sat behind his ribs, lighter than it had been at the start of the week, lighter still than the start of the project, the boundary closer by a measure he had stopped pretending not to feel.
+
+He dried the bowls. He set them on the shelf. He went out into the square.
+
+The lamps were lit along the eastern wall now, three of them, oil lanterns Petra had sent down from a coastal contact, hung from iron brackets Bren had cut and Haran had set. They were not bright. Vell was in the lamp's light at the edge of the basin, sitting on the stone lip, talking to Tomas about something Ash could not hear. She had a piece of bread in one hand and was gesturing with it, and Tomas was nodding. Behind them, the tap ran its steady thread into the basin, and the basin overflowed into the channel, and the channel ran the water down to the lower cistern, and tomorrow Nera would come up after her shift at the rope-walks and crank the rooftop fill for the eastern run, because she had decided that the eastern cistern was hers.
+
+Ash stood in the square for a long minute. He listened. He could hear, from the new workshop, the small bright sound of the file. He could hear Vell laughing once, a short surprised laugh, at whatever Tomas had said. He could hear the water.
+
+*The people here install it.*
+
+He thought about the sentence again. He thought about Tesha at Building Six, an hour to do what Haran had done in seven minutes, the brass score along one face. He thought about Bren's groove, almost square. He thought about Vell, fastest in the district, deciding without being told that the catch basin was finished and the rooftop fill was next. He thought about Dael, who had held the cylinder for an hour and at the end of the hour had looked at his own hands.
+
+He thought about the gap. The one Felden had seen. The one Haran refused to call by its name.
+
+The math was a shadow at the edge of his thought, and he had been keeping it there, and he had been keeping it there well enough that it had not, until today, walked into his evening.
+
+It walked into his evening now. He let it.
+
+The work that didn't need him had been built by him. The construction wouldn't.
+
+He did not channel his hands warm. He stood in the cold light of the lamps and watched the water, and the math sat with him, and he sat with the math, and somewhere behind his ribs the reservoir held what it held, no more, no less, the boundary closer than it had been a month ago.
+
+Vell saw him. She raised the piece of bread in greeting. She called, across the square, "It worked today. Three buildings. All day. No clack."
+
+"No clack," he called back.
+
+"Tomorrow we're starting Building Seven."
+
+"Building Seven."
+
+"Tesha said." Her chin lifted half an inch. "I'm on the crank for the morning fill."
+
+"You're on the crank for every morning fill."
+
+"Yes." A small grave nod, the Haran nod. "But tomorrow it counts toward Building Seven."
+
+He smiled, before he meant to. She saw it. She lifted the bread again, the way a person lifts a small flag, and turned to keep talking to Tomas.
+
+Ash crossed the square. He went past the basin and past the lamps and into the new workshop, where Haran was still at the bench. He sat on the stool at the corner. He picked up a rag, because there was a rag, and a piece of brass beside it that had been cleaned and needed drying, and the work was the work, and his hands knew the work, and he did the small specific job in front of him while Haran filed, and the file's bright thin sound and the rag's slow circular motion were, for a little while, all there was.
+
+After a long time Haran said, without looking up, "So."
+
+"So."
+
+"Building Seven."
+
+"Mm."
+
+"Vell's on the crank."
+
+"She would be."
+
+A pause. Haran turned the brass.
+
+"The brass is going slower," he said.
+
+"I am."
+
+"Sleep here."
+
+"I will."
+
+"There's bread in the box. Take it in the morning."
+
+"Yes."
+
+"And the cot," Haran said. "Mind the right leg. I shimmed it, but it walks if you sit on the edge."
+
+"I'll mind it."
+
+"Mm."
+
+The file resumed. Ash sat at the corner of the bench, drying brass, in the lamplight that fell across the back wall and the row of pegs and the chisels in their order from broadest to finest. Outside, the tap ran. Inside, the file lifted threads. Behind his ribs, the reservoir held what it held.
+
+He had work he did not yet know how to do, and a man at the bench beside him who was not going to tell him how.
+
+He set the dried brass in the tray. He picked up the next piece. The file moved. The lamp's light fell across Haran's hands, and Ash, watching, did not see the thing he had seen that morning, the whisper-where-he-would-use-a-shout, the precision that was not technique. He saw an old man filing brass.
+
+He filed that away too, beside the other thing, and went on drying.

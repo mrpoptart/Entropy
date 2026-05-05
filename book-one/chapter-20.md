@@ -50,6 +50,8 @@ Ash looked at the bench, then at the wall behind it where Haran kept his project
 
 Fourteen Harven. Three weeks ago.
 
+"Sorry," he said. He wasn't sure what he was apologizing for. "I didn't know you'd finished it."
+
 "The pump," Ash said.
 
 "Installed." Haran set the gear housing down and picked up a smaller piece, a shaft collar, brass, needing the same attention. The rag moved over it.
@@ -118,15 +120,15 @@ He told Haran the numbers.
 
 Not all of them. Not the full accounting, the page-by-page reconstruction, the hours of pencil work in a dim room with a guttering candle. He gave Haran what the math added up to, because Haran was the kind of person who cared about what the numbers meant, not how you arrived at them.
 
-"The Wellspring started at roughly five thousand elder-days," he said. "I've spent approximately twenty-eight hundred. Maybe three thousand. The edges are imprecise."
+"The Wellspring started at, Haran said five thousand elder-days, or something like five thousand, I still don't know the exact number," he said. "And I've spent roughly twenty-eight hundred. Maybe three thousand. I'm, the edges are imprecise. It's not, I can't measure it clean the way you'd measure anything else."
 
 Haran held his tea. His face was still.
 
-"The earthquake alone was fifteen hundred elder-days. Give or take." Ash's voice was level. He'd had time to sit with this. The tremor in his hands was gone, replaced by something flatter, the exhausted calm of a person who had finished being shocked and was now simply telling the truth. "The training period, the deployments, the reconstruction after. It adds up."
+"The earthquake was, I did the math three times, I kept expecting it to come out different, fifteen hundred elder-days. Give or take." His voice was not quite level. He'd had time to sit with this. The tremor in his hands was gone, replaced by something flatter, the exhausted calm of a person who had finished being shocked and was now simply telling the truth. "The training period, the deployments, the reconstruction after. It adds up."
 
 He paused. Drank. Set the cup down again.
 
-"At current rates, Dorenne's deployment schedule, three to six sites a day, I have roughly eighteen weeks. At expanded rates, eleven. If I somehow reached master efficiency, which would take years I don't have, twenty-one." He looked at the bench between them, at the grain of the wood, at the ring of moisture where his cup had been. "Call it a season. Maybe two. Then it's gone."
+"At current rates, Dorenne's deployment schedule, I've started calling it that too, three to six sites a day, I have roughly eighteen weeks. At expanded rates, eleven. If I somehow reached master efficiency, which would take years I don't have, twenty-one." He looked at the bench between them, at the grain of the wood, at the ring of moisture where his cup had been. "Call it a season. Maybe two. Then it's gone."
 
 He stopped talking.
 
@@ -188,7 +190,7 @@ Ash breathed.
 
 The question was so simple that it took a moment to hear.
 
-"Yes," Ash said. "Every drop. Every hour. The buildings stood. The dam held. People are alive because..." He stopped. Swallowed. "Yes."
+"Yes." He looked at his cup. "The buildings stood. The dam, it held. That's, yes. It was worth it." He stopped. "Every drop."
 
 Haran picked up his cup. Drank. Set it down.
 
@@ -298,11 +300,11 @@ He looked at the pump diagram. He looked at the project notes. The heating eleme
 
 He moved through the workshop with the ease of a man closing a day he was satisfied with. The ease Ash recognized from a hundred evenings in this room, from years of watching these hands put away tools and wipe down surfaces and bank the stove and check the door. The practiced, unhurried motion of a person who maintained things because maintenance was a form of respect.
 
-"What I meant," Ash said. He stopped. Started again. "What you asked. The Wellspring..." He pressed his hands flat on the bench. "I've been treating it like it's who I am."
+"What I meant," Ash said. He stopped. Started again. "What you asked. The Wellspring." He pressed his hands flat on the bench. "I fused a fitting the first day. After the activation. And it felt like being let into a room I'd been standing outside my whole life. And I've been spending it like I'm afraid they'll take the key back." He stopped. "I've been treating it like it's who I am."
 
 Haran paused at the storage rack. He didn't turn around.
 
-"It's not who I am," Ash said. The words came out quiet. Rougher than he intended. "It's a resource. It's a budget. A large one. A finite one." He looked at his hands on the bench.
+"It's not who I am." He looked at his hands. "It's a resource. That's, it should be obvious, Haran, I know it should be obvious, but I've been, it's a budget. A large one. A finite one. Like the pump. Like the lamp oil. It costs what it costs and when it's gone it's gone." He stopped. "I think I've known that for a while. I just didn't want to."
 
 Haran turned. He stood at the rack with a rag in one hand and the still, attentive expression of a man who was hearing something he'd been waiting a long time to hear. Not with triumph, not with I-told-you-so satisfaction, but with the plain, undecorated relief of a man who cared about a young person and had watched that young person take a step in the right direction.
 
