@@ -86,7 +86,7 @@ Haran picked up the housing and turned the shaft. The mechanism clicked. He turn
 
 "The pawl spring is too light," he said. "It'll skip under load."
 
-"Yeah, I, I noticed that, sorry, I was going to say something, I just wanted to see if it would cycle first. Bottom drawer?"
+"Yeah, I... I noticed that, sorry, I was going to say something, I just wanted to see if it would cycle first. Bottom drawer?"
 
 "Bottom drawer, second rack. There's a coil of sixteen-gauge I've been saving for something."
 
@@ -98,7 +98,7 @@ They drank tea. The workshop warmed. The fire in the stove found its rhythm, and
 
 "The valve assembly," Haran said. "You're still thinking butterfly?"
 
-"Gate valve, actually, I switched, because the butterfly design needs a seal I couldn't source, or I couldn't find one that would hold under sustained pressure, the leather washers I tried kept weeping, which, I should have tested that earlier, but, well. Gate valve."
+"Gate valve, actually, I switched, because the butterfly design needs a seal I couldn't source... or I couldn't find one that would hold under sustained pressure, the leather washers I tried kept weeping, which, I should have tested that earlier, but, well. Gate valve."
 
 "What seal?"
 
@@ -118,7 +118,7 @@ Ash picked it up. The material was dense, slightly tacky, with a firmness that g
 
 Ash turned the disc over in his fingers. A seal material. Flexible, watertight, sourceable from tree sap and sulfur, materials that existed in abundance, that didn't require channeling to produce, that could be made by anyone with a heat source and the knowledge of the process.
 
-"Okay, this, wait, this changes the whole valve design, doesn't it. I've been drawing around the wrong constraint for two weeks. This is, sorry, let me just." He pulled the project board down from the wall.
+"Okay, this... wait, this changes the whole valve design, doesn't it. I've been drawing around the wrong constraint for two weeks. This is... sorry, let me just." He pulled the project board down from the wall.
 
 "It changes a lot of designs."
 
@@ -158,7 +158,7 @@ Ash almost smiled. The Velden pump, the one he'd installed in the weeks before t
 
 Twenty. In a city of thousands.
 
-"Twenty. I, yeah." He was quiet for a moment. "I keep thinking about the repair crews up in the elder districts, how fast the stone was dressed and sealed, and then I walk down here and the scaffolding has been on that building for six weeks. It's not... it's not even close."
+"Twenty. I... yeah." He was quiet for a moment. "I keep thinking about the repair crews up in the elder districts, how fast the stone was dressed and sealed, and then I walk down here and the scaffolding has been on that building for six weeks. It's not... it's not even close."
 
 "No," Haran said. "It's not."
 
@@ -250,7 +250,7 @@ Ash sat with the question. The math was there, the same math that had undone him
 
 The question landed where Haran's questions always landed, not in the mind but in the space between the mind and the hands, the place where understanding became action or didn't. What's your answer. Not what do you think. Not what do you believe. What are you going to build.
 
-"I've got... pieces, maybe. The pump. The valve. I don't know yet how they add up to something. I don't, I'm not sure I have an answer yet."
+"I've got... pieces, maybe. The pump. The valve. I don't know yet how they add up to something. I don't... I'm not sure I have an answer yet."
 
 Haran nodded. He didn't look disappointed. He didn't look satisfied. He looked like a man who had asked a question and received an honest answer and considered that sufficient for now.
 
@@ -260,7 +260,7 @@ Haran nodded. He didn't look disappointed. He didn't look satisfied. He looked l
 
 "And the heating?"
 
-"I haven't, no, I kept putting that off. The combustion stove design works on paper but the fuel supply is the bottleneck and I kept thinking someone smarter had probably already solved that part."
+"I haven't... no, I kept putting that off. The combustion stove design works on paper but the fuel supply is the bottleneck and I kept thinking someone smarter had probably already solved that part."
 
 "Coal?"
 
@@ -268,7 +268,7 @@ Haran nodded. He didn't look disappointed. He didn't look satisfied. He looked l
 
 Haran set the fitting down. "Petra's vulcanized sap process throws off heat as a byproduct. A lot of heat. She hasn't measured it because she's focused on the material output, but I've felt it from across the room."
 
-"Wait, are you thinking thermal capture? From the vulcanization process? I didn't, I hadn't connected those."
+"Wait, are you thinking thermal capture? From the vulcanization process? I didn't... I hadn't connected those."
 
 "I'm thinking there are problems we haven't connected to each other yet." Haran stood and crossed to the project board on the far wall, the master board, the one that held the overview of every active project in the workshop. Diagrams, sketches, notes in multiple hands, connected by string and pins in a web that looked chaotic and was, in Haran's mind, a map. He tapped a point near the center. "Petra's vulcanization. Your pump system. Davel's ventilation fan. The oil lamp improvements. The insulation work from the hill settlements." His finger traced the strings connecting them. "These are pieces."
 

@@ -208,7 +208,7 @@ Ash blinked. "What?"
 
 "The Kharren Fault teams. The ones who were supposed to keep this from happening." She gestured at the rubble, at the absence where three buildings had been, at the dust that covered everything. "Where were they?"
 
-"The fault monitoring teams have been..." He stopped. He'd read the reports. He'd filed the reports. Declining pool strength in the reinforcement crews. Reduced shift coverage. Budget constraints. Dorenne's assessments: *manageable*. "The crews, there wasn't, the budget, they've been understaffed."
+"The fault monitoring teams have been..." He stopped. He'd read the reports. He'd filed the reports. Declining pool strength in the reinforcement crews. Reduced shift coverage. Budget constraints. Dorenne's assessments: *manageable*. "The crews, there wasn't... the budget, they've been understaffed."
 
 "Understaffed." The word came back at him like a thrown stone. She was young, his age, maybe younger, with dark hair cut short and callused hands and a smear of masonry dust across her forehead. Kael, he would learn the name later, from a broadsheet, from a quoted voice he recognized before he recognized the name. The particular anger of someone who was looking at the ruins of their neighborhood and seeing a pattern. "The upper terraces held. We collapsed. How is that understaffed? That's a choice. That's someone choosing where to send the crews and where not to. That's someone deciding which buildings get reinforced and which buildings get..." She waved at the rubble. "This."
 

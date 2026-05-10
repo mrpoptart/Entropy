@@ -32,7 +32,7 @@ Haran was at the main bench, bent over something small. He didn't look up when A
 
 "You're late," Haran said.
 
-"I know, sorry, I got held up at the Hall, Tessaly had notes on my analysis and, it took longer than it should have, probably."
+"I know, sorry, I got held up at the Hall, Tessaly had notes on my analysis and... it took longer than it should have, probably."
 
 "I know where you came from." He still hadn't looked up. He picked up another fitting, examined it, set it aside. "You walk different."
 
@@ -40,7 +40,7 @@ Ash paused in the doorway. "What?"
 
 "Faster. Chest up." Haran glanced at him, finally, a brief, dry assessment, the same look he gave a mechanism before deciding whether it needed adjustment. "New coat?"
 
-"It's the same coat, it's, I haven't bought anything, I wouldn't know where to, Dorenne's people dress differently but I'm not, it's the same coat."
+"It's the same coat, I haven't bought anything, I wouldn't know where to... Dorenne's people dress differently but I'm not, it's the same coat."
 
 "Hmm." He turned back to his work. The sound of the file resumed, and the conversation was, apparently, concluded.
 
@@ -58,17 +58,17 @@ He pulled the folded deployment brief from his coat pocket, Dorenne's seal at th
 
 Haran filed. The brass sang faintly under the stroke.
 
-"It sounds small," Ash said. "But the overlap was creating a bottleneck at the Thornwall junction. Two crews showing up on the same day, neither with full capacity, both of them waiting for the other to finish before they could start. Now they alternate. Nobody blocking the other team's turn. Tessaly said it was, she didn't say much, actually. She just nodded."
+"It sounds small," Ash said. "But the overlap was creating a bottleneck at the Thornwall junction. Two crews showing up on the same day, neither with full capacity, both of them waiting for the other to finish before they could start. Now they alternate. Nobody blocking the other team's turn. Tessaly said it was... she didn't say much, actually. She just nodded."
 
 "Tessaly sounds like someone worth knowing."
 
-"She's, I think she might be terrifying, actually, Haran, she said maybe twenty words total and I left with a page of notes, I don't know how she does it."
+"She's... I think she might be terrifying, actually, Haran, she said maybe twenty words total and I left with a page of notes, I don't know how she does it."
 
 "Two good qualities."
 
 Ash picked up a file from the bench and turned it in his hands. His fingers knew the weight of it, the particular roughness of its grip. He'd used this file hundreds of times, shaping copper fittings and iron brackets and the small brass components of a dozen projects that now sat in homes and workshops across the district. His hands found it the way they found the railing on a familiar staircase.
 
-"Haran, the scale of it, you should, I don't know, I can't describe it properly, there's a map board, every district, color-coded, and I keep standing in front of it thinking there has to be a pattern I'm missing but there isn't, I can just see it." He set the file down and leaned forward. "Every district in the city: green, amber, red. Every system tracked. Water, heating, structural reinforcement, transit. And it all connects. A problem in one district creates a cascade that touches three others. I can see it. I can see the patterns."
+"Haran, the scale of it, you should... I don't know, I can't describe it properly, there's a map board, every district, color-coded, and I keep standing in front of it thinking there has to be a pattern I'm missing but there isn't, I can just see it." He set the file down and leaned forward. "Every district in the city: green, amber, red. Every system tracked. Water, heating, structural reinforcement, transit. And it all connects. A problem in one district creates a cascade that touches three others. I can see it. I can see the patterns."
 
 "Patterns are your talent."
 
@@ -98,7 +98,7 @@ Ash handed him the small pliers.
 
 Ash opened his mouth. Closed it. The silence that followed had a shape to it, warm and patient and faintly amused, like the workshop itself, like the man who ran it. Ash looked at the pump on the shelf, then at the deployment brief sitting crisp and official on his oil-stained bench, and for a moment the two objects occupied the same space in his vision and neither one blinked.
 
-"I'll go by tomorrow, yeah, I, I can do that."
+"I'll go by tomorrow, yeah, I... I can do that."
 
 "Mhm."
 
@@ -308,7 +308,7 @@ Haran poured himself a cup anyway, from a kettle on the stove, water heated by t
 
 "And you like being that piece."
 
-"I'm, I think I'm actually good at it, which is, I know how that sounds, but I can see how the systems connect." He said it simply, without the defensive edge it might have carried a week ago. "Where the bottlenecks are, where the coverage gaps create cascades, where a small change in one schedule unlocks capacity somewhere else. It's..." He turned the drill bit between his fingers, a habit, something to do with his hands while his mind moved. "It's the same thing I do here. Patterns. Mechanisms. How parts fit together."
+"I think I'm actually good at it, which, I know how that sounds, but I can see how the systems connect." He said it simply, without the defensive edge it might have carried a week ago. "Where the bottlenecks are, where the coverage gaps create cascades, where a small change in one schedule unlocks capacity somewhere else. It's..." He turned the drill bit between his fingers, a habit, something to do with his hands while his mind moved. "It's the same thing I do here. Patterns. Mechanisms. How parts fit together."
 
 "Is it the same."
 
@@ -316,7 +316,7 @@ The question was quiet. Not pointed; Haran didn't do pointed. But it settled int
 
 Ash looked at the drill bit. He turned it once more, then set it on the bench.
 
-"It's... I mean, it's larger. The mechanism is larger. The scope is, there are forty thousand people, Haran, not three. That's, I know that's not the same thing as the same thing, but."
+"I mean, it's larger. The mechanism is larger. The scope is... there are forty thousand people, Haran, not three. I know that's not the same thing as the same thing, but."
 
 "It is that."
 
@@ -328,7 +328,7 @@ Haran sipped his tea.
 
 "Different scales," Haran agreed. He set his cup on the bench. "The timer you're building. Who asked for it?"
 
-"Nobody asked, I just, I noticed the cistern was draining faster than it should when people were drawing and I started doing the math, which, Haran, the math on that is pretty grim actually, nobody has enough reserve to keep the lift running when three families draw at once."
+"Nobody asked, I just... I noticed the cistern was draining faster than it should when people were drawing and I started doing the math, which, Haran, the math on that is pretty grim actually, nobody has enough reserve to keep the lift running when three families draw at once."
 
 "You noticed."
 
@@ -336,7 +336,7 @@ Haran sipped his tea.
 
 "And you built a solution."
 
-"Yeah, I, I suppose that is what I do, which, when you say it like that it sounds more deliberate than it felt, I just, there was a problem and I had the bench time."
+"Yeah, I suppose that is what I do, which, when you say it like that it sounds more deliberate than it felt, I just... there was a problem and I had the bench time."
 
 "Yes." Haran looked at him with the expression Ash had spent nine years learning to read, the one that contained more than it showed, that held back not from secrecy but from a discipline so long practiced it had become reflex. Patient. Warm. Amused at something Ash couldn't quite locate. "What the old folks used to say, build what lasts longer than you do."
 

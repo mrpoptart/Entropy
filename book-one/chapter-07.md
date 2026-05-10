@@ -20,7 +20,7 @@ His father adjusted it, testing the legs on the level floor, and the chair didn'
 
 "Solid building," his father said.
 
-"It is. I, the floor doesn't wobble either, I checked, which sounds like a low bar but apparently it isn't."
+"It is. I... the floor doesn't wobble either, I checked, which sounds like a low bar but apparently it isn't."
 
 His father looked at him. The look held longer than it needed to. A beat, two beats, the kind of pause that had a shape but no words. Then his father nodded and went back to the corridor for the next load.
 
@@ -46,7 +46,7 @@ His mother stopped in the center of the main room. She leaned on the cane and lo
 
 "It's big," she said.
 
-"Three rooms, which I know that sounds like a lot, it's, the bedroom in the back gets the best light, I thought you and Dad could have that one, unless you'd rather, I mean, it's yours, you can use whichever, I just, the light seemed..."
+"Three rooms, which I know that sounds like a lot, the bedroom in the back gets the best light, I thought you and Dad could have that one, unless you'd rather, I mean, it's yours, you can use whichever, I just, the light seemed..."
 
 "It's very big, Ash."
 
@@ -54,7 +54,7 @@ She moved to the kitchen. The cane tapped against the stone, a new sound, rhythm
 
 "No fire grate," she said.
 
-"It doesn't need one, which took me a minute to figure out too, honestly, the interface is, you press here, it's built into the surface, I can show you, it's actually really straightforward once you, sorry, you probably already know how this works."
+"It doesn't need one, which took me a minute to figure out too, honestly, the interface is... you press here, it's built into the surface, I can show you, it's actually really straightforward once you... sorry, you probably already know how this works."
 
 "I know how a stove works, Ashlyn."
 
@@ -102,7 +102,7 @@ She picked up the bowl. Turned it in her hands. The crack ran from the rim to th
 
 She wrapped it in the singed curtain and set it back in the crate.
 
-"We don't need, I mean, we have everything at the new place, the kitchen has all, there's a cold shelf and the stove is, I brought you a kettle, actually, not yet but I'm going to, it's not, sorry, I'll carry those."
+"We don't need, I mean, we have everything at the new place, the kitchen has all, there's a cold shelf and the stove is... I brought you a kettle, actually, not yet but I'm going to, it's not, sorry, I'll carry those."
 
 "I know what the new place has."
 
@@ -132,13 +132,13 @@ It was well-made, from a smith on the Second Terrace, the kind of shop that serv
 
 He brought it home in the evening. His mother was in the kitchen, the new kitchen, with its cold shelf and its channeling-powered stove and its windows that faced the morning sun. She was making dinner. The smell was different here. The same onions, the same cumin, but the ventilation worked, and the scent dispersed instead of settling into the walls the way it had in the old apartment, where twenty years of cooking had soaked into the stone until the kitchen smelled like cumin even when nothing was on the stove.
 
-"I, here. I got you something. It's probably too much, I don't know, I thought, the handle won't split, that's the main thing."
+"I... here. I got you something. It's probably too much, I don't know, I thought... the handle won't split, that's the main thing."
 
 He set the kettle on the counter. The copper caught the channeling light and threw it back warm and bright. His mother looked at it. Her hands were wet from washing vegetables, and she dried them on her apron before she touched it, lifted it, tested the weight, tilted it to see the spout.
 
 "It's beautiful," she said.
 
-"Copper holds heat better than iron. And the handle won't split, I asked the smith, actually, which is, that was maybe an odd question to ask, but she said it won't."
+"Copper holds heat better than iron. And the handle won't split, I asked the smith, actually, which is... that was maybe an odd question to ask, but she said it won't."
 
 She set it down. She looked at it for a moment longer, the kind of look that had layers he couldn't read, that said something about the kettle and something about the son who'd bought it and something else entirely that lived in the space between the two.
 
@@ -152,7 +152,7 @@ His father came in from the back room, where he'd been fitting a shelf bracket w
 
 "You didn't have to do this," he said.
 
-"I just, you could use better ones. The set you have is good, it's just, you should have ones that fit right."
+"I just... you could use better ones. The set you have is good, it's just... you should have ones that fit right."
 
 His father looked at him. The look held pride, enormous, genuine, the kind that lived in the eyes and the set of the mouth and the way a man stood when his son had done something worth standing for. But underneath the pride, something else. A question that lived in the pause before he spoke, in the hand that almost reached for Ash's shoulder and stopped an inch short, in the way he glanced at the old tools on the shelf behind him before turning back to the new ones.
 
@@ -176,7 +176,7 @@ A woman from the apartment across the hall, middle-aged, well-dressed in the und
 
 She left. The door closed. His mother stood in the hallway with the cake plate and looked at it.
 
-"She was, that was kind of her, the cake, I mean, I don't know if she meant it or if it's just a Third Terrace thing, probably both, I'm probably overthinking it."
+"She was... that was kind of her, the cake, I mean, I don't know if she meant it or if it's just a Third Terrace thing, probably both, I'm probably overthinking it."
 
 His mother carried the cake to the kitchen and set it on the counter and said nothing else about it.
 
@@ -300,7 +300,7 @@ He left. Ash stood in the hallway and listened to their footsteps recede down th
 
 On the seventh evening, Ash walked Maren to the door. The hallway was warm, properly warm, the lattice holding steady at the temperature Maren had set it to, not the temperature Ash had accidentally forced it to.
 
-"Thanks for, I mean, every evening, I know you have work, so, thanks."
+"Thanks for... I mean, every evening, I know you have work, so, thanks."
 
 "Of course."
 
@@ -318,7 +318,7 @@ She paused. Half-turned.
 
 He wanted to say something about the repairs. About her pool, spent each evening on his mistakes. About the work she did that nobody mentioned over dinner, that their parents didn't see or chose not to comment on, that he recognized only in the aggregate, the apartment functioning, the systems holding, the cracks not spreading. He wanted to say he saw it. That he knew what it cost her.
 
-"Maren, I, the lattice costs you, every time you, I see it."
+"Maren, I... the lattice costs you, every time you... I see it."
 
 She looked at him. Said nothing.
 

@@ -462,7 +462,7 @@ A pause. The file moved over the brass, lifted a thread, moved again.
 
 "When are you not here?"
 
-"I, I don't know. Eventually. The way anyone isn't somewhere eventually."
+"I... I don't know. Eventually. The way anyone isn't somewhere eventually."
 
 "Mm." Haran lifted the file. He looked, at last, at Ash. The corner of his mouth did the thing. "So. Ready isn't a place. It's a direction. You ask Tesha if she's ready and she'll say no. You ask her to fix Building Six and she'll fix it. The fix won't be pretty. Building Six won't care."
 

@@ -18,7 +18,7 @@ She looked up.
 
 "Ash." Her expression shifted, not dramatically, not the practiced welcome she gave petitioners and council colleagues. Something smaller. The slight easing around her eyes that meant she was glad to see him, or at least the version of glad that Dorenne permitted herself. "You're early."
 
-"Sorry, I, I know you're just starting the morning, but I need to, I was hoping we could talk."
+"Sorry, I... I know you're just starting the morning, but I need to... I was hoping we could talk."
 
 She studied him. He watched her read his face the way she read her charts, systematically, pulling data from the set of his jaw, the stillness of his hands, the fact that he stood in the doorway instead of walking in and dropping into the chair the way he usually did.
 
@@ -136,11 +136,11 @@ Dorenne was quiet for a moment. "The second week of reconstruction."
 
 "Yes."
 
-"You, I mean, you saw the number going up. Didn't you. The whole time." He stopped. "The whole time."
+"You... I mean, you saw the number going up. Didn't you. The whole time." He stopped. "The whole time."
 
 "The work was necessary. Every site..."
 
-"I know. Every site was necessary. Every deployment was justified. Every allocation was correct." He pressed his palms flat on his thighs. "I know. I know every site was necessary." A pause. "That's, that's not what I'm, I just want to know why you didn't tell me."
+"I know. Every site was necessary. Every deployment was justified. Every allocation was correct." He pressed his palms flat on his thighs. "I know. I know every site was necessary." A pause. "That's, that's not what I'm... I just want to know why you didn't tell me."
 
 Her jaw tightened. The small motion, the one you'd miss if you weren't watching.
 
@@ -150,13 +150,13 @@ Her jaw tightened. The small motion, the one you'd miss if you weren't watching.
 
 "I managed the information. The way I manage..."
 
-"The way you manage a resource." The word sat between them. He heard himself say it and felt the shape of the thing that had been building in his chest since the pencil. "That's what I am in the, in the framework. Your framework." He stopped. "A resource with a, a depletion curve." He heard himself. "And the optimal, I don't, the optimal strategy..." He didn't finish it.
+"The way you manage a resource." The word sat between them. He heard himself say it and felt the shape of the thing that had been building in his chest since the pencil. "That's what I am in the, in the framework. Your framework." He stopped. "A resource with a, a depletion curve." He heard himself. "And the optimal... I don't, the optimal strategy..." He didn't finish it.
 
 "That is not..." Her voice cracked. Not much. A hairline fracture. "That is not what I..."
 
 "I know." And he did. He could see it in her face: the genuine anguish, the woman behind the institution fighting to get past the walls she'd built around herself. She hadn't meant to. The framework had done it for her, the same framework that made her brilliant, that made her effective, that made her the best Director of Infrastructure in a generation. The framework that turned everything it touched into a system to be optimized. Including him.
 
-"You, I know you care about me. I believe that." A pause. "And you built the schedule. And tracked the, the expenditure. And." He stopped for a long moment. "You never asked what I wanted to do with what's left."
+"You... I know you care about me. I believe that." A pause. "And you built the schedule. And tracked the, the expenditure. And." He stopped for a long moment. "You never asked what I wanted to do with what's left."
 
 Her hand moved to the tea cup. Lifted it. Set it down without drinking. The motion was small, controlled, the kind of displacement activity that meant the body needed to do something and the mind wouldn't let it do what it wanted.
 

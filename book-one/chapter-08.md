@@ -46,7 +46,7 @@ Haran looked at it.
 
 Ash looked at it.
 
-"I, yeah, that was, I thought I had it, sorry."
+"I... yeah, that was... I thought I had it, sorry."
 
 Neither of them said anything more.
 
@@ -140,7 +140,7 @@ The workshop's sounds continued. Davel's file. The lathe's idle clatter. Haran's
 
 Haran completed the calibration in about eight minutes. The valve seat, when he lifted it for the last time, showed a contact pattern that was even across the full face of the taper: grey compound spread uniformly, no heavy spots, no gaps, the brass telling the story of a surface that had met its mate correctly. He set the valve on the bench with a small, conclusive sound.
 
-"How did you do it? The, the contact pattern, mine was, here, look, I mean you can see it, it went heavy on the near edge both times, I couldn't figure out, there's something I'm not..."
+"How did you do it? The, the contact pattern, mine was... here, look, I mean you can see it, it went heavy on the near edge both times, I couldn't figure out, there's something I'm not..."
 
 "I wasn't channeling."
 
@@ -176,7 +176,7 @@ He pulled his hand back.
 
 Again. The reservoir, when Ash reached for it, came in volumes. Even the smallest reach was still an ocean pouring through a crack in a dam, not the surgical thread Haran was describing, but something that spread and filled and exceeded the container.
 
-"Yeah, I, it keeps, look at the edge here, it's not, I keep reaching for more than I mean to, it's like the, I don't know how to describe it, it's not small."
+"Yeah, I, it keeps, look at the edge here, it's not, I keep reaching for more than I mean to, it's like the... I don't know how to describe it, it's not small."
 
 "You can." Haran picked up the test piece, now cooled, and set it in his own palm. He extended his hand toward Ash. "Watch."
 
@@ -258,7 +258,7 @@ The light through the windows had gone orange by the time Ash straightened and p
 
 Davel had gone. The lathe was quiet. The chip tray needed emptying but it would wait until tomorrow, and Haran was cleaning tools at the end of the bench with the ease of a man closing down a day he was satisfied with.
 
-"I could, I mean, if you wanted, I could come back, help you finish it, with my hands, the regular way."
+"I could... I mean, if you wanted, I could come back, help you finish it, with my hands, the regular way."
 
 Haran looked at him. Not a long look. "Your hands would be useful."
 
@@ -278,7 +278,7 @@ Haran was threading a new fitting as he spoke, the die turning in steady quarter
 
 "How much did that cost you?" he said. "The fittings. The pipe."
 
-Ash thought about it honestly. He had not paid attention, which was itself information. "Not much, I mean, essentially nothing, which is, that should probably bother me more than it does, honestly, the fitting, the pipe, it barely, the reservoir didn't even, yeah, essentially nothing."
+Ash thought about it honestly. He had not paid attention, which was itself information. "Not much, I mean, essentially nothing, which is... that should probably bother me more than it does, honestly, the fitting, the pipe, it barely, the reservoir didn't even, yeah, essentially nothing."
 
 Haran nodded. The die turned. "Good," he said. "Remember what the answer is." Another quarter-turn, the curl of metal coming away clean. "You might want to check it again later."
 
@@ -294,7 +294,7 @@ Not a catastrophe. Still useful work, still genuine progress. He hadn't broken a
 
 He had just closed some doors.
 
-"See you next week. Sorry, for, yeah."
+"See you next week. Sorry, for... yeah."
 
 "Door's always open," Haran said. The threading handle turned.
 

@@ -20,11 +20,11 @@ Ash nodded. He was still looking at the mirror. His hands, the calloused knuckle
 
 "That's my part." She looked up. Her eyes held the same quality they always held: the layered attention, the calculations running behind the warmth. "Ash. Listen to me. You don't need to win them over. You don't need to explain yourself. You stand, you answer what you're asked, you demonstrate what we've prepared. I'll do the rest."
 
-He turned from the mirror. "Sorry, wait, what are we actually, what's the plan for the demonstration part?"
+He turned from the mirror. "Sorry, wait, what are we actually... what's the plan for the demonstration part?"
 
 "The heating lattice." She let the words sit for a moment. "The gallery's lattice was designed for a six-person elder team working in rotation. It hasn't run at full capacity in years; the elder roster can't support it. You're going to place your palm on the wall and light it up. The whole thing. In one pulse."
 
-"Yeah, no, that makes sense. I just, what if they want more than, I don't know."
+"Yeah, no, that makes sense. I just... what if they want more than... I don't know."
 
 "A man who can warm a room that size, alone, in seconds, that's not a spectacle, Ash. That's a city that can heat its buildings again." She paused. "Presentable is exactly the word I was hoping for. Remarkable is my job."
 
@@ -218,7 +218,7 @@ Which meant terrified. Which meant holding it together with the same iron will t
 
 "She'd like that." His father's hand slid from his shoulder. He looked around the gallery, at the stone walls still radiating warmth, the tall windows, the platform where his son had stood, with the expression of a man cataloguing details he'd need later, when his wife asked what it was like. "This is big, Ash."
 
-"Yeah, I just, yeah."
+"Yeah, I just... yeah."
 
 His father nodded, the same nod, the one that absorbed what it couldn't articulate, and turned to leave. He stopped once more at the side door and looked back, and in his face Ash saw the thing his father would never say aloud: the question underneath the pride, the worry that ran deeper than any fear about power or politics:
 
@@ -386,7 +386,7 @@ She didn't seem to find the second thing more interesting than the first.
 
 "Have you talked to Haran?"
 
-"Not yet. I've been, it's been busy."
+"Not yet. I've been... it's been busy."
 
 "You should talk to Haran."
 
@@ -434,7 +434,7 @@ She sat back down. She looked at the kitchen, at the channeling strips, the work
 
 "That's not what I asked."
 
-He exhaled. "She's, I don't know. Her hand on the armchair earlier, she was gripping it pretty hard. She thinks everyone wants something from me."
+He exhaled. "She's... I don't know. Her hand on the armchair earlier, she was gripping it pretty hard. She thinks everyone wants something from me."
 
 "Everyone does want something from you."
 

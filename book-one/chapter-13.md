@@ -118,7 +118,7 @@ He went to sleep thinking about the aqueduct.
 
 Dorenne said it the next morning. She was at her desk, the morning briefing notes spread before her. Her tea was untouched. She looked up when he came in, and the words arrived without preamble, the way all her words arrived, placed precisely, no wasted approach.
 
-"The foundation was giving out, I could hear it from the street, I just, it was twenty minutes, I had the capacity."
+"The foundation was giving out, I could hear it from the street, I just... it was twenty minutes, I had the capacity."
 
 "That was generous."
 
@@ -130,7 +130,7 @@ Not angry. Not sharp. The sentence delivered the way you delivered a fact that s
 
 Ash felt the words settle. They were correct. The aqueduct served forty thousand people. The building on Threadneedle Lane served thirty. The math was not difficult.
 
-"It was on my way, so it wasn't really, I mean I was already there, and it was twenty minutes, maybe less, the stone was just, it wasn't a planned deployment."
+"It was on my way, so it wasn't really... I mean I was already there, and it was twenty minutes, maybe less, the stone was just... it wasn't a planned deployment."
 
 "Twenty minutes of your output, spent on a building that holds thirty people..." She stopped herself. Not abruptly, gracefully, the way she stopped when she'd made her point and pushing further would diminish it. "I'm not criticizing you. The building needed help. But we have a plan, and the plan works because the allocations are strategic. When you deploy outside the plan, even for good reasons, it introduces variance."
 
@@ -174,7 +174,7 @@ Haran set the wrench down. Looked up. His expression didn't change, the mild, as
 
 "Ash."
 
-"The bypass line, right, yeah, Verant mentioned you were adding the secondary distribution, that's, I mean that looks good, how long did the manifold take?"
+"The bypass line, right, yeah, Verant mentioned you were adding the secondary distribution, that's... I mean that looks good, how long did the manifold take?"
 
 "Couple more fittings." Haran turned the assembly, examining the junction he'd just seated. "Petra did the manifold work. She's got steady hands."
 
@@ -188,13 +188,13 @@ The bypass components and distribution refinements took up most of the central b
 
 The cam mechanism. Verant had mentioned it, the counterweight-driven pressure assist that replaced the spring system. It was mounted now. Ash could see the design: an offset cam turning against a follower, converting rotary motion into the reciprocating stroke that drove the piston. Simple. Elegant. The kind of solution Haran arrived at after discarding three complicated ones.
 
-"The cam, this is, Verant said someone solved the spring problem, who did this?"
+"The cam, this is... Verant said someone solved the spring problem, who did this?"
 
 "Davel started it. Tavin finished." Haran nodded toward the teenager at the window. "He's got a feel for the geometry."
 
 Tavin. The teenager with the file. Ash watched him work, the patient, rhythmic strokes, the focused attention. Davel's rhythm. Davel's patience. Taught, absorbed, reproduced. The workshop passing its knowledge from hand to hand, the way workshops had done for centuries before channeling made precision a thing you could pour from your fingertips.
 
-"That's, yeah, that's really good, Davel would, I mean you can see Davel in it, he's got the patience for it."
+"That's, yeah, that's really good, Davel would... I mean you can see Davel in it, he's got the patience for it."
 
 "It's getting there." Haran picked up a small fitting from the parts bin, another brass junction, identical to the one he'd just seated. He held it out. "The secondary outlet. Needs to thread onto the bypass line. Should seat the same as the first."
 
@@ -274,7 +274,7 @@ A pause. The street sounds filled the space between them. Someone called a child
 
 "The small stuff," Haran said. "The precision work. That's a different muscle."
 
-"It's, I mean I can feel where it used to be, it's just, the deployments are a different, you know how it is."
+"I mean I can feel where it used to be, it's just... the deployments are a different, you know how it is."
 
 "Doesn't mean the muscle's gone. Means you haven't used it."
 
@@ -286,7 +286,7 @@ No guilt. No chase. No ledger of missed visits or abandoned projects. Just the b
 
 Ash stood in the doorway. The evening light behind him, the workshop light in front. He could feel both, the warm pull of the bench and the deployment schedule in his head, the Thornwall junctions, Sorren's crew at seven, the population number that sat at the front of every thought now.
 
-"I, yeah. Thank you."
+"I... yeah. Thank you."
 
 Haran nodded. He went back inside. The door stayed open behind him, the light falling across the threshold, the sounds of the workshop resuming, metal on metal, the low murmur of people building something that would work without magic.
 

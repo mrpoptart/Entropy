@@ -52,10 +52,10 @@ This rule applies to all paired characters with contrasting specs, not only Ash/
 
 Em dashes (`—`, U+2014) are **prohibited** in all prose, dialogue, planning documents, voice specs, agent outputs, and revision notes for this project. Em dashes have become an AI tell, and our texts overuse them to the point of caricature. Replace every em dash with one of the following, chosen by what the dash was actually doing:
 
-- **Mid-sentence aside or elaboration** → use a comma, a pair of commas, or parentheses.
-- **Hard break / change of direction** → use a period and start a new sentence, or use a semicolon.
-- **Trailing-off, interruption, or stammer in dialogue** → use an ellipsis (`...`) for trailing-off, or a comma plus restart for stammers (e.g., `"I, I don't know."`).
-- **Self-correction or hesitation in dialogue** → use a comma or a period plus restart, not a dash.
+- **In dialogue (any spoken words), default to an ellipsis (`...`).** This is the preferred replacement for em dashes inside quoted speech, whether the dash was marking a trailing-off, an interruption, a stammer, a self-correction, a hesitation, a hard break, or a mid-sentence aside. When in doubt inside quotes, use an ellipsis.
+- **Mid-sentence aside or elaboration in narration** → use a comma, a pair of commas, or parentheses.
+- **Hard break / change of direction in narration** → use a period and start a new sentence, or use a semicolon.
+- **Stammer in dialogue** (when an ellipsis would read wrong) → a comma plus restart is acceptable (e.g., `"I, I don't know."`), but the ellipsis is still the default.
 - **Range or span** (rare) → use "to" or an en dash (`–`, U+2013) if a numeric range is genuinely needed. En dashes are allowed only for numeric ranges.
 
 This rule applies to:

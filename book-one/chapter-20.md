@@ -120,11 +120,11 @@ He told Haran the numbers.
 
 Not all of them. Not the full accounting, the page-by-page reconstruction, the hours of pencil work in a dim room with a guttering candle. He gave Haran what the math added up to, because Haran was the kind of person who cared about what the numbers meant, not how you arrived at them.
 
-"The Wellspring started at, Haran said five thousand elder-days, or something like five thousand, I still don't know the exact number," he said. "And I've spent roughly twenty-eight hundred. Maybe three thousand. I'm, the edges are imprecise. It's not, I can't measure it clean the way you'd measure anything else."
+"The Wellspring started at... Haran said five thousand elder-days, or something like five thousand, I still don't know the exact number," he said. "And I've spent roughly twenty-eight hundred. Maybe three thousand. I'm, the edges are imprecise. It's not, I can't measure it clean the way you'd measure anything else."
 
 Haran held his tea. His face was still.
 
-"The earthquake was, I did the math three times, I kept expecting it to come out different, fifteen hundred elder-days. Give or take." His voice was not quite level. He'd had time to sit with this. The tremor in his hands was gone, replaced by something flatter, the exhausted calm of a person who had finished being shocked and was now simply telling the truth. "The training period, the deployments, the reconstruction after. It adds up."
+"The earthquake was... I did the math three times, I kept expecting it to come out different, fifteen hundred elder-days. Give or take." His voice was not quite level. He'd had time to sit with this. The tremor in his hands was gone, replaced by something flatter, the exhausted calm of a person who had finished being shocked and was now simply telling the truth. "The training period, the deployments, the reconstruction after. It adds up."
 
 He paused. Drank. Set the cup down again.
 
@@ -190,7 +190,7 @@ Ash breathed.
 
 The question was so simple that it took a moment to hear.
 
-"Yes." He looked at his cup. "The buildings stood. The dam, it held. That's, yes. It was worth it." He stopped. "Every drop."
+"Yes." He looked at his cup. "The buildings stood. The dam, it held. That's... yes. It was worth it." He stopped. "Every drop."
 
 Haran picked up his cup. Drank. Set it down.
 
@@ -304,7 +304,7 @@ He moved through the workshop with the ease of a man closing a day he was satisf
 
 Haran paused at the storage rack. He didn't turn around.
 
-"It's not who I am." He looked at his hands. "It's a resource. That's, it should be obvious, Haran, I know it should be obvious, but I've been, it's a budget. A large one. A finite one. Like the pump. Like the lamp oil. It costs what it costs and when it's gone it's gone." He stopped. "I think I've known that for a while. I just didn't want to."
+"It's not who I am." He looked at his hands. "It's a resource. That's... it should be obvious, Haran, I know it should be obvious, but I've been... it's a budget. A large one. A finite one. Like the pump. Like the lamp oil. It costs what it costs and when it's gone it's gone." He stopped. "I think I've known that for a while. I just didn't want to."
 
 Haran turned. He stood at the rack with a rag in one hand and the still, attentive expression of a man who was hearing something he'd been waiting a long time to hear. Not with triumph, not with I-told-you-so satisfaction, but with the plain, undecorated relief of a man who cared about a young person and had watched that young person take a step in the right direction.
 

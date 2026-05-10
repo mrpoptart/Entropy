@@ -54,7 +54,7 @@ A woman sat on a stool inside, working at a bench despite the crack. She was old
 
 "Door's open," she said. Then she saw him, and her hands went still.
 
-"Sorry to, I saw the brace from the street. Would it be all right if I..."
+"Sorry to... I saw the brace from the street. Would it be all right if I..."
 
 She stared at him. Looked at the crack. Looked back at him. "You're..."
 
@@ -182,11 +182,11 @@ He drank the tea. Too bitter, too hot. He drank it anyway.
 
 "How is the work?" she asked. The question had a particular shape, careful, general, designed to not presume. She didn't ask about the reconstruction, about Dorenne, about the Council or the districts or the thousands of people who depended on him. She asked about *the work*, as if it were a job at a shop, as if he came home with sawdust on his clothes and stories about difficult customers.
 
-"Good. I mean, it's, the work is good. There's a lot of it, which is, you know, good. I'm tired, but in a way that's, it's fine."
+"Good. I mean, it's... the work is good. There's a lot of it, which is, you know, good. I'm tired, but in a way that's... it's fine."
 
 "You're sleeping?"
 
-"Enough to function, yeah. I sleep fine when I get there, it's just, the hours are, I'm fine, Mum."
+"Enough to function, yeah. I sleep fine when I get there, it's just... the hours are... I'm fine, Mum."
 
 She nodded. Lifted her cup and blew across the surface, a gesture so familiar it ached, the particular angle of her wrist, the small O of her mouth. She'd done this every evening of his life. She'd been doing it before he was born. She would do it after he left tonight, alone at this table, with the tin kettle and the chipped cup and the root broth simmering on the stove.
 
@@ -236,7 +236,7 @@ He didn't ask what time she'd be home. He didn't ask which districts. He looked 
 
 *How much did the tinkerer workshop cost? The lintel on Colter Street? The stairway, the garden wall, the second workshop? Twelve minutes. A quarter of the eastern retaining wall. Four thousand people.*
 
-He set down the cup. "I should, sorry, I have an early start, I should get back. Sorry."
+He set down the cup. "I should... sorry, I have an early start, I should get back. Sorry."
 
 His mother nodded. She didn't argue. There was a time, before, when she would have. When she would have insisted on dinner, on an hour more, on the particular necessity of a mother feeding her son. That time was gone. She'd learned the new choreography. The son who came and left on a schedule she couldn't see, who belonged to a city that needed him more than she did, who sat at her table and drank her tea and thought about something else.
 
@@ -294,7 +294,7 @@ They looked at each other across the operations room, the man with the reservoir
 
 "The schedule for today," she said. Not a question.
 
-"Yeah, I, I have it."
+"Yeah, I... I have it."
 
 She nodded. Crossed to her desk. Set the list down. Began her day.
 

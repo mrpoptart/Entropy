@@ -110,7 +110,7 @@ He turned. The woman was perhaps sixty, with the bearing of someone accustomed t
 
 At the lift, she stepped onto the stone platform and turned. "Coming up?"
 
-"I'm fine with the stairs, actually, I, sorry, I usually take them, it's just habit at this point."
+"I'm fine with the stairs, actually, I... sorry, I usually take them, it's just habit at this point."
 
 Her hand was already on the interface stone. She paused. "The annex stairs are closed for reshoring. They've been closed for a week."
 
@@ -146,31 +146,31 @@ She stepped off the platform and started down the hall in a direction he hadn't 
 
 "I was looking at the part where it says 'pool assessment required' and deciding whether to apply anyway."
 
-"And what did you decide?"
+"You're copying the number down. You've decided."
 
 "I decide to apply anyway about three times a week. I've gotten very good at interviews. Less good at the part that comes after."
 
-Her mouth did something that might have been amusement. "What do you do?"
+Her mouth did something that might have been amusement. "You do physical work. Possibly alongside someone else's trade."
 
 "Currently? I run errands. I do physical repair work with my father when he has a two-person job. I keep the house maintained. I spend time at a tinkering workshop in the lower districts, mechanical devices, things that work without channeling. I'm told I'm good with my hands." He paused. "That's the polite version. The honest version is that I'm twenty-three and I live with my parents and I'm the most educated unemployable person in Solathis."
 
-"Why educated?"
+"You said educated."
 
 "Because I read everything I can get my hands on and I pay attention. Because when you can't participate in the world the normal way, you watch it very carefully." He heard himself and pulled back. Too much. The honesty was a risk; most people heard bitterness when he talked about his situation, even when there wasn't any, and bitterness made them uncomfortable, and discomfort made them retreat. "But mainly because I'm good at carrying things and taking notes, and those skills translate surprisingly well."
 
 Dorenne was quiet for several steps. The ramp curved upward. Through the windows on their left, Solathis spread out in the morning light: the grand districts above, the fraying edges below, the impossible architecture of a city that shouldn't exist on a rocky plateau and did anyway, sustained by generations of channeling that was slowly running thin.
 
-"I lost my aide two weeks ago," she said. "Third one in four years. I train them, I invest in them, they're talented, and the moment another office offers them a better position, they leave. Every one of them has been a gifted channeler, and every one of them has used my office as a stepping stone."
+"I lost my aide two weeks ago. Third in four years. I train them, deploy them into the work, and the moment a senior office opens a position, I lose them. Every one was a gifted channeler. Every one used this office as a stepping stone to better capacity."
 
 Ash waited. He knew what was coming, could feel the shape of it in the air the way you feel a change in weather, but he'd learned not to reach for things before they were offered. Reaching looked desperate. Desperate made people reconsider.
 
-"I need someone who's smart, organized, and good with people. Someone who can sit in a briefing about aqueduct failures and follow the engineering even if they can't do the channeling. Someone who'll stay."
+"I need someone with enough scope to follow an aqueduct briefing without doing the channeling. Someone organized enough to coordinate across three departments. Someone who has a reason to stay."
 
 "Because, I mean, it's not like I have a lot of options knocking on my door, so, that's, that's not entirely wrong."
 
-"Because you'd have a reason to be loyal." She stopped walking and turned to face him. The ramp had brought them to the upper level; the infrastructure office was at the end of the hall, its doors open, the sound of voices and the rustling industry of people managing systems that were more fragile than anyone wanted to admit. "I won't pretend this is purely generous. I need an aide I can rely on. But I've been watching you for the last five minutes, and you read the posting board with the kind of attention that tells me you understand what those jobs actually require, not just what they list. You navigated forty flights of stairs to get here because you don't have an alternative, and you're not winded, and you didn't complain about it, and you made a joke. That's a skill set."
+"Because loyalty is a resource I've been unable to allocate effectively for four years. You don't have a better option at the moment. That's not a weakness in my offer; it's the framework that makes it reliable." She stopped walking and turned to face him. The ramp had brought them to the upper level; the infrastructure office was at the end of the hall, its doors open, the sound of voices and the rustling industry of people managing systems that were more fragile than anyone wanted to admit. "I won't pretend this is purely generous. I need an aide I can rely on. But I've been watching you for the last five minutes, and you read the posting board with the kind of attention that tells me you understand what those jobs actually require, not just what they list. You navigated forty flights of stairs to get here because you don't have an alternative, and you're not winded, and you didn't complain about it, and you made a joke. That's a skill set."
 
-"An unusual one."
+"Infrastructure runs on exactly those constraints."
 
 "I work in infrastructure. I appreciate things that function under constraints." She held out her hand, not to shake, but palm up, the gesture that in Solathis meant an offer was being made in good faith. In most contexts, the other person would touch their palm to yours and let a small pulse of channeling pass between you, a resonance of intent, a confirmation. The most basic social contract, sealed in magic.
 
@@ -200,7 +200,7 @@ He said it before he could modulate it, before the performance could kick in and
 
 His mother's face went through three things in the space of a heartbeat. Surprise, then understanding, then something that broke. Her eyes filled and her hand came up to her mouth and she crossed the kitchen in two steps and wrapped her arms around him with a fierceness that had nothing to do with the size of her body. She was not a large woman. She held him like she was bracing a wall.
 
-"Ashlyn." Her voice was thick. She said his full name so rarely that the sound of it always landed differently: tender, or worried, or the particular register she used when something mattered too much for the casual version. "Tell me."
+"Ashlyn." Her voice was thick. She said his full name so rarely that the sound of it always landed differently: tender, or worried, or the particular register she used when something mattered too much for the casual version. "I'm sitting down. You're going to start from the beginning."
 
 He told her. The annex, the posting board, the transit lift, the woman with the sharp eyes and the Infrastructure seal. Dorenne Kharren. Director of Infrastructure. An aide position, starting tomorrow. His mother held his hands while he talked, squeezing at intervals that corresponded to nothing in his sentences and everything in her internal weather.
 
@@ -208,15 +208,15 @@ He told her. The annex, the posting board, the transit lift, the woman with the 
 
 Ash watched her channel, watched the faint warmth leave her palm and enter the stone, watched the stone hum and go still. A gesture so ordinary it was invisible. Like watching someone breathe.
 
-"He'll come home for lunch," his mother said. "We'll tell him then. We'll have a proper meal." She was already calculating; he could see it, the pivot from emotion to logistics, the thing she did when the feelings were too big and needed to be translated into action. "I'll use the good flour. And the saffron. Did you get the saffron?"
+"He'll come home for lunch if I put the signal through now. We'll tell him together and we'll do it properly, with the good plates." She was already calculating; he could see it, the pivot from emotion to logistics, the thing she did when the feelings were too big and needed to be translated into action. "I'll use the good flour. And the saffron. Did you get the saffron?"
 
 "I got the saffron. It's the good kind, I think, the woman at the stall measured it out, so."
 
-"Good. Good." She took the envelope from him, her hands steadier now, the tears not dried but managed. "Sit down. You're flushed. Have you eaten?"
+"Good." She took the envelope from him, her hands steadier now, the tears not dried but managed. "Sit down. You're flushed. Have you eaten?"
 
 "I had porridge, hours ago technically, and I climbed eighty flights of stairs and I feel absolutely tremendous, Mum, I promise, I, sit down, you sit down."
 
-"You climbed eighty flights of stairs this morning and you're telling me you're fine. Sit."
+"You climbed eighty flights of stairs this morning and you're telling me you're fine."
 
 He sat. She made tea. The kitchen was warm; she'd been channeling the stove when he burst in, and the heat had spread through the small room in the comfortable way it did when someone was tending it. He wrapped his hands around the cup and let the warmth soak into his fingers and felt, for a disorienting moment, like he didn't know where to put the happiness. It was too big for the shelf where he usually kept good feelings, the small shelf, the one sized for minor satisfactions and managed expectations. This didn't fit. It kept spilling over the edges.
 
@@ -230,11 +230,11 @@ His father came home at midday, sawdust in his hair and the Orellen job abandone
 
 His father's hand tightened. Not a shake, not a pat. Just pressure, sustained, the kind of grip that said everything his voice wouldn't. He was not a man who made speeches. He was a man who held on.
 
-"Good," he said. "That's good, son."
+"Good," he said.
 
 They ate. His mother had channeled the stove to its full capacity, more heat than the cooking warranted, the surplus radiating into the kitchen until the room was almost uncomfortably warm, a small extravagance that said *celebration* in the language of a household that measured comfort in drops of pool. The rice was fragrant with saffron. There was cheese and flatbread and a jar of pickled vegetables that Ash knew had been earmarked for the solstice. His father opened a bottle of plum wine that had been sitting on the high shelf for long enough to collect dust.
 
-"To Ashlyn," his mother said, raising her cup. "Who has been carrying things uphill his entire life and deserves to set them down."
+"To Ashlyn," his mother said, raising her cup. "Who has been carrying things uphill his entire life. And who is carrying something lighter today."
 
 "To carrying things," his father said. "It's good work."
 
@@ -254,27 +254,27 @@ Maren turned to him. Her face was open, curious, already calibrating. He could s
 
 "I got a job," Ash said. "Aide to the Director of Infrastructure. I start tomorrow."
 
-Her face broke into a smile that reached all the way. "Ash." She crossed the kitchen and hugged him, quick, tight, the way she did everything. "That's wonderful. How did you, tell me everything."
+Her face broke into a smile that reached all the way. "The infrastructure office. You applied?"
 
 He told her. She listened with the focused attention she gave to things that mattered, leaning forward, asking sharp questions, laughing at the right parts. She channeled absently while she listened, warming a dish that had gone cool, sealing a hairline crack in her teacup with a brush of her thumb, in the efficient, disciplined way that defined her. Every gesture was precise. No energy wasted. The kind of channeling that made her supervisors write favorable reports and her colleagues feel, faintly, that they should be trying harder.
 
-"Dorenne Kharren," she said. "She's serious. The infrastructure office is, Ash, that's one of the most important offices in the city right now. You know the condition of the aqueduct system? She's been fighting the Council for funding for two years."
+"Dorenne Kharren. She's serious." A beat. "You know the aqueduct assessment hasn't been funded in two years? She's been fighting for it."
 
 "I know. I've read the public briefs."
 
-"Of course you have." She shook her head, smiling. "You'll be brilliant at it. You'll run that office inside a month."
+"Of course you have." She shook her head, smiling. "Good."
 
 The celebration folded her in. More wine. More food. Their mother telling the story again for Maren's benefit, embellishing the parts about Dorenne's expression and the handshake with escalating specificity. Their father mostly quiet, mostly smiling, refilling cups when they went empty.
 
-And then, later, when the conversation had settled into the comfortable murmur of a family that had run out of superlatives, Maren said, "I had a good day too, actually."
+And then, later, when the conversation had settled into the comfortable murmur of a family that had run out of superlatives, Maren said, "The structural survey results came back today."
 
 The table shifted. Everyone looked at her.
 
-"The assessment results came back from the structural survey. The one I've been working on for months?" She said it lightly, too lightly, the lightness of someone who'd already decided this was a minor thing. "I scored highest in the cohort. My supervisor said it was the most precise diagnostic work she'd seen from anyone under thirty."
+"The one I've been working on for months?" She said it lightly, too lightly, the lightness of someone who'd already decided this was a minor thing. "I scored highest in the cohort. My supervisor said the survey was the cleanest diagnostic work the team had produced all quarter."
 
 "That's wonderful, sweetheart," their mother said. She meant it. Her hand found Maren's across the table and squeezed. "We're so proud of you."
 
-"Both of you," their father added. "Good day for this family."
+"Survey work," their father said. "That holds."
 
 "Both of us," Maren agreed, and lifted her cup, and smiled.
 

@@ -120,19 +120,19 @@ The next test was a targeting exercise. A stone disc mounted on the wall, divide
 
 Ash hit the center ring. He also hit every other ring. And the wall around the disc. And the floor beneath it. The stone disc cracked along its mounting bolts and fell in two pieces, trailing dust.
 
-"Sorry, I, that was, I thought I was being careful, that was as gentle as I can manage right now, I think."
+"Sorry, I... that was... I thought I was being careful, that was as gentle as I can manage right now, I think."
 
 The thin-faced examiner made a note.
 
 The next test was thermal regulation. A basin of water. Raise the temperature by exactly five degrees. Ash touched the basin and the water went from cold to boiling in two seconds. Steam erupted toward the ceiling. The younger examiner covered the basin with a metal lid and held it there while the water roiled underneath.
 
-"Sorry. That's, yeah. Sorry." His face was hot. Not from the steam.
+"Sorry. That's... yeah. Sorry." His face was hot. Not from the steam.
 
 The next test involved a set of weights on a balanced beam. Channel force into one side to tip the beam precisely to a marked angle. Ash tipped the beam so hard the weights on the opposite side launched off the surface and embedded in the ceiling.
 
 He stared at the ceiling. One of the weights was still vibrating in the stone, half-buried, like a nail driven by a hammer.
 
-"I can pay for that. I mean, I realize that's not really the, yeah. I can pay for that."
+"I can pay for that. I mean, I realize that's not really the... yeah. I can pay for that."
 
 The thin-faced examiner looked at his clipboard. He'd filled two pages. His pen rested on a third, and Ash could see the numbers from where he sat: columns of readings, each one followed by a notation he couldn't decipher, each one larger than the last.
 
@@ -246,7 +246,7 @@ The word landed in the room and stayed there. It had weight. It had shape. It fe
 
 Vasra watched him. Her eyes were careful, attentive, recording.
 
-"Can you tell me how much?" he asked. "How much I, how much there is?"
+"Can you tell me how much?" he asked. "How much I... how much there is?"
 
 "Not precisely. The calibration instruments were designed for a range that ends well below what you demonstrated today. The resonance stone suggests a reservoir that is... orders of magnitude larger than any pool on record. By a significant factor."
 
@@ -280,7 +280,7 @@ Vasra was watching him. He wondered what she saw, what her forty years of measur
 
 "I have more questions," she said. "Tests I'd like to run, over the coming days. Different instruments, better controlled conditions. With your permission."
 
-"Yeah, of course, whatever, I mean, whatever's useful, I'll be here. I don't have, yeah. Whatever you need."
+"Yeah, of course, whatever, I mean, whatever's useful, I'll be here. I don't have... yeah. Whatever you need."
 
 "And I'd like to understand the activation event itself. What happened, what you felt, the sequence. In your own words, when you're ready."
 
@@ -360,7 +360,7 @@ Her eyes went to the seal, then to him. Her hands rested on the desk the way the
 
 He thought about the broken stones. The cracked disc. The weight in the ceiling. The six practice stones meant for children, shattered one by one under the lightest touch he could manage. The room growing warmer with each failure. The older woman with the dark stone and the careful words and the forty years of measuring things that fit inside her instruments.
 
-"I, yeah. I broke everything, basically," he said.
+"I... yeah. I broke everything, basically," he said.
 
 Something moved in Dorenne's face. Not a smile, something preceding a smile, the groundwork for one, the way a foundation precedes a building.
 

@@ -218,13 +218,13 @@ He couldn't feel it that way. The Wellspring was too big and his training was to
 
 "Ash." Maren's voice from the hallway. Level. Unsurprised.
 
-"Yeah, I, I feel it, I'm pulling back, give me a, I'll fix it."
+"Yeah, I... I feel it, I'm pulling back, give me a... I'll fix it."
 
 "The bedroom wall."
 
 He pulled back. He could feel it. The pulse had raced through the lattice and hit the bedroom wall at full strength, the channels there narrower than the living room's main line, the energy compressing and intensifying as it squeezed through smaller conduits. The wall would be blazing. The temperature in the bedroom would be...
 
-"I can, I'll, just let me."
+"I can... I'll... just let me."
 
 "I've got it."
 
@@ -234,7 +234,7 @@ It took her three minutes. He sat on the living room floor and listened to the s
 
 "The bedroom channels are fine," she said. "I pulled the excess into the main line. The lattice can handle it there; the channels are wider." She paused. "You should try the secondary input next time. The one in the hallway. The channels from there go straight to the main line. Less branching, less compression."
 
-"Thanks. Yeah. I, that helps."
+"Thanks. Yeah. I... that helps."
 
 "Sure."
 
@@ -298,7 +298,7 @@ She knew the system. She'd mapped it within a week of moving in, walked the apar
 
 "You should use the hallway input." She said it again, the same advice from last night, delivered with the same levelness. Not impatient. Not tired. Not anything. "The channels from there are twice the gauge. You could push three times what you pushed last night and the system would handle it."
 
-"Yeah, I, I'll try the hallway one. Thanks."
+"Yeah, I... I'll try the hallway one. Thanks."
 
 "Okay."
 
@@ -308,7 +308,7 @@ She moved toward the door. He watched her go and something caught, a hitch in th
 
 She turned. Her face was the face she always showed him, open, composed, the warm surface of a person who didn't need anything from anyone and never had. The face she'd perfected at six or seven, the face that said *I'm fine, focus on your brother, I don't need the room*.
 
-"Maren. I, yeah. Have a good day."
+"Maren. I... yeah. Have a good day."
 
 "You too."
 

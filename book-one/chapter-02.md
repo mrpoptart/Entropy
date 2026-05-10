@@ -34,13 +34,15 @@ Her name was Tessaly, and she was Dorenne's senior scheduler, a lean, sharp-feat
 
 It wasn't a question. Not a greeting either, but a classification. She was filing him before she'd finished walking through the door.
 
-"Since yesterday, yeah, I know that's, I mean, Dorenne brought me in, I'm Ash, sorry, I should have said that first."
+"Since yesterday, yeah, I know that's... I mean, Dorenne brought me in, I'm Ash... sorry, I should have said that first."
 
 "The one who can't..." She caught herself with the smooth recovery of someone who'd been in institutional settings long enough to know which words landed badly. "Right. Dorenne mentioned." She set her ledgers on the central table and glanced at the cleared surface: the aligned edges, the clean wood, the absent teacup. The look was brief and evaluating, the kind that noticed everything and withheld approval on principle. "You're the fourth."
 
-"Fourth. Right. That's, I mean, okay, that's a number. Is that, should I be worried about the crying thing specifically, or is that more of a general warning."
+"Fourth. Right. That's... I mean, okay, that's a number. Is that a general warning or."
 
 "Aide. In four years." She was already moving, pulling a chart from a shelf behind her desk. "The last one cried on day three."
+
+"Is that, sorry, is the crying thing the specific thing I should be worried about, or."
 
 She didn't ask if he was ready. She started the orientation.
 
@@ -48,15 +50,15 @@ Tessaly's briefing was thorough and delivered at a pace that suggested she had l
 
 "Brief on her desk by seventh bell," Tessaly said, tracing the schedule with one finger. "Reports in by sixth. Team leads submit by fifth. Half will be late. You chase."
 
-"Sorry, I should have asked this earlier, but if half of them are going to be late, and I can't use the resonance stones, how do I actually chase them? Is there a, I mean, do I just walk?"
+"Sorry, I should have asked this earlier, but if half of them are going to be late, and I can't use the resonance stones, how do I actually chase them? Is there a... I mean, do I just walk?"
 
-Tessaly's finger stopped. He watched her recalculate, a brief, visible adjustment as she accounted for a limitation she wasn't used to working around. Resonance stones were the office's communication backbone: palm-sized stones attuned to each other, activated by channeling, carrying brief messages between paired sets. Every desk had one. Every team lead carried one. The entire logistics of the office flowed through them.
+Tessaly's finger stopped. The pause was brief, a half-beat in which she accounted for a limitation she wasn't used to working around. Resonance stones were the office's communication backbone: palm-sized stones attuned to each other, activated by channeling, carrying brief messages between paired sets. Every desk had one. Every team lead carried one. The entire logistics of the office flowed through them.
 
-Her brow furrowed, not with irritation, but with the practical expression of someone encountering a constraint she hadn't budgeted for. "That's going to slow us down."
+Her finger moved again, two columns over, settling on a name. "That's going to slow us down."
 
-"I have legs. That's, I mean, that's my whole system right now, which I realize sounds bad, but legs are actually quite fast if you know where you're going, which I don't yet, but I'll learn."
+"I have legs. That's... I mean, that's my whole system right now, which I realize sounds bad, but legs are actually quite fast if you know where you're going, which I don't yet, but I'll learn."
 
-"Legs." She said the word as though evaluating it as a technology. "Laris on the third level is always late. Fourth door past the archives."
+"Legs." She said the word as though evaluating it as a technology, and her hand was already pulling a second chart from the shelf behind her. "Laris on the third level is always late. Fourth door past the archives."
 
 She gave him a list of the team leads, their locations in the building, and the order in which they were most likely to be late. He wrote it down, all of it, in the hurried, cramped handwriting of someone who knew his memory was good but not perfect, who'd learned years ago that the cost of forgetting was always higher than the cost of a few extra seconds with a pen.
 
@@ -92,7 +94,7 @@ A long pause. Then: "It's not ready."
 
 The assistant gave Ash a look that was half apologetic and half *what did you expect*, and pulled the door shut behind him. The channeled lock engaged with a soft click that Ash felt more than heard.
 
-He walked back up the ramp to Tessaly's desk. "So, the report's not ready, Laris said that specifically, I did get in because someone opened the door, but then it closed again, so I couldn't, I'm not sure if there's a, should I go back?"
+He walked back up the ramp to Tessaly's desk. "So, the report's not ready, Laris said that specifically, I did get in because someone opened the door, but then it closed again, so I couldn't... I'm not sure if there's a... should I go back?"
 
 Tessaly didn't look up from her ledger. "Try Venn. Sixth level. Her door has a handle."
 
@@ -116,7 +118,7 @@ When the brief ended, Dorenne's staff dispersed with the controlled urgency of p
 
 He'd been hoping for a few more days before she tested him.
 
-"I mean, it might just be that I don't know the people well enough yet, but the structural team seems, Venn's scared, I can see it in how she's gripping the table. And Laris is..." A pause. "Laris is performing."
+"I mean, it might just be that I don't know the people well enough yet, but the structural team seems... Venn's scared, I can see it in how she's gripping the table. And Laris is..." A pause. "Laris is performing."
 
 Dorenne waited.
 
@@ -250,13 +252,11 @@ He wrote it up. A short note: here's the conflict, here's the schedule, here's j
 
 When she came back from her meeting, she read the note. She read it again. Then she appeared at his desk.
 
-"Junction nine." She set the note down and tapped it once.
+"Junction nine." She tapped the note once on his desk, the paper still in her hand.
 
 "I wasn't sure about the pressure tolerances..."
 
-"Natural break in the line. Tolerances are fine." She picked up the note and held it loosely, the way you hold a piece of paper you're going to act on. "Right."
-
-She left. The note went into her active folio instead of the tray. That afternoon, a scheduling query from a district crew arrived at his desk, the kind that would normally go through a senior coordinator. It came with a single word written at the top in Tessaly's hand: *Handle.*
+"Natural break in the line. Tolerances are fine." She was already turning, the note folded into her palm, two strides toward her own desk before the next word. "Right." The note went into her active folio instead of the tray. That afternoon, a scheduling query from a district crew arrived at his desk, the kind that would normally go through a senior coordinator. It came with a single word written at the top in Tessaly's hand: *Handle.*
 
 He handled it. Nobody praised him for it. The query had simply been routed to his desk, as though that were a normal place for scheduling queries to go.
 
@@ -318,7 +318,7 @@ After Aldren left, Dorenne passed Ash's desk.
 
 "Half a squad, freed up last week. So you were right." A pause. "Did you know that?"
 
-"No. I, no, I really didn't. I was sort of hoping it was right while I was saying it, which is probably not how this is supposed to work."
+"No. I... no, I really didn't. I was sort of hoping it was right while I was saying it, which is probably not how this is supposed to work."
 
 The relief came through him visibly: the exhale, the shoulders dropping. He'd gambled. It had worked. The distance between luck and competence was the distance between what he'd known and what he'd guessed.
 
@@ -368,7 +368,7 @@ Ryn was sitting on the low wall at the base of the stairwell where it opened ont
 
 "The one where you're solving something and you don't know it yet. You've been making it since you were eight." She held up the bag. "Sit. Eat. You skipped lunch."
 
-"How do you know I skipped lunch, were you, did you actually ask my mother?"
+"How do you know I skipped lunch, were you... did you actually ask my mother?"
 
 "Because you don't know where to eat yet and you'd rather pass out on the stairs than ask somebody." She said it flat, like stating the weather. "Your mother told me when you'd probably be done. I took twenty minutes off."
 

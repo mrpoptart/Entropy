@@ -94,7 +94,7 @@ Toraven looked at Ash. "Young man?"
 
 Ash stood. Every eye in the chamber shifted. He could feel it: the attention, the weight of it, the particular quality of being watched by people who were trying to decide what you meant for their future.
 
-"The buildings I touched before the quake are standing. The ones I didn't, aren't." A beat; he almost stopped there. "That's the whole plan, I think. I, yeah. I support it."
+"The buildings I touched before the quake are standing. The ones I didn't, aren't." A beat; he almost stopped there. "That's the whole plan, I think. I... yeah. I support it."
 
 He sat down. The vote was eleven in favor, none opposed. Toraven abstained, not out of opposition but out of the particular stubbornness of an elder who didn't like voting for things he hadn't suggested himself. The plan passed. Dorenne gathered her panels with the contained satisfaction of someone who had expected exactly this outcome and had prepared for every alternative.
 
@@ -168,7 +168,7 @@ Tereth pulled a third cup from the shelf. Sera settled the baby into a basket on
 
 "We watched you from the roof," Tereth said. He sat across from Ash at the table. "During the quake. On the third day, when you were working the retaining walls. We could see you from up there, just this figure, kneeling, hands on the stone. Sera said you were there for hours."
 
-"Yeah, the walls, I could see where the stress was. Old channeling, the kind that's held for thirty years and then one bad day is all it takes. I just, I couldn't not."
+"Yeah, the walls, I could see where the stress was. Old channeling, the kind that's held for thirty years and then one bad day is all it takes. I just... I couldn't not."
 
 "Our building held because of you. The one next to us..." Tereth gestured east. "You reinforced that before the quake. Two weeks before. Part of the Director's program."
 

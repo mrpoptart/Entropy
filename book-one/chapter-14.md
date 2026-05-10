@@ -44,7 +44,7 @@ He glanced at her. She was looking ahead, her profile sharp in the evening light
 
 They turned onto the lower terrace walkway. The route was one they'd taken before, years ago, when walking together was something that happened without scheduling, without resonance disc messages, without the machinery of his new life pressing in on every idle hour. The walkway ran along the gorge's edge, the river below catching the fading light in long copper streaks.
 
-"Dorenne's framework is, the allocation system she's built, it makes it possible to, I mean, the population-weighted approach, each deployment gets measured against maximum, I keep using her words, sorry, but it is working. Vesk's committee approved the expanded schedule last week."
+"Dorenne's framework, the allocation system she's built, it makes it possible to, I mean, the population-weighted approach, each deployment gets measured against maximum... I keep using her words, sorry, but it is working. Vesk's committee approved the expanded schedule last week."
 
 "You sound like a briefing."
 
@@ -68,7 +68,7 @@ He looked at her.
 
 "The Ash I knew talked about people. About Haran's new mechanism. About the way your father's shelf had a shimmy in the third bracket. About the woman at the market who sold the crooked bread." She looked at the river. "You used to notice things. Small things. Things that weren't measured."
 
-His jaw tightened. "You've had magic your whole life, you can't, I mean, it's..."
+His jaw tightened. "You've had magic your whole life, you can't... I mean, it's..."
 
 "I know."
 
@@ -106,7 +106,7 @@ He almost turned back. His weight shifted, a half-step, the beginning of a pivot
 
 He thought about the deployment brief on his desk. The Ridgewall second pass. Population: 8,400. Estimated: four hours.
 
-"I should go. I've got, the Ridgewall deployment is, it's an early start, I, sorry."
+"I should go. I've got... the Ridgewall deployment, it's an early start, I... sorry."
 
 She nodded. One nod. The kind that closed a door without slamming it.
 
@@ -176,7 +176,7 @@ His father nodded. He sat across from Ash at the table, his hands folded on the 
 
 "You're doing important work."
 
-"I think so. Dorenne's framework is, the allocation system she's built, it makes it possible to..." He stopped. Something in his father's expression. Not disagreement. Not the sharp scrutiny of his mother. Something softer. Something that was listening to the words and hearing something behind them, the way a mechanic listened to an engine and heard the bearing that was about to fail.
+"I think so. Dorenne's framework is... the allocation system she's built, it makes it possible to..." He stopped. Something in his father's expression. Not disagreement. Not the sharp scrutiny of his mother. Something softer. Something that was listening to the words and hearing something behind them, the way a mechanic listened to an engine and heard the bearing that was about to fail.
 
 "What?" Ash said.
 
