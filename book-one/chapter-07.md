@@ -20,7 +20,7 @@ His father adjusted it, testing the legs on the level floor, and the chair didn'
 
 "Solid building," his father said.
 
-"It is. I... the floor doesn't wobble either, I checked, which sounds like a low bar but apparently it isn't."
+"It is." Ash set the crate flat against the wall. "I... the floor doesn't wobble either, I checked, which sounds like a low bar but apparently it isn't."
 
 His father looked at him. The look held longer than it needed to. A beat, two beats, the kind of pause that had a shape but no words. Then his father nodded and went back to the corridor for the next load.
 
@@ -36,7 +36,7 @@ His father guided her through the doorway with the practiced attentiveness of a 
 
 "I can see the step, Rendell."
 
-"Just mentioning it."
+"Just mentioning it," his father said.
 
 "You've mentioned it four times since the carriage."
 
@@ -150,9 +150,9 @@ He didn't notice where she put it. He was already unwrapping the blankets, new o
 
 His father came in from the back room, where he'd been fitting a shelf bracket with his old tools, the dented measuring tape, a hand drill, a set of screws he'd brought from the salvage. He saw the leather roll on the table and opened it. His hands moved over the chisels the way they moved over any tool, testing the edge, the balance, the fit of handle to blade. He knew tools. These were good ones.
 
-"You didn't have to do this," he said.
+"You didn't have to do this," his father said.
 
-"I just... you could use better ones. The set you have is good, it's just... you should have ones that fit right."
+Ash shrugged. "I just... you could use better ones. The set you have is good, it's just... you should have ones that fit right."
 
 His father looked at him. The look held pride, enormous, genuine, the kind that lived in the eyes and the set of the mouth and the way a man stood when his son had done something worth standing for. But underneath the pride, something else. A question that lived in the pause before he spoke, in the hand that almost reached for Ash's shoulder and stopped an inch short, in the way he glanced at the old tools on the shelf behind him before turning back to the new ones.
 
@@ -190,7 +190,7 @@ His mother felt it first. Or she showed it first; Ash couldn't tell the differen
 
 "It's quiet," she said.
 
-"It's, yeah, it's quieter, I know, it's different, but the building's well-maintained, which, Maren checked the lattice herself, so."
+"It's, yeah, it's quieter," Ash said. "I know, it's different, but the building's well-maintained, which, Maren checked the lattice herself, so."
 
 She didn't answer. She turned from the window and went to make tea, and she reached for the old kettle before she remembered it was in the cabinet, and she used the new copper one instead. The water boiled fast, the stove's channeling interface was well-maintained, responsive. Nothing like the temperamental lattice in the old kitchen that his mother had nursed with her own pool for years, learning its moods, compensating for its dead spots with the patient precision of a woman who knew that the only warmth her family could count on was the warmth she provided.
 
@@ -300,13 +300,13 @@ He left. Ash stood in the hallway and listened to their footsteps recede down th
 
 On the seventh evening, Ash walked Maren to the door. The hallway was warm, properly warm, the lattice holding steady at the temperature Maren had set it to, not the temperature Ash had accidentally forced it to.
 
-"Thanks for... I mean, every evening, I know you have work, so, thanks."
+Ash walked her to the door. "Thanks for... I mean, every evening, I know you have work, so, thanks."
 
 "Of course."
 
 She buttoned her coat. The same coat, buttoned to the throat. Her fingers worked the top button twice before it caught. Her face was composed, the habitual composure, the surface she wore so naturally it was almost invisible.
 
-"I'll get better at it, I think, the lattice and, all of it."
+"I'll get better at it," Ash said. "I think, the lattice and, all of it."
 
 "I know."
 
@@ -318,7 +318,7 @@ She paused. Half-turned.
 
 He wanted to say something about the repairs. About her pool, spent each evening on his mistakes. About the work she did that nobody mentioned over dinner, that their parents didn't see or chose not to comment on, that he recognized only in the aggregate, the apartment functioning, the systems holding, the cracks not spreading. He wanted to say he saw it. That he knew what it cost her.
 
-"Maren, I... the lattice costs you, every time you... I see it."
+"Maren, I..." He stopped at the threshold. "The lattice costs you, every time you... I see it."
 
 She looked at him. Said nothing.
 

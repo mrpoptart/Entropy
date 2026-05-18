@@ -40,6 +40,8 @@ Dorenne's hands were flat on the desk. She didn't move.
 
 "At current deployment rates, your schedule, three to six sites a day, I have approximately eighteen weeks. At expanded rates, eleven. At theoretical master efficiency, which I'm years from reaching, twenty-one." He looked at the desk between them, at the edge of a deployment chart visible under her left hand. "Call it a season. Maybe two."
 
+"So I'm dying."
+
 He stopped.
 
 The office held its silence. The tea steamed. Somewhere in the building, a door opened and closed, the first of the morning staff arriving, footsteps in the corridor below, the building beginning its slow daily animation.
@@ -74,7 +76,7 @@ She stopped. The pencil hovered over the chart.
 
 He looked at her. She looked at him. The office was very quiet.
 
-"You started calculating."
+"You started calculating," Ash said.
 
 The word surprised him. It wasn't accurate; the Wellspring's depletion wouldn't kill him. He'd simply become what he'd been before: empty. A man with no pool, no reservoir, no magic at all. The dead weight. The charity case. The person Dorenne had hired out of a compassion so intertwined with strategy that neither of them could find the seam.
 
@@ -86,7 +88,7 @@ Something moved across her face. Not the institutional mask, something underneat
 
 "I know," she said. Quietly. "I know what you told me."
 
-"You started calculating."
+"You started calculating," he said again.
 
 "Yes."
 
@@ -106,7 +108,7 @@ The question was genuine. He heard it in her voice, not defensive, not rhetorica
 
 "I know."
 
-"If a water main is failing and I have one crew, I send them to the main that serves the most people. That's not callous. That's responsible."
+"If a water main is failing and I have one crew," she said, "I send them to the main that serves the most people. That's not callous. That's responsible."
 
 "I know." And he almost stopped there. He could feel the old machinery engaging: the accommodation, the smoothing-over, the part of him that had spent a lifetime making other people's discomfort go away. *She's right. She's doing her best. Let it go.* His mouth opened to say something conciliatory.
 
@@ -138,7 +140,7 @@ Dorenne was quiet for a moment. "The second week of reconstruction."
 
 "You... I mean, you saw the number going up. Didn't you. The whole time." He stopped. "The whole time."
 
-"The work was necessary. Every site..."
+"The work was necessary," Dorenne said. "Every site..."
 
 "I know. Every site was necessary. Every deployment was justified. Every allocation was correct." He pressed his palms flat on his thighs. "I know. I know every site was necessary." A pause. "That's, that's not what I'm... I just want to know why you didn't tell me."
 

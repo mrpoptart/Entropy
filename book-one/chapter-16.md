@@ -54,7 +54,7 @@ The tall woman with the maintenance badge walked to the center of the bridge and
 
 "You've had twelve hours of practice."
 
-"It's been a long twelve hours."
+"It's been a long twelve hours," Ash said.
 
 She almost smiled. Almost. The smile got as far as the corners of her eyes and then stopped, because smiling felt wrong when the dust of collapsed buildings was still settling in the streets below them and the voices calling names had not stopped. But the almost-smile was there, and Ash saw it, and it was the first thing in hours that felt like something other than crisis.
 
@@ -320,7 +320,7 @@ The room shifted. The question was casual but the interest behind it was not. As
 
 "For how long?" the Councillor pressed.
 
-"I don't know. Tomorrow I'll be at the dam junction. We'll see what's after that."
+"I don't know," Ash said. "Tomorrow I'll be at the dam junction. We'll see what's after that."
 
 The Councillor's brow creased. The reservoir hummed behind Ash's ribs, diminished by two days of maximum effort but still vast, still deep, an ocean that had lost water but was still an ocean. He could feel the edges now, the faintest outline of the reservoir's shape, a sense of boundary that had not existed before the earthquake, the way you can feel the walls of a room in the dark even if you can't touch them. But the edges were distant. The reservoir was still enormous. He could do this. He was doing this. The city needed him and he was enough.
 
@@ -360,7 +360,7 @@ The sentence landed slightly off. He filed it somewhere he didn't examine. She g
 
 "And Ash." She paused. The charts were in her hands. The room was empty except for the two of them and the evening light coming through the window, golden and dusty and warm, the light of a city that was damaged and alive. "What you did at Harrier Street. The building. Five and a half hours."
 
-"That was extraordinary. I want you to know that. What you did today, what you've been doing since this started, the city will remember."
+She didn't move. "That was extraordinary. I want you to know that. What you did today, what you've been doing since this started, the city will remember."
 
 He looked at his hands. "The crew was good."
 

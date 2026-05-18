@@ -46,7 +46,7 @@ Haran looked at it.
 
 Ash looked at it.
 
-"I... yeah, that was... I thought I had it, sorry."
+Ash pulled his hand back. "I... yeah, that was... I thought I had it, sorry."
 
 Neither of them said anything more.
 
@@ -140,9 +140,9 @@ The workshop's sounds continued. Davel's file. The lathe's idle clatter. Haran's
 
 Haran completed the calibration in about eight minutes. The valve seat, when he lifted it for the last time, showed a contact pattern that was even across the full face of the taper: grey compound spread uniformly, no heavy spots, no gaps, the brass telling the story of a surface that had met its mate correctly. He set the valve on the bench with a small, conclusive sound.
 
-"How did you do it? The, the contact pattern, mine was... here, look, I mean you can see it, it went heavy on the near edge both times, I couldn't figure out, there's something I'm not..."
+Ash picked up the valve and turned it to the light. "How did you do it? The, the contact pattern, mine was... here, look, I mean you can see it, it went heavy on the near edge both times, I couldn't figure out, there's something I'm not..."
 
-"I wasn't channeling."
+"I wasn't channeling," Haran said.
 
 Ash looked at him.
 
@@ -258,7 +258,7 @@ The light through the windows had gone orange by the time Ash straightened and p
 
 Davel had gone. The lathe was quiet. The chip tray needed emptying but it would wait until tomorrow, and Haran was cleaning tools at the end of the bench with the ease of a man closing down a day he was satisfied with.
 
-"I could... I mean, if you wanted, I could come back, help you finish it, with my hands, the regular way."
+Ash reached for his coat. "I could... I mean, if you wanted, I could come back, help you finish it, with my hands, the regular way."
 
 Haran looked at him. Not a long look. "Your hands would be useful."
 
@@ -268,7 +268,7 @@ Done. Real. Each of it useful in the moment.
 
 "How's the building's water system until you finish?" he asked.
 
-"Residents are managing. Two taps from the terrace, bucket brigades, the neighbors sharing." He didn't make it sound like heroism. Just logistics. "They've been doing it for six weeks. A few more won't break them."
+"Residents are managing," Haran said. "Two taps from the terrace, bucket brigades, the neighbors sharing." He didn't make it sound like heroism. Just logistics. "They've been doing it for six weeks. A few more won't break them."
 
 Ash thought about offering to accelerate the work. About the hours this pump would take versus what he could do in an afternoon if he stopped being careful, if he shaped the housing and sealed the joints and set the valves with the Wellspring instead of with hands and compound and a bending jig. The pump would be done tomorrow. Running by the day after.
 
@@ -294,7 +294,7 @@ Not a catastrophe. Still useful work, still genuine progress. He hadn't broken a
 
 He had just closed some doors.
 
-"See you next week. Sorry, for... yeah."
+Ash pulled on his gloves. "See you next week. Sorry, for... yeah."
 
 "Door's always open," Haran said. The threading handle turned.
 

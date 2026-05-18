@@ -4,9 +4,7 @@ The quarry opened like a wound in the plateau's edge.
 
 Ash stood at the rim and looked down. Thirty meters of sheer rock face, then rubble, then the gorge floor where the river had run centuries ago before someone with enough power had diverted it north. The quarry walls were scored with the marks of old extraction: clean faces where stone had been cut by channeling, rougher surfaces where the work had been done by hand. Nobody came here anymore. The stone they'd needed had been taken, and the quarry had been left to settle into itself, the way things did when no one maintained them.
 
-Ryn climbed up behind him. She was breathing hard from the trail. It was steep, loose gravel over exposed rock, the kind of path that existed because people had walked it rather than because anyone had built it. She stopped a few paces back from the edge and put her hands on her knees.
-
-"This is far enough from the city?"
+Ryn climbed up behind him. She was breathing hard from the trail. It was steep, loose gravel over exposed rock, the kind of path that existed because people had walked it rather than because anyone had built it. She stopped a few paces back from the edge and put her hands on her knees. "This is far enough from the city?"
 
 "Should be, I mean, I don't actually know the range, Haran's never been specific about that, but the plateau puts distance between us and the main channeling infrastructure, so, probably, yes."
 
@@ -78,13 +76,13 @@ Ryn walked to the wall. She touched the glass with one finger, carefully, testin
 
 "I melted stone."
 
-"You melted a wall."
+"You melted a wall," she said.
 
 "Part of a wall."
 
 She leaned against it. Crossed her arms again. Her face was doing something complicated, not any single expression, but a sequence of them, moving too fast to read, each one arriving and departing before it fully formed. She settled on something close to her normal face. Close, but not exact.
 
-"How much did that cost you?"
+She turned around. "How much did that cost you?"
 
 It was Haran's question. The same question, the same words, asked in a different voice. Ash checked the reservoir.
 
@@ -200,7 +198,7 @@ He thought about Haran, saying the same word over a coil of wire that hadn't smo
 
 "I can't get it smaller," he said. "I can feel where your output is. I can feel the shape of it. But the minimum I can do is still..." He gestured at the cracked stone.
 
-"Three or four times too much."
+"Three or four times too much," Ryn said.
 
 "At least. Maybe more. It's like, I can feel where yours is, I can feel the ceiling, and then I try to get under it and the floor is still..." He held up the cracked stone. "Yeah. At least."
 
@@ -306,13 +304,13 @@ He didn't say it. Something in the way she was sitting told him not to.
 
 "I can almost do it, the precision thing, Haran's technique... or, well, my version of Haran's technique, which is not the same thing yet but it's getting closer, I can feel where it needs to go. My hands know the shape. It's just calibration. Which is a word that sounds simple and isn't, but, another session, maybe two, I think I can get there."
 
-"Almost."
+"Almost." She drew her knees up.
 
 She nodded. The light was going and her face was half in shadow, the angles of her jaw and cheekbone catching what remained. She was looking at the gorge.
 
 "You'll get it," she said.
 
-"Yeah?"
+"Yeah?" he said.
 
 "You'll get it because you'll keep trying it until you get it. That's what you do."
 

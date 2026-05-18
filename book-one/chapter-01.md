@@ -166,7 +166,7 @@ Ash waited. He knew what was coming, could feel the shape of it in the air the w
 
 "I need someone with enough scope to follow an aqueduct briefing without doing the channeling. Someone organized enough to coordinate across three departments. Someone who has a reason to stay."
 
-"Because, I mean, it's not like I have a lot of options knocking on my door, so, that's, that's not entirely wrong."
+"Because, I mean, it's not like I have a lot of options knocking on my door, so, that's, that's not entirely wrong," Ash said. He stopped copying the number.
 
 "Because loyalty is a resource I've been unable to allocate effectively for four years. You don't have a better option at the moment. That's not a weakness in my offer; it's the framework that makes it reliable." She stopped walking and turned to face him. The ramp had brought them to the upper level; the infrastructure office was at the end of the hall, its doors open, the sound of voices and the rustling industry of people managing systems that were more fragile than anyone wanted to admit. "I won't pretend this is purely generous. I need an aide I can rely on. But I've been watching you for the last five minutes, and you read the posting board with the kind of attention that tells me you understand what those jobs actually require, not just what they list. You navigated forty flights of stairs to get here because you don't have an alternative, and you're not winded, and you didn't complain about it, and you made a joke. That's a skill set."
 

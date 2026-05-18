@@ -88,9 +88,9 @@ The assistant looked back into the room. "Laris?"
 
 From somewhere inside: "What?"
 
-"Someone for the report."
+"Someone for the report," the assistant called back.
 
-A long pause. Then: "It's not ready."
+A long pause. Then, from inside: "It's not ready."
 
 The assistant gave Ash a look that was half apologetic and half *what did you expect*, and pulled the door shut behind him. The channeled lock engaged with a soft click that Ash felt more than heard.
 
@@ -114,7 +114,7 @@ What he did understand was the room. Who was scared: the structural lead, Venn, 
 
 When the brief ended, Dorenne's staff dispersed with the controlled urgency of people who had too much to do. Dorenne caught his eye across the room.
 
-"Your take on the brief."
+"Your take on the brief," Dorenne said.
 
 He'd been hoping for a few more days before she tested him.
 
@@ -342,9 +342,11 @@ He'd been sent to retrieve a folio from the small conference room down the corri
 
 "By how much?"
 
+The younger one set down his pen.
+
 "Failure window moved up three years in the last assessment. Forty became thirty-seven. Next assessment, it'll be thirty-four. The one after that..." She let the arithmetic speak for itself.
 
-"Thirty-seven years is a long time."
+"Thirty-seven years is a long time," the younger one said.
 
 "It's a long time if the curve stays where it is." She straightened up and rubbed her eyes, a slow, deliberate gesture, as if pressing the numbers out of her vision. "It won't. Everything else is accelerating. Could be twenty. Could be fifteen." She rolled the chart and held it loosely, like something she was tired of carrying. "Six generations of channelers held the Kharren Fault in place. Each one was stronger than the next. The anchors were set by people we can't equal anymore, doing work we can't replicate. When those anchors go, there's nothing underneath them but geology." She tucked the chart under her arm. "And geology does not care what we think the timeline is."
 

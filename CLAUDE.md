@@ -103,3 +103,29 @@ Specifically prohibited for unvoiced tertiary characters:
 The principle: **voiced characters earn their distinctiveness by contrast with the ordinary.** If every character in the scene talks like a protagonist, no one does. Tertiary characters are the baseline that makes the voiced characters legible. Keep them in the middle of the road.
 
 When drafting or revising, check any unnamed character's dialogue against this rule. If the line would sound natural coming from a shop clerk or a transit worker on a normal morning, it passes. If it sounds like a line from a character with a backstory, it's over-voiced for its role.
+
+## Dialogue Attribution Rule
+
+A reader must always be able to tell who is speaking without inferring it from voice alone. Voice distinctiveness is a craft goal, not an attribution mechanism: the prose should read correctly even for a reader who has not internalized each character's register, and even mid-scene when an unattributed line could plausibly belong to more than one person present.
+
+Every line of dialogue must carry a clear speaker. Attribution may be explicit (a `said`/action tag) or unambiguous from the immediately surrounding action beat, but it must be present whenever any of the following is true:
+
+- **A stretch of unattributed back-and-forth has run long.** After roughly three consecutive unattributed exchanges, or any time the alternation could have slipped, re-anchor with a tag or action beat, even in a clean two-person scene.
+- **The line follows a narrative paragraph, a scene break, a time skip, or any interruption to the dialogue rhythm.** The first line of speech after non-dialogue prose must be attributed. (Chapter 5, line 157 is the canonical failure: a paragraph of narration about breaking stones, then an unattributed line that is recognizable as Ash only if you already know his voice.)
+- **More than two characters are present,** or anyone could plausibly be the speaker.
+- **The emotional or informational weight of the line is high.** Key reveals, decisions, and turns never float unattributed.
+
+Do not lean on a character's verbal signature (Ash's looping hedge, Haran's compression, Dorenne's institutional precision) to carry attribution. The signature is there to make the *right* speaker sound right once identified, not to identify them. If the only thing telling the reader who spoke is the voice spec, the line is under-attributed and must get a tag or an action beat.
+
+When attributing, prefer `said` and grounded action beats. Avoid the inverse failure of straining for variety with "muttered," "offered," "ventured" on every line; an invisible `said` plus an occasional physical beat is the default. The goal is certainty, not ornament.
+
+**The inserted tag or beat must not damage its neighbors.** A fix that resolves an attribution defect but introduces a prose defect is not a fix. Every tag or beat added for attribution must pass these four local checks against the sentences immediately before and after it:
+
+1. **No echo.** The tag or beat must not reuse a distinctive noun or verb that already appears in the adjacent sentence. If the prior sentence is "She looked at the working stove," the attribution is `Ryn asked.`, not `Ryn asked, looking at the working stove.` The gaze is already established; repeating it is the defect.
+2. **No duplicated sentence.** Never host a tag by reintroducing a sentence (or a near-identical clause) that already exists in the surrounding paragraph. If the paragraph already says "She moved toward the door," the next line is `"Maren," Ash said.` — not `She moved toward the door. "Maren," Ash said.`
+3. **Detail-preserving relocation.** When a tag is created by splitting or moving an existing action sentence, every concrete noun in the original must survive. Reducing "He climbed down to the first failing section" to "He climbed down toward the lining" to make room for a tag is a detail loss, not an attribution fix. Keep the specificity; use a plain `said` tag instead.
+4. **No stacked tags, preserved choreography.** Two consecutive speech lines by the same speaker must not each carry `X said`; merge the lines or drop the redundant second tag. And relocating a beat must not reorder physical action relative to speech (a character who confirms, then acts, must not be rewritten to act, then confirm).
+
+The default when any of these four would be violated is the bare `said` tag with no beat. A correct, plain tag always beats a grounded beat that repeats, duplicates, loses detail, or reorders.
+
+This rule applies to all chapter drafts, `drafts/`, revision briefs, and all writer- and reviewer-agent outputs. Voice agents and the Voice Editor must flag any line whose speaker is recoverable only through voice recognition, treating it as an attribution defect regardless of how spec-accurate the line is. The Voice Editor additionally owns the four local checks above: on any chapter that has had an attribution pass, it must audit each *inserted* tag and beat against its neighbors, not only the originally ambiguous lines. The Continuity Tracker is the backstop for check 3 (detail-preserving relocation), since dropped concrete detail is a continuity loss. Any writer agent applying attribution must self-run these four checks before returning and must report any case where it fell back to a bare `said` tag because a beat would have violated them. When revising a chapter, scan every first-line-after-narration and every long unattributed run, and add attribution wherever a non-expert reader could lose the thread.

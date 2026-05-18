@@ -54,7 +54,7 @@ A woman sat on a stool inside, working at a bench despite the crack. She was old
 
 "Door's open," she said. Then she saw him, and her hands went still.
 
-"Sorry to... I saw the brace from the street. Would it be all right if I..."
+"Sorry to..." Ash said. "I saw the brace from the street. Would it be all right if I..."
 
 She stared at him. Looked at the crack. Looked back at him. "You're..."
 

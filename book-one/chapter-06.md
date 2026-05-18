@@ -428,7 +428,7 @@ She stepped back. "Better. Still ridiculous."
 
 "Thank you."
 
-She sat back down. She looked at the kitchen, at the channeling strips, the working stove, the warm water that came from every tap. "Your mom doing okay?"
+She sat back down. She looked at the kitchen, at the channeling strips, the working stove, the warm water that came from every tap. "Your mom doing okay?" Ryn asked.
 
 "Her leg's healing. The healer says another week."
 

@@ -156,11 +156,9 @@ Maren arrived at quarter past. She came up the walkway with her coat buttoned to
 
 "A couple weeks, maybe three, I started pulling the archive records and then I... I don't know, I figured I'd see if it had legs first before I said anything."
 
-"You didn't say anything."
+"You didn't say anything." Her voice didn't change.
 
-"I didn't, no. I wasn't sure it would... I wanted to wait until it was actually... until it was real."
-
-"I just... I didn't want to say anything until it was real, in case it wasn't."
+"I didn't, no. I wasn't sure it would... I wanted to wait until it was real, in case it wasn't."
 
 She looked at the channelers. Sorren had her palms flat against the foundation stone, eyes closed, her team arrayed along the building's base in a line. The effort showed in their faces: the set of their jaws, the stillness of their bodies, the particular focused absence that Ash had learned to recognize as channeling at capacity.
 
@@ -210,13 +208,15 @@ He took the stairs. Three at a time. His body knew this staircase: every riser, 
 
 Third floor. The crack from the stairwell had continued here; it ran across the landing wall and disappeared into the Merrat apartment's doorframe. The heating lattice interface, the dead one, had fallen from the wall and shattered on the floor. He didn't stop.
 
-Fourth floor. Fifth. The door to his parents' apartment was open. His father was in the hallway, one arm around Maren, pulling her toward the door. Maren was resisting, not pulling away from him, but turned, her body angled back toward the bedroom, toward.
+Fourth floor. Fifth. The door to his parents' apartment was not just open. The frame had warped. The lintel above the doorway had sagged where the bedroom ceiling's collapse had rerouted weight onto it, and the stone of the upper wall pressed down at an angle the door was never meant to carry. His father was inside the frame. Not standing in it. Wedged under it. His shoulders and back jammed up against the underside of the sagging lintel, his feet braced wide on the threshold, his whole body acting as the post the doorway was leaning on. His face was the colour of plaster dust. The cords in his neck were standing out. Maren was a step inside the apartment, half-turned, one hand on the doorframe, her eyes on the bedroom, on.
 
 His mother.
 
 The bedroom ceiling had come down. Not all of it. A section, a beam and the stone slab it supported, collapsed at an angle across the room. His mother was on the floor near the bed. The beam lay across her legs and lower body, pinning her to the stone. Stone rubble had settled around and on top of her, heavy, angular pieces of the ceiling that had broken as they fell. She was conscious. Her hands were flat on the beam, pressing, and her face was tight with pain and the effort of pushing against something that wouldn't move.
 
-"Ash." His father's voice. "Get her out."
+"Ash." His father's voice. Compressed. The voice of a man speaking through a body doing other work. "Get her out. I can't leave the door."
+
+Ash understood without understanding. The lintel his father was holding had been the bedroom's load path before the ceiling came down; now it was the stairwell's. If his father stepped out from under it, the rest of the hallway came with him. His mother in the bedroom, his father in the doorway, his sister in between. Three problems and one of them had to be his.
 
 He was already there. He dropped to his knees beside her, his hands finding the edge of the beam where it rested on the rubble. His mother looked up at him and her eyes were wide and bright and steady, not panicking, not surrendering, the eyes of a woman who had spent her life solving problems one pool at a time and who expected her son to solve this one too.
 
@@ -237,6 +237,8 @@ The beam shifted. A fraction. Dust and small stones slid off its surface. His mo
 He pushed again. His legs shook. His shoulders burned. The stone was immovable in the way that stone was always immovable: passive, total, indifferent to the muscle and bone pressing against it.
 
 The building groaned again. A new crack opened in the apartment wall, running from the floor to the window. Through the window, Ash could see the street below: people moving away from the building, Sorren shouting orders, the channelers with their hands against the exterior walls, pouring everything they had into holding the structure.
+
+In the doorway, his father had not moved. Could not move. The lintel had pressed lower while Ash worked, a finger's width, then another; he could see it in the deeper bend of his father's back, in the way his father's heels were grinding against the threshold for purchase. His father's eyes were closed. His mouth was a flat line. He was a craftsman holding a load path in the only register he had left, the one that lived in his shoulders and his thighs and the knowledge his body kept of how stone preferred to fall. He was running out of body.
 
 Maren was beside him.
 
@@ -278,7 +280,9 @@ It poured out of him, through his hands, through his body, through every point o
 
 The apartment wall blew outward. Not crumbled. Exploded, the stone flying into the air outside, and cold afternoon light flooded the room along with wind and the sound of screaming from the street below. The ceiling fractured, new cracks racing across it, intersecting with the old ones, the structural web coming apart as the force he was pouring into the building destabilized everything it touched.
 
-He tried to stop. He didn't know how to stop. The power came from a place inside him that had no handle, no valve, no mechanism he could reach. It poured and poured and the walls cracked and the floor shuddered and the room was coming apart around him and his mother was free and his sister was pulling her toward the door and his father was there, lifting his mother's body with the strength of a man who had been carrying things his whole life.
+Through the gutted wall, the load that had pressed down on his father's shoulders for what had felt like hours found a new way to fall. The lintel sagged the rest of the way, then jammed against the wall stud and stopped, the weight of the upper hallway venting outward through the new opening instead of downward through his father's spine. His father felt it go. Ash saw it: the sudden release in his father's shoulders, the way his knees buckled the moment they were allowed to. His father pitched forward out of the doorway, caught himself against the bedroom wall with one shaking hand, and stayed there, bent at the waist, breathing in short hard pulls.
+
+He tried to stop. He didn't know how to stop. The power came from a place inside him that had no handle, no valve, no mechanism he could reach. It poured and poured and the walls cracked and the floor shuddered and the room was coming apart around him and his mother was free and his sister was pulling her clear of the rubble and his father, on his hands and knees now, was crawling the last few feet to where his wife lay, his arms shaking too hard to lift her, his right hand reaching her shoulder and gripping it as if grip was all he had left.
 
 "Ash!" Maren's voice. Sharp. Terrified. "Ash, stop!"
 
@@ -294,11 +298,13 @@ His hands were shaking. His whole body was shaking. The place inside him that ha
 
 * * *
 
-They carried his mother down the stairs. His father on one side, Ash on the other, her body between them, conscious and rigid with pain. Maren went ahead, checking each landing. Nobody spoke.
+They carried his mother down the stairs. Maren on one side, Ash on the other, her body between them, conscious and rigid with pain. Their father followed a step behind, one hand trailing along the wall for balance, the other arm hanging stiff at his side, walking the way a man walks when his back has finished telling him what it can do. Nobody spoke.
+
+Ash's free hand stayed against the stairwell wall. He didn't decide to do it. His fingertips brushed the stone on the fifth-floor landing and the building answered, a small responding hum in the wall that felt like recognition, and he understood without language that the thing that had opened in him was still open, and the stone could feel it, and if he flattened his palm something would pour. He kept his fingertips. Just his fingertips. He didn't know whether what he was doing was helping or hurting. He didn't know how to ask.
 
 The stairwell was damaged but intact. The channelers had held the main structure, had poured everything they had into the columns and crossbeams and foundation while the apartment above them blew itself apart. The cracks in the walls had widened. Plaster lay in drifts on every landing. The stairwell smelled of dust and cold stone and something else, a metallic sharpness, like the ozone tang in the market district where heavy channeling happened, but stronger. Different.
 
-Outside, the street was full of people. Neighbors from adjacent buildings. The Merrat family, wrapped in coats, their faces white. Old Verath clutching her cat against her chest. Sorren and her team, spent, leaning against the building's exterior wall with the loose-limbed exhaustion of people who had given everything they had. Sorren looked at Ash as he came through the door. Her gaze moved to his hands, then to the hole in the fifth floor, then back. She opened her mouth, closed it, and looked away, the expression of a professional encountering something outside her categories.
+Outside, the street was full of people. Neighbors from adjacent buildings. The Merrat family, wrapped in coats, their faces white. Old Verath clutching her cat against her chest. Sorren and her team, spent, leaning against the building's exterior wall with the loose-limbed exhaustion of people who had given everything they had. Sorren had already turned toward the door before Ash reached it. She had felt it from outside, he understood that the moment her eyes found him, felt the load coming through the foundations the way a channeler felt anything, and what she had felt did not match anything in the assessment. Her gaze moved to his hands, then to the hole in the fifth floor, then to the hand he was still trailing against the doorframe as he stepped through. She opened her mouth, closed it, and looked away, the expression of a professional encountering something outside her categories.
 
 His mother was lowered onto a blanket someone had spread on the walkway. She grabbed his father's hand and held it, and his father knelt beside her and put his other hand on her hair and said something too quiet for Ash to hear.
 
@@ -338,7 +344,25 @@ She crossed to him. She put her hand on his arm. The grip was firm, not his fath
 
 "Broken leg. Bruises. The healer says she'll be okay."
 
-"Good." She didn't release his arm. Her eyes were still moving, over the crowd, the channelers, the building, the damage. "I'm going to arrange a few things. Healers for your mother, a proper team, not a field medic. Temporary housing for your family and the other affected residents. The building will be assessed tomorrow." She paused. "No one else needs to know what happened up there. Not yet. Not until we understand what it was."
+"Good." She accepted the answer the way she accepted any field report from someone she had trained: as a placeholder she would have verified by morning, not as the close of a question. Her eyes were still moving, over the crowd, the channelers, the building, the damage. Then they came back to him and stopped.
+
+"Ash. Look at me."
+
+He looked at her. She was very close. The composure was back in place but it was a thinner sheet than usual; he could see the working underneath it, the part of her brain already drafting the report she would not be filing tonight.
+
+"Did you know?"
+
+"Know what?"
+
+"That you could do that."
+
+It took him a moment to understand the question. When he did, he understood that it was the only question, and that she had walked across a crowded street to ask it before anyone else could.
+
+"No."
+
+She held his eyes a beat longer. He didn't know what she was looking for. Whatever it was, she found it, or didn't find the other thing, and the sheet of composure resettled to its usual thickness.
+
+"All right," she said. Quietly. To him, not to the street. Then, at field volume: "I'm going to arrange a few things. Healers for your mother, a proper team, not a field medic. Temporary housing for your family and the other affected residents. The building will be assessed tomorrow." She paused. "No one else needs to know what happened up there. Not yet. Not until we understand what it was."
 
 He looked at her hand on his arm. Her fingers were precise, positioned with the same intentionality she brought to everything: the pen on the page, the deployment schedule, the two-page brief. She was holding him the way she held the city's systems: firmly, strategically, with a clear sense of where each piece belonged.
 

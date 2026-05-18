@@ -38,7 +38,7 @@ The words were calm. Measured. Dorenne didn't raise her voice. She didn't need t
 
 It wasn't a question. They both knew it wasn't a question.
 
-"Yeah. Yeah, okay. When, when do we go? I can go now, if that's... yeah. Now works."
+Ash looked at the sheet again. "Yeah. Yeah, okay. When, when do we go? I can go now, if that's... yeah. Now works."
 
 Something crossed her face, brief and controlled. Not a smile. Satisfaction, maybe. Or relief. The expression of a person who had solved a logistics problem that had been sitting on her desk for months.
 
@@ -58,9 +58,9 @@ The first junction box was set into a wall at the intersection of two residentia
 
 "This feeds blocks twelve through nineteen," said the engineer who'd been glancing at him. Verant, her name was. "Eight buildings. Hundred and twenty households."
 
-"Sorry, before I do anything, the lattice is intact? Like, structurally? I just... I'd rather know before I push too hard and make it worse, which is... that's a real possibility."
+Ash stepped toward the panel. "Sorry, before I do anything, the lattice is intact? Like, structurally? I just... I'd rather know before I push too hard and make it worse, which is... that's a real possibility."
 
-"Structurally, yes. The channels are clear, we checked last month. It's just empty. Like a pipe with no water."
+"Structurally, yes," Verant said. "The channels are clear, we checked last month. It's just empty. Like a pipe with no water."
 
 He stepped up to the interface. Put his palm on the disc.
 
@@ -96,7 +96,7 @@ Verant was staring at him. Her colleague had put both hands on the wall now and 
 
 He heard Haran's voice saying it. The workshop. The pipe fitting. The question that was always the same question.
 
-"Still have... yeah. I'm okay. Where's the next junction? I'm... it's fine, let's keep going."
+"Still have..." Ash flexed his hand. "Yeah. I'm okay. Where's the next junction? I'm... it's fine, let's keep going."
 
 * * *
 
@@ -132,7 +132,7 @@ He stepped back from the last interface and flexed his hands. The waste heat was
 
 Dorenne was standing at the end of the street with her engineers, making notes. She looked up as he approached.
 
-"How do you feel?"
+"How do you feel?" Dorenne asked.
 
 "Fine."
 
@@ -194,7 +194,7 @@ The water system didn't use heating lattices. It used pressure channels: stone p
 
 "How many people above the fourth floor?" Ash asked.
 
-"Six thousand."
+"Six thousand," Torath said.
 
 He worked the junction boxes the way he'd worked the eastern district, one by one, feeding energy into the interfaces, feeling the system respond. The water network was different from the heating lattice, less forgiving, more mechanical. Heat distributed evenly through stone. Water required sustained pressure, constant force, the channeled equivalent of a pump running at full capacity. When he pushed too hard, a pipe in block thirty-one groaned and Torath grabbed his arm.
 
@@ -278,7 +278,7 @@ At the bottom, a small crowd had gathered. People who had watched him ascend thr
 
 "It works?" a man asked.
 
-"It works."
+Ash stepped off the platform. "It works."
 
 The man stepped onto the platform. Then a woman. Then two children who held their mother's hands and looked at the shaft above them with the particular expression of children who had been told something was broken and were now being asked to stand on it.
 
@@ -378,7 +378,7 @@ She was sitting behind her desk this time, not standing at the map, not holding 
 
 He'd sat in on Council sessions before, as her aide, in the back row, taking notes. The Council governed Solathis: twelve elected members, each representing a district or interest group, meeting in the grand chamber at the top of the Hall of Infrastructure. He'd found the sessions tedious. Long speeches, procedural arguments, the particular theater of people who wielded institutional power performing that power for each other.
 
-"What for?"
+"What for?" Ash asked.
 
 "The infrastructure report. My department's allocation for the next quarter." She picked up a document and set it down, a gesture that had nothing to do with the document and everything to do with the rhythm of what she was saying. "The eastern district deployment alone has reduced emergency maintenance requests by sixty percent. The water system repairs saved an estimated forty thousand labor-hours that would have been spent on bucket chains. The transit shaft..."
 

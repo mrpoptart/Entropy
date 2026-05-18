@@ -34,7 +34,7 @@ He kept walking.
 
 "Good, busy, Dorenne's projections have us stabilizing core infrastructure in eight more weeks. The heating grids are ahead of schedule. Ridgewall's almost done, and the northern quarter grid is holding from the first pass. Sorren thinks we can extend the maintenance cycles if the reinforcement depth holds."
 
-"That's not what I asked."
+"That's not what I asked," Ryn said.
 
 He glanced at her. She was looking ahead, her profile sharp in the evening light. The oil smudge on her jaw caught the last of the sun.
 
@@ -46,7 +46,7 @@ They turned onto the lower terrace walkway. The route was one they'd taken befor
 
 "Dorenne's framework, the allocation system she's built, it makes it possible to, I mean, the population-weighted approach, each deployment gets measured against maximum... I keep using her words, sorry, but it is working. Vesk's committee approved the expanded schedule last week."
 
-"You sound like a briefing."
+"You sound like a briefing," Ryn said.
 
 He stopped. She stopped two steps ahead and turned to face him.
 
@@ -114,7 +114,7 @@ She nodded. One nod. The kind that closed a door without slamming it.
 
 They stood on the walkway above the gorge. The river below. The lamps coming alive on the terrace, one by one, the lamplighter's careful pulse repeating. Ten feet between them. The same ten feet that had been there at the bridge, but different now, denser, heavier, filled with everything she hadn't said and everything he hadn't heard.
 
-"Okay."
+He shifted his weight. "Okay."
 
 He turned. Walked. His stride was the one he'd developed over weeks of crossing the city between deployments, purposeful, direct, the shortest path between where he was and where the need was.
 
@@ -302,7 +302,7 @@ His father nodded. The nod was slow. Deliberate. The nod of a man who had heard 
 
 "Eight thousand people."
 
-"Eighty-four hundred."
+"Eighty-four hundred," Ash said.
 
 "Eighty-four hundred." His father repeated the number. His voice was even. His hands were still flat on the table. "That's a lot of people depending on you."
 

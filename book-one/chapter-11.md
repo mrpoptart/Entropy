@@ -10,7 +10,7 @@ Ash sat at the kitchen table with a deployment brief in one hand and a piece of 
 
 "I'm fine, Mum, I eat plenty, you know I eat plenty."
 
-"You had bread yesterday. And the day before."
+"You had bread yesterday," she said. "And the day before."
 
 "I had bread and stew yesterday. And meat pies from the Thornwall market the day before that." He took another bite. The bread was good. It was always good. His mother's bread had been good in the old apartment with the temperamental stove, and it was good in the new apartment with the channeling interface she still refused to use, and its goodness was the kind of constant that should have felt like comfort. "I eat plenty."
 
@@ -118,9 +118,9 @@ He hadn't forgotten it. He hadn't taken it because he'd planned to eat at one of
 
 "They are." His mother's chin lifted. A small motion. The motion of a woman who'd navigated twenty-three years of conversations with people who had power she didn't, and who understood the geometry of these exchanges the way a sailor understood the geometry of wind. You couldn't fight it directly. You leaned into it, used it, found the angle that let you keep moving forward. "I wanted to make sure Ash was eating."
 
-"We take care of him, I assure you."
+"We take care of him, I assure you," Dorenne said.
 
-"I take care of him."
+"I take care of him," his mother said.
 
 The words landed between them like a stone dropped in still water. Dorenne's expression didn't change. His mother's expression didn't change. The surface held. Beneath it, the ripples spread.
 
@@ -146,7 +146,7 @@ Dorenne had the survey out. The three failing sections marked in red. Eight thou
 
 "Ready?" Dorenne said.
 
-"Ready."
+"Ready," Ash said.
 
 He climbed down to the first failing section and pressed his hands against the channeled lining.
 
@@ -184,7 +184,7 @@ His father nodded. "Like pointing," he said.
 
 "Pointing. Brickwork. When the mortar degrades between the bricks, you don't rebuild the wall. You fill the gaps with new mortar. Push it in, let it set. The bricks are fine; it's the stuff between them that fails." His father picked up his bread. "Same principle. Different materials."
 
-"Exactly. Exactly like that."
+"Exactly," Ash said. "Exactly like that."
 
 His father chewed. He swallowed. He said, carefully, as though the words needed to be placed just so: "You built a pointing tool once. Do you remember? For the workshop. A modified spatula. You filed the blade thin so it could fit in the narrow joints. Haran used it for the cistern wall repairs."
 
@@ -194,7 +194,7 @@ His father chewed. He swallowed. He said, carefully, as though the words needed 
 
 "I think he does, yeah."
 
-"That was a good tool."
+His father set down his bread. "That was a good tool."
 
 His father looked at him. The look held. In the look was a question, not asked, not quite formed, the shape of it present the way a word is present on the tip of the tongue: you can feel its weight, its syllables, the space it would occupy in the air, but it won't come. The question was: *Do you remember what you were before this? Do you know that the boy who filed that blade for a week was worth something? Do you know that I was proud of you then, before the ocean, before the deployments, before Dorenne's maps?*
 
@@ -226,9 +226,9 @@ He pulled back. He could feel it. The pulse had raced through the lattice and hi
 
 "I can... I'll... just let me."
 
-"I've got it."
+"I've got it." He heard her move down the hallway.
 
-He heard her move down the hallway. He heard a soft sound, her palm on the stone, the whisper of controlled channeling, energy being drawn back out of the overloaded channels with the same precision she'd used to warm her tea. Maren's channeling was the opposite of his: small, exact, utterly disciplined. Where he flooded, she drained. Where he overwhelmed, she recalibrated. She could feel the lattice's structure the way he couldn't, each channel, each junction, the load tolerances of the narrower branches, and she could adjust the flow point by point, drawing excess heat from the overloaded sections and dispersing it through the wider channels where the lattice could handle it.
+He heard a soft sound, her palm on the stone, the whisper of controlled channeling, energy being drawn back out of the overloaded channels with the same precision she'd used to warm her tea. Maren's channeling was the opposite of his: small, exact, utterly disciplined. Where he flooded, she drained. Where he overwhelmed, she recalibrated. She could feel the lattice's structure the way he couldn't, each channel, each junction, the load tolerances of the narrower branches, and she could adjust the flow point by point, drawing excess heat from the overloaded sections and dispersing it through the wider channels where the lattice could handle it.
 
 It took her three minutes. He sat on the living room floor and listened to the sounds of her work: the quiet rustle of her breathing, the faint hum of channeling so controlled it barely registered, the occasional whisper of her fingers sliding along the wall as she traced the channels. When she came back, her face was composed. Not annoyed, not frustrated, not anything that would require him to address. Just composed.
 
@@ -304,7 +304,7 @@ She knew the system. She'd mapped it within a week of moving in, walked the apar
 
 She moved toward the door. He watched her go and something caught, a hitch in the motion, a fraction of a second where her hand paused on the door handle before she pushed it open. Not hesitation. Something else. The pause of someone marshaling something: energy, composure, the particular resources that her day would demand.
 
-"Maren."
+"Maren," Ash said.
 
 She turned. Her face was the face she always showed him, open, composed, the warm surface of a person who didn't need anything from anyone and never had. The face she'd perfected at six or seven, the face that said *I'm fine, focus on your brother, I don't need the room*.
 
@@ -338,7 +338,7 @@ He sat. Across from her, at the table, the deployment brief from the morning sti
 
 Ash's stomach tightened. "You went to the Hall?"
 
-"I went to the Hall."
+"I went to the Hall," his mother said.
 
 "Mum..."
 
@@ -376,7 +376,7 @@ The words hung in the air.
 
 "That's not what this is."
 
-"Isn't it?"
+"Isn't it?" his mother said.
 
 The question was sharp enough to cut. He felt it: a sting, a flash of something that might have been anger or might have been the reflex of someone whose new life was being questioned by the person most qualified to question it. His mother had protected him for twenty-three years. She'd stood between him and the world. She'd been the shield, the advocate, the fierce and tireless defender of a son who couldn't defend himself.
 
@@ -386,7 +386,7 @@ He could defend himself now. That was the point. That was the change she couldn'
 
 "I was happy because you had a job." Her voice was small. "A job. A desk. A schedule I could understand. Not..." She gestured at the deployment brief. At the walls. At everything. "Not this."
 
-"This is better than a job."
+"This is better than a job," Ash said.
 
 She looked at him. In her eyes was the thing she wouldn't say and he wouldn't hear, the thing that lived in the space between *I'm proud of you* and *I don't know what I'm for anymore*. For twenty-three years, she had been the person who kept him alive in a world that had no place for him. She had fought teachers and officials and neighbors. She had heated his water and warmed his room and made his bread. She had carried the weight of his impossibility on her back and called it love, and the weight had given her shape, had given her purpose, had given her the thing that got her up before dawn and kept her moving through days that were hard in ways that only the parent of a disabled child in an abled world could understand.
 

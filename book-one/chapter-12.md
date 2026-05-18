@@ -10,9 +10,7 @@ He stepped inside. The floor was smooth stone, polished by decades of administra
 
 "There's a key," she said. "The staff kitchen is one floor down. The engineers eat there most mornings, Torath, Verant, the assessment teams. You'll know half of them."
 
-He set his bag on the bed. Two changes of clothes. A deployment brief. The cracked gear casing from Haran's workshop, which he'd carried in his pocket for weeks and had transferred to the bag without thinking about why.
-
-"Thank you. I... it's more than I expected, sorry, I don't mean that like... thank you."
+Ash set his bag on the bed. Two changes of clothes. A deployment brief. The cracked gear casing from Haran's workshop, which he'd carried in his pocket for weeks and had transferred to the bag without thinking about why. "Thank you. I... it's more than I expected, sorry, I don't mean that like... thank you."
 
 Dorenne nodded. The particular nod she gave when something had been arranged and the arrangement was correct. "The northern quarter retaining walls need assessment by end of week. Sorren's team flagged three new fractures. And the Council liaison wants to discuss the lower terrace heating schedule."
 
@@ -84,9 +82,9 @@ Ash looked up. "Wait, it's... they installed it? When did... I didn't know it wa
 
 Ash didn't answer immediately. The pump. The project he'd been part of, the valve junctions, the pressure calculations, the afternoons at the workbench fitting components with Haran and the other tinkerers. The project that had moved forward without him the way water moved through pipes: following the path, filling the space, not caring who had dug the channel.
 
-"Haran's... yeah. I mean, I helped with some of the valve junctions early on, but the whole design, the counterweight approach, that was Haran."
+Ash went back to the junction box. "Haran's... yeah. I mean, I helped with some of the valve junctions early on, but the whole design, the counterweight approach, that was Haran."
 
-He went back to the junction box. The pressure readings were stable. He moved to the next one.
+The pressure readings were stable. He moved to the next one.
 
 That evening, in his quarters, he thought about walking to the workshop. The distance wasn't far: thirty minutes on foot, less if the transit shafts near the lower terraces were running. He could go now. He could see the pump installed, see the water flowing, see the workbench where his tools were arranged the way he'd left them.
 
@@ -304,7 +302,7 @@ He stayed for an hour. His father came home from the market with vegetables and 
 
 "He should be."
 
-"He said you helped with the valve junctions. The early design work."
+His father wiped his hands. "He said you helped with the valve junctions. The early design work."
 
 "I mean, the early valve work, a little. Haran had already figured out the counterweight part before I... I wasn't there for most of it."
 

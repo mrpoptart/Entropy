@@ -50,9 +50,7 @@ Ash looked at the bench, then at the wall behind it where Haran kept his project
 
 Fourteen Harven. Three weeks ago.
 
-"Sorry," he said. He wasn't sure what he was apologizing for. "I didn't know you'd finished it."
-
-"The pump," Ash said.
+"Sorry," Ash said from the doorway. He wasn't sure what he was apologizing for. "I didn't know you'd finished it. The pump."
 
 "Installed." Haran set the gear housing down and picked up a smaller piece, a shaft collar, brass, needing the same attention. The rag moved over it.
 
@@ -202,7 +200,7 @@ They sat for a while. The tea cooled. Haran poured more water in the kettle and 
 
 Ash held the fresh cup and stared at the workshop, at the benches, the tools, the lamp burning even and warm. At the project notes on the wall. At the pump diagram with its careful measurements and the line at the bottom: *Installed 14 Harven. Running.*
 
-"The pump," he said.
+"The pump," Ash said, looking up from the cup.
 
 "What about it?"
 
@@ -218,7 +216,7 @@ No accusation in it. No edge. The simple fact of an absence, stated the way you'
 
 "Yes."
 
-"And the Velden families wouldn't know how it worked."
+"And the Velden families wouldn't know how it worked," Haran said.
 
 Ash was quiet.
 

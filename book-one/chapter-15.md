@@ -30,7 +30,7 @@ Ash was already moving. The floor bucked under him and he staggered, caught hims
 
 The corridor was wrong. The floor sloped where it shouldn't slope. The ceiling had cracked, a single clean line running the length of the hallway, plaster dust falling from it in a steady white rain. People were emerging from offices on both sides, stumbling, shouting, a man carrying a ledger as if the numbers inside it still mattered. The building shook again, a second wave, deeper than the first, and Ash felt it in his chest, the Wellspring stirring as if the ground's shaking had reached something inside him. Not real resonance, not the reservoir responding to the quake, but the overwhelming wrongness of standing on moving ground while power pressed at his palms with nowhere to go.
 
-"Come on, the stairs, this way, can you walk?"
+"Come on," Ash said. "The stairs, this way, can you walk?"
 
 She nodded. Her hands were shaking. Everyone's hands were shaking, or everything was shaking, and the distinction had stopped mattering.
 
@@ -126,7 +126,7 @@ The question landed in his chest. Not in his mind, in his chest, where the Wells
 
 He reached inward. The Wellspring was there. Vast. Oceanic. Formless: no ceiling he could feel, no edges, just depth after depth after depth. More than any work crew. More than any department. More than any district.
 
-"I don't know. A lot."
+"I don't know," Ash said. "A lot."
 
 She nodded. Something moved behind her eyes, something he'd seen before when a resource came through at the last moment. She had the Wellspring. The city had the Wellspring. The worst day in Solathis's history, and she had the single most powerful tool any Director of Infrastructure had ever commanded.
 

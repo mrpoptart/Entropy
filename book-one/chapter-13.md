@@ -40,7 +40,7 @@ Admiration. Though he wouldn't have named it that. It felt like watching someone
 
 The vote passed nine to five. Dorenne gathered her papers without expression. In the corridor outside, she handed him the portfolio and said, "The Thornwall assessment. Schedule it for next week. I want you at the western span junctions before the crews arrive. Fresh readings, no surprises."
 
-"Yes."
+"Yes," he said.
 
 She paused. Looked at him. "You sat well in there."
 
@@ -58,7 +58,7 @@ He stood in front of them. The numbers were clean. The logic was obvious.
 
 She stood and crossed to the wall. Her finger traced the projection timeline. "If we allocate your deployments by population impact, highest density first, cascading to secondary systems, we can stabilize the city's core infrastructure in eleven weeks. The aqueducts, the primary heating grids, the transit hubs. Everything that serves more than five thousand people."
 
-"And the smaller systems?"
+"And the smaller systems?" Ash asked.
 
 "After. Or we assign maintenance crews. The smaller systems matter, but they're not existential." She turned to him. "Your power is significant, Ash. The city's needs are enormous. If we allocate wisely, we can stabilize the most critical systems first. Then we work outward."
 
@@ -118,9 +118,9 @@ He went to sleep thinking about the aqueduct.
 
 Dorenne said it the next morning. She was at her desk, the morning briefing notes spread before her. Her tea was untouched. She looked up when he came in, and the words arrived without preamble, the way all her words arrived, placed precisely, no wasted approach.
 
-"The foundation was giving out, I could hear it from the street, I just... it was twenty minutes, I had the capacity."
+"The foundation was giving out," Ash said. "I could hear it from the street, I just... it was twenty minutes, I had the capacity."
 
-"That was generous."
+"That was generous," Dorenne said.
 
 She picked up her cup. Drank. Set it down. The motion was unhurried, the pause deliberate, the same technique she'd used in the Council chamber, the silence that let the point land.
 
@@ -188,13 +188,13 @@ The bypass components and distribution refinements took up most of the central b
 
 The cam mechanism. Verant had mentioned it, the counterweight-driven pressure assist that replaced the spring system. It was mounted now. Ash could see the design: an offset cam turning against a follower, converting rotary motion into the reciprocating stroke that drove the piston. Simple. Elegant. The kind of solution Haran arrived at after discarding three complicated ones.
 
-"The cam, this is... Verant said someone solved the spring problem, who did this?"
+"The cam, this is..." Ash said. "Verant said someone solved the spring problem, who did this?"
 
 "Davel started it. Tavin finished." Haran nodded toward the teenager at the window. "He's got a feel for the geometry."
 
 Tavin. The teenager with the file. Ash watched him work, the patient, rhythmic strokes, the focused attention. Davel's rhythm. Davel's patience. Taught, absorbed, reproduced. The workshop passing its knowledge from hand to hand, the way workshops had done for centuries before channeling made precision a thing you could pour from your fingertips.
 
-"That's, yeah, that's really good, Davel would... I mean you can see Davel in it, he's got the patience for it."
+"That's, yeah, that's really good," Ash said. "Davel would... I mean you can see Davel in it, he's got the patience for it."
 
 "It's getting there." Haran picked up a small fitting from the parts bin, another brass junction, identical to the one he'd just seated. He held it out. "The secondary outlet. Needs to thread onto the bypass line. Should seat the same as the first."
 
