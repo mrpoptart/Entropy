@@ -138,7 +138,7 @@ Ash stood between them. His mother with the wrapped lunch in her hands. Dorenne 
 
 His mother looked at him. Her face did something, a motion that started as a smile and didn't quite arrive, a contraction around the eyes that might have been pride or might have been the effort of holding something back. She nodded. She turned. She walked back the way she'd come, forty minutes of streets and stairs ahead of her, the stiffness in her leg visible in the first few steps before she smoothed it out with the discipline of a woman who'd spent her life refusing to be seen as someone who needed help.
 
-Ash watched her go. Five steps, ten, her figure diminishing against the stone buildings of the northern quarter. Her shoulders were straight. Her pace was even. She looked, from behind, exactly like a woman who was walking somewhere important and not at all like a woman who was walking away from something she'd already lost.
+Ash watched her go. Five steps, ten, her figure diminishing against the stone buildings of the northern quarter. Her shoulders were straight. Her pace was even.
 
 He turned back to the bridge.
 
@@ -162,7 +162,7 @@ He pushed. The Wellspring poured into the lining and the lining resisted, not th
 
 He tried again. Slower. The Wellspring was not built for slow; it wanted to pour, to flood, to overwhelm. But he held it back, let it seep rather than surge, and felt the lining's channels accept the energy the way narrow irrigation ditches accept water: carefully, in sequence, each channel filling before the next one opened. The first section sealed. The degraded lining thickened and hardened and became, for the first time in decades, watertight.
 
-It took him twenty minutes instead of four. His palms ached from the sustained contact, the fine-grained effort of restraint more tiring than any flood. He climbed to the next section and did it again, and the second time was slightly easier, and the third time was slightly easier than that, and by the end of the afternoon the three failing sections were sealed and the lunch his mother had brought sat in his coat pocket untouched and cold.
+His palms ached from the sustained contact, the fine-grained effort of restraint more tiring than any flood. He climbed to the next section and did it again, and the second time was slightly easier, and the third time was slightly easier than that, and by the end of the afternoon the three failing sections were sealed and the lunch his mother had brought sat in his coat pocket untouched and cold.
 
 * * *
 
@@ -182,31 +182,33 @@ His father nodded. "Like pointing," he said.
 
 "What?"
 
-"Pointing. Brickwork. When the mortar degrades between the bricks, you don't rebuild the wall. You fill the gaps with new mortar. Push it in, let it set. The bricks are fine; it's the stuff between them that fails." His father picked up his bread. "Same principle. Different materials."
+"Pointing. Brickwork. When the mortar degrades between the bricks, you don't rebuild the wall. You fill the gaps with new mortar. Push it in, let it set. The bricks are fine; it's the stuff between them that fails."
+
+His father picked up his bread.
 
 "Exactly," Ash said. "Exactly like that."
 
-His father chewed. He swallowed. He said, carefully, as though the words needed to be placed just so: "You built a pointing tool once. Do you remember? For the workshop. A modified spatula. You filed the blade thin so it could fit in the narrow joints. Haran used it for the cistern wall repairs."
+His father chewed. He swallowed. He said, carefully, as though the words needed to be placed just so: "You wrote a letter once. For Devrin. The recommendation, when he went up for the workshop apprenticeship. You were twenty-one."
 
-"I remember."
+"Dad..."
 
-"You were, what, sixteen? Seventeen? You filed that blade for a week. You wore through two files getting it right." His father's eyes had a quality Ash recognized: brightness, warmth, the particular luminance of a man looking at something he valued. "Haran said it was the best pointing tool he'd ever used. Said it was better than the manufactured ones. He still has it."
+"That was the worst letter I have ever read in my life." His father said it the way he said *good work*: low, even, the weight on the words that mattered. "I've kept it."
 
-"I think he does, yeah."
+Ash laughed. It came out of him sideways, half a breath, his hand going up to his face and then back to the bread, the laugh chasing itself into words. "It got him the apprenticeship, though, so, I mean, it can't have been all that, it must have done something right, the man read it and still took him on..."
 
-His father set down his bread. "That was a good tool."
+"It did not do anything right." His father's eyes had a quality Ash recognized: brightness, warmth, the particular luminance of a man looking at something he valued. "Haran took Devrin on because he'd watched the boy work for a year. Not because of the letter. The letter said Devrin was, I think the words were, 'good at the things he is good at, and also reliable.'" The pause. The one-beat pause, held longer than the conversation expected. "You spent three evenings on it. I watched you cross things out."
 
-His father looked at him. The look held. In the look was a question, not asked, not quite formed, the shape of it present the way a word is present on the tip of the tongue: you can feel its weight, its syllables, the space it would occupy in the air, but it won't come. The question was: *Do you remember what you were before this? Do you know that the boy who filed that blade for a week was worth something? Do you know that I was proud of you then, before the ocean, before the deployments, before Dorenne's maps?*
+"It's not, I've never been, you know I've never been good with the, the writing part, I can build the thing, I just can't write the sentence about the thing." The deflection looped back on itself, his hand turning over, palm up, as if the trouble were sitting in it. "Devrin didn't care. Devrin would've signed his name to a blank page."
 
-The question hovered. It needed something from Ash: a pause, a recognition, a moment of stillness in which the old life and the new one could coexist. A moment in which his father's pride could land as what it was: not pride in the Wellspring but pride in the boy who had made things with his hands because his hands were all he had.
+His father set down his bread. He didn't say anything else. He looked at Ash, and the look held, and there was no question in it, nothing asked, only the steady attention of a man who had kept a bad letter for two years for reasons he was not going to put into a sentence either.
 
 "That canal was something, though," Ash said. He tore more bread. "The original work, you should see it, Dad. First-generation channeling. The precision is incredible. They understood fluid dynamics at a level I can't even..."
 
-He kept talking. His father kept listening. The question withdrew. Not answered, not dismissed, just uncollected, like a letter slipped under a door in an empty room. His father's hands rested on the table, steady and still, and his eyes were bright, and the brightness dimmed by a degree so small that you'd have to be watching for it to see it. His mother wasn't watching. She was at the stove, stirring. Ash wasn't watching. He was talking about canals.
+He kept talking. His father kept listening. His father's hands rested on the table, steady and still, and his eyes were bright, and the brightness dimmed by a degree so small that you'd have to be watching for it to see it. His mother wasn't watching. She was at the stove, stirring. Ash wasn't watching. He was talking about canals.
 
 Maren was watching.
 
-She stood in the doorway with her tea and she saw the whole thing: the question offered, the question missed, the dimming. Her face showed nothing. Her face was a surface trained to show nothing. She sipped her tea and the tea was the exact right temperature because she'd made it that way, precisely, the warmth going exactly where it needed to go and nowhere else.
+She stood in the doorway with her tea and she saw the whole thing: the letter offered, the letter laughed past, the dimming. Her face showed nothing. Her face was a surface trained to show nothing. She sipped her tea and the tea was the exact right temperature because she'd made it that way, precisely, the warmth going exactly where it needed to go and nowhere else.
 
 * * *
 
@@ -368,17 +370,13 @@ The tea. He could see it: Dorenne's office, the high ceilings, the maps on the w
 
 The words hung in the air.
 
-"I care about you," she said. "I care about whether you're sleeping. I care about whether you're eating food that isn't bread. I care about whether someone, someone who isn't that woman, is looking at my son and seeing a person instead of a..." She stopped. Her hands were shaking. She pressed them flat on her thighs and the shaking continued, the tremor traveling from her fingers into her wrists and up her forearms, the vibration of something structural coming loose.
-
-"A what?" Ash said.
-
-"I don't know. A tool. A solution. Something she can point at problems the way you point a hose at a fire."
+"You sleep four hours," she said. "The lunch I sent came back in your coat, cold, the cloth still tied the way I tied it. There's a woman on a bridge who calls you by a number of districts."
 
 "That's not what this is."
 
-"Isn't it?" his mother said.
+His mother didn't answer. She looked at the deployment brief on the table and didn't pick it up.
 
-The question was sharp enough to cut. He felt it: a sting, a flash of something that might have been anger or might have been the reflex of someone whose new life was being questioned by the person most qualified to question it. His mother had protected him for twenty-three years. She'd stood between him and the world. She'd been the shield, the advocate, the fierce and tireless defender of a son who couldn't defend himself.
+He felt it: a sting, a flash of something that might have been anger or might have been the reflex of someone whose new life was being questioned by the person most qualified to question it. His mother had protected him for twenty-three years. She'd stood between him and the world. She'd been the shield, the advocate, the fierce and tireless defender of a son who couldn't defend himself.
 
 He could defend himself now. That was the point. That was the change she couldn't absorb.
 
@@ -400,6 +398,24 @@ She nodded. She squeezed his hands once and let them go. She stood up and went t
 
 * * *
 
+The dishes were done and stacked and the kitchen was dark, and from his bedroom Ash could hear his mother's voice in the front room, low and continuous, the rhythm of a day being told.
+
+He'd come down the corridor for a glass of water and stopped before he reached the doorway. The lamp in the front room was turned low; he could see the soft edge of its light fall into the hall, and his parents' shapes inside, his mother in the scarred chair with sewing in her lap, his father across from her with his hands open on his knees. Neither of them looked up. Neither of them knew he was there.
+
+"I did the route this morning, before it got warm. Took the heel of the seed loaf to Mira, her hip's no better, she says it's the damp coming up through the new flagstones, I told her it's not the flagstones, it's the same hip she had in the old place, but she likes to have a reason. Picked up her cloth from Thirdday, she'd folded it in quarters with the corners squared, she always does that, I think it's the only thing in that flat she still has the strength to be particular about." A pause, the sound of the thread pulling through. "And I saw Saren at the well-lattice. We're still not agreed about the bread. She knocks hers down twice and lives with the close crumb and says that's just what winter bread is, and I keep telling her you let it rest the longer when the kitchen's cold, and she keeps not doing it, and she says her way feeds four children and mine feeds an argument. She's not wrong about the children." The thread again. "The cobbler's wife stopped me by the courtyard. She says the cobbler says the new district inspector came round the workshops on Fourthday and didn't write anything down, just looked, and the not writing anything down has the whole row uneasy. The cobbler thinks a man who doesn't write things down is deciding something he's already decided. I don't know. The cobbler thinks a great many things."
+
+A silence. Then his father.
+
+"The oak came in. The board I was waiting on. Vask held it back six weeks and apologized for the grain, said it was wilder than he'd promised." A pause. "It's better than he promised. Straight through the heart. I'll get two clean lengths out of it and the offcut besides."
+
+A small sound, fabric shifting, the needle going still. Then nothing for a long moment.
+
+"It's late," his mother said.
+
+A click, the lamp's collar turning, and the line of light at the corridor's edge dimmed and went out. Ash stepped back from the doorway. He went into his room without the glass of water and pushed the door to behind him.
+
+* * *
+
 Late. The apartment dark except for the heating lattice's faint glow in the walls, a ruddy undertone, the residual warmth of Ash's practice sessions accumulated in the stone. His parents were asleep.
 
 Ash stood at the window of his room and looked out at the city.
@@ -410,11 +426,7 @@ He pressed his palm to the window. The glass was cool, thinner than the walls, o
 
 The reservoir was there. Behind his ribs. Oceanic. Patient. Unchanged.
 
-He was useful. He was extraordinary. He was the most important person in the city and his mother worried about whether he ate bread, and his father talked about shelves, and his sister fixed the things he broke, and all of it was fine. All of it was the background noise of a life that had been transformed, the residual hum of old patterns adjusting to new reality. They'd adjust. Everyone adjusts. The weight shifts and the balance changes and eventually the new position feels natural, and the old one, the old one where he couldn't warm a cup of tea, where his mother heated his water and his sister outshone him and his father built things because building was what you did when you couldn't channel, the old one becomes the thing you mention at dinner, the nostalgic thing, the *do you remember* thing.
-
-The shelf. The pointing tool. The old kettle in the cabinet.
-
-Memories. Good ones. But small.
+He was useful. He was extraordinary. He was the most important person in the city and his mother worried about whether he ate bread, and his father talked about shelves, and his sister fixed the things he broke.
 
 He let the window go and went to bed. The lattice hummed in the walls around him, steady, warm, the sound of a system that was full and working and would need to be refilled in a week because nothing he did lasted forever but everything he did lasted long enough.
 
@@ -422,10 +434,8 @@ Behind her closed door, light. Maren was still awake. She was always awake late 
 
 The light stayed on behind her door. He went to bed.
 
-Behind her wall, the lattice hummed. Her brother's warmth. His excess, redistributed, made manageable by her hands. The system worked because she balanced it. Nobody noticed the balancing.
+Behind her wall, the lattice hummed. Her brother's warmth. His excess, redistributed, made manageable by her hands.
 
 In his room, Ash slept too. His dreams were warm and vast and full of faces: grateful faces, awed faces, the faces of people seeing help arrive after months of waiting. In the dreams, the reservoir never thinned. In the dreams, the work never ended. In the dreams, everyone he loved was fine, was happy, was adjusted and adjusted and adjusted, and the curtains hung perfectly on the rod, and the shelf held, and the tea was always hot, and nobody needed anything he wasn't already giving.
 
 Outside, the city dimmed by tiers. The elder districts held their light. The young districts flickered.
-
-The distance between them was growing.

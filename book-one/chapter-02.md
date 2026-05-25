@@ -224,11 +224,11 @@ And then, in the gap between one sentence and the next, in the small breath wher
 
 "Forty-seven, obviously. Third shelf from the left, second row from the bottom." Osten produced the document from the stacks in under a minute, handling it with the speed and precision of a man who had organized this room for thirty years and resented anyone who implied it needed reorganizing. "Tell Tessaly she needs to send someone who knows how to ask."
 
-Ash brought the document to Tessaly's desk. She looked at it, looked at the timestamp, looked at him. "Under a minute."
+Ash brought the document to Tessaly's desk. She looked at it, looked at the timestamp, looked at him.
 
-"I asked about the shelving."
+"I asked about the shelving," he said.
 
-The corner of her mouth moved, not a smile, something she'd deny if he pointed it out. "Good."
+She turned a page in her ledger and made a small mark in the margin. She didn't say anything. He stood at her desk for a moment longer, then went back to his.
 
 * * *
 
@@ -236,7 +236,7 @@ By the end of the first week, Ash's understanding of the office had shifted from
 
 He'd been sitting in on the daily briefs for five days. He didn't speak unless asked, and Dorenne hadn't asked since that first morning when he'd read the room right and the situation wrong. He took notes. He studied the technical vocabulary at night, reading his own transcriptions by candlelight and cross-referencing them with the maintenance notices he'd been absorbing from the corridor boards. Slowly, very slowly, the way water wore stone, the language was becoming less opaque.
 
-The scheduling conflict came to him on a Friday.
+The scheduling discrepancy came to him on a Friday.
 
 Not as a flash of insight. Not as a problem he set out to solve. It arrived the way most useful knowledge arrived for him: through accumulation, through proximity, through the particular advantage of being the person who walked the building instead of sending messages through it.
 
@@ -244,23 +244,47 @@ The Thornwall crew and the Bridgeway crew had been fighting over access to the w
 
 Ash had been carrying documents between these offices all week. He'd been walking the ramp past the maintenance notices about junction statuses. He'd been reading the aqueduct schedules because Dorenne had told him to learn the western district maps and the aqueduct schedules were part of the maps. And he'd been standing on the ramp landing on Day Three, stretching his cramping legs, staring at a notice about junction nine being taken offline for an unrelated repair, and the number had gone into his head along with all the other numbers: junction seven, junction twelve, the gap between them, the pressure tolerances, the depressurized section.
 
-On Friday morning, the conflict resurfaced. Tessaly was in a meeting. A message came in from Parren, another complaint about Bridgeway blocking his crew's access. Another message from the Bridgeway lead about the Council authorization.
+On Friday morning, the conflict resurfaced. A message came in from Parren, another complaint about Bridgeway blocking his crew's access. Another message from the Bridgeway lead about the Council authorization.
 
-Ash looked at the messages. He pulled the aqueduct schedule from the rack on the wall, the same one he'd been reading all week. He traced the route with his finger: junction seven, eight, nine, ten, eleven, twelve. Junction nine was offline. The aqueduct was already depressurized between eight and ten. The Thornwall crew could work from seven toward nine without affecting the Bridgeway crew's pressure at twelve. The gap between them was already open. Someone just had to say so.
+Ash looked at the messages. He pulled the aqueduct schedule from the rack on the wall, the same one he'd been reading all week. He traced the route with his finger: junction seven, eight, nine, ten, eleven, twelve. Junction nine was offline. The aqueduct was already depressurized between eight and ten. If he was reading the pressure markings right, the Thornwall crew could work from seven toward nine without affecting the Bridgeway crew's pressure at twelve. The gap between them was already open.
 
-He wrote it up. A short note: here's the conflict, here's the schedule, here's junction nine, here's why it works. He added a line at the bottom: *I'm not sure about the pressure tolerances past junction ten. Please check.* He left it on Tessaly's desk.
+He brought the schedule to Tessaly's desk.
 
-When she came back from her meeting, she read the note. She read it again. Then she appeared at his desk.
+"The junction nine notice. The depressurization. I think the gap between eight and ten is wide enough that Thornwall could work from seven without crossing into Bridgeway's pressure section at twelve. The depressurized stretch covers it. If I'm reading the markings right. Which I might not be."
 
-"Junction nine." She tapped the note once on his desk, the paper still in her hand.
+Tessaly took the schedule. She didn't say anything for a long moment. She pulled a second sheet from her drawer, a pressure log, and laid it beside the schedule and read across.
 
-"I wasn't sure about the pressure tolerances..."
+"You're reading the depressurization right. You're reading the pressure section wrong. Twelve isn't where Bridgeway holds pressure. They hold from eleven. The gap is narrower than you think, and Thornwall can't work past eight without putting load on Bridgeway's section." She tapped the log. "But if Thornwall works seven to eight only, and Bridgeway holds from eleven, the depressurized stretch absorbs the rest. That holds."
 
-"Natural break in the line. Tolerances are fine." She was already turning, the note folded into her palm, two strides toward her own desk before the next word. "Right." The note went into her active folio instead of the tray. That afternoon, a scheduling query from a district crew arrived at his desk, the kind that would normally go through a senior coordinator. It came with a single word written at the top in Tessaly's hand: *Handle.*
+She wrote two lines on the back of the schedule and stood.
 
-He handled it. Nobody praised him for it. The query had simply been routed to his desk, as though that were a normal place for scheduling queries to go.
+"I'll route it."
 
-A gear finding its housing. Beginning to turn.
+She did. She walked it across the office to the dispatch desk herself, and the schedule went out under her name, and Ash sat at his desk with the pressure log in front of him and traced the markings again, slowly, until he understood the part he'd gotten wrong.
+
+That was the part he was good at. The other part came late in the day.
+
+Dorenne stopped at his desk on her way past with a sheaf of briefing notes in her hand. A deployment summary, she said. The reshoring crews for the three flagged buildings, who went where, on what schedule, with what authorization. She needed it written up clean for the resource committee. By morning.
+
+He took the notes. He read them three times. He understood the content; he'd been carrying versions of it up and down the ramp for a week. He sat with a clean sheet and a pen and tried to make it into a memo, and it took him close to an hour, and when he finally set the pen down his hand ached and the page was dense with crossings-out and the margins were full of arrows where he'd decided, halfway through, that a thing belonged earlier.
+
+He left it on her desk before he left the building.
+
+She read it that evening. The next morning she sat him down at the central table, the page between them, and went through it line by line.
+
+"You open with the weather." Her finger was on the first paragraph. "The committee does not need the weather. They need the authorization number, the crew counts, the order in which buildings come off the risk list. You have all three. They are in the wrong order and one of them is in a sentence about something else."
+
+"Right, no, that's, I see it, I was trying to give them the context first so the numbers would land, but, that's, you're right, that's backwards for them, I should have..."
+
+"This is not a story. They will read the first two lines and decide whether to keep reading. Put the decision in the first two lines." She moved down the page. The convention for citing a standing authorization. The convention for a crew the office did not directly control. The thing institutional readers expected at the top of a deployment summary, which he had put at the bottom, because at the bottom was where it had occurred to him. Her corrections were not unkind. They were not softened either. She marked each one and moved to the next.
+
+When she reached the end of the page she squared it and set it down.
+
+"It's legible. The reasoning is sound. The presentation is wrong, and the presentation is the part the committee receives." She stood.
+
+"Could you mark up the next one too." He said it before she was fully out of the chair, the words coming a little fast. "I'll do the draft, all of it, I just, I don't think I'm going to get the conventions on my own, not for a while, and I'd rather you cut it apart than send it up wrong. If that's, if that's a reasonable thing to ask."
+
+"Yes," Dorenne said, and went to her desk.
 
 * * *
 
@@ -268,7 +292,7 @@ On Day Eight, Dorenne said, "Morning meeting. Sit at the table."
 
 She said it in passing, on her way to the records room, without stopping. Just a logistical instruction, delivered with the same economy she applied to everything: *the corner is no longer where you sit.*
 
-He moved his notebook from the corner to the fourth seat from the end of the central table, and the distance between those two points, perhaps twenty feet of stone floor, contained the entire first week of his life in this building. The locked doors and the open ones. The wrong answer and the right instinct. The cramping legs and Tessaly's rerouted schedule. Osten's shelving. Parren's mailbox. The note about junction nine.
+He moved his notebook from the corner to the fourth seat from the end of the central table, and the distance between those two points, perhaps twenty feet of stone floor, contained the entire first week of his life in this building. The locked doors and the open ones. The wrong answer and the right instinct. The cramping legs and Tessaly's rerouted schedule. Osten's shelving. Parren's mailbox. The marked-up page.
 
 He sat at the table and nobody commented.
 
@@ -320,7 +344,7 @@ After Aldren left, Dorenne passed Ash's desk.
 
 "No. I... no, I really didn't. I was sort of hoping it was right while I was saying it, which is probably not how this is supposed to work."
 
-The relief came through him visibly: the exhale, the shoulders dropping. He'd gambled. It had worked. The distance between luck and competence was the distance between what he'd known and what he'd guessed.
+The relief came through him visibly: the exhale, the shoulders dropping. He'd gambled. It had worked.
 
 "Well handled," she said. She left.
 
@@ -358,7 +382,7 @@ He brought the folio back to Dorenne's desk and said nothing about what he'd ove
 
 * * *
 
-He left the building in the last of the light. Two weeks of climbing had changed his legs; they still ached on the ramp, but it was an ache his body had accepted, the way his hands had accepted calluses from carrying tools. He took the forty flights down in the growing dark, his mind running through the day's residue. The Aldren meeting, the guess that turned out right, the engineers' numbers, Tessaly forwarding the scheduling query to his desk as though it belonged there.
+He left the building in the last of the light. Two weeks of climbing had changed his legs; they still ached on the ramp, but it was an ache his body had accepted, the way his hands had accepted calluses from carrying tools. He took the forty flights down in the growing dark, his mind running through the day's residue. The Aldren meeting, the guess that turned out right, the engineers' numbers, the marked-up memo on his desk that morning.
 
 He was so deep in his own head that he almost missed her.
 
@@ -394,7 +418,11 @@ The misfiled document. Parren's complaint carrying across the office. The shame 
 
 His legs on the ramp, seizing on Day Three. Tessaly's rerouted schedule appearing on his desk without explanation. The map of manual handles in his notebook. He showed her this, turning to the page, and she looked at it for a long time without saying anything.
 
-Osten and the shelving. The scheduling conflict and junction nine, how it hadn't been a flash of brilliance but just the slow accumulation of walking past the same maintenance notices for a week until the numbers connected themselves.
+Osten and the shelving. The scheduling discrepancy and junction nine, how it hadn't been a flash of brilliance but just the slow accumulation of walking past the same maintenance notices for a week until the numbers connected themselves, and how he'd brought it to Tessaly and gotten half of it wrong and watched her fix the part he'd missed before she routed it. The deployment memo he'd labored over for an hour and gotten wrong, and Dorenne taking it apart line by line the next morning, and him asking her to take apart the next one too.
+
+"You asked her to keep correcting you," Ryn said.
+
+"I asked her to keep cutting it apart. There's a difference. Probably. I haven't worked out what it is yet."
 
 And then Aldren. The tea. The guess about the southern pool that turned out to be right but that he hadn't known was right, and the relief afterward, the shaking in his hands that he'd hidden under the desk.
 

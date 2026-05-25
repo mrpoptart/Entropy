@@ -90,31 +90,37 @@ A councillor from the elder heights, Toraven, an old man with a pool that still 
 
 Dorenne didn't look at Ash. "Ash has agreed to work with my office on the reconstruction because the reconstruction serves the city."
 
-Toraven looked at Ash. "Young man?"
+Toraven turned in his chair until he faced Ash directly. "Then I'll ask the Wellspring. Suppose the rebuilds outpace this schedule. Suppose the districts press harder than the Director's timeline allows, and the demand runs ahead of the plan. What would you commit to, in that case? Speak to the chamber, young man. Not to the Director. To us."
 
-Ash stood. Every eye in the chamber shifted. He could feel it: the attention, the weight of it, the particular quality of being watched by people who were trying to decide what you meant for their future.
+Ash stood. Every eye in the chamber shifted to him at once, twelve councillors and the aides along the walls and the district representatives in the back rows, and the attention arrived all together, like weight settling onto a beam.
 
-"The buildings I touched before the quake are standing. The ones I didn't, aren't." A beat; he almost stopped there. "That's the whole plan, I think. I... yeah. I support it."
+"I, the plan, the schedule the Director set, it's, I think it accounts for that, the demand thing, because the sequencing." He stopped. Started again. "If the districts press harder then the work would, I'd do the work. That's what I, that's." The next sentence did not arrive. His voice had gone thin somewhere in the middle of it, narrowed to almost nothing, and his hands found the rail at the front of the side bench and closed around it. "I would. Whatever the city." Nothing after that. He stood with his hands on the rail and the sentence unfinished and the chamber silent around him.
 
-He sat down. The vote was eleven in favor, none opposed. Toraven abstained, not out of opposition but out of the particular stubbornness of an elder who didn't like voting for things he hadn't suggested himself. The plan passed. Dorenne gathered her panels with the contained satisfaction of someone who had expected exactly this outcome and had prepared for every alternative.
+Dorenne rose. The motion was unhurried, the same metronomic pace she had kept for forty minutes, and she did not look at Ash as she stood, only stepped half a pace forward so that the chamber's attention transferred to her the way water finds the lower channel.
+
+"The contingency Councillor Toraven describes is accounted for in the sequencing," she said. "If district demand outpaces the schedule, the plan does not accelerate. It reprioritizes. Transit and water hold their order regardless of pressure, because a district that presses for foundations it cannot yet use is a district that has not been correctly triaged. The Wellspring is deployed where the framework produces the greatest structural return. That allocation does not change because a district asks louder. I would not let it." She paused exactly as long as she had paused before. "That is the commitment."
+
+Ash sat down.
+
+The chamber had watched the handoff. A few of the district representatives glanced between him and Dorenne; Toraven held his look on Ash a moment longer than the others before he settled back into his chair. No one remarked on it. The vote was eleven in favor, none opposed. Toraven abstained, out of the particular stubbornness of an elder who didn't like voting for things he hadn't suggested himself. The plan passed. Dorenne gathered her panels.
 
 Afterward, in the corridor, she found him.
 
-"Thank you," she said. "For what you said in there."
+"That was well placed," she said. "What you said in there. It held the room at exactly the moment the room needed holding."
 
-"I meant it. The plan is good."
+"I meant it. I think. The sequencing part, anyway, that's... it's the part I actually understood, so."
 
 "I know." She held his gaze. "That's why it worked."
 
 They stood in the corridor of the Council Hall, the same corridors he'd walked as her aide, carrying papers, opening doors, performing a usefulness that had nothing to do with channeling. That had been weeks ago. It felt like someone else's life.
 
-"The first deployment is tomorrow morning," she said. "Southern transit shafts. I've scheduled the crews."
+"The first deployment is tomorrow morning," she said. "Southern transit shafts. I have scheduled the crews."
 
-"I'll be there. Seven, or when you need me."
+"I'll be there, seven, earlier if you, whenever you need me there, I'll just come early."
 
 She nodded. Checked her list; she had a new list, fresh, the reconstruction plan already translating into daily operations. She turned to leave, then paused.
 
-"We're going to rebuild this city, Ash."
+"We will rebuild this city, Ash. The framework is approved and the capacity is available. The rest is sequencing."
 
 He watched her walk away. Straight back. Steady stride. The list in her hand. She believed it. She believed that the plan was right and the power was available and the system would work, and standing in the corridor of the Council Hall with the vote still settling, he believed it too.
 
@@ -144,7 +150,7 @@ Ash stopped. "I'm..."
 
 "You held the building." The man set the chair down. "My wife's cousin was inside. Third pocket. The family, mother and father and the boy."
 
-"They came out, yeah. All three. The boy was..." He trails off.
+"They came out, yeah. All three. The boy was..." He trailed off.
 
 "They came out because of you." The man stood. He was taller than Ash by an inch or two, and he used the height the way some people used it, not as threat but as frame, a way of being present. "I'm Tereth. My wife is Sera. We live here." He gestured at the building behind him. "Third floor."
 
@@ -212,14 +218,6 @@ He stayed for an hour. The tea went cold and was reheated and went cold again. T
 
 "Come back," Tereth said from the doorway. "When you can. The door's open."
 
-Ash walked down the stairs and into the street with the bread against his chest and a warmth in his body that had nothing to do with the reservoir.
-
-The reconstruction schedule said western water junction. He was an hour late. Dorenne would note it on her list, a gap in the deployment, an unexplained absence from the timeline. He would tell her where he was. She would understand. She might even approve. The hero of Solathis, sitting in a family's kitchen, drinking tea. Dorenne would note the gap. She logged everything. She might even appreciate the story in it, the human texture of a deployment that ran long because someone made tea.
-
-The tea, and the baby's name, and the door that was open.
-
-He turned west and walked toward the water junction, and the bread was warm against his chest, and the city moved around him in the late light, and every step carried a weight that was not weight.
-
 * * *
 
 The western water junction took forty minutes. He sealed the deep crack that the maintenance crew couldn't reach, reinforced the conduit wall, and moved on. Two more sites in the southern terraces: a retaining wall, a bridge support. Clean work. He wasted less now. Not Haran's precision, nothing like that, but the hand was steadier.
@@ -244,18 +242,10 @@ He reached for the feeling, tried to hold it, examine it.
 
 It slipped away. Like trying to look directly at a star that was only visible in peripheral vision; the harder he focused, the less he could see. The reservoir was there. It was vast. It was his. The shape he'd almost felt dissolved back into formlessness, and the brief whisper of edges faded into the general hum of power that he'd carried for weeks.
 
-He let it go. Not easily. The way you let go of something that pulled back, that wanted to be held, that required a conscious unclenching of the mind to set down. The morning's schedule was already forming: the Millworks retaining wall, the southern bridge supports, three more hours of hands on stone.
-
-There was too much to do. The reconstruction plan stretched across months: transit, water, foundations, the systematic reinforcement of a city that needed every hour he could give it. Dorenne's schedule was precise. The Council had approved it. The work was good and necessary and real, and the reservoir was there to do it.
-
 He turned from the overlook and walked back toward the command post. The bread from Sera and Tereth was still tucked inside his jacket, and he tore a piece off and ate it as he walked, warm still, somehow, or warm again from the heat of his body, the yeast and grain taste filling his mouth as the city's patchwork lights filled the streets below.
 
 *Ashyn.*
 
-The name sat in his mind like a stone in water, present, settled, smoothing the current around it. A child named after him. A child who would grow up in a city he had held together with his hands. A child whose first weeks of life had been shaped by an earthquake and a rescue and a man kneeling on a broken foundation with his palms on the stone.
+He walked through the quiet streets. Halfway down the corridor that ran inside the command post's lower wing, he stopped. He pressed his palm flat against the cold stone of the wall. He waited. He reached for the feeling again, and this time it was there, faint, the suggestion of an edge somewhere behind his ribs, the contour holding for a slow breath before it slid away. He dropped his hand.
 
-He walked through the quiet streets. The city hummed around him, the low vibration of channeling and machinery and people and stone, the sound a city made when it was alive, when it was healing, when it was his.
-
-The reservoir was there. The warmth was there. The work was waiting.
-
-He climbed the stairs to his quarters and lay on the cot and slept, and the sleep was deep and dreamless and earned, and in the morning the city needed him, and he went.
+He climbed the stairs to his quarters and lay on the cot and slept.

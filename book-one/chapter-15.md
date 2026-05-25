@@ -196,7 +196,7 @@ His voice was hoarse. He didn't know when it had gone hoarse. The dust, maybe. T
 
 Ash held the cliff face until the last person was clear. Then he released it. The section of plateau slid in a slow, grinding descent, stone on stone, a geological sound, the sound of the ground reclaiming what the channelers had borrowed from it three hundred years ago. It took a long time to reach the bottom. The sound of impact carried upward through the rock, a deep thud that Ash felt in his knees.
 
-Three buildings. Gone. Three addresses that would never exist again. The city was smaller now than it had been this morning.
+Three buildings. Gone.
 
 He reached inward, briefly, the way you touched a pocket to check its contents. The reservoir was there. Still vast. But it had a direction now. It went one way. He noted it and let it go.
 
@@ -280,16 +280,8 @@ The thought arrived without ceremony. Not an accusation. Not a judgment. Just th
 
 *I could have been here. I could have reinforced these buildings. I had enough. I had more than enough. I was reinforcing heating grids and retaining walls and transit shafts while these buildings sat on Dorenne's list at number fifteen and nobody sent me down here because the numbers said other things mattered more.*
 
-The numbers were right. The Threadneedle building held eight families. The eastern heating grid served four thousand people. The southern cisterns supplied drinking water to six districts. The numbers were right and the numbers were monstrous and the numbers had left the gorge rim to die.
-
-Not die. That wasn't fair. The earthquake was a natural disaster. The Kharren Fault had released centuries of stress. No deployment plan could have prevented it. No amount of Wellspring power poured into the gorge rim would have stopped the ground from shaking.
-
-But it could have held the buildings up.
-
 He sat on the cold stone and the Wellspring hummed and something was changing. Not in the reservoir. In the space behind the reservoir, where he was still the person he'd been before any of this. Something shifting there, a splinter he couldn't quite reach, couldn't quite name, couldn't quite ignore.
 
 He stood up. His legs ached. His hands were filthy and warm with his own waste heat. The rescued families were huddled along the clear road, their faces lit by channeled lamps that floated above them like small, steady stars.
 
 He looked at them. He looked at the dark gorge rim and the lit upper terraces and the line between them.
-
-The ground had spoken. He didn't have an answer yet.

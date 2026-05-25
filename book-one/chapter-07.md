@@ -16,7 +16,7 @@ His father came through the door sideways, a chair in his arms, one of the kitch
 
 His father adjusted it, testing the legs on the level floor, and the chair didn't wobble.
 
-"Huh," his father said. He pressed down on the seat with both hands, testing. The chair sat flat and still and obedient, and his father's face did something complicated, surprise and something adjacent to loss. The expression of a man who had spent years shimming furniture against uneven floors and had just discovered the problem was the floor, not the chair.
+"Huh," his father said. He pressed down on the seat with both hands, testing. The chair sat flat and still and obedient, and his father's face did something complicated, surprise and something adjacent to loss.
 
 "Solid building," his father said.
 
@@ -186,6 +186,34 @@ In the old building, Ash had known every family by sound. The Merrats arguing ab
 
 Here, the walls were thick enough to hold silence. The transit lift hummed in its shaft, but the hum was mechanical, impersonal, the sound of a system, not a neighbor. No one's cooking smelled through the walls. No one knocked to borrow salt or return a pan or ask if Ash's father could look at a hinge. The building was full of people. The hallways were empty.
 
+* * *
+
+Ash was on his knees in the back bedroom, prying the lid off a crate of his father's books, when he heard the knock at the front door.
+
+He didn't get up. His mother was in the kitchen; he heard the cane tap across the stone, the door open, voices in the hallway. A woman's voice he didn't recognize. The crate lid came free under his hands and he set it against the wall.
+
+The voices moved into the kitchen. He could hear them clearly through the open bedroom door, down the short corridor, into the room he was in. The apartment carried sound the way the old one hadn't, the walls smooth and hard, no curtains hung in any doorway yet to soften the edges.
+
+"Saren," the woman said, the name placed first like a label. "Starter. You said yesterday yours hadn't traveled well. This one has. It's stubborn, it's sour, and it doesn't care what district it's in. Three things in its favor."
+
+"That's good of you. I've been nursing the old starter along since the move, and it's sulking, it goes flat in the cold and then it sits there doing nothing, and I keep telling it the kitchen's warmer than the last one but it doesn't believe me yet, these things take their own time."
+
+"They don't, though." The woman said it the way you'd say a thing chalked on a board. "Cold dough has three problems. It rises slow, it tears, the crumb closes up. You can wait it out or you can work it out. I knock it back twice, hard, accept a denser loaf, and I'm eating bread by midday instead of arguing with it past dark."
+
+"You knock the air out of it twice and you've a brick by supper. No. You let it rest. You let it have the time it wants, you keep it out of the draft, you give it the long second proof and you don't touch it, and the crumb opens up on its own because you let it. I've been making bread in cold kitchens for twenty-three years. The cold isn't the enemy. The hurry is."
+
+"The hurry feeds a class of nine before second bell. Slow bread for people with slow mornings. Try the starter. It won't sulk. Bring the bowl back when it's empty, not before, I don't need it sitting clean on a shelf."
+
+"I'll bring it back with something in it."
+
+"That'd do."
+
+Ash lifted a book out of the crate. He set it on the floor beside him. He lifted another and set it on top of the first.
+
+The front door closed. His mother's cane tapped once across the kitchen stone and stopped. In the bedroom, Ash sat on his heels with his hands on the third book and didn't move. The voices in the other room were gone. The lattice hummed in the wall.
+
+* * *
+
 His mother felt it first. Or she showed it first; Ash couldn't tell the difference. She stood at the kitchen window on the fourth evening and looked out at the walkway below, where two women passed each other with a nod and kept walking. Her face was turned toward the window, and he couldn't read her expression because she wasn't making one. Her hands held the cup and her body was still and she looked at the light on the stone floor the way you look at something you're trying to memorize.
 
 "It's quiet," she said.
@@ -270,7 +298,7 @@ His father looked at him. The look was not accusatory. It was the look of a man 
 
 "You'll get the feel for it," his father said.
 
-He went back to the workroom. Ash heard him pick up a chisel, one of the old ones, from the salvage, not the new set. The sound of metal on wood. His father, working. The same sound in a different room.
+He went back to the workroom. Ash heard him pick up a chisel, one of the old ones, from the salvage, not the new set. The sound of metal on wood.
 
 * * *
 
@@ -378,10 +406,8 @@ He would learn. He would get better. He would stop breaking things and start fix
 
 He lifted his hand from the table. The wood held no mark, no warmth, no trace of the power that pressed against his palms. The apartment hummed around him, the lattice, the lighting, the water system, the building's quiet mechanical life, and he sat in the center of it and felt, for the first time since the activation, something close to home.
 
-It wasn't home. Not yet. But it was better.
-
 He went to bed. The sheets were new. The pillow was new. The blankets were the deep blue ones he'd bought, thick and warm and carrying no one's smell but the faint mineral scent of the shop where they'd been made. His hand found the door wedge on the shelf beside the bed, the smooth wood, the familiar weight of it. He held it for a moment, thumb tracing the grain, and set it back. He lay in the dark and listened to the building, not groaning, not settling, not speaking in the language of stress and compression he'd learned in twenty-three years of stairwells. Just the hum. Even and low and impersonal. The sound of a place that didn't need him.
 
 He closed his eyes. The reservoir pulsed behind his ribs. The copper kettle sat on the stove. The old kettle sat in the cabinet. His mother slept in the next room, in a bed she hadn't chosen, in a building she hadn't warmed, in a neighborhood where nobody knew the sound of her footsteps on the stairs.
 
-Ash slept. He dreamed of nothing. The apartment held its warmth without him, and the silence was the kind that nobody had made.
+Ash slept. He dreamed of nothing.

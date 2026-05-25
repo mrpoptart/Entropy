@@ -20,8 +20,6 @@ Ash walked through it. The warmth in the walls. The light in the windows. The so
 
 He'd do it again. All of it. The earthquake, the deployments, the days of holding up buildings while his body shook and the reservoir burned and the world fell apart around him, he'd do it again. Every drop. He knew this with the same certainty he knew the numbers: the expenditure was real, the cost was real, the loss was permanent and total, and the buildings stood and the people in them were alive and he would make the same choice a thousand times.
 
-But the buildings didn't know his name. He was part of the stone now. A piece of himself he'd never get back, doing work he'd never see.
-
 His throat was tight. He swallowed against it and kept walking.
 
 * * *
@@ -49,8 +47,6 @@ He turned away.
 Something released in his chest. Not the fist, the fist was still there. Something adjacent to it. He didn't have a word for it. The light in her window burned steady, the way it always had, and he stood in the street and did not go inside and did not call up and did not know what that meant yet. He turned away.
 
 He had loved being seen by her. He had loved the morning he walked into her office for the first time: the ramp, the conversation, the handshake with no pulse behind it, the moment a woman with sharp eyes looked at a man with no magic and saw something worth keeping. That morning was real. It had happened. It was the first day of his life that felt like the beginning of something, and it had been, and the thing it began had led him here, to this street, in the dark, looking up at a lit window and understanding that the woman behind it had given him everything she was capable of giving and it was not enough.
-
-Not because she was small. Because the framework was.
 
 He turned south. The lit window shrank behind him. He didn't look back.
 
@@ -134,7 +130,7 @@ He'd noticed the gesture. He hadn't wondered what it meant.
 
 He knew now. He knew in his body: in the tight, hot pressure behind his eyes, in the ache of his jaw, in the way his hands had closed into fists at his sides without him deciding to close them. He knew the way you knew a number after you'd checked it three times and it didn't change.
 
-She'd been carrying this her whole life. He thought he recognized something underneath the discipline, something he didn't yet have a word for. It had always been there. He just hadn't been looking.
+She'd been carrying this her whole life.
 
 He almost stepped out of the shadows.
 
@@ -146,7 +142,7 @@ He didn't call out.
 
 She finished the second section. Stood. Flexed her hands again, slower this time, the wince deeper. She picked up her tool bag and followed the crew to the next position, and her boots on the stone were quiet and steady and Ash watched her go and the burning in his eyes didn't stop and he let it be there.
 
-He stood at the corner for a long time after the crew's lamps had moved beyond the next turn. The trench was dark. The sealed pipe glistened faintly where the water had been and wasn't anymore. The fracture closed, the pressure held, the work done. Invisible by morning. No one would know. The water would flow when the taps were turned, and the district would have its breakfast, and the four people who'd been in the trench at one a.m. would be asleep, and the work would be part of the city the way the old channeling was part of the stone, embedded, anonymous, essential.
+He stood at the corner for a long time after the crew's lamps had moved beyond the next turn. The trench was dark. The sealed pipe glistened faintly where the water had been and wasn't anymore.
 
 He turned downhill.
 
@@ -208,9 +204,9 @@ He began to file.
 
 The sound was small in the quiet workshop, the soft, rhythmic rasp of steel on brass, the sound of material being shaped by patience. No magic in it. No pool, no reservoir, no wellspring. Just the file moving across the edge of the bore in steady, even strokes, taking a fraction of a millimeter with each pass, the gap narrowing toward the dimension his fingers told him was right.
 
-His breathing settled into the rhythm of the work. His shoulders dropped. The tight thing behind his ribs, the fist that had been there since Dorenne's office, since the pencil, since the word *dying* landed on the desk between them, didn't open. But it loosened. A fraction. The way a mechanism loosened when you found the binding point and filed it smooth, not fixed, not finished, but freed enough to move.
+His breathing settled into the rhythm of the work. His shoulders dropped.
 
-The file moved. The brass sang its small, rough song. The dark workshop held him the way it had always held him, without judgment, without expectation, without the weight of being extraordinary or ordinary or anything other than a person with good hands doing careful work.
+The file moved. The brass sang its small, rough song.
 
 The night moved around the workshop. The cold deepened and then, imperceptibly, began to ease, the faintest suggestion of warmth in the eastern sky. The broadsheet was still on the wall, waiting for morning eyes. Maren was somewhere in the lower district, sealing the next crack or sleeping before the next shift. He would talk to her. Not tonight. Not with words he hadn't found yet. But soon.
 
@@ -218,12 +214,6 @@ The file moved. The brass gave.
 
 He didn't know what to build. He didn't know if a season was long enough to matter. He didn't know if Dorenne would hold the western district sites or recalculate. He didn't know if Ryn would be at the junction tomorrow or if the distance between them had grown past the reach of an arm squeeze and a silence.
 
-He didn't know. And the not-knowing sat in his hands like a tool he hadn't learned to use yet, unfamiliar, heavy, full of potential he couldn't see.
-
-The work was always real.
-
 In the Velden building, the pump sat in its housing, silent, ready. Three families would come at dawn and turn the crank, twenty minutes each, and water would flow.
-
-The dawn was coming. He could feel it in the air, the faintest shift in pressure, the way the world turned toward light the way water turned toward downhill, inevitably, without anyone channeling it there.
 
 His hands remembered.

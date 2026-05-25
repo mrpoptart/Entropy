@@ -164,19 +164,23 @@ The questions lasted forty minutes. Dorenne fielded most of them.
 
 The institutional back-and-forth blurred together, questions about documentation, about oversight, about the proper channels through which information would flow. Dorenne answered each one with the same precise, redirecting confidence. The phrase *proper channels* returned three times.
 
-A woman in the second row, press, her notebook full, directed her question past Dorenne. "Mr. Torren. What does it feel like? To carry something like this?"
+A woman in the second row, press, her notebook full, directed her question past Dorenne. "Mr. Torren. Come up to the front, if you would. What does it feel like? To carry something like this?"
 
-The room shifted. Pens paused. Dorenne's hand, resting on the table, tightened slightly, a fraction of movement that only someone standing beside her would notice.
+Heads turned. Someone in the standing section shifted to make a sightline. Dorenne's hand, resting on the table, tightened slightly, a fraction of movement that only someone standing beside her would notice. But the woman was looking at him, and so was the row behind her, and so, now, was the room.
 
-He looked at the woman. She was young, his age, maybe a year or two older. Her pen was still. Her expression held none of the institutional calculation that surrounded it. She was asking because she wanted to know.
+He stepped up beside the table. Eighty faces. The notebooks open. The pens lifted and waiting.
 
-"It feels like a lot," he said.
+"It's, it's hard to," he said. The first sentence didn't finish. He heard it not finish. He started another one. "There isn't really a, when people ask what it feels like I don't think there's a word that, because it's not like lifting something, it's more, it's." His voice had gone thin, pitched higher than he wanted it, the breath behind it shallow. The room was not warming to him. The room was watching a man fail to make a sentence. His hands found his pockets and stayed there. "I don't think I'm answering the question. Sorry. I'm not, I don't know how to say it."
 
-A small sound from the room. Not laughter. Something closer to recognition.
+He stopped. He left it there. Nobody filled the silence for him.
 
-Dorenne stepped in. "As I mentioned, the assessment is ongoing. We'll be providing regular updates through my office as the picture becomes clearer. I want to thank you all for..."
+Dorenne filled it. "I'll take the rest." She did not look at him as she said it; she said it to the room, and the room turned back to her with the relief of an audience that had been spared something. She fielded four more questions in her own register, contained, exact. Then she turned to Ash, and her voice changed, slower, the question already shaped: "Ash. The lattice you activated, the gallery's, how long had it been dark?"
 
-"One more question, Director."
+It was the question they'd rehearsed in the temporary housing that morning. He knew the answer in one clean line. "Years. The elder roster couldn't support a six-person rotation, so it was shut down and the room ran cold."
+
+"Thank you," Dorenne said, and took the next question herself.
+
+"One more, Director."
 
 The heavy-set Council member. The silver chain caught the light as he leaned forward. His voice carried the particular authority of someone accustomed to being the last speaker in any room.
 
@@ -188,13 +192,23 @@ Dorenne's expression didn't change. "We have."
 
 "At the appropriate time, through appropriate channels. This is a preliminary briefing, Councilor. Not a policy session."
 
-"Of course." The Councilor settled back. His eyes moved to Ash, not to his face but to his hands, resting at his sides. The gaze was appraising. The expression of a man looking at a tool and estimating its uses.
+"Of course." The Councilor settled back. His eyes moved to Ash, not to his face but to his hands, gone into his pockets. The gaze was appraising. The expression of a man looking at a tool and estimating its uses.
 
-Ash held still. The ocean pressed against his ribs. The collar pressed against his throat. Seventy people in the room, and every one of them was building a version of him that had nothing to do with who he was.
+Ash held still and kept his hands where they were.
 
-It felt the same as being wanted.
+* * *
 
-He couldn't tell the difference.
+The corridor outside the gallery was colder than the room had been; the lattice warmth stopped at the doorway. Dorenne walked at her usual pace, notes already back in her coat, and he fell in beside her because there was nowhere else to be.
+
+"You're not going to a podium without me," she said. Level. Not a reprimand. The flat statement of a woman who had just learned a thing about him and was filing it. "Small rooms you handle. That, you don't. We'll structure around it."
+
+"No, I, that's, thank you, I think, I don't know if thank you is the, I'm sorry, I genuinely thought I could, I've talked my way through worse rooms than that, just not, not that many of them at once, I couldn't, the words wouldn't." He pulled the collar away from his throat and let it go. "It won't happen again is the thing I want to say but I'm not actually sure that's true, so."
+
+"It will happen again. That's why I said it." She didn't slow down. "It's a logistics problem. I have those."
+
+She turned at the junction toward her office. He stood in the cold corridor with the gallery warmth at his back and the rest of the building cold ahead of him.
+
+Seventy people in the gallery, eighty, and every one of them had spent the afternoon building a version of him: a resource, a lever, a solution to every problem they'd been too afraid to name. The Councilor had looked at his hands and not his face. Not one of them had asked the question the press woman asked, and the one who had, he hadn't been able to answer.
 
 * * *
 
@@ -364,7 +378,7 @@ That was three weeks ago. It felt like a year.
 
 "How was it?"
 
-"Strange."
+"Strange. They asked me a question and I, I didn't have it. In front of all of them. I just stopped."
 
 She nodded. She didn't ask for details. She didn't ask what the room looked like or what Dorenne said or how the Council reacted. She just nodded, the way she nodded when he told her about a bad day at work or a fight with his mother or the particular weight of waking up in a world that wasn't built for him.
 

@@ -286,11 +286,7 @@ Haran nodded. The nod was the same as before, small, barely a motion, carrying m
 
 "Everything costs something," he said. "The question was never how much. The question was always what you're buying."
 
-The words settled into the workshop's quiet. Ash turned them over the way he'd turn a mechanism, examining the faces, testing the fit. Everything costs something. The fused fitting. The earthquake. The buildings held, the dam sealed, the lives saved. The four hundred elder-days of training waste. The twenty-eight hundred total. The eighteen weeks remaining.
-
-The question was always what you're buying.
-
-He looked at the pump diagram. He looked at the project notes. The heating element. The gear-driven lift. The self-winding lamp. Things that worked without magic. Things that would still work when the magic was gone. Things that cost time and patience and hands and the unglamorous arithmetic of springs and pressure differentials, and gave back something that didn't drain, didn't diminish, didn't need a reservoir to maintain.
+He looked at the pump diagram. He looked at the project notes. The heating element. The gear-driven lift. The self-winding lamp.
 
 "I don't have an answer," he said. "To your question. What I want to build."
 
@@ -328,8 +324,6 @@ The question was open. It pointed forward. It assumed a future, not an infinite 
 
 He climbed the terraced streets. Somewhere in the city, Ryn was awake (he didn't know how he knew, but he did) and the thought of her seeing him now, walking uphill from the workshop with the question still open, was not unwelcome. Below him, the lower districts sat in their dark, the Velden building among them with its utility space holding a pump that ran on a hand crank and a spring, that three families turned for twenty minutes each morning, that Petra had calibrated and Davel had improved and twelve households had paid for with a hundred and forty marks and six weeks of work. Water flowing in a district that had hauled it in buckets for half a year. Water that would flow tomorrow, and the day after, and the year after, regardless of what happened to the Wellspring or the pools or the world's diminishing magic.
 
-Haran's way worked. It just worked quietly.
-
 The wind pressed against his back. He climbed. The reservoir hummed in his chest, warm, present, finite. He could feel its edges now, the walls of it, the shape of what remained. Twenty-two hundred elder-days, give or take. A number he could hold in his mind the way you held a budget: with awareness, with intention, with the understanding that every expenditure was a choice and every choice was a purchase and the question was never how much it cost but what you were buying.
 
 Tomorrow there would be Dorenne's schedule. The deployment list. The hash marks and the sites and the questions he would have to answer or refuse to answer. That was coming. He could feel it the way he could feel the wind. Steady, impersonal, already in motion.
@@ -349,5 +343,3 @@ The maintenance lamp flickered. He watched it. The amber glow, the slow fade, th
 He turned and kept climbing.
 
 Behind him, in the lower district, the workshop stood dark and quiet. The tools were arranged. The bench was clean. The project notes were pinned to the wall, waiting for hands that knew what to do with them.
-
-The question would keep.

@@ -44,7 +44,7 @@ The bridge's internal structure opened to his sensing like a diagram: the keysto
 
 He channeled. Not a flood this time, or not only a flood. Something in his technique had shifted over the hours of sustained work, a refinement born not of training but of repetition, the same way a person who has swung a hammer all day begins to find the rhythm that wastes the least effort. He poured force into the keystone lattice and felt it catch, felt the ancient pattern of reinforcement light up under his power like a lamp given oil. The cascade followed, his energy flowing down through the lattice's pathways, filling the gaps, bridging the fractures, the bridge's own structure guiding his power the way a riverbed guides water.
 
-The crack sealed. The flexing stopped. The bridge settled into the silence of a thing that would stand for another hundred years, or at least until the next generation of workers had to face the same question the last one had: how much longer can we hold what we were given?
+The crack sealed. The flexing stopped. The bridge settled into the silence of a thing that would stand.
 
 The tall woman with the maintenance badge walked to the center of the bridge and put her hand on the stone where Ash had channeled. She held it there for a long moment, feeling the reinforcement, testing the work with the professional assessment of someone who had spent her career maintaining structures she hadn't built and couldn't fully restore.
 
@@ -180,9 +180,7 @@ She stopped. She looked at her hands.
 
 "I just wanted it to be enough," she said.
 
-The morning air carried the sound of the reservoir behind the dam, the deep, patient press of water against stone, the sound of a force that did not care about skill or effort or the difference between a young woman's pool and a Wellspring. The water pressed. The stone held. The sun climbed higher through the dusty air, and the dam's shadow shortened on the ground where the young channeler sat with her hands in her lap and her face turned toward a wall she had held through the night and would never need to hold again.
-
-Ash did not let go of the stone. He held the dam with the Wellspring's vast, crude, inexhaustible force, and he held it while Halsten's crew arrived, and he held it while they assessed the damage and began the methodical work of permanent repair, and he held it while the young channeler (her name was Voss, he learned later, Jelen Voss, twenty-three years old, four years on the infrastructure maintenance crews, pool rating in the upper range of her generation, technique rating exceptional) got to her feet and walked away without looking back, her spine straight, her hands at her sides, her shadow long in the morning light.
+Ash did not let go of the stone. He held the dam with the Wellspring's vast, crude, inexhaustible force, and he held it while Halsten's crew arrived, and he held it while they assessed the damage and began the methodical work of permanent repair, and he held it while the young channeler (her name was Voss, he learned later, Jelen Voss, twenty-three years old, four years on the infrastructure maintenance crews, pool rating in the upper range of her generation, technique rating exceptional) got to her feet and walked away without looking back.
 
 * * *
 
@@ -336,7 +334,7 @@ She looked at him. The correction had been quiet, not confrontational, not angry
 
 The briefing continued. Details, schedules, resource allocations. Ash stood beside Dorenne and listened and understood that what was happening in this room was the construction of a machine, a machine that would deploy him across the city in a coordinated sequence of maximum impact, his power directed by her strategy, his force shaped by her architecture. The machine was efficient. It was rational. It would save lives.
 
-Somewhere beneath the agreement, a splinter. Kael's voice on the gorge rim, *Where were our reinforcements?*, and the fact that he was standing here, beside the woman who had written the list that left the gorge rim at number fifteen, and he was nodding. He noticed the splinter. He did not pull it out.
+Somewhere beneath the agreement, a splinter. Kael's voice on the gorge rim, *Where were our reinforcements?*, and the fact that he was standing here, beside the woman who had written the list that left the gorge rim at number fifteen, and he was nodding.
 
 It was also, he understood with a clarity that surprised him, the thing he wanted. Not the machine itself, but the saving. The holding. The walking into a street where buildings had fallen and people were trapped and being the person who could do something about it. The eleven people on Harrier Street. The young channeler at the dam. The child with the stone. These were not abstractions. They were faces and voices and the specific weight of a building held for five and a half hours, and they were the reason he was standing in this room, and they were enough.
 
@@ -354,7 +352,7 @@ He nodded. He picked up his coat from the chair back. "It was a long day."
 
 "You told them what they needed to hear. Sometimes that's the same thing."
 
-The sentence landed slightly off. He filed it somewhere he didn't examine. She gathered her charts. Her movements were precise, efficient, the gestures of a person who had not wasted a motion in forty years of public service. "Tomorrow. The Millworks district. The residential blocks along the southern terrace are the worst, three buildings on the verge of collapse, two hundred people displaced. I want you there at first light."
+She gathered her charts. Her movements were precise, efficient, the gestures of a person who had not wasted a motion in forty years of public service. "Tomorrow. The Millworks district. The residential blocks along the southern terrace are the worst, three buildings on the verge of collapse, two hundred people displaced. I want you there at first light."
 
 "I'll be there."
 
@@ -364,26 +362,6 @@ She didn't move. "That was extraordinary. I want you to know that. What you did 
 
 He looked at his hands. "The crew was good."
 
-She held the charts against her chest. Her face carried something he rarely saw on it, not calculation, not strategy, but the residue of something genuinely felt.
+She held the charts against her chest.
 
-He left the Hall. The evening was cool, the air clearing as the dust continued to settle, and the city spread out below him in the fading light: the layered terraces descending from the heights to the edges, the grand districts glowing with channeled warmth, the middle districts lit by scattered lamps and the effort of people who had enough pool to keep their homes bright, the lower districts dark and quiet, waiting for morning and the water that would flow when the pipes were mended and the help that would come when the Wellspring walked back down from the heights.
-
-He was tired. The tiredness was not in his body; his muscles were fine, his breathing was steady, the Wellspring carried no physical cost. The tiredness was somewhere deeper, in the place where a person holds the things they have seen, the place that is capacious but not infinite, and two days of collapsed buildings and trapped children and young channelers with empty pools and mothers telling stories in the dark had filled it to a level he had not known was possible.
-
-He sat on the terrace wall. The stone was cool beneath him, and the air smelled of dust and evening and the faint mineral scent of broken stone, and below him the city was quiet in the way that a wounded thing is quiet, not at peace, not at rest, but holding still because holding still was the only thing it could do while it waited for the morning and the work that would come with it.
-
-He thought about Jelen Voss at the dam, threading her energy into the fractured stone with a precision he could not match. He thought about Breslin at the building site, her professional respect rendered in the economy of *didn't waver*. He thought about the mother in the deepest void, whose voice had been building a world of bakers and bread and golden mornings for a child who could not see the sky.
-
-He thought about the machine, Dorenne's machine, the architecture of response, the deployment framework that would send him across the city tomorrow and the day after and the day after that, his power directed by her strategy, his force multiplied by her coordination. The machine was good. The machine saved lives. The machine needed him at its center, and he was willing to be at its center, and the eleven people on Harrier Street were the reason he was willing and the reason was enough.
-
-He looked at his hands. Raw and pink and tender, the physical evidence of hours of sustained channeling, the marks of inefficiency and effort and the crude, powerful, inexhaustible force that was the only thing standing between eleven thousand people and a failed dam, between eleven people and a compressed building, between a city and the consequences of its own slow decline.
-
-His hands. The Wellspring. The thing he could do that no one else could.
-
-He closed his eyes. The reservoir hummed, vast and deep and warm. The edges he had felt were still there, faint, distant, but there, the way you could feel the walls of a room in the dark. He didn't examine them. He didn't want to. But they didn't go away.
-
-Tomorrow. The Millworks district. Three buildings on the verge of collapse.
-
-He opened his eyes. The stars were coming out above Solathis, faint through the residual dust, and the city below him was settling into the particular darkness of a place where the heating lattices had failed and the channeling strips were dead and the people inside their cooling homes were wrapping themselves in blankets and waiting for dawn.
-
-Tomorrow, he would go back down. Tomorrow, and the day after, and the day after that.
+He left the Hall.

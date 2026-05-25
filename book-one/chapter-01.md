@@ -270,7 +270,7 @@ And then, later, when the conversation had settled into the comfortable murmur o
 
 The table shifted. Everyone looked at her.
 
-"The one I've been working on for months?" She said it lightly, too lightly, the lightness of someone who'd already decided this was a minor thing. "I scored highest in the cohort. My supervisor said the survey was the cleanest diagnostic work the team had produced all quarter."
+"The one I've been working on for months?" She said it lightly, too lightly, the lightness of someone who'd already decided this was a minor thing. "It's done. I finished it. It held up under review, the whole thing, every section. My supervisor said the work was sound and that I'd carried it all the way through."
 
 "That's wonderful, sweetheart," their mother said. She meant it. Her hand found Maren's across the table and squeezed. "We're so proud of you."
 

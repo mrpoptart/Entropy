@@ -218,8 +218,6 @@ He stood in the doorway and listened.
 
 "That wasn't allocation," she said. "That was, I was there because I wanted to be there."
 
-He believed her. That was the worst of it. He believed her completely, and it didn't change anything, because the woman who sat with him in the transit hub and the woman who pulled out the deployment chart in the same breath as learning he was running down, they were the same woman. They had always been the same woman. The care and the calculation lived in the same hands, drew from the same well, operated on the same face. He couldn't take one without the other, and he couldn't live with both.
-
 "I know," he said.
 
 He walked out.
@@ -294,13 +292,11 @@ He thought about Dorenne's pencil. The way it had appeared in her hand (he hadn'
 
 She wasn't wrong. That was the thing that sat in his chest and wouldn't dissolve, the fist that wouldn't open. She wasn't wrong about the aqueducts or the western district or the calculation that said: if you have a diminishing resource, you allocate it where it does the most good. She wasn't wrong about any of it. She was a competent public servant performing her function with the precision and care that had made her the best Director of Infrastructure in a generation, and the forty thousand people who drank from the Thornwall aqueduct every morning would agree that her response was exactly right.
 
-And Ryn had squeezed his arm and said nothing and walked away, and that had been exactly right too, and the two kinds of rightness had nothing to do with each other.
-
 He turned downhill.
 
 The walk was long. He didn't hurry. The terraces descended and the buildings changed, narrower, more worn, the stone showing cracks that had been patched and re-patched. The heating lattices dimmed as he went: amber on the upper terraces, then faint, then dark, the stones cold under his boots. He passed a water tap that dripped steadily into a basin no one had emptied. He passed a wall where someone had chalked a message he didn't stop to read.
 
-He walked, and the tight thing in his chest didn't loosen, and he didn't try to make it. Some things didn't loosen. Some things sat where they were and you carried them, the way you carried a stone in your pocket, the way you carried a number in your head, the way you carried the knowledge that the first person outside your family who'd ever given you a chance had heard you say *I'm dying* and reached for a pencil.
+He walked, and the tight thing in his chest didn't loosen, and he didn't try to make it.
 
 The wind was cold on his face. He walked.
 

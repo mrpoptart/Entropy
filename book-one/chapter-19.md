@@ -88,7 +88,7 @@ He tried to estimate the cost. Each building stabilization during active seismic
 
 At his efficiency during the earthquake, which had been worse than his training baseline, because precision collapsed when you were channeling at maximum output for hours, because fear and exhaustion degraded control the way they degraded everything, maybe fifty percent. Maybe less. He'd been flooding. He knew that. The reports noted the thermal bleed: ambient temperatures around his work sites had risen by fifteen degrees. The stone he knelt on blistered his knees through his trousers.
 
-Day one alone: he wrote the number and it was larger than the entire first deployment phase. A thousand elder-days or more, spent in six hours. The reservoir had given it without complaint, had poured and poured, and he'd felt nothing but the work, the effort, the necessity. He hadn't known to feel anything else. You didn't check the level of the ocean while you were trying to keep people from drowning in it.
+Day one alone: he wrote the number and it was larger than the entire first deployment phase. A thousand elder-days or more, spent in six hours. The reservoir had given it without complaint, had poured and poured, and he'd felt nothing but the work, the effort, the necessity.
 
 Day two. Worse. The aftershocks were stronger than the initial event, unusual, the geologists had said, but then everything about the earthquake was unusual, the weakened Kharren Fault reinforcements failing in ways the ancient channelers had never anticipated because the ancient channelers had never imagined a world where their work wouldn't be maintained. He'd moved to the lower districts. The dam. The retaining walls that held the hillside above four thousand homes. The transit shafts that carried water and waste and people through the city's bones.
 
@@ -187,8 +187,6 @@ Four hundred elder-days of waste. Out of roughly five thousand total. Eight perc
 *If I'd been trained first. If someone had,*
 
 But who? Who would have trained him? No one had ever been a Wellspring before. The examiners had tested him with elder-grade instruments because they didn't have anything larger. The training program was improvised from first principles by people who'd never seen a reservoir that didn't refill every night. There was no curriculum for this. There was no precedent.
-
-He could see it now, the bitter geometry of it. The waste wasn't anyone's fault. The waste was built into the situation, the inevitable cost of being the first and only person to hold this particular burden. Someone had to pay the learning tax. Someone always did. He'd paid it in irreplaceable reservoir instead of coin, and the exchange rate was four hundred elder-days for the privilege of learning what a child learned for free.
 
 He pushed the chair back from the desk and stood. Crossed to the window. The glass was cold under his fingertips, and beyond it, the city was dark, not fully dark, not the dark of a dead city, but the particular dim of a city at night where the light channeling was unevenly maintained. Some windows glowed. Some streets held faint warmth from the heating lattices in their paving stones. Some didn't. The gradient was visible from here, the way it was visible from every high point in Solathis: the upper districts bright and warm, the lower districts fading into the ambient dark, the terraces stepping down into dimness like a staircase into a basement.
 
@@ -365,18 +363,14 @@ He reached for the reservoir, the warm edge of it, and felt the numbers on the p
 
 The candle had burned to a stub. The flame was low, a blue flicker barely clearing the rim of the holder, the last of the tallow pooling around the wick. He watched it. The flame leaned, straightened, leaned again. The draft from the window touched it and it shivered.
 
-He didn't replace it. He sat in the dimming light and looked at his numbers and thought about his sister, out there in the city, channeling with her precise and careful hands, spending what she had because the work needed doing and she had always been the one who did the work. She'd never mentioned the cost. She'd never drawn a box around her range. She'd just lived inside it, quiet, disciplined, finite, and he'd never noticed because he'd been too busy counting his own coins.
-
 The flame went out.
 
 He sat in the dark for a long time. The reservoir was warm in his chest. He could feel its edges, not distant anymore, not the ghost of geometry he'd sensed weeks ago on the terrace overlook. Closer now. More defined. The shape of what remained, held inside a body that was otherwise unremarkable, otherwise ordinary, otherwise exactly like every other body in Solathis that woke each morning and spent what it had and hoped it was enough.
 
-He pressed his palms together. The warmth of the reservoir met the warmth of his own skin and they were the same temperature, and he couldn't tell where one ended and the other began, and for the first time since the Wellspring cracked open inside him, that inability to find the boundary felt not like abundance but like loss.
+He pressed his palms together.
 
 The room was dark. The city was dark. The papers on the desk held numbers that would still be there in the morning.
 
 He lay down on the cot without undressing and pulled the blanket over himself and closed his eyes. The numbers were still there. The box around the range. The staircase descending into dark.
 
 The one thing the calculation couldn't answer: what to do with what was left.
-
-The dark behind his eyelids was the same dark as the room and the same dark as the city, and sleep, when it came, did not answer the question either.

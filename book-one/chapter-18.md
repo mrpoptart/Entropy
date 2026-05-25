@@ -150,6 +150,28 @@ He stood at the overlook and watched the city until the light changed. Then he t
 
 * * *
 
+The route home took him down a lane he didn't usually walk, past a row of narrow houses with their shutters open to the cooling evening. One door stood wide. A leather case of files and chisels sat on the step, the lid up, the tools laid out in their worn slots, and from inside came the steady sound of a plane taking a long, even shaving off the edge of a door.
+
+Ash slowed. He hadn't meant to. He knew the sound of his father's tools the way he knew the dent in the tin kettle.
+
+Through the doorway he could see down a short hall. His father knelt at a door that had been lifted off its hinges and stood against the wall, running his thumb along the bottom edge, frowning at it the way he frowned at anything that hadn't yet decided to behave. A man sat on a kitchen stool a few feet back, broad and gray and comfortable, a teapot on the table at his elbow and two cups beside it.
+
+"...so I told the harbor master, I said, Tomek does not pay twice for the same berth, not in this life and not in the one the priests keep promising me." The man laughed at his own line, an easy, practiced laugh, the laugh of a man who had told it before and would tell it again. "Drink the tea, Rendell, it's going cold while you stare at that door like it owes you money."
+
+"It does, a little." Ash's father set the plane down and took the cup, and the voice that came out of him was a voice Ash had no slot for. Warmer. Wider. Unhurried in a way the man at the family table never was. "How's your daughter, then. Still down the coast?"
+
+"Married a man who counts barrels for a living. Counts them. Can you picture it. I put a whole barge on the bottom in 'ninety-eight and never counted a thing since." Tomek settled deeper onto the stool, the way a man settles when a story has been given room. "Full load of cured hide above the falls. We took the channel too tight, and I'll tell you the truth, Rendell, it was me took it too tight, no use blaming the boy on the pole. She went over sideways slow as you please, like she was lying herself down for a nap. Whole crew in the shallows fishing hides out of the current two days running. I lost a season and a thumbnail and I'd not trade the story back for either of them."
+
+"The frame's dropped more than the door has," Ash's father said, when the laugh had run its course. He said it the way he said the true thing, plain, set down where it could be looked at. "I'll work the hinge first. It's cheaper for you, and it'll carry the winter while you decide about the frame." He stood, lifted the door, sighted along its edge into the window light. "Good joinery in this hall, by the way. The corner cabinet. Whoever set that knew the work."
+
+"My wife's father. Forty years in the ground and still showing me up in my own house." Tomek refilled the cup that had gone untouched. "Sit a minute. The door's not going anywhere. Neither, at my age, am I."
+
+"A minute," his father said, and sat, and the two of them went on, the door against the wall, the tea between them, the evening doing nothing in particular.
+
+Ash stood at the edge of the lane with his hand not quite raised toward the open door. He lowered it. He stepped back, and walked on, and did not go in.
+
+* * *
+
 The house looked the same. Smaller than he remembered; it always looked smaller now, every time he came back, as if the building itself was retreating from him or he was outgrowing it. The front step had a new crack. He noticed it the way he noticed every crack now, cataloging it automatically, calculating the repair cost without meaning to. Trivial. Five seconds of channeling. He could fix it without breaking stride.
 
 He left it alone.
@@ -212,7 +234,7 @@ Ash remembered the shelf. Haran's workshop, a rainy afternoon, sixteen years old
 
 Seven years. A load of iron. An earthquake. The shelf held.
 
-"Good joints," his father said. "You always had good joints."
+"Good joints," his father said.
 
 His mother was watching him. He could feel it without looking, the quality of her attention, the way she held herself when she was choosing not to speak. Her hands were tight around her cup. Her mouth was set in the line that meant she was holding something back, something that lived in the way she looked at his hands, at the shelf, at the distance between the boy who had built it and the man sitting at her table.
 
@@ -318,8 +340,6 @@ He thought about the shelf. Seven years. Mortise and tenon. The joints that didn
 
 He thought about the kettle, the tin one, dented, cord-wrapped, steaming on his mother's counter. The copper one in the cabinet, bright and unused. The distance between them measured in something he didn't have a unit for. Something that wasn't energy or power or force. Something older.
 
-He lay down on the cot. The ceiling above him was stone, channeled stone, reinforced, the kind of work that lasted generations when it was done well. Someone had built this ceiling with their hands and their pool, years ago, spending what they had to make something that would stand. The stone was still standing. The person was gone.
+He lay down on the cot. The ceiling above him was stone, channeled stone, reinforced, the kind of work that lasted generations when it was done well. Someone had built this ceiling with their hands and their pool, years ago, spending what they had to make something that would stand.
 
-The reservoir sat in his chest. The edges sat with it.
-
-He closed his eyes and waited for sleep, and the sleep was a long time coming, and when it came, it didn't carry him very far.
+He closed his eyes and waited for sleep.
