@@ -64,25 +64,25 @@ He stood at the bench a count.
 
 Haran was at the long bench with the country letters. Haran did not, at the bench, look up. Haran read the letter he was reading. Haran set it in the row.
 
-"You read these," Ash said.
+"You read these," Ash said. "All three of them, I mean. You read them this morning."
 
 "Mm."
 
-"The first one."
+"The first one. With the, with the motions."
 
 "Mm."
 
-"The second."
+"The second. The list, the, "
 
 "Mm. The list."
 
-"The list."
+"The list. Yeah."
 
 Haran set the letter down. He picked up the paring knife. He turned the paring knife in his fingers a count, the small turning he did when he was about to say a thing.
 
 "Eleven," he said.
 
-"Eleven."
+"Eleven. Eleven, that's. Sorry. That's, last month it was seven, and the month before that, I'd been... yeah. Eleven."
 
 "It was seven."
 
@@ -124,7 +124,7 @@ He looked across at Ash.
 
 "Renat's people came down to the south block this morning."
 
-"Who told you."
+"Who told you. I mean, sorry, who, "
 
 "The boy from the print row. He came up the curve when the runner came down. He'd been in the south block at first light with a stack."
 
@@ -138,7 +138,7 @@ He looked across at Ash.
 
 He looked at Haran.
 
-"They went to Tesha's."
+"They went to Tesha's. They, sorry, they went, "
 
 "They stood at the door. They did not, the boy said, go in. They stood at the door a count and they watched, and after the count they went down the lane and out through the gate. They did not speak to anyone. They did not ask for a name."
 
@@ -154,11 +154,11 @@ He did not, for a count, say anything.
 
 He looked at the cheap paper book on the bench. He looked at the underlined *Tesha* on the open page. He closed the book.
 
-"Did Tesha see them."
+"Did Tesha see them. I mean, has, did the boy say, "
 
 "The boy didn't say."
 
-"All right."
+"All right. All right, yeah."
 
 "They'll be back."
 
@@ -224,13 +224,13 @@ He turned and he came down the lane.
 
 Ash stepped to the side of the lane at the housing of the communal plate. Pell came down. Pell did not, coming down, slow his pace. Pell came down to the plate and he stopped, and he looked at Ash, and he did the small lift of the chin.
 
-"Morning."
+"Morning," Pell said.
 
 "Morning."
 
-"You see that."
+"You see that," Pell said.
 
-"I saw a man at the door."
+"I saw a man at the door," Ash said.
 
 "Renat's man."
 
@@ -248,7 +248,7 @@ Ash stepped to the side of the lane at the housing of the communal plate. Pell c
 
 "Mm."
 
-"He brought it to me. He didn't bring it to you."
+"He brought it to me," Pell said. "He didn't bring it to you."
 
 He looked at Pell.
 
@@ -268,11 +268,11 @@ He had, at the bench, written *plate seven, noise like breathing, slow* under Pe
 
 Ash looked at the plate.
 
-"All right," he said.
+"All right," he said. "All right, yeah."
 
-"You all right with it."
+"You all right with it," Pell said.
 
-"Yes."
+"Yes. Yeah. I am."
 
 "Mm."
 
@@ -290,7 +290,7 @@ He looked at the plate. He looked up the lane to where Joss had gone.
 
 "He's pushing the flange."
 
-"Yes."
+"Yes. The flange, yeah."
 
 "Mm."
 
@@ -322,7 +322,7 @@ Tesha was at her elbow. Tesha was watching the woman's hands. Tesha was, in the 
 
 "Mm."
 
-The woman worked the seat. Her hands were steady. Her hands were the hands of a woman who had worked her hands a long time at things, not at valves, but at things, and the woman's eyes were on her hands the way Tesha's eyes had been on her hands the morning Ash had stood at the doorway and not gone in, and the small thing a person knew when a person was watching a person learn a thing was the thing in the lamp.
+The woman worked the seat. Her hands were steady. Her hands were the hands of a woman who had worked her hands a long time at things, not at valves, but at things, and the woman's eyes were on her hands the way Tesha's eyes had been on her hands the morning Ash had stood at the doorway and not gone in.
 
 He stood at the door.
 
@@ -334,7 +334,7 @@ He stood at the door the way he had stood at the door the morning before, and Te
 
 "This is Liesel."
 
-"Morning."
+"Morning," Liesel said.
 
 The woman looked up.
 
@@ -348,7 +348,7 @@ She looked at him a count. Her face was a face he had not, until that morning, s
 
 "Mm."
 
-"Tesha said you'd come."
+"Tesha said you'd come," Liesel said.
 
 "Mm."
 
@@ -362,7 +362,7 @@ She looked at the valve in her hands. She looked at Tesha.
 
 "Mm."
 
-"It's not the same fitting."
+"It's not the same fitting," Liesel said.
 
 "No."
 
@@ -392,7 +392,7 @@ She looked at Ash.
 
 He looked at her.
 
-"Joss told you."
+"Joss told you," Ash said.
 
 "Joss told everybody. Joss tells everybody. It's how Joss tells a thing."
 
@@ -480,7 +480,7 @@ She set the box down.
 
 "Yes."
 
-"And then you're going to go away."
+"And then you're going to go away," Tesha said.
 
 He looked at her.
 
@@ -552,9 +552,9 @@ He looked at Liesel.
 
 "Mm."
 
-"I've done the contribution side. I haven't done the catalytic side."
+"I've done the contribution side," Liesel said. "I haven't done the catalytic side."
 
-"It's the same fitting."
+"It's the same fitting," Pell said.
 
 "It's the same fitting."
 
@@ -722,15 +722,11 @@ He stood with it and he stood with the small thing under it that he had not, unt
 
 It wasn't.
 
-It was the thing the man had built the ground for. It was not the thing the man had built. The man had built a movement that had won council seats and passed a contribution statute and warmed people who had been cold, and the movement had done the thing the movement had said it would do, and the doing had not been the thing, and the man at the corner of the square had been honest enough to come down across the lower terrace and through the gate and up the lane to look at the thing the doing had not been, and proud enough to walk away from it without going through Tesha's door.
-
 Ash did not, for the count, go down.
 
-He stood at the upper terrace with his hands in his coat pockets, with the cheap paper book in the inside pocket against Maren's note and the bench paper and Joren's letter, and he did not, in the standing, feel the thing he had thought he might, before this autumn, have felt at a man like Davan walking away from a thing like this. He had thought he might, before this autumn, have felt the small mean lift a man felt when a man who had been wrong about a thing came to the place where the thing the man had been wrong about was working. He did not feel it. What he felt instead was the small heavy steady thing of a man watching another man, who had fought harder than he had ever fought and given up more than he had ever given up, learn at a basin on a bracket on an upper terrace, on a grey evening in late autumn, that the fight he had given up the things for had not been, at the end, the whole fight.
+He stood at the upper terrace with his hands in his coat pockets, with the cheap paper book in the inside pocket against Maren's note and the bench paper and Joren's letter.
 
 Davan would not, Ash thought, come back.
-
-He thought it, and he thought it without the lift, and he thought it with the small steady weight, and he stood at the upper terrace a count, and he went down.
 
 \* \* \*
 
@@ -760,7 +756,7 @@ She looked up the lane.
 
 "Did he say anything."
 
-"He said it wasn't what he'd built."
+"He said it wasn't what he'd built," Ash said.
 
 "Mm."
 
@@ -804,7 +800,7 @@ The forge was banked. The lamp was at the corner. Haran was at the long bench wi
 
 Haran looked up.
 
-"South block."
+"South block," Haran said.
 
 "Mm."
 
@@ -814,7 +810,7 @@ He looked at Haran.
 
 Haran did not, at the bench, look back. Haran turned the paring knife in his fingers a count, the small turning he did, and he did not look up.
 
-"How did you know."
+"How did you know," Ash said.
 
 "The boy from the print row came up the curve. He'd been at the lower terrace at the bell."
 
@@ -828,11 +824,11 @@ Haran set the paring knife down.
 
 "You spoke to him."
 
-"At the basin. He spoke. I spoke. He walked."
+"At the basin," Ash said. "He spoke. I spoke. He walked."
 
 "Mm."
 
-"He won't come back."
+"He won't come back. I mean. He, yeah. He won't."
 
 Haran looked at him then.
 
@@ -848,13 +844,13 @@ He looked at him the way Haran looked at a thing, which was the small unhurried 
 
 "And the start of theirs."
 
-"Yes."
+"Yes. Yeah, it is."
 
 "Mm."
 
 Haran picked up the paring knife. He turned it. He set it down.
 
-"You all right."
+"You all right," Haran said.
 
 He thought about it.
 
@@ -866,7 +862,7 @@ He thought about the small heavy steady thing he had felt at the upper terrace.
 
 "Mm."
 
-"I'm not."
+"I'm not. I mean. No."
 
 "Mm."
 

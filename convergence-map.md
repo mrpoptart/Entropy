@@ -218,13 +218,13 @@ Legend: `—` dormant | `→` carries forward | `🌱` planted | `📈` progress
 | 12. Identity | 📈 | 📈 | ⚡ | 📈 | — | ⚡ | ⚡ |
 | 13. Davan | — | — | 📈 | — | ⚡ | — | ⚡ |
 | 14. Stewardship | — | 📈 | ⚡ | ⚡ | 📈 | — | ⚡ |
-| **Active count** | **4** | **7** | **8** | **8** | **6** | **4** | **10** |
+| **Active count** | **4** | **7** | **~5** | **8** | **6** | **4** | **10** |
 
 ### Book Two Convergence Zone: Chapters 17–21
 
 **Avalanche pattern:** Threads collide across five chapters, building toward the resolution wave:
 
-1. **Ch17 (The Choice):** The temptation crystallizes. Thread 5 (Efficiency) presents the preservation path → intersects Thread 1 (Reservoir) and Thread 12 (Identity) — preservation of power = preservation of self. Thread 14 (Stewardship) provides the counter: Haran chose the workbench, not preservation. Thread 4 (District) — the imperfect 80% repair becomes the answer. The rejection is quiet and costly.
+1. **Ch17 (The Choice):** The temptation crystallizes. Thread 5 (Efficiency) presents the preservation path → intersects Thread 1 (Reservoir) and Thread 12 (Identity) — preservation of power = preservation of self. Thread 14 (Stewardship) provides the counter: Haran chose the workbench, not preservation. Thread 4 (District) — the imperfect 80% repair becomes the answer. The rejection is quiet and costly. *Density note:* predicted density lowered from 8 to ~5. Ch17 is **interior by design** — Ash alone in the workshop at dawn, an internal decision dramatized as practice rather than as collisions between external threads. Lower thread count is the correct shape, not a defect.
 
 2. **Ch18 (The Answer):** Thread 4 (District) pays off — Ryn's critique becomes method, Tesha emerges as independent builder. Thread 5 (Efficiency) finds practical application: catalytic precision, not preservation. Thread 14 (Stewardship) shifts from building FOR to building WITH. Thread 6 (Dorenne) converges — masks-down scene in the alley, mutual recognition of what's ending. Thread 8 (Maren) — her letter about Maren's leave from work. Thread 12 (Identity) begins releasing — Ash sees the district working without him and feels relief, not anxiety. The Dorenne concession sets up the Leveler vote in Ch19.
 

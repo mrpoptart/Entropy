@@ -12,7 +12,7 @@ His name wasn't on it.
 
 He stopped. Studied the board the way he'd once studied Haran's schematics, looking for what was missing. The tiles had been rearranged. Where WELLSPRING: KHARREN DISTRICT had been, the slot held two names now: a pair of mid-pool channelers splitting the work he'd done alone. WELLSPRING: AQUEDUCT REINFORCEMENT was gone entirely. In its place, a notation in Tessaly's handwriting: *Deferred, crew rotation pending.* Below that, another gap. Another workaround.
 
-She'd cut him out of the schedule tile by tile. Not erased, redistributed. Every task he'd handled had been broken down, parceled out, absorbed back into the institutional machinery. It was thorough. It was Dorenne.
+She'd cut him out of the schedule tile by tile. Not erased, redistributed. Every task he'd handled had been broken down, parceled out, absorbed back into the institutional machinery.
 
 He turned from the board and climbed.
 
@@ -256,7 +256,7 @@ Ash pushed through the main doors and stood on the steps.
 
 The city spread below him in its terraced layers. The upper districts clean and maintained, the lower ones visible as a different texture, rougher, darker, the architecture of neglect. Somewhere down there, past the market terraces and the reconstruction scaffolding and the streets where children carried water in buckets, there was a district that nobody wanted.
 
-He had a permit in his coat. Material access codes. A liaison's name. The walls of a freedom Dorenne had built.
+He had a permit in his coat. Material access codes. A liaison's name.
 
 The woman's question from the day before was still in him, lodged, unresolved. *Who saves us from tomorrow?*
 
@@ -264,8 +264,6 @@ He didn't have an answer yet. He had a piece of paper and a set of conditions an
 
 *I'd like to see it work anyway.*
 
-He started down the stairs. The sun was high and the stone was warm under his boots and somewhere behind him, in an office full of charts that mapped a losing battle, a woman he owed more than he could name had given him exactly what he'd asked for and not a thing more.
-
-It was enough. It had to be.
+He started down the stairs. The sun was high and the stone was warm under his boots.
 
 He walked.

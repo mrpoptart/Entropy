@@ -134,8 +134,6 @@ He was aware, standing at the back wall with his hand a finger's width from the 
 
 He let it go.
 
-He let it go the way Haran let go of a thing at the end of a working, which was not a stopping but a letting-go of the held thing into the letting-go, and the pull went, and what was under it was the small, plain, uncomplicated thing he should have been looking at all along, which was a back wall, and a collar, and a second basin, and a smaller pump, and the people on the upper terrace not carrying buckets up thirty-one steps.
-
 "You're right," he said.
 
 "Mm."
@@ -388,7 +386,7 @@ A man he did not know was at the plate. The man had his hand on the iron and his
 
 He came down to the lower lane.
 
-The doors were open. The cooking smells came out of the doors. Somewhere up the slope a child was being called in for the third time. The wind had gone soft in the late afternoon and now the wind had gone away, and the lanes held the small contained warmth of a district that was, at this hour, at about seventy percent of what a fully channeled district would have been at this hour, which was less, and which was enough, and the people in the doors were in the doors the way people stood in doors when the inside was warm enough to come out of for a count and the outside was cold enough to go back into, and that was the thing.
+The doors were open. The cooking smells came out of the doors. Somewhere up the slope a child was being called in for the third time. The wind had gone soft in the late afternoon and now the wind had gone away, and the lanes held the small contained warmth of a district that was, at this hour, at about seventy percent of what a fully channeled district would have been at this hour.
 
 That was the thing.
 
@@ -688,12 +686,6 @@ She nodded once.
 
 She put the glove back on. She did it the way she did things, which was with the precise unhurried motion of a woman whose hands knew what her hands were for. She straightened the cuff of the coat. She did not, in the alley, ask him for a thing. She did not, in the alley, offer him a thing. She did the small straightening, and she turned, and she walked out of the alley the way she had walked into it, which was without looking back.
 
-Ash stood at the wall a count.
-
-He looked at the brick where her hand had been.
-
-There was a small clean print of dust where her palm had lifted, the size of a palm. The print sat on the brick a count. The wind, when it came up the alley, took the dust off, and the print went, and the brick was the brick.
-
 He went to the door of Tesha's workshop.
 
 He stood at the door.
@@ -720,7 +712,7 @@ He stood at the door a count.
 
 He stepped back from the door.
 
-He walked down the slope to the lower lane, and out through the gate at the end of the south block, and he did not, walking, take Maren's note out of his coat. He did not take the bench paper out. He did not take the book out. He walked down the curve toward the workshop with his hands in his pockets and the inside pocket warm against his ribs, and the morning was the grey morning of late autumn, and the city above him was the city, and behind him, in the south block, the lamps were going out at the doors as the morning came on, and the heating row ran, and the communal plate sat warm at the end of the lane, and a child had had her hand on it, and a woman had a valve in her hands at a bench in a converted storage room, and Tesha had not, when he had stood at the door, looked up.
+He walked down the slope to the lower lane, and out through the gate at the end of the south block, and he did not, walking, take Maren's note out of his coat. He did not take the bench paper out. He did not take the book out. He walked down the curve toward the workshop with his hands in his pockets and the inside pocket warm against his ribs.
 
 He went down to the workshop.
 

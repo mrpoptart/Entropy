@@ -8,7 +8,7 @@ He had not told Haran where he was going.
 
 Haran had been at his bench when Ash came through, the way Haran was at his bench when Ash came through, and Haran had looked at him over the wire and not asked, and Ash had not said, and the not-asking and the not-saying had been the thing.
 
-The streets were wet. It had rained at some hour he had not heard, a thin spring rain that had laid the dust and not done anything else, and the cobbles held the wet at the seams. He passed the bakery at the fourth-hour corner. He did not stop. The girl at the counter was the girl at the counter and she saw him and she did not call out, because the not-calling-out was what people did now when they saw him on a street, and the not-calling-out was a kind of room they were giving him, and he took the room.
+The streets were wet. It had rained at some hour he had not heard, a thin spring rain that had laid the dust and not done anything else, and the cobbles held the wet at the seams. He passed the bakery at the fourth-hour corner. He did not stop. The girl at the counter was the girl at the counter and she saw him and she did not call out, because the not-calling-out was what people did now when they saw him on a street, and the not-calling-out was a kind of room they were giving him.
 
 He went past the cloth stall. He went past the corner with the chalked list that the boys had washed off twice and chalked again. He came down to the second bridge and crossed it.
 
@@ -50,7 +50,7 @@ Margit poured from the kettle into a small tin cup beside her on the crate. Ryn 
 
 "That'll hold to the end of the week."
 
-"You said end of the week last time."
+"You said end of the week last time," Margit said.
 
 "I did."
 
@@ -62,7 +62,7 @@ The man in the apron made a sound that was a laugh without being one. Margit sho
 
 "Ryn."
 
-"End of next week. Honest."
+"End of next week," Ryn said. "Honest."
 
 "Mm."
 
@@ -80,13 +80,11 @@ She turned, finally, and looked at him.
 
 She looked at him a count, and her face did the small adjustment her face did when she was looking at something she had already taken in and was now choosing what to do with, and she did not, in the looking, perform anything.
 
-"You look terrible."
+"You look terrible," Ryn said.
 
 He laughed.
 
-He laughed before he had decided to laugh. The laugh came up out of him in one short sound that was more breath than sound, and it caught at the back of his throat, and the catching made him laugh again, smaller, and his shoulders dropped a finger's width without his telling them to, and his hands came out of his pockets and he did not know what to do with them and he put them back in his pockets, and the putting back was, with the laugh still going down through him, a different putting back than the one he had carried into the yard.
-
-"Yeah."
+"Yeah," he said.
 
 "When did you last sleep."
 
@@ -98,7 +96,7 @@ He laughed before he had decided to laugh. The laugh came up out of him in one s
 
 "Eat?"
 
-"This morning."
+"This morning," Ash said.
 
 "That's a no."
 
@@ -108,7 +106,7 @@ He laughed before he had decided to laugh. The laugh came up out of him in one s
 
 She crossed the yard to the shed and came back with a heel of bread from a cloth on a shelf, and she handed it to him, and she did not, in the handing, make it a thing.
 
-"Eat. I'll finish this. Then we'll walk."
+"Eat," Ryn said. "I'll finish this. Then we'll walk."
 
 "Ryn."
 
@@ -122,7 +120,7 @@ The bread was good. It was a day old and it was good.
 
 She finished the coupling. She washed her hands at a basin in the corner of the yard, with a thin line of water from a tap that ran when she opened it because someone, somewhere, was channeling for the lower terraces today, and Ash watched the water and did not, this time, calculate the channel. She dried her hands on the front of her shirt. She came back to the bench. She rolled the wrench roll closed and tied it. She took her coat down from a peg by the shed.
 
-"Walk."
+"Walk," Ryn said.
 
 "Where."
 
@@ -168,13 +166,13 @@ They went down the long lane and crossed at the corner where the wall had been p
 
 She let him talk a long time.
 
-She let him talk past the old gate and along the wall and down to the corner where the canal came up out of the culvert, and the canal was running thin, and the thinness of the canal was a thing they both saw and did not name, and she let him talk past that. She let him talk until his talking had run itself down to the place where talking ran itself down, where the next sentence was the same as the last sentence and the man saying it could hear that it was, and he stopped.
+She let him talk past the old gate and along the wall and down to the corner where the canal came up out of the culvert, and the canal was running thin, and the thinness of the canal was a thing they both saw and did not name, and she let him talk past that. She let him talk until his talking had run itself down, and he stopped.
 
 They walked another half block.
 
 She put her hand on his wrist for a count.
 
-"Sit."
+"Sit," Ryn said.
 
 There was a low wall along the canal where the wall had been built up against flooding two generations ago and had not been needed in a generation. They sat. She sat first. He sat next to her. The wall was cold through his coat. He did not move.
 
@@ -210,13 +208,13 @@ He did not, for a long count, speak.
 
 When he spoke, his voice was the voice that came out of him.
 
-"I'm sorry."
+"I'm sorry," he said.
 
 "I know."
 
 She did not turn her face.
 
-"You were sorry the last time too. When we ran into each other and you were already halfway out the door. Being sorry isn't the same as being here."
+"You were sorry the last time too," Ryn said. "When we ran into each other and you were already halfway out the door. Being sorry isn't the same as being here."
 
 "I'm here now."
 
@@ -230,7 +228,7 @@ He did not answer.
 
 He did not answer because the answer was the answer, and the answer was not a clean one, and he was not going to give her a clean one across the canal where the leaf had gone under and not come up. He sat. He put his hands on his knees and looked at the back of his hands. The cut at the base of his thumb had closed clean and the skin was new and pink at the line of it. He turned his hands over and looked at his palms. The palms were the palms.
 
-"I came because I didn't know where else."
+"I came because I didn't know where else," he said.
 
 "Mm."
 
@@ -241,8 +239,6 @@ He did not answer because the answer was the answer, and the answer was not a cl
 "I know it isn't."
 
 "It's also not nothing."
-
-She said it without looking at him. She said it the way she said a thing she had decided to give him and was giving him at the cost she was willing to pay and not at any other cost, and the cost she was willing to pay today was *not nothing,* and the *not nothing* was, he understood, all the way out at the edge of what she was willing to pay.
 
 "Okay," he said.
 
@@ -266,7 +262,7 @@ She took him up the lane behind her workshop and along the upper terraces, the s
 
 "Three winters," Ryn said, without his asking. "Three winters they've patched it three places. The patches don't hold. They patch the patches."
 
-"Who's on it."
+"Who's on it," Ash said.
 
 "On what."
 
@@ -274,7 +270,7 @@ She took him up the lane behind her workshop and along the upper terraces, the s
 
 She did not answer at first. She walked. She nodded at a woman in a doorway who was beating a rug, and the woman nodded back without stopping the beating, and they went past.
 
-"Was Esten. Esten and his apprentice. Esten retired in autumn. The apprentice was reassigned. Now it's a man who comes from the second district when he comes."
+"Was Esten," Ryn said. "Esten and his apprentice. Esten retired in autumn. The apprentice was reassigned. Now it's a man who comes from the second district when he comes."
 
 "When does he come."
 
@@ -336,13 +332,13 @@ She said it walking. She said it without breaking the pace, and the pace held, a
 
 "Mm."
 
-"You can carry it. Or you can put it down. I don't care. I'm carrying it because it's mine. I told you because it's also yours. That's all."
+"You can carry it," Ryn said. "Or you can put it down. I don't care. I'm carrying it because it's mine. I told you because it's also yours. That's all."
 
 He did not answer.
 
 He walked. The lattice ran under their feet here in the thin form, the form that came up out of the lower brick into the upper terraces, and he could feel through his boots the place where it was running and the place where it was not, and the not-running was longer than the running, and he had not been counting and he was now counting, and the counting was a thing his attention did when his attention did not want to be doing the thing it was doing.
 
-"Ryn."
+"Ryn," he said.
 
 "Mm."
 
@@ -372,7 +368,7 @@ She did not stop walking. She turned her face toward him for the first time sinc
 
 He looked at the cobbles.
 
-"You did that with Dorenne."
+"You did that with Dorenne," Ryn said.
 
 "Ryn."
 
@@ -390,7 +386,7 @@ She stopped walking.
 
 She stopped at a corner where the lane gave on a small square with a well in the middle that the upper terraces had drawn from for two hundred years and which was now drawn from less because the channeled mains came up to the edge of the square and the people had moved their drawing to the mains, because a channeled main was warm and a well was cold. The well was in the middle of the square. The cover was on. The cover had moss along the south rim.
 
-"You built a water system for people who didn't ask for a water system."
+"You built a water system for people who didn't ask for a water system," Ryn said.
 
 "They needed, "
 
@@ -410,7 +406,7 @@ She stopped at a corner where the lane gave on a small square with a well in the
 
 He looked at the well.
 
-He looked at the moss along the south rim. The moss was the deep moss of a thing that had been in shade a long time and not been moved. There was a small fissure in the cover where the wood had split along the grain and a finger of light went down into the well, and the light, in the well, did what the light in a well did.
+He looked at the moss along the south rim. The moss was the deep moss of a thing that had been in shade a long time and not been moved. There was a small fissure in the cover where the wood had split along the grain and a finger of light went down into the well.
 
 "That's hard to hear," he said.
 
@@ -422,7 +418,7 @@ He looked at the moss along the south rim. The moss was the deep moss of a thing
 
 "I'm thanking you."
 
-"Don't. Thanking me makes it a gift. It wasn't a gift. It was a thing I had been thinking for a year and you finally stood still long enough for me to say it."
+"Don't. Thanking me makes it a gift," Ryn said. "It wasn't a gift. It was a thing I had been thinking for a year and you finally stood still long enough for me to say it."
 
 "All right."
 
@@ -462,7 +458,7 @@ She turned at the door.
 
 She did not put her hand on the handle. She turned with her back to the door and looked at him, and she looked at him with her face fully toward him for the second time in the day, and the looking was the looking.
 
-"Come back tomorrow."
+"Come back tomorrow," Ryn said.
 
 He waited.
 
@@ -482,7 +478,7 @@ He waited.
 
 "Yes."
 
-"Eat tonight. A real meal. With your sister. Not bread at a shelf."
+"Eat tonight," Ryn said. "A real meal. With your sister. Not bread at a shelf."
 
 "How did you, "
 
@@ -492,7 +488,7 @@ He waited.
 
 "Go."
 
-She put her palm flat between his shoulder blades and pushed once, light, and it was the push she had pushed when they were nine and she had been telling him to go home before his mother got worried, and the push was the push, and it was not nothing, and he went.
+She put her palm flat between his shoulder blades and pushed once, light, and it was the push she had pushed when they were nine and she had been telling him to go home before his mother got worried, and the push was the push, and he went.
 
 He went two steps and stopped.
 
@@ -512,7 +508,7 @@ She looked at him. She looked at him the way Maren looked at things, which was t
 
 "Yes."
 
-"I made stew. I always make stew. Sit."
+"I made stew," Maren said. "I always make stew. Sit."
 
 He sat at her table.
 
@@ -530,7 +526,7 @@ He ate the way a person ate when a person had not eaten properly in a week and h
 
 "Good."
 
-"She told me some things."
+"She told me some things," Ash said.
 
 "Good."
 
@@ -552,7 +548,7 @@ He ate the bread.
 
 He ate the bread and she got up and put the kettle on the stove, and the kettle was warmed because she channeled for it the way she had channeled for it since she was twelve, and her pool was her pool, and she did not, in the channeling, perform anything, and the kettle warmed, and she poured two cups, and she set one in front of him and took one for herself and sat.
 
-"She said come back Tuesday."
+"She said come back Tuesday," Ash said.
 
 "Tomorrow."
 
@@ -654,7 +650,7 @@ He took the small wrench out of the roll.
 
 He set it in her hand.
 
-Her hand closed on it without her looking, and she said "thanks," and she went back to the coupling, and he stood at the corner of the bench and watched her work, and the watching was the watching, and the Tuesday was a Tuesday, and the yard was the yard, and the wind came down the lane from the upper terraces and lifted the corner of the cloth on the shelf in the shed and let it go, and the cloth settled, and Ryn worked the coupling, three quarter-turns and a check and three more, and the check was the thing.
+Her hand closed on it without her looking, and she said "thanks," and she went back to the coupling, and he stood at the corner of the bench and watched her work, and the watching was the watching, and the Tuesday was a Tuesday, and the yard was the yard, and the wind came down the lane from the upper terraces and lifted the corner of the cloth on the shelf in the shed and let it go, and the cloth settled, and Ryn worked the coupling, three quarter-turns and a check and three more.
 
 He did not, while she worked, talk.
 
@@ -662,7 +658,7 @@ He did not need to.
 
 She finished the coupling. She put her palm flat on it and held it a count and took her palm away.
 
-"That's done."
+"That's done," Ryn said.
 
 "All right."
 
@@ -672,7 +668,7 @@ She wiped her hands on the rag from her belt. She looked at him. Her face did th
 
 "Mm."
 
-"Walk?"
+"Walk?" Ryn said.
 
 "Yes."
 

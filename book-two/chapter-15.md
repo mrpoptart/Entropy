@@ -6,7 +6,7 @@ Ash hung his coat on the peg. He had walked up from the lower terraces in a thin
 
 "Tea," Haran said.
 
-"I'll do it."
+"I'll do it. Yeah, I'll, sorry, I've got it."
 
 "Mm."
 
@@ -110,11 +110,11 @@ He looked at him a count. His face did not do anything. Haran's face did not do 
 
 "Do what."
 
-"The forge."
+"The forge. The, you know. Lighting it. The thing you just, "
 
 "Mm."
 
-"You used almost nothing."
+"You used almost nothing. I mean. I was watching."
 
 "Mm."
 
@@ -126,7 +126,7 @@ He looked at him a count. His face did not do anything. Haran's face did not do 
 
 "No."
 
-"I never watched it."
+"I never watched it. I mean, I've, sorry, I've been in the room, but I haven't, "
 
 Haran let the bellows handle go.
 
@@ -134,7 +134,7 @@ He turned from the forge. He went to the small stool at the end of the bench and
 
 "Thirty years of practice," Haran said. "Give or take."
 
-"That's not, "
+"That's not, that's, I mean, that's not, "
 
 "It is."
 
@@ -144,13 +144,13 @@ He turned from the forge. He went to the small stool at the end of the bench and
 
 He said it the way he said a thing he had decided some time ago was the case and was not going to soften, and the not-softening was not an unkindness, and Ash heard the not-softening and did not push.
 
-"Show me."
+"Can you... yeah, walk me through it. Sorry. From the top."
 
 Haran looked at him.
 
 "You sure."
 
-"Yes."
+"Yes. I mean. Yeah. Please."
 
 "Mm."
 
@@ -162,17 +162,17 @@ He went back to the forge. The forge was burning now, the oak settling into the 
 
 "Watch," he said.
 
-"Yes."
+"Yes, I, I think so, I mean I see what you're, yeah, no, the rod, okay."
 
 "Not the iron. Me."
 
-"Yes."
+"Okay. You. Yeah."
 
 He set his palm against the rod where the rod lay cool, near the end he was holding, six inches up from the coals. He held his palm there a count.
 
 "Most channelers," he said, "when they want to bring this to working temperature, they push. They push from the hand into the rod and the rod warms and they keep pushing until the rod is hot, and they pull their hand back when the rod is hot, and they call that channeling."
 
-"Yes."
+"Yes, that's, I mean, that's what I do. That's what I've been, yeah."
 
 "Watch what they're doing while they push."
 
@@ -190,7 +190,7 @@ Haran's palm was against the rod. The rod was beginning to warm at the end in th
 
 "The discipline is, you find the thread."
 
-"The thread."
+"The thread. Okay. The, yeah."
 
 "The thread of what the work needs. The smallest path from your hand to the result. Most people don't look for it. Most people don't know it exists. They were taught to push. They push."
 
@@ -212,7 +212,7 @@ Ash did not, for a count, speak.
 
 He looked at the rod. The rod was orange at the end in the coals and red along the working length and dark again at the place six inches above where Haran had set his palm, and the line of the heat was a clean line, as if a man had drawn it.
 
-"How much," he said.
+"How much, I mean, how much did, "
 
 "Mm."
 
@@ -222,11 +222,11 @@ Haran considered.
 
 "A breath."
 
-"A breath."
+"A breath. That's, sorry, that's, "
 
 "Less than warming a cup of tea would cost you."
 
-"A rod that size. Working temperature."
+"A rod that size. Working temperature. And, sorry, just, that, "
 
 "Yes."
 
@@ -246,7 +246,7 @@ What Haran had just done had cost a breath.
 
 "It is. It's the thread. There's no trick. There's the thread and there's everything else, and most channelers spend most of their pool on everything else. Sixty out of every hundred. By the rough count."
 
-"Sixty."
+"Wait, sorry. Sixty? Sixty out of a hundred. That's, I'm sorry, that's, I'd been thinking it was maybe ten, fifteen, I mean I knew it was something but I didn't, sorry, keep going."
 
 "Give or take. That's the figure I came to. It's not exact. Nobody measures it. You learn it by feel, the way you learn most things by feel. Most channelers waste sixty out of every hundred on what isn't the work."
 
@@ -254,7 +254,7 @@ What Haran had just done had cost a breath.
 
 "The traditions weren't built on saving. They were built on having. The reservoir was deep. People poured. Why wouldn't they. The pour worked. The job got done. You went to bed and your pool came back. You poured again."
 
-"Yes."
+"Yes. Yeah. Of course they did."
 
 "Nobody optimized. There was no reason to optimize. The first generations who might have had a reason to optimize were the ones who started running short, and they were the wrong ones to teach themselves a discipline, because they were tired."
 
@@ -292,11 +292,11 @@ He said it without looking at Ash. He said it at the rod, with his hands loose a
 
 "That's all I'm telling you. You should know."
 
-"Yes."
+"Yes. Okay. Yeah."
 
 "Try it."
 
-"Now."
+"Now. I mean, you want me to, now."
 
 "When else."
 
@@ -309,6 +309,8 @@ He stood where Haran had stood. He took the rod out of the coals with the tongs 
 He pulled a fresh rod from the rack.
 
 He laid it across the coals the way Haran had laid his. He set his palm against it six inches up from the coals, where Haran's palm had been, and he stood with his palm against the rod and tried to find the thread.
+
+"I'm gonna get this wrong the first time, I just want to say that before I do it, but, okay, watching."
 
 He could not find the thread.
 
@@ -372,7 +374,7 @@ He pulled his hand back.
 
 "Mm," Haran said.
 
-"I had it."
+"I had it. I mean. For a, yeah. I had it."
 
 "You did."
 
@@ -384,7 +386,7 @@ He pulled his hand back.
 
 "Yes."
 
-"How do you keep it."
+"How do you keep it. I mean. Once you've got it, how do you, "
 
 Haran did not answer at first.
 
@@ -404,7 +406,7 @@ It was the thing it was. It was a number that was a number, and the number was t
 
 "The discipline is its own thing."
 
-"Yes."
+"Yes. Okay."
 
 "You can practice it. You can practice it every time you channel. You can practice it warming the kettle in the morning. You can practice it lighting a candle. You can practice it sealing a fitting. Every channel you do is a chance. Most of them you'll lose. Some of them, after a long time, you'll keep."
 
@@ -472,11 +474,11 @@ He laid it on the cooling rack at the end of the bench. He wiped his hands on th
 
 "There's stew on the stove."
 
-"Yes."
+"Yes. Okay."
 
 "Eat the stew."
 
-"Yes."
+"Yes. I will."
 
 He went out of the workshop.
 

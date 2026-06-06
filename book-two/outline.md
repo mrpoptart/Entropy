@@ -49,7 +49,9 @@ Writer agents: use these established names. Do not invent new district, building
 ### Naming Notes
 - **Stonecurve** is the resident name for the proof-of-concept district, established Ch4. Named for the main street's curve along a limestone shelf at the terrace edge.
 - Ardenmere is the only named rural location. Other rural communities are described by geography (hill country, coastal, highland) and can be named during drafting if scenes require it.
+- **The Halvers** — offstage parent-generation neighbor-family in the Torren family's Dorenne-arranged apartment block. Established Ch20 (referenced, not seen). Use this surname on any subsequent neighbor reference at the same address rather than inventing a new one.
 - All Book One locations remain valid. Key recurring locations in Book Two: Haran's workshop, Hall of Infrastructure, the family apartment (post-earthquake, Dorenne-arranged).
+- **Book One geography carries forward.** The Verenthi Range, Solathis, the gorge forest, and the canal quarter are canonical Book Two geography; do not rename or re-establish. **Pinned reference:** the Book Two Ch1 opening line uses "gorge forest / resin trees" as its grounding image — the gorge forest is the resin-tree forest established in Book One, and the resin trees are the canonical species. Writer agents should use this exact pairing on first reference.
 
 ---
 
@@ -78,6 +80,8 @@ Ash doesn't have one. Not yet. But the question is sharper now — not just *wha
 **Establish:** The tonal shift from Book One — urgency replacing euphoria, purpose replacing intoxication. The workshop as Ash's true starting point. The post-earthquake political landscape heating up. Haran's philosophy unchanged and vindicated: systems that don't orbit one person. The reservoir as a felt presence — finite, precious, waiting to be spent wisely.
 
 **Emotional beat:** Determined quiet. Not the brittle cheerfulness of Book One's opening and not the devastated awareness of Book One's close. Something harder and more adult: the readiness to work without knowing if the work will matter.
+
+**Cast (named in chapter):** Ash, Haran. **Davel** (returning Book One workshop tinkerer; among the drifters-in; now scaling the spring-loaded pump system to additional homes). **Petra** (returning Book One workshop tinkerer; among the drifters-in; running the vulcanization work on seals and gaskets for the pump system).
 
 ---
 
@@ -500,7 +504,7 @@ Meanwhile: a scene with their mother, alone. She's in the kitchen after everyone
 
 **POV note:** The closing Leska scene is rendered through Ash's POV, not Leska's interior. Ash watches her through the lit window from the street as he walks home; the cracked bowl is in her hands, but her thoughts are not on the page. The chapter holds strict third-limited Ash throughout.
 
-**Cast (named in chapter):** Ash, Leska, Rendell Torren, Maren. **Mern** (offstage, neighbor two doors down; ex-mason now cobbler-adjacent; subject of Rendell's named-act story; the chisel callback lands here). **Rakel** (offstage, lamplighter; brief mention).
+**Cast (named in chapter):** Ash, Leska, Rendell Torren, Maren. **Mern** (offstage, neighbor two doors down; ex-mason now cobbler-adjacent; subject of Rendell's named-act story; the chisel callback lands here). **Sun** (offstage, lamplighter on the Stonecurve curve; brief mention if needed — replaces the prior Rakel placeholder; same Sun who appears onstage in Ch12).
 
 **Continuity hooks (forward):**
 - Maren's pool decline now visibly undeniable to Ash. The "Don't" exchange has been spoken; the conversation is unfinished, not unspoken. Carries to her arc convergence in Act 3.
@@ -902,7 +906,7 @@ She and Ash stand in the alley behind the workshop. No masks. No maneuvering. Sh
 - Methodological shift installed: building WITH, not FOR. Ash arrives with questions.
 - Hybrid model — catalytic + contributed pools — operational. The bridge that holds until the mechanical side bears the full weight.
 - Maren's note moves from outside pocket to inside pocket. Chapter's emotional pivot. Carries to Ch20 reckoning.
-- Dorenne's bare hand on brick, the dust print left and not brushed off — the chapter's image-period; carries to Book Three.
+- Dorenne's bare hand on brick: she does not brush the dust from her palm; the small clean print of dust sits on the brick a count, and the wind, when it comes up the alley, takes the print off. The *going* of the print — not the leaving of it — is the chapter's image-period and the Book-Three carry-image. (Reconciled to chapter prose; prior "left and not brushed off" framing superseded.)
 - Levelers' vote on Dorenne's authority pending. Davan break still hanging. Both deliver in Ch19-20.
 
 ---
@@ -961,7 +965,7 @@ Davan walks away. The conversation isn't enough to bridge anything, but the ackn
 
 The scene begins with an ordinary visit. Ash at the family apartment — not for dinner, not for a crisis. Just visiting. Their parents are out. The apartment is quiet in the way it is when the people who fill it are absent — full of their presence even without them.
 
-Maren is home. She's been home more often lately. Her work — the career she built through relentless excellence, the professional identity that justified her pool, proved she deserved what her brother didn't get — is failing her. Not dramatically. Grindingly. The channeling tasks that came easily five years ago require visible effort. The margin for error that her skill once provided has narrowed to nothing. She's still better than most channelers her age — discipline and talent compensate for a lot — but she can feel the floor dropping, and she knows it's only going in one direction.
+Maren is home. She's been home more often lately — she took the work leave she wrote to Ash about in Ch18 (the brief, uncharacteristic letter; the steady handwriting; no reason given). Her work — the career she built through relentless excellence, the professional identity that justified her pool, proved she deserved what her brother didn't get — is failing her. Not dramatically. Grindingly. The channeling tasks that came easily five years ago require visible effort. The margin for error that her skill once provided has narrowed to nothing. She's still better than most channelers her age — discipline and talent compensate for a lot — but she can feel the floor dropping, and she knows it's only going in one direction.
 
 She hasn't told anyone. Of course she hasn't. She's spent her entire life being the one who doesn't need help.
 
@@ -1019,12 +1023,12 @@ The chapter ends quietly. Their parents come home. The four of them have dinner.
 
 **Causal hook → Ch21:** The Maren conversation stripped away the last performance. Ash walks into the final chapter without armor, the cheerfulness is gone, the savior complex is gone, the fear of ordinary is still there but named. He's ready to see clearly what he's built and what remains.
 
-**Cast (named in chapter):** Ash, Maren (central; the surgical-economy voice finally yielding). Leska and Rendell return for dinner at the close (parents don't know what happened). The Halvers referenced as offstage parent-generation neighbors (flag for gazetteer if they recur).
+**Cast (named in chapter):** Ash, Maren (central; the surgical-economy voice finally yielding). Leska and Rendell return for dinner at the close (parents don't know what happened). **The Halvers** — offstage parent-generation neighbors of the Torren family in the Dorenne-arranged apartment block; recurring offstage reference, now canonical (added to gazetteer/Naming Notes).
 
 **Continuity hooks (forward):**
 - Performance is over between siblings. The choreography (his cheerfulness, her competence) served its purpose. Carries to Book Three.
 - Maren now makes tea by hand. Her decline is acknowledged between them; not yet to their parents.
-- Maren's note in Ash's inside pocket touched on entry, known-without-reading on exit. The conversation supersedes it.
+- Maren's note in Ash's inside pocket touched on entry, known-without-reading on exit. The conversation supersedes it. **Disposition:** the note leaves Ash's inside pocket during this visit (most likely returned to Maren in the course of the conversation, or set down on the kitchen table and not reclaimed). By the time Ash walks out, the inside pocket is empty. This is the disposition Ch21 references when Dorenne's letter goes into the inside pocket "where the note from Maren had been until last night."
 - Closing image: kitchen feels different through what is no longer there (the half-beat at the salt-pass, the careful smile, the small turning-aside).
 
 ---
@@ -1073,13 +1077,14 @@ He keeps walking.
 - The viaduct, lower terrace, river yard freight collective referenced (Dorenne's offer).
 
 **Continuity hooks (Book Three load):**
-- **Reservoir at felt-bottom** — the floor below a thinning rug. ~32% in continuity terms; the felt-truth is that the bottom is closer than ever.
+- **Reservoir at felt-bottom** — the floor below a thinning rug. The number is ~18% (per the Act Three reservoir table); the felt-truth is the bottom as Ash's nervous-system reading, not a separate accounting. The chapter-21 close ("the reservoir was almost gone") is the felt-bottom registered at ~18%, not a second figure.
 - **Dorenne's concession** loaded but not resolved (offer to redirect institutional resources). Book Three opens with whether Ash accepts.
 - **Davan's despair** — "found a story that lets him be both [frightened and tired] without having to do anything anymore except say the story." Book Three's antagonist arc loaded.
 - **Maren's conversation** ended; her continuing post-magic identity is Book Three's work.
 - **Ryn at the door** — "Like someone who's going to lose something and knows it and isn't running." The unexamined romantic dimension is closer to the surface.
 - **The scaling problem** — six blocks copying, twenty by midsummer (Tesha's projection). The race begins.
 - **Haran's "Good. That's a start."** is the chapter's last reframing.
+- **Maren's note** is gone from Ash's inside pocket at the open of Ch21 (left with Maren in the Ch20 visit). Dorenne's folded letter goes into the inside-pocket slot the note had held until the night before. The note thread closes in Ch20; the pocket-slot now carries Dorenne's offer into Book Three.
 - The chalk *WHAT NOW?* on the wall is Book Three's title-question.
 
 ---

@@ -4,7 +4,7 @@ The notebooks filled the bench.
 
 Haran set them down one at a time, pulling them from the deep drawer beneath his station where Ash had never looked, where he'd assumed there were tools or stock or the accumulated detritus of decades. Instead: notebooks. Dozens. Some leather-bound, some stitched from folded paper. The oldest were yellowed at the edges, the newest scarcely worn. Haran lined them up in no particular order, though Ash suspected there was an order he couldn't see.
 
-"How long?" Ash asked.
+"How long have you, I mean, how long," Ash asked. "Sorry. How long."
 
 "Depends what you mean." Haran opened the nearest one. The pages were dense with drawings, cross-sections, pipe layouts, annotations in a hand that had changed over the years from cramped and hurried to loose and confident. "This one's from before you were born."
 
@@ -12,7 +12,7 @@ Ash turned a page. A schematic for a gravity-fed water system. The drawings were
 
 He turned another page. Another. The designs shifted and evolved, water systems, heating systems, structural reinforcements. Some were crossed out. Some had been redrawn three or four times, each iteration cleaner. Some had notes in the margin that said things like *won't work, seal material doesn't exist* or *needs a flexible gasket, revisit* or simply *not yet.*
 
-"You've been designing for a world without magic," Ash said.
+"You've been, this whole time, you've been designing for a world without magic," Ash said.
 
 Haran didn't answer. He opened another notebook, a newer one, and set it beside the first. This one held cooperative maintenance schedules. Diagrams showing which residents would inspect which systems and when. Training sequences: how to clear a pipe blockage, how to repack insulation, how to adjust a pump valve. Written for people who had never held a wrench.
 
@@ -22,7 +22,7 @@ Ash stared at the bench. The notebooks covered its entire surface, and each one 
 
 "Hm."
 
-"Why didn't you show me these before?"
+"Why didn't you, I mean, you could have. Why didn't you show me these before?"
 
 Haran picked up the oldest notebook and turned it in his hands. The leather was soft with age. "You weren't asking the right question."
 
@@ -178,7 +178,7 @@ The warmth in his chest pulsed. Not a response to threat or need, a readiness. T
 
 "How much?" Haran asked.
 
-"I don't know yet. I'll need to calculate it once we have real plans. Pipe lengths, wall sections, structural loads."
+"I don't know yet. I'll need to, I mean, once we have real plans. Pipe lengths, wall sections, structural loads. Then I can do the math."
 
 "Rough estimate."
 
@@ -195,8 +195,6 @@ Haran nodded. He didn't tell Ash to be careful. He didn't tell him the cost was 
 They walked back to The Splits as the light failed. The streets emptied around them, people moving inside, doors closing, the district settling into its evening rhythm of conservation and cold. A woman lit a candle in a window. A man carried firewood up a narrow stairway, the logs cradled against his chest.
 
 Ash's legs ached from the walking. His hands were cold. The reservoir sat in his chest, untouched, full of a potential that for the first time in weeks felt like it pointed toward something specific.
-
-Not toward spectacle. Not toward holding things up. Toward building things that held themselves.
 
 The plan wasn't about him. That was the part that sat differently, that occupied a space in his thinking he hadn't known was empty. The plan was about a district of three hundred people waking up to water that ran without a channeler's pool, warmth that held without a channeler's hands, walls that stood without a channeler's will. About making the extraordinary unnecessary.
 
@@ -218,8 +216,6 @@ The district. The woman's question. The old man at the wall.
 
 *Who saves us from tomorrow?*
 
-He set the file against the steel. The first stroke bit clean. The stove ticked. The notebooks lay open on Haran's bench, their decades of waiting finally met.
+He set the file against the steel. The first stroke bit clean. The stove ticked. The notebooks lay open on Haran's bench.
 
 His hands moved. The fire built. Outside, the city settled into its long cold, and somewhere below, in a district that had no name yet, a girl carried water in buckets because there was no other way.
-
-Not yet.

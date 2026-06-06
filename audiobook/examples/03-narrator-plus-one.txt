@@ -1,0 +1,10 @@
+---
+style: quiet domestic morning; warm conversational audiobook narration; natural reading pace; Father is broad, tired, gentle, low-register
+speakers:
+  Narrator: Aoede
+  Father: Charon
+---
+Narrator: His father settled into his chair with the controlled exhale of a body that hadn't slept quite enough. He wrapped both hands around the cup and drank.
+Father: Morning.
+Narrator: Ash waited.
+Father: The porridge smells good.

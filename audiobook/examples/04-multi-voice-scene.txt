@@ -1,0 +1,16 @@
+---
+style: kitchen at dawn, natural conversational pace, not slow; Ash is bright, hedging, chatter-as-armor; Father is low, spare, tired-warm
+speakers:
+  Ash: Puck
+  Father: Charon
+---
+Father: Morning.
+Ash: The Orellen job?
+Father: Full day. Maybe two. You?
+Ash: Errand for Mum in the market district. Then I thought I'd stop by the Hall on the way back. They posted a notice about aide positions last week.
+Father: That's the infrastructure office?
+Ash: Council annex, but same building. I won't get it, I mean, I basically never do, but, Haran says you don't stop knocking on doors just because no one's home, which is a very Haran way to phrase it but still.
+Father: The porridge smells good.
+Ash: I put the last of the dried cherries in.
+Father: Your mother will have something to say about that.
+Ash: She'll have something to say about anything. Might as well make it delicious.

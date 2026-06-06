@@ -118,9 +118,19 @@ When it fails, Ash — now ordinary, powerless — helps. He offers mechanical k
 
 Not every wound heals. Not every grief reaches acceptance. Davan's unresolved despair is the honest acknowledgment that Ash's journey, while real, is not guaranteed. Some people break and stay broken. Dorenne adapts and finds redemption; Davan does not. Both responses are real. The contrast gives both weight.
 
+## Background (established Ch9)
+
+- **Mother:** a weaver. Still alive. Her pool has thinned to the point that she no longer warms walls; she works textile by hand.
+- **Father:** a stove-fitter. Died in "the bad winter" twelve years before Book Two opens.
+- **Channeling training:** trained from roughly age 12 to 14. His teacher told his mother to stop — the pool was not going to repay the lessons.
+- **Apprenticeship:** fit with his uncle from roughly 13 to 19 (overlapping the late channeling years). His uncle's shop closed when the city stopped repairing the lower mains.
+- **First political exposure:** first attended a Council gallery session at 19.
+
+These specifics anchor the "weak-pool but not magicless" line in *Who He Is* and the "built his influence from nothing" line in *The Surface*. Writer agents should use them rather than inventing new biographical material.
+
 ## Open Questions
 - ~~Gender? (Consider what complements the existing cast — Ash male, sister female, patron female, mentor male, childhood friend female)~~ **Decided:** Male.
-- What is his specific background? (District, family, what he did before organizing)
+- ~~What is his specific background? (District, family, what he did before organizing)~~ **Established Ch9** — see Background section above.
 - Does he have a personal relationship beyond the political one with Ash? (Friendship? Something more complicated?)
 - Where is the community he takes? How many people? How long before it fails?
 - How does he relate to Haran? (Haran chose to live without magic decades ago. Davan can't make that choice. There's a conversation there.)

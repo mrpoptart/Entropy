@@ -44,7 +44,7 @@ He read the sentence again.
 
 *Above all the Wellspring.*
 
-He set the transcript on the under-bench shelf, beside the two letters and the broadsheet, and the shelf was the shelf it had been the night before, and was not.
+He set the transcript on the under-bench shelf, beside the two letters and the broadsheet.
 
 * * *
 
@@ -288,7 +288,7 @@ He had written its sentences. He had written them in his head walking past Helle
 
 The sentences on the cart were his.
 
-They were better-built than his. They had been honed in rooms he had not been in. They had been rehearsed in front of audiences he had not addressed. They were his sentences come back to him in the mouth of a man who had earned them through the work of saying them and saying them, and Ash, against the eastern wall, in Haran's coat, registered this with the precision an engineer used to register a load on a beam. The beam held. The beam was beautiful. The beam was bearing him.
+They were better-built than his. They had been honed in rooms he had not been in. They had been rehearsed in front of audiences he had not addressed. They were his sentences come back to him in the mouth of a man who had earned them through the work of saying them and saying them.
 
 Davan was speaking, now, of the platform's specific mechanisms.
 
@@ -323,10 +323,6 @@ He saw, against the western wall, the boy from the second crew. The boy who had 
 He saw, near the gate, two faces from the earthquake nights.
 
 He did not know their names. He had carried a beam off a man's leg in the second night, in the third district, with the help of three other people, and one of the three had had a face he had not, in the dark, seen well, but the shape of the face had stayed with him the way a face stayed when the face had been near his own face under load, and that face was at the gate. The other face was a woman who had brought water to the responders on the fourth night in the canal quarter. She had filled a clay jug from a stranger's basin and walked it down the line, and Ash had drunk from the jug, and she had, on his thanking her, said *drink, son,* in a voice that did not come back in his head until he saw her tonight at the gate of the Cooperage, and then her voice came back the way the face had come back, whole.
-
-These were the people he had been building for.
-
-The platform on the cart was telling them that building was not enough.
 
 He registered this, against the wall, in Haran's coat, with the cap pulled low, the way an engineer registered a measurement. He did not, in the registering, name what he felt. He felt it in his hands. His hands had gone tight at his sides. He noticed this and let them open, and the opening was a small effort, the kind of effort it took to open a hand a man had not, until that moment, known he had closed.
 
@@ -479,9 +475,3 @@ He did not, by morning, lift the cloth.
 He did not, by morning, write the letters back.
 
 He slept.
-
-The reservoir sat.
-
-The dark windows of the canal quarter were dark.
-
-The pump was warm.

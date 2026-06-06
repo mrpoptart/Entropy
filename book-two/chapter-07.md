@@ -6,7 +6,7 @@ Ash heard it before he saw it. He came down the stairs from the small room above
 
 "Fourth floor," Tesha said. "All of it. The risers ran cold past the second."
 
-"When."
+"When... I mean, when did it, sorry, when."
 
 "Sometime after the third hour. Reska felt it first."
 
@@ -18,17 +18,17 @@ The stair was cold the way a stair was cold when the heat had been gone long eno
 
 "Morning."
 
-"How long."
+"How long has it, how long."
 
 "Three hours. The wall by the window went first."
 
 Ash put his palm on the inner wall by the bedroom door. The plaster was the temperature of plaster on a winter morning in a building with no heat. He moved his hand to the riser channel. The channel was the same.
 
-"I'll get Haran," he said.
+"I'll get Haran," he said. "I'll, sorry, I'll get him now."
 
 "You'll get him."
 
-"I will."
+"I will. Yeah."
 
 The man nodded once. He did not move from the doorway. Behind him, in the dim of the room, his wife sat on the edge of the bed with a blanket around her shoulders and a kettle beside her on the floor that she had filled, perhaps, from the basin tap in the dark, and had not yet decided what to do with.
 
@@ -42,11 +42,11 @@ He didn't speak on the stairs. He didn't speak on the landing. He nodded at the 
 
 "Thirty," Haran said.
 
-"Thirty?"
+"Thirty? Sorry, thirty what."
 
 "Thirty seams in this riser. One of them's gone. We'll find it."
 
-"Where."
+"Where, I mean, which one, do you, "
 
 "Between here and the cellar."
 
@@ -60,7 +60,7 @@ He looked up.
 
 "Second riser," Haran said. "Two seams above the manifold. The flux didn't take."
 
-"Last week."
+"Last week. Right? That was, that's, "
 
 "Last week. The day Vell was sick and we ran two short. I did that joint. I did it tired."
 
@@ -68,7 +68,7 @@ He said it without weight. He said it the way he said most things he meant. The 
 
 "I'll redo it," Haran said.
 
-"I'll help."
+"I'll help. I mean, what do you need, I'll, yeah."
 
 "You'll bring brass. Bring the small flux. Bring two rags."
 
@@ -110,11 +110,11 @@ Ash watched them go.
 
 "Building Four. The risers are old. The pipe we put in is good. The risers we tied into are what they are."
 
-"We replace them."
+"We replace them. I mean, can we, eventually we have to, "
 
 "We replace them when we have brass and a week."
 
-"And until then."
+"And until then. Until then we, "
 
 "Until then we get up at the third hour and we redo the joint that didn't take. That's the work."
 
@@ -122,7 +122,7 @@ He said it without complaint. He said it the way a man said *cut here* when the 
 
 "Eat," he said.
 
-"I'm not hungry."
+"I'm not hungry. I mean, thanks, I'm, "
 
 "Eat."
 
@@ -168,7 +168,7 @@ She considered. She had a slate under her arm. She pulled it out and looked at i
 
 "They said," Reska said, "that they were tired of being taught like children."
 
-"I see."
+"I see. I mean, yeah, that's, yeah."
 
 "Aren's words. The boy didn't say anything. He stood behind Aren."
 
@@ -176,7 +176,7 @@ She considered. She had a slate under her arm. She pulled it out and looked at i
 
 "I said the work was the work. I said if they came back tomorrow we'd put them back on. I said if they didn't, we'd find someone."
 
-"Good."
+"Good. That's, yeah, good."
 
 "They won't come back."
 
@@ -186,11 +186,11 @@ She looked at the pump. She didn't look at him.
 
 "Aren's a good worker," she said. "He'll find a crew. Channeling crew, probably. Someone who'll let him do it the way he was taught to do it."
 
-"Probably."
+"Probably. Yeah, probably."
 
 "It's the slow that gets to him. The pause-for-looking. Tesha's pause-for-looking. He thinks it's a thing you do when you don't know what you're doing."
 
-"It's not."
+"It's not. I mean, it's, it's the opposite, isn't it. It's not."
 
 "I know it's not."
 
@@ -198,7 +198,7 @@ She did not need him to confirm it. She had not asked him to. She put her hand o
 
 "They've started naming them," she said.
 
-"What."
+"What. Sorry, naming, "
 
 "The systems. The fourth-floor riser is Greta. The pump in the second square's Old Pat. This one's Pat the Younger. I don't know how it started."
 
@@ -206,7 +206,7 @@ She did not need him to confirm it. She had not asked him to. She put her hand o
 
 "Someone's grandmother. Aren's, maybe. He named it before he quit."
 
-She said it without a smile. She said it the way she said most things, which was the way Tesha said most things, which was the way Haran said most things, which was, Ash registered without naming, beginning to be the way the district said most things.
+She said it without a smile. She said it the way Haran said most things.
 
 "Pat the Younger," he said.
 
@@ -244,15 +244,15 @@ Haran was at the bench. The file moved.
 
 "You read it," Haran said.
 
-"I read it."
+"I read it. Yeah."
 
 "Mm."
 
-"It's not bad."
+"It's not bad. I mean, the writing, it's, no, it's not bad."
 
 "It's not."
 
-"It puts us inside Dorenne's tent."
+"It... I mean. It puts us inside her tent, doesn't it. That's the word for it. Sorry. Inside the tent."
 
 "It does."
 
@@ -262,17 +262,13 @@ Haran filed. The brass shaving curled off.
 
 Ash thought.
 
-"Not yet," he said.
+"Not yet," he said. "Not, I mean, not yet."
 
 "Mm."
 
-"The work matters more than the credit."
+"The work matters more than the credit. Right? I mean, that's, that's what we've been, "
 
 "Mm."
-
-He said it twice, the same syllable, the same length, and the second one was not the first one. The second one was the sound a man made when the apprentice had said the right thing for the wrong reason and the man had decided not to correct him today.
-
-Ash heard it. He did not, in the moment, name what he had heard.
 
 He folded the broadsheet along the fold the giver had given it, and he set it on the under-bench shelf, and Haran kept filing.
 
@@ -380,7 +376,7 @@ Velden considered this. The corner of his mouth did not move. His eyes did not m
 
 "All right."
 
-Velden touched the brim of his cap. Half a touch. He turned. He went out into the square. He did not, on the way out, look at the pump. He had already looked at the pump. He had, Ash registered, done all of his looking before he had come in the door.
+Velden touched the brim of his cap. Half a touch. He turned. He went out into the square. He did not, on the way out, look at the pump. He had already looked at the pump.
 
 Haran filed.
 
@@ -516,7 +512,7 @@ He did not call him *Wellspring.* He did not call him anything. He turned back t
 
 Ash stood on the workshop step.
 
-He had been called *boy* by his father for twenty-six years and by Haran twice and he had not been called *boy* by a stranger in his adult life. He registered the word the way a man registered a small unfamiliar weight, and set it down.
+He had been called *boy* by his father for twenty-six years and by Haran twice and he had not been called *boy* by a stranger in his adult life.
 
 Othen had not been impressed. Othen had been polite. Othen had, on the way past Ash to the bakery's door, touched the brim of a hat he wasn't wearing, the gesture of a man who had been raised to it and would be doing it on his deathbed. He had not, at any point in the conversation with Haran, looked back at Ash to see how a sentence had landed.
 
@@ -526,11 +522,11 @@ Haran walked Othen to the bakery and came back.
 
 "No."
 
-"He didn't ask about the reservoir. He didn't ask about the catalytic. He didn't ask anything I expected."
+"He didn't ask about the reservoir. He didn't ask about the catalytic. He didn't ask anything I, anything I expected, I mean."
 
 "No."
 
-"What did he come for."
+"What did he come for. I mean, what was he, "
 
 "The vanes."
 
@@ -596,25 +592,25 @@ He looked at Haran's back. Haran was at the bench. The file moved.
 
 "Mm."
 
-"One says I'm building toys. The other says I'm retreating."
+"Two letters. The Open Hand and the elder council and they're both, I mean, one says I'm building toys for the poor while everyone keeps their hot baths, which is fair, that one I wrote in my head at twenty-two, basically the same letter, and the other one says I'm a *retreat,* Haran, the word he used, *retreat,* which..."
 
 "Mm."
 
-"They can't both be right."
+"They can't both be right. I mean. They can't, "
 
 "They can."
 
 He said it without looking up. He said it the way he had said *the lead-tin won't last six years,* like a measurement read off a rule.
 
-"Both," Ash said.
+"Both. Both at once."
 
 "You're building a thing the powerful people don't need and the powerless people can't afford to wait for. Both letters are correct. Both letters are about themselves."
 
-"What do I write back."
+"What do I write back. I mean, do I, what do I, "
 
 "To which."
 
-"Either."
+"Either. Both. I don't, "
 
 Haran filed.
 
@@ -629,8 +625,6 @@ Ash held the letters.
 The first, he had seen the sentences of in his own handwriting, in the broadsheet pages he had read at twenty-one and twenty-two and twenty-three, when he had been magicless and angry and had been writing letters in his head to a Wellspring he had not yet known would be him. *The man with an ocean, asking the thirsty to wait.* He had written that line. He had written it in his head walking past the upper terraces in winter. He had written it walking past Hellen's house, perhaps. Hellen's house was on the upper terraces. He did not know if it was the same house.
 
 He set the letters on the under-bench shelf, beside the broadsheet.
-
-The shelf was getting full.
 
 * * *
 
@@ -814,7 +808,7 @@ He thought, *this is what I'm building.*
 
 He thought, *this is people teaching people.*
 
-He thought it because the scene was beautiful and the scene was working and the scene was, in every visible respect, the thing he had set out to make. He thought it the way a builder thought *the wall holds* on the first morning a wall held.
+He thought it because the scene was beautiful and the scene was working and the scene was, in every visible respect, the thing he had set out to make.
 
 Jora was at the priming valve. The girl had her hand on the cap. Jora was guiding her hand with two fingers on the back of the girl's wrist, the way Tesha had guided a worker's hand on the lap two weeks before.
 
@@ -836,8 +830,6 @@ He watched a long minute.
 
 He did not, in the moment, name what he was watching. He registered the warmth of it. He registered the working of it. He registered Jora's pride and the girl's smile and the manifold's quiet hum and the lamp's small steady light, and he set the registering down where he had set the things he set down at the end of a day, on the shelf, beside the broadsheet, beside the two letters, beside the half-beat at his sister's cup that he had not, since Twelfth-day, lifted the cloth off of.
 
-The shelf was getting full.
-
 Jora finished the lesson. She put the slate in the rack by the door. She nodded at the girl. The girl went out into the square with the small straight back of a person who had been, that evening, taught a thing she had wanted to learn.
 
 Jora turned. She saw Ash in the doorway.
@@ -848,7 +840,7 @@ Jora turned. She saw Ash in the doorway.
 
 "Long day."
 
-"Long day."
+"Long day. Yeah."
 
 "Building Four."
 
@@ -866,7 +858,7 @@ She nodded. She did not ask which seam. She did not ask whether Haran had said a
 
 "If we're still here."
 
-She said it lightly. She said it the way Reska had said *they won't come back,* which was the way Tesha said most things, which was the way Haran said most things. She had become, in eight weeks, the kind of person who said the hard thing the way the people around her said the hard thing.
+She said it lightly.
 
 "We'll be here," Ash said.
 
@@ -876,7 +868,7 @@ She went past him into the square. The shift was changing. The morning crew woul
 
 Ash stood in the doorway a minute longer.
 
-The cellar was quiet. The manifold hummed. The lamp on the workbench burned. The slate was in the rack by the door, the chalk marks still on it, the Wellspring's lines and Haran's lines and Tesha's lines and Reska's lines and Jora's lines, all of them, in the same hand now, because Jora had copied them, because Reska had copied them, because the new recruit had copied them tonight onto her own slate and would carry them out into the square and write them down, tomorrow, on a slate of her own.
+The cellar was quiet. The manifold hummed. The lamp on the workbench burned. The slate was in the rack by the door, the chalk marks still on it, the Wellspring's lines and Haran's lines and Tesha's lines and Reska's lines and Jora's lines, all of them, in the same hand now.
 
 He looked at the slate.
 
@@ -890,17 +882,11 @@ He did not sleep for a while.
 
 He thought of the speaker in Halver's Square. He thought of the woman in the thin coat. He thought of the two letters on the under-bench shelf and the broadsheet folded along the giver's fold, and he thought of Velden's flat eyes, and he thought of Othen saying *boy,* and he thought of Jora saying *the Wellspring says* in a voice that was patient and proud and entirely her own and entirely, at the same time, his.
 
-He did not, in the moment, name what he was thinking.
-
 He set it down.
 
 He slept.
 
-The reservoir sat. The wall held. The lamp in the workshop below burned, and the file moved across the brass, and somewhere at the far edge of the square an old woman crossed slowly with a covered pot, and the night, in Stonecurve, was the night the district had been having for two months now, the small ordinary night of a place that worked.
-
-The shelf in the back of the room he set things on was, by morning, fuller than it had ever been.
-
-He did not, by morning, lift the cloth.
+The reservoir sat. The wall held. The lamp in the workshop below burned, and the file moved across the brass, and somewhere at the far edge of the square an old woman crossed slowly with a covered pot.
 
 ---
 

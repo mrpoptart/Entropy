@@ -64,15 +64,15 @@ Ash set the bellows handle down.
 
 He set it down too fast and the rhythm broke, and Haran did not look up, and Ash put his hand on the handle again and brought it back to the rhythm, because the temperature was the temperature.
 
-"What does he say."
+"What does he say. I mean, sorry, what, "
 
 "He says he'd been waiting for the question."
 
-"The question."
+"The question. The one I, "
 
 "The one you wrote."
 
-"What does he say about it."
+"What does he say about it. I mean, beyond, yeah."
 
 Haran set Joren's letter on the bench. He smoothed it with the heel of his hand. He took up the bellows on the rhythm Ash had broken and brought it back inside two counts to the rhythm it had been, because Haran was a man who, when a rhythm broke, did not stop to mention that it had broken.
 
@@ -136,7 +136,7 @@ She was on her knees at the wall plate, with the cover off, and Mira was beside 
 
 She did not look up. She had the small driver in her hand and she was working a screw at the bottom of the plate, and the screw was being slow, and she was being slow with it, because Tesha had learned, in the autumn, that working a screw fast was the way a man stripped a screw, and she had stopped working screws fast.
 
-"Tell me," Ash said.
+"Tell me. I mean, sorry, when you can. Tell me."
 
 She finished the screw. She set it on the cloth at her knee. She sat back on her heels.
 
@@ -156,7 +156,7 @@ He waited.
 
 Tesha looked at the plate. Mira held the lamp closer. The man at the door, whose name Ash did not know, came two steps into the room with the basket and set the basket down where Tesha could reach it, and Tesha said, "Pell's brother," without looking up, which was the way Tesha introduced people in the south block now, which was as if a man had been there all along.
 
-"Pell's brother," Ash said.
+"Pell's brother. Right. Hi."
 
 "Yeh," the man said.
 
@@ -174,7 +174,7 @@ She unscrewed the lower terminal. She lifted the wire off. She drew the coil out
 
 "It's not the coil."
 
-"No."
+"No. Yeah. No, it isn't."
 
 She set the coil back in the slot. She put the wire back on the lower terminal. She tightened the screw, slowly. She sat back on her heels again.
 
@@ -210,7 +210,7 @@ She had a length of the wire in her hand that she had cut from the run between t
 
 "So it's the plate."
 
-"Mm."
+"Mm. Yeah. Has to be."
 
 She looked at the plate.
 
@@ -264,11 +264,11 @@ She did not, in the count, smile, because Tesha did not smile at this kind of th
 
 "Took us an afternoon," she said.
 
-"Yes."
+"Yes. Yeah, it did."
 
 "Would have taken you twenty minutes."
 
-"Yes."
+"Yes. I mean. Yeah."
 
 "And next time."
 
@@ -312,7 +312,7 @@ The element ticked. The coil began to warm. The plate, under their hands, came u
 
 "We'll know it next time."
 
-"Yes."
+"Yes. Yeah, you will."
 
 She stood up.
 
@@ -410,7 +410,7 @@ He did not, for a count, speak. Haran banked the forge. Haran set the bellows ha
 
 "South block," Haran said.
 
-"Mm."
+"Mm. Yeah. The heating row."
 
 "Heating element."
 
@@ -418,7 +418,7 @@ He did not, for a count, speak. Haran banked the forge. Haran set the bellows ha
 
 "They got it."
 
-"Tesha got it."
+"Tesha got it. I mean. She, yeah. She did."
 
 "Mm."
 
@@ -486,7 +486,7 @@ Haran nodded the small nod he nodded when he had taken in a thing.
 
 "I thought about it," he said.
 
-"And."
+"And. I mean. Yeah. And."
 
 "And I wasn't a man who had a lot to spend. I had what I had. The narrowing wasn't keeping. The narrowing was what let me get the rod up to working temperature in a forge that wouldn't bring it on the wide press. It was the bench. The bench was the point. The narrowing was for the bench."
 

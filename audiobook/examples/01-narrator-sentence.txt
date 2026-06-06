@@ -1,0 +1,5 @@
+---
+style: warm, conversational audiobook narrator; natural reading pace, not slow or ponderous
+voice: Aoede
+---
+Ash woke in the dark and lay still for a moment, listening to the house breathe around him.

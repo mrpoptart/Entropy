@@ -10,7 +10,7 @@ Ash set his coat on the hook. He did not say good morning. Haran did not turn.
 
 After a while Haran said, "Vesselton. And a place I haven't heard of. Reedmoss."
 
-"Gone dark."
+"Gone dark. I mean. Both of them, both, gone."
 
 "Last week. The runner came through Hallow Cross yesterday and waited for a southbound cart." He pushed the letter an inch toward Ash without turning. "Read it."
 
@@ -26,13 +26,13 @@ Ash put the letter back on the bench. He set the punch on the corner where it ha
 
 "Counting these. Eleven."
 
-"Since the new year."
+"Eleven. Eleven, that's. Sorry. That's, last month it was, we were at eight, weren't we, and the month before that, I'd been... yeah. Eleven."
 
 "Since the new year."
 
 Haran put his hand flat on the bench beside the letter. He did not move it for some time.
 
-"They almost made it," Ash said.
+"They almost, I mean, they had the wheel, didn't they, the wrap, the whole. They almost. Yeah," Ash said.
 
 "They almost made it."
 
@@ -52,7 +52,7 @@ He stood at the bench and looked at the letter without picking it up again. The 
 
 "Tea," Haran said, eventually.
 
-"I'll make it."
+"I'll do it, sit, the kettle's, I think there's still water in it from this morning, hang on."
 
 He made it.
 
@@ -82,7 +82,7 @@ She set her satchel down on the floor by the door, very carefully, as if the flo
 
 "I have a thing," she said. "It can wait."
 
-"Tell us."
+"Tell us. I mean, sorry, tell us, please."
 
 "It can wait, Ash."
 
@@ -96,7 +96,7 @@ Ash waited.
 
 "The block north of Six. They sent two men over last week to look at the heating in Building Six. I thought they were inspectors. They were not inspectors." Her mouth did the small quick thing it did when she was annoyed at herself. "They were men from Brackmoor. They went home and built it."
 
-"Built it how."
+"Built it how. I mean, sorry, what did they, "
 
 "Built it wrong."
 
@@ -248,8 +248,6 @@ Haran, at the bench, did not look up.
 
 "Are you all right."
 
-"Yes."
-
 She watched him a beat longer. He did not look away. She seemed to decide something and let it go.
 
 "It's not the line that worries me," she said.
@@ -340,7 +338,7 @@ He did not go in.
 
 He stood in the courtyard a little longer than he needed to and then he turned and went back the way he had come.
 
-On the walk home he passed the boy at the viaduct pump again. The boy was still working the handle wrong. The woman had gone. There was a different woman now, with a smaller jug, and the boy was still working the handle wrong, and the woman was waiting, and the water was coming up because the pump was a good pump and because someone had built it right.
+On the walk home he passed the boy at the viaduct pump again. The boy was still working the handle wrong. The woman had gone. There was a different woman now, with a smaller jug, and the boy was still working the handle wrong, and the woman was waiting.
 
 \* \* \*
 
@@ -382,7 +380,7 @@ Haran was sharpening a chisel.
 
 "From whom," he said, without looking up.
 
-"Dorenne."
+"Dorenne. I mean. The small seal, the, yeah. Dorenne."
 
 "Hm."
 
@@ -392,7 +390,7 @@ Ash sat on the stool by the door. He did not take the letter out again.
 
 "All of it."
 
-"What's left of it."
+"What's left of it. The supply contracts, the haul, the placement records, the, yeah. What's left."
 
 Haran turned the chisel over. "What's left of it is more than you have."
 
@@ -400,7 +398,7 @@ Haran turned the chisel over. "What's left of it is more than you have."
 
 "And."
 
-"I don't know."
+"I don't know. I mean. I don't, sorry, I don't know how to, "
 
 Haran set the chisel down.
 
@@ -418,7 +416,7 @@ Haran looked at him for a moment. Then he picked the chisel up again and went on
 
 Ash did not answer.
 
-He sat on the stool a while longer. Outside, the light had started to change. It was the long part of an April afternoon, the part that did not yet feel like evening but had stopped feeling like day. He watched the square of it on the floor. He watched it move, very slowly, toward the leg of the workbench.
+He sat on the stool a while longer.
 
 \* \* \*
 
@@ -524,9 +522,9 @@ There was something else there too. He could not name it. He tried, sitting at t
 
 A willingness.
 
-The willingness to keep building knowing it would not be enough. The willingness to become ordinary knowing the becoming would frighten him every day for the rest of his life. The willingness to set the work down at the end of the night and let other people pick it up in the morning, and to trust, without being able to verify, that the people in Six and the people in the hill country and Tesha in her makeshift back-room workshop with her hand-cut brass spacers would carry what he could not carry himself.
+The willingness to keep building knowing it would not be enough, to become ordinary knowing the becoming would frighten him every day for the rest of his life, to set the work down at the end of the night and trust that other people would carry what he could not.
 
-The fear was there. The willingness was there. They sat in him at the same time, and neither of them won, and he understood, sitting on the stool, that neither of them was going to win, and that this was the shape of the thing now.
+The fear was there. The willingness was there. They sat in him at the same time, and neither of them won.
 
 He put his hand on the spring assembly one more time.
 
@@ -542,7 +540,7 @@ Haran came back from the wash. He looked at Ash and did not ask. He went to the 
 
 "Don't sit here all night."
 
-"I won't."
+"I won't. I mean. I'll, yeah. I won't."
 
 Haran put on his coat. At the door he stopped. He did not turn around.
 
@@ -556,7 +554,7 @@ Haran put on his coat. At the door he stopped. He did not turn around.
 
 He went.
 
-Ash sat at the bench a few minutes more. Then he stood, and put on his coat, and put the letter from Dorenne back in the inside pocket. He looked at the bench once before he went. The lamp was out. The forge was banked. Tesha's spring assembly sat where he had left it, a small clumsy thing in the dim, waiting for the morning.
+Ash sat at the bench a few minutes more. Then he stood, and put on his coat, and put the letter from Dorenne back in the inside pocket. He looked at the bench once before he went. The lamp was out. The forge was banked. Tesha's spring assembly sat where he had left it.
 
 He locked the door behind him.
 
@@ -580,7 +578,7 @@ The chalk was fresh. It had not yet been smudged by a passing shoulder or a hand
 
 He stood in front of it.
 
-He did not have an answer. The city did not have an answer. The question was the right question and it was the question he had been carrying all day in the workshop and on the walk to Brackmoor and in the message from Dorenne and in Ryn's face at the door and in Haran's hand on the gear and in the rural letter weighted under the punch.
+He did not have an answer. The city did not have an answer.
 
 The wind moved along the wall.
 

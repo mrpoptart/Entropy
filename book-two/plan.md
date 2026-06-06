@@ -66,7 +66,7 @@ Ash meets Davan. Electric conversations — near-total agreement on diagnosis. F
 
 The proof-of-concept starts failing. Not dramatically — grindingly. Mechanical systems need maintenance skills people don't have yet. Ash reverts to fixing things himself, draining the reservoir faster than planned. The core lesson: he built the systems, but not the people. He's replaced one dependency with another.
 
-Maren's pool drops noticeably. She can't maintain her professional standards. She snaps at Ash during a family dinner — the first crack in the competence shell.
+Maren's pool drops noticeably. She can't maintain her professional standards. In the Ch11 kitchen, after clearing plates, when Ash sees her channeling stutter and says nothing, she breaks first: "Don't." (the "Don't" beat, per Ch11 outline) — the first crack in the competence shell.
 
 The Levelers gain genuine political power. Ash is caught between agreement with their goals and recognition that their methods won't build anything lasting. Dorenne wants him to oppose them. He refuses.
 
@@ -88,7 +88,7 @@ This retroactively illuminates Haran: the old man's decades of efficiency discip
 
 The unspoken conversation with Maren. The devastating, freeing reckoning with growing up on opposite sides of the gap. She admits the guilt. He admits the grief. They cry. Nothing external changes. Everything between them does.
 
-End of Book Two: the Levelers have peaked and begun fragmenting. Davan is cracking. The proof-of-concept district works imperfectly, humanly, without Ash at its center. ~15-20% of reservoir remains. He's shifted from "I must fix this" to "I must build something that works without me."
+End of Book Two: the Levelers have peaked and begun fragmenting. Davan is cracking. The proof-of-concept district works imperfectly, humanly, without Ash at its center. ~18% of reservoir remains (within the ~15-20% target band; Ch21 registers it as a felt-bottom, not a separate number). He's shifted from "I must fix this" to "I must build something that works without me."
 
 *(Full series-level plot: series-outline.md)*
 

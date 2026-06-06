@@ -19,7 +19,7 @@ echo "Building epub from ${#chapters[@]} chapters..."
 
 pandoc \
   --metadata-file="$BOOK_DIR/metadata.yaml" \
-  --epub-cover-image="$BOOK_DIR/Brightest_Fire_cover.png" \
+  --epub-cover-image="$BOOK_DIR/Brightest_Fire_cover.jpg" \
   --toc \
   --toc-depth=1 \
   -o "$OUTPUT" \

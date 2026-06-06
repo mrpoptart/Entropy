@@ -1,0 +1,6 @@
+.vscode/
+audiobook/out/
+audiobook/.key
+audiobook/.openai-key
+audiobook/images/
+*.wav

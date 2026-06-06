@@ -24,7 +24,7 @@ Haran did not look up from the bench. Haran was at the small clamp with a piece 
 
 "Mm."
 
-"I'll be back."
+"I'll head over. Should be back before noon, probably, depends what Tova's, yeah. Back before noon."
 
 "Mm."
 
@@ -48,7 +48,7 @@ She uncrossed them when she saw him. She did not, in the uncrossing, smile. She 
 
 "Pump," she said.
 
-"Show me."
+"Show me. I mean, yeah, show me."
 
 She turned. He followed her in.
 
@@ -68,13 +68,13 @@ The mechanism was in the cellar. He had built the mechanism in the second week o
 
 "On the floor."
 
-"Mm."
+"Mm. Okay. Mm."
 
 He crouched at the pump. He laid a hand on the housing. The brass was cold. The seal had not been a brass seal, in the building of it. It had been a fused boundary, channeled, a place where two materials had been made to behave, under his hand, as one material. He had done that on every joint in the western pump line because doing it had been faster than ordering gaskets from the harbor and faster than teaching the third building's crew how to set them.
 
 The faster had been, he registered now with the small particular pull of a man finding a thing he had already found and was finding again, the wrong faster.
 
-"Step back," he said.
+"Step back," he said. "Just, sorry, give me, give me the room."
 
 She stepped back.
 
@@ -84,7 +84,7 @@ He blew on the joint.
 
 Habit. The blowing did nothing. He had blown on hot solder as a child in his father's kitchen and the habit was the habit.
 
-"Try her."
+"Try her. Sorry, I mean, give her a crank."
 
 She came forward. She set her hand on the crank. She ran the count Jora had taught the morning crew, *one, two, three, prime,* and the prime took, and the water came up the tube, and the housing did not weep at the joint, and the pump cycled. Once. Twice. The third stroke set the manifold ticking.
 
@@ -102,7 +102,7 @@ She did not say it.
 
 She said: "Thank you."
 
-"Welcome."
+"Welcome. Yeah. Welcome."
 
 He went up the cellar stairs and out into the lane and back across the square the way he had come, and the square was the square, and Vell was off the basin and Reska was on with a younger woman Ash did not know by name, and the tap ran, and the boy who had fetched him was nowhere, and Ash walked back to the workshop with the small twenty-minute warmth of a thing fixed in his hand and, in his chest, a thing that was not warmth at all.
 
@@ -120,7 +120,7 @@ Haran was at the bench. The tin collar was in the clamp. The shears were down. H
 
 "Six," Haran said.
 
-"Twenty minutes."
+"Twenty minutes. The lower seal had let go and I, yeah. Twenty minutes."
 
 "Mm."
 
@@ -136,7 +136,7 @@ The flue in Block Three drew poorly on a Threeday.
 
 A woman on the second floor sent her daughter down with a note. The note was three lines. The note was not a note Ash needed to read twice. He read it once, at the bench, with Haran working tin in the corner of his eye, and he set it down.
 
-"Block Three," he said.
+"Block Three. Flue, sounds like. I'll go."
 
 "Mm."
 
@@ -152,7 +152,7 @@ Ema thanked him. He said welcome. He went down the back stair and across the squ
 
 He went into the workshop. Haran did not look up.
 
-"Three," Ash said.
+"Three. The cap above the second elbow, it, yeah. It rode."
 
 "Mm."
 
@@ -190,7 +190,7 @@ She held out the wrench.
 
 He did not take it.
 
-"Show me what you tried."
+"Show me what you tried. I mean, sorry, walk me through, yeah."
 
 She showed him.
 
@@ -214,7 +214,7 @@ She looked at him. She did not look at him with anger. The not-anger was, in the
 
 "I waited the hour."
 
-"I know."
+"I know. I know. Yeah."
 
 "Mm."
 
@@ -228,7 +228,7 @@ Reska did not climb down with him. He heard her, at the top of the ladder, set t
 
 He went into the workshop.
 
-"Cistern," he said.
+"Cistern. It was the seat, the, yeah. The cistern."
 
 "Mm."
 
@@ -350,7 +350,7 @@ He did not sleep that night.
 
 He lay on the bedroll with the dark windows the dark windows and the reservoir the reservoir and the small accounting in his head running and re-running. *I replaced the old dependency with a new dependency. The form is different. The structure is the same.*
 
-The sentence had the small clean shape of a sentence a person had been about to write for a month and had only, this evening, found the page for. He turned it over. He looked for the place where it was wrong. The place where it was wrong was not in the sentence. It was earlier. It was in the morning he had built the western pump in a morning instead of in a week.
+He turned it over. He looked for the place where it was wrong. The place where it was wrong was not in the sentence. It was earlier. It was in the morning he had built the western pump in a morning instead of in a week.
 
 He had built the system to work without channeling. He had built the system *with* channeling. The two sentences sounded, in the year, like the same sentence. They were not the same sentence. The first was the deliverable. The second was the method. The deliverable had been correct. The method had made the deliverable opaque to every person who lived with it.
 
@@ -378,7 +378,7 @@ He wound for the count of twenty.
 
 Ash held the cup.
 
-"I built it too well," Ash said.
+"I built it too well," Ash said. "I mean. That's, yeah. Too well."
 
 "Mm."
 
@@ -386,7 +386,7 @@ Ash held the cup.
 
 "You did."
 
-"Elegant. Efficient. Optimized."
+"Elegant. Efficient. Optimized. All the, yeah. All the things you don't say but, "
 
 "Mm."
 
@@ -470,7 +470,7 @@ He did not.
 
 He stood at the wall.
 
-It was, he registered with the small particular pull of a man finding the floor of a long fall, the hardest thing he had done since the earthquake. The earthquake had been a thing he had done with his body. This was a thing he had to not do with his body. The not-doing was, in his hand, an active not-doing. The hand wanted to move. He held it in the pocket. The pump cycled. The water came up. The water went into the basin. The basin was the basin.
+The hand wanted to move. He held it in the pocket. The pump cycled. The water came up. The water went into the basin. The basin was the basin.
 
 It worked.
 
@@ -498,7 +498,7 @@ He set the pencil down.
 
 "You're working."
 
-"I'm working."
+"I'm working. I mean, yeah, the cistern intake, the third joint, the crews said it was hard so I'm, "
 
 "Show me."
 
@@ -520,7 +520,7 @@ He walked Davan through the eight sheets. He walked him through the wing nut. He
 
 "It was holding."
 
-"It was holding because I held it."
+"It was holding because I held it. Which, yeah. That's the, that's the thing."
 
 "Mm."
 
@@ -548,7 +548,7 @@ Ash looked at him.
 
 He looked the way he had looked at the door at the fourth hour two weeks ago, which had been the look of a man trying to register whether the man at the door was the man at the door. Davan was the man at the door. The looking was not the looking it had been. The looking was the looking of a man who had, in the year, sat across a bench from another man for two hours and had said *it is not enough* to him aloud and had been heard.
 
-"I'll have you," Ash said.
+"I'll have you," Ash said. "Yeah. I'll, yeah. Come."
 
 * * *
 
@@ -704,7 +704,7 @@ He cut another piece. He ate it. He brushed crumbs from the bench into his palm 
 
 "I should go," he said.
 
-"Stay."
+"Stay. I mean, you don't have to, but, yeah, stay."
 
 He shook his head.
 
@@ -718,11 +718,11 @@ He stood the way he had stood the first night, slowly, with one hand on the benc
 
 "Thank you for the day."
 
-"Welcome."
+"Welcome. Yeah."
 
 "I'll be back."
 
-"Come back."
+"Come back. Please."
 
 At the door he stopped. He stopped with his hand on the frame. He did not, this time, turn and ask the question. He had asked the question two weeks ago. He had the answer he had gotten to the question two weeks ago. He did not, this evening, need to ask it again.
 
@@ -768,7 +768,7 @@ Ash looked at the back bench. Haran was, at the back bench, with his side to the
 
 "The two things don't cancel," Haran said.
 
-"No."
+"No. I mean. No. They don't."
 
 "Mm."
 
@@ -784,7 +784,7 @@ He thought: *I built a monument and called it a school.*
 
 He thought: *the school is the thing I am building now.*
 
-He did not, in the thinking, feel saved by the thought. He felt the thought the way a man felt the floor of a long fall, which was a feeling that was not the same as a soft landing and was also not the feeling of falling. He stood at the bench. His hand was on the bench. The lamp was on the bench. The pump in the square was warm. The dark windows of the canal quarter were dark, and Nessa was twenty-one, and the gap between the answer he was building and the answer she needed was a gap a wing nut and a flange and a bolted gasket would not, in this winter, close.
+He stood at the bench. His hand was on the bench. The lamp was on the bench. The pump in the square was warm. The dark windows of the canal quarter were dark, and Nessa was twenty-one, and the gap between the answer he was building and the answer she needed was a gap a wing nut and a flange and a bolted gasket would not, in this winter, close.
 
 He picked up the cups.
 
@@ -806,7 +806,7 @@ He thought about the sentence he had, in the meeting, said aloud to the crews.
 
 *I built it wrong.*
 
-The sentence sat the way *it is not enough* sat. The two sentences were, he registered, the same sentence at different scales. The first was the sentence about the year of the work he had done. The second was the sentence about the year of the work he had not done. The first was, by the meeting on the seventh hour, a sentence the crews had been allowed to hear. The second was a sentence he had said only once, to Davan, on a crate, with Haran winding wire eight feet away.
+The sentence sat the way *it is not enough* sat. The first was, by the meeting on the seventh hour, a sentence the crews had been allowed to hear. The second was a sentence he had said only once, to Davan, on a crate, with Haran winding wire eight feet away.
 
 He thought: *I will say the second one again.*
 
@@ -814,7 +814,7 @@ He thought: *not tonight.*
 
 He turned on the bedroll.
 
-The dark windows were dark. The pump was warm. The flange would weep in the first month, and the gasket would be replaced, and the replacement would take a person with a wrench an hour, and the hour would be the hour the work was supposed to take.
+The pump was warm. The flange would weep in the first month, and the gasket would be replaced, and the replacement would take a person with a wrench an hour, and the hour would be the hour the work was supposed to take.
 
 Below, in the workshop, Haran wound wire.
 

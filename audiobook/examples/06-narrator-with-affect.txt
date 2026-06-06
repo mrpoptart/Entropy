@@ -1,0 +1,27 @@
+---
+style: warm conversational audiobook narrator at natural reading pace. Bracketed cues like [deeper, resonant] or [bright, hedging] are performance directions for the next line of dialogue only; do not read the brackets aloud. Return to the warm narrator voice for all unbracketed narration.
+voice: Aoede
+---
+[deep, resonant, tired-warm, low register] "Morning," his father said.
+
+[bright, hedging, slightly anxious, fast] "The Orellen job?" Ash asked.
+
+[deep, resonant, tired-warm] "Full day. Maybe two. You?"
+
+[bright, hedging, talking too much] "Errand for Mum in the market district. Then I thought I'd stop by the Hall on the way back. They posted a notice about aide positions last week."
+
+His father's eyes came up from the cup. Just for a moment.
+
+[deep, resonant, careful, hopeful underneath] "That's the infrastructure office?"
+
+[bright, hedging, apologetic, talking to fill space] "Council annex, but same building. I won't get it, I mean, I basically never do, but, Haran says you don't stop knocking on doors just because no one's home, which is a very Haran way to phrase it but still."
+
+His father nodded, and drank his tea.
+
+[deep, resonant, gentle] "The porridge smells good."
+
+[bright, lighter now, small smile in the voice] "I put the last of the dried cherries in."
+
+[deep, dry, fond] "Your mother will have something to say about that."
+
+[bright, mock-resigned, comic timing] "She'll have something to say about anything. Might as well make it delicious."

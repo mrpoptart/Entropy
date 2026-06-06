@@ -6,11 +6,11 @@ Ash arrived at the district at the usual hour, just after sunrise, the air still
 
 Haran was in the doorway with his sleeves rolled, holding a measuring stick to the inside of the door frame.
 
-"You're moving in," Ash said.
+"Sorry, hi, I... what is this. The cart, the vise, the. You're moving in. You're moving in here," Ash said.
 
 "Hm." Haran moved the stick a hand's width down, made a mark with the pencil he kept behind his ear, and stepped back. "Bringing the bench. The lathe. The small forge."
 
-"Today."
+"Today, what, today, you're, "
 
 "Today and tomorrow." He looked up. The morning light caught the white at his temples, the lines around his eyes that had been there as long as Ash had known him, the same patient, unhurried face that had bent over a thousand workbenches. "The forge will take three trips. Floor's not level. You'll want to set wedges before you bring the lathe in, or it'll walk."
 
@@ -18,7 +18,7 @@ Haran was in the doorway with his sleeves rolled, holding a measuring stick to t
 
 "Mm."
 
-"You're moving."
+"You're moving. I mean. You're, this is, you're moving."
 
 Haran tucked the pencil back behind his ear. He looked at the doorway. Looked at the square, where the tap was running its thin, steady thread of water into the basin, and a woman with a bucket was waiting her turn behind a man whose own bucket was half full. He looked back at Ash.
 
@@ -32,15 +32,15 @@ Ash stood in the doorway for a moment, watching him hang a draw-knife on the thi
 
 "There's a back room," Haran said, without looking up. "Cot fits. Stove fits. Window's south."
 
-"You're sleeping here."
+"You're sleeping. Wait. You're, sorry, you're sleeping here."
 
 "For a while." He set the draw-knife level and stepped back. "Bench like this, you don't want to leave it overnight in a building you don't know."
 
-"You've slept in your shop in The Splits for forty years."
+"You've slept in your shop in The Splits for, what, forty years? Longer. Longer than that. I used to think the back room *was* your house, when I was small, which, sorry, that's not... I mean. Forty years, Haran."
 
 "And I know it." Haran turned and looked at him then, and the corner of his mouth did the thing it did when he was almost smiling. "So."
 
-"So," Ash said.
+"So, yeah. So," Ash said.
 
 He helped carry the lathe in after lunch. It took four of them, and a length of timber for a lever, and a great deal of grunting from the cousin or nephew, and when they had it set on the wedges Haran had cut for it, Haran put his hand flat on the casing and stood there for a moment with his eyes closed. Not channeling, as far as Ash could see. Just feeling for the level. He opened his eyes, made a quarter-turn adjustment with a wedge under the front-left foot, and said, "There."
 
@@ -84,7 +84,7 @@ She kept going for another minute, and then she let the crank ease to a halt at 
 
 "Faster than anyone." Her chin lifted half an inch. "I asked Haran. He said the rated fill on this size cylinder is nine and a half minutes for the catch and forty for the rooftop. I'm doing the catch in seven."
 
-"Seven."
+"Seven, that's, sorry, that's quick."
 
 "Seven and a quarter. He timed me on Tuesday." She glanced at the boy, who was unfolding his arms with the slow reluctance of someone who had been planning to argue and had lost the will. "He timed everyone."
 
@@ -104,13 +104,13 @@ Ash held back a smile. He nodded at the basin. "Catch is full."
 
 "I had bread."
 
-"Eat something else."
+"Eat something else, I mean, bread's, yeah, eat something else."
 
 She considered this with the seriousness of a small council. Then she nodded once, the way Haran nodded, which she had clearly picked up from Haran, and stepped down off the platform. She did not, Ash noticed, hand the crank back to Tomas. She left it where it was, at the top of its stroke, the way she'd been taught.
 
 Tomas climbed onto the platform after her. He took the handle. He pulled the upstroke too hard, and the cylinder coughed, and he set his jaw and started over, slower this time. Vell watched him from the edge of the basin. She didn't correct him. After a moment she looked over at Ash and said, with the same flat factual tone she had used about being fastest, "He'll get it."
 
-"He's getting it."
+"He's getting it. Yeah, he's, he's getting there."
 
 "By the end of the week."
 
@@ -192,7 +192,7 @@ Ash was on the rooftop of Building Five at the time, helping Tesha set the chimn
 
 "Valve seat," Tesha said. To Ash: "Probably the brass insert. They've been loosening on the older units."
 
-"Get Haran."
+"Get Haran. I mean, can you, sorry, yeah, get Haran."
 
 "I am Haran today," Tesha said, dryly, and was already going. "Or I'm trying to be." She had the particular cheerful grimness she had picked up over the last fortnight, the look of a person taking on more than she was certain she could do and making the choice on purpose. She climbed down the ladder. Ash watched her go, then climbed down himself, because if she was going to try to be Haran today, then he was going to watch.
 
@@ -286,7 +286,7 @@ She tried again. She braced harder. She turned the wrench with a slow even press
 
 She looked at Ash.
 
-He shook his head slightly, smiling. "Not me."
+He shook his head slightly, smiling. "Not me. Not, sorry, not yet."
 
 "Not you?"
 
@@ -294,7 +294,7 @@ He shook his head slightly, smiling. "Not me."
 
 "What other thing?"
 
-"I don't know yet. You're the one figuring it out."
+"I don't know yet. I mean, that's, you're the one figuring it out."
 
 She gave him a look that was three parts exasperation and one part the small grim pleasure of being trusted to do a thing alone, and then she went back to the housing. She tried the wrench again. She tried the wrench with the small mallet Haran had taught her to tap, very gently, on the wrench's handle, to break the static seal. She tried a longer wrench, which she sent Dael to fetch from the new workshop, and which gave her more leverage.
 
@@ -312,11 +312,11 @@ Tesha breathed out. She did not, Ash noticed, smile. She nodded, the small nod, 
 
 "It works," she said.
 
-"It works," Ash said.
+"It works, yeah. It works," Ash said.
 
 Dael, who had been holding the cylinder for the last forty minutes with the patient steadiness of a man who had figured out that holding the cylinder was, in fact, his job, said, "An hour."
 
-"An hour."
+"An hour, yeah."
 
 "He did the other one in seven minutes."
 
@@ -382,7 +382,7 @@ He closed the notebook over the pencil and slid it into his case.
 
 "I'll have a written report by tomorrow," Felden said. "The Director will read it the same day."
 
-"Tell her—"
+"Tell her..."
 
 Ash stopped. He had been about to say tell her it works. He had been about to say tell her the people are learning. He had been about to say several things, all of which were partly true and none of which would survive the walk back to the Hall intact.
 
@@ -414,7 +414,7 @@ Ash came into the new district workshop at the end of the afternoon, because the
 
 "It'll seat clean once the score's filed off." Haran did not look up. "Spare for the eastern run."
 
-"You don't trust the new ones."
+"You don't trust the new ones. I mean, that's, sorry, that's the thing, isn't it."
 
 "I trust them fine. I also trust a spare."
 
@@ -424,7 +424,7 @@ Ash sat on the stool at the corner of the bench. He watched Haran's hands. They 
 
 "Hm."
 
-"I told him the people here install it."
+"I told him the people here install it. Which... I mean, I said it, and it sounded right when I said it, and then the whole walk back I kept... yeah. Sorry. I told him the people here install it."
 
 Haran turned the brass insert. He moved the file along a fresh quarter of its circumference. He did not look up. He did not speak for a long enough moment that Ash, in the time before he had known Haran, would have begun to fill the silence.
 
@@ -436,7 +436,7 @@ He picked up a second insert. Fitted it into the vise. Looked at it a moment.
 
 "Gear with a missing tooth," he said. "You don't replace the whole mechanism. The next tooth carries what the missing one can't." He turned the insert under the file. "The tooth after that learns to carry a bit more than it used to."
 
-"That's not an answer to whether they're ready."
+"That's not... I mean, that's not an answer to whether they're ready."
 
 "No." Haran turned the brass another quarter. "It's an answer to a different question."
 
@@ -452,7 +452,7 @@ Ash watched him pick up the next insert.
 
 "Hm?"
 
-"Whether they're ready."
+"Whether they're ready. The, you know. The ready one."
 
 Haran fitted the new insert into the vise. He did not look up. "Ready for what."
 
@@ -466,7 +466,7 @@ A pause. The file moved over the brass, lifted a thread, moved again.
 
 "Mm." Haran lifted the file. He looked, at last, at Ash. The corner of his mouth did the thing. "So. Ready isn't a place. It's a direction. You ask Tesha if she's ready and she'll say no. You ask her to fix Building Six and she'll fix it. The fix won't be pretty. Building Six won't care."
 
-"Felden cared."
+"Felden cared. I mean, Felden was, yeah."
 
 "Felden was sent to care. That's different."
 
@@ -474,13 +474,13 @@ He set down the file. Quiet for a moment. He looked at the tray of cleaned inser
 
 "Whether anything works at all," Haran said. "Whether one district is possible. We know one district can work. What breaks on the second?"
 
-"And the other thirty-six."
+"And the other thirty-six. Right? I mean, that's, that's the, "
 
 "Are not your problem tonight."
 
 Ash looked at the brass in the vise. He looked at the file. He looked at Haran's hands.
 
-"I want to ask you something," he said.
+"Can I ask you something. Sorry. I keep thinking about... can I ask you something," he said.
 
 "Mm."
 
@@ -488,7 +488,7 @@ Ash looked at the brass in the vise. He looked at the file. He looked at Haran's
 
 "Mm."
 
-"You did something."
+"You did something. I mean. You, yeah."
 
 Haran turned the brass another quarter. "I had a wrench."
 
@@ -496,7 +496,7 @@ Haran turned the brass another quarter. "I had a wrench."
 
 "And a punch."
 
-"I know."
+"I know, I know, you had a punch, but, "
 
 Haran did not stop filing. He had heard the question. He had answered the part of the question he intended to answer. He was waiting, in his patient, infuriating way, to see whether Ash would push.
 
@@ -506,7 +506,7 @@ He did not push.
 
 "Soup," Haran said, into the silence. Not quite a question. "Pot's on the stove."
 
-"Yes. Please."
+"Yes. Please. Thank you, yeah."
 
 He went to the back room. He ladled soup into two bowls, the chipped one Haran had brought from The Splits and the new one Petra had sent over with the bench. He carried them both back to the bench. He set Haran's beside the file. He took his own to the stool. They ate without further talk, the way men eat together when they have already said the things that needed saying that day, and the small bright sounds of the file resumed when Haran had finished his bowl.
 
@@ -540,7 +540,7 @@ Vell saw him. She raised the piece of bread in greeting. She called, across the 
 
 "Tomorrow we're starting Building Seven."
 
-"Building Seven."
+"Building Seven, yeah, that's, that's the one with the, you know."
 
 "Tesha said." Her chin lifted half an inch. "I'm on the crank for the morning fill."
 
@@ -562,25 +562,25 @@ After a long time Haran said, without looking up, "So."
 
 "Vell's on the crank."
 
-"She would be."
+"She would be. Of course she would be, I mean."
 
 A pause. Haran turned the brass.
 
 "The brass is going slower," he said.
 
-"I am."
+"I am, yeah. I am. Sorry."
 
 "Sleep here."
 
-"I will."
+"I will. Thanks. Yeah."
 
 "There's bread in the box. Take it in the morning."
 
-"Yes."
+"Yes. Yes, I will."
 
 "And the cot," Haran said. "Mind the right leg. I shimmed it, but it walks if you sit on the edge."
 
-"I'll mind it."
+"I'll mind it. I will."
 
 "Mm."
 

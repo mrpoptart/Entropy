@@ -24,7 +24,7 @@ He picked up the gear he had been working on the day before. The teeth had a bur
 
 The bell at the door did not ring because Haran had not hung it back after the second hinge had given. Haran came in the way Haran came in, which was the way a man came into a room he had built, which was without announcement.
 
-"Read it."
+"Read it," Haran said.
 
 "Twice."
 
@@ -62,7 +62,7 @@ It was the question. It had been the question for a year. Ash filed the next too
 
 "Mm."
 
-"I know what I don't want to build."
+"I know what I don't want to build," Ash said.
 
 "That's a start."
 
@@ -88,15 +88,15 @@ He folded the note. He put it in his coat pocket. He went on filing.
 
 Haran said nothing. The not-saying was not a withholding. The not-saying was the thing Haran did when a man was walking toward a door and did not need company at the door. Ash filed the third tooth and the fourth. He filed until the fourth hour. He cleaned the bench. He put the file away. He took his coat down from the peg.
 
-"Ash."
+"Ash," Haran said.
 
 "Mm."
 
-"Whatever she asks for."
+"Whatever she asks for," Haran said.
 
 "Yes."
 
-"Don't decide in the room. Decide on the stair after."
+"Don't decide in the room," Haran said. "Decide on the stair after."
 
 "All right."
 
@@ -116,7 +116,7 @@ Felden was at his desk.
 
 Felden stood, which was the thing Felden had not done before the Wellspring and had done every time since, and which Ash had stopped trying to wave off because the waving-off had been the thing Felden could not accept.
 
-"Sir."
+"Sir," Felden said.
 
 "Felden."
 
@@ -136,7 +136,7 @@ Dorenne was at her desk.
 
 She was at her desk and she was at it the way she had always been at it, which was at the angle that allowed her to see the door and the survey and the side-table at once and that gave the person crossing the room three steps in which to decide how he was going to stand when he stopped. The lamp was lit. The lamp was lit at the fourth hour because the window had gone grey and because Dorenne did not work without a lamp, ever, the way a foreman did not work without a level.
 
-"Ash."
+"Ash," Dorenne said.
 
 "Director."
 
@@ -154,7 +154,7 @@ He sat.
 
 She did not sit immediately. She crossed to the side-table and poured two cups from the pot that was always on the side-table at the fourth hour because Tessaly kept it filled, and she brought the cups to the desk and set one at his elbow and the other at hers, and then she sat. The cup at his elbow was the cup she remembered he took. Black, no honey. The temperature was the temperature a person took a cup at when the person did not want to feel the cup. The care was the affection. He had forgotten how exactly she did it. He had not forgotten that she did.
 
-"You read the ordinance."
+"You read the ordinance," Dorenne said.
 
 "This morning."
 
@@ -202,7 +202,7 @@ He set it down at the place his cup had gone down at every visit before the brea
 
 "I can't."
 
-"Ash."
+"Ash," Dorenne said.
 
 "I can't, Dorenne."
 
@@ -218,7 +218,7 @@ He thought of the broadsheet on the bench. He thought of the ordinance, modest, 
 
 "It is to them."
 
-"The mechanism is the issue."
+"The mechanism is the issue," Dorenne said.
 
 "The mechanism is the lattice, to them. The mechanism is the thing that has, for forty years, decided whose floor was warm in February. You're asking me to defend the mechanism because the mechanism is what you've built. I understand why. I'm not, I'm not arguing that you're wrong about what breaks. I'm telling you that I cannot be the mouth that says it."
 
@@ -236,7 +236,7 @@ He felt it land. He did not move. He looked at the cup at her elbow, at the smal
 
 "That's what's happening."
 
-"That's what's happening from where you're sitting."
+"That's what's happening from where you're sitting," Ash said.
 
 "It's what's happening, Ash. The framework will fail by the equinox if the contribution becomes unpredictable. The bath-houses will close in February. The hospital circuit will stagger. The south escarpment reinforcement will not be finished before the spring rains. People will be cold and people will be sick and people will be standing under stone that has not been reinforced. I am not asking you to defend my career. I am asking you to defend a lattice that holds people up."
 
@@ -250,7 +250,7 @@ He stood.
 
 He had not asked permission to stand and she had not given it and the standing was, in this room, in this office, the thing that had not happened in his eight months at the desk outside this door. He saw her see it. She did not name it.
 
-"Director."
+"Director," Ash said.
 
 "Ash."
 
@@ -266,7 +266,7 @@ He went to the door.
 
 At the door he turned. She was at the desk. She had not moved. The lamp had not moved. The survey had not moved. He saw, at the corner of his eye, that her hand had finally gone to the pencil, and was resting on it, and was not lifting it.
 
-"Dorenne."
+"Dorenne," he said.
 
 "Mm."
 
@@ -316,7 +316,7 @@ A woman beside him at the wall said, to the man with her:
 
 "Mm."
 
-"They had the bath-house feed before the ordinance. Now they're on the list."
+"They had the bath-house feed before the ordinance," the woman said. "Now they're on the list."
 
 "Mm."
 
@@ -326,7 +326,7 @@ The man did not say good. The man said *Mm.* The woman said it again, *good,* in
 
 He stood at the wall a minute longer.
 
-He did not say anything to the wall. There was nothing to say to the wall. The list was the list. The press had set it. The wall had taken it. The square had walked past it, and one of the people walking past had said *good,* and *good* was a word now that meant something it had not meant a year ago, and he could feel the shape of the new meaning in the air the way he could feel a draw in a room.
+He did not say anything to the wall. There was nothing to say to the wall. The list was the list. The press had set it. The wall had taken it. The square had walked past it, and one of the people walking past had said good.
 
 He went on.
 
@@ -336,7 +336,7 @@ He walked past.
 
 A woman at a stall pulled a bolt of cloth aside and pointed at the wall.
 
-"Did you see Branner is on it."
+"Did you see Branner is on it," the woman said.
 
 "I saw."
 
@@ -344,7 +344,7 @@ A woman at a stall pulled a bolt of cloth aside and pointed at the wall.
 
 "I know."
 
-"He warmed our wall, the second winter."
+"He warmed our wall, the second winter," the woman said.
 
 "I know."
 
@@ -353,8 +353,6 @@ A woman at a stall pulled a bolt of cloth aside and pointed at the wall.
 "I know, Mira."
 
 Ash kept walking.
-
-He did not know if Branner had warmed the wall in the second winter or had refused to. He did not know if the woman was glad or sorry. He did not know if her *I know* was the *I know* of agreement or the *I know* of a person who had heard the same sentence too many times. He had walked four corners and the city had rearranged its vocabulary around him without consulting him, and he had nothing to put in his mouth that would not taste of the rearrangement.
 
 He went home by the canal.
 
@@ -370,7 +368,7 @@ He had not expected the room to be full at the fifth hour on a Wednesday, and th
 
 She looked up. She did not stand.
 
-"He's in the back."
+"He's in the back," Liss said.
 
 "Thanks."
 
@@ -394,7 +392,7 @@ Davan was in a coat Ash had not seen him wear before, a heavier coat, plain, the
 
 "Davan."
 
-"Come back."
+"Come back," Davan said.
 
 The back room had been a storeroom. It was now a small office. There was a desk. There was a chair behind the desk and a chair in front of the desk and a third chair against the wall. There were three crates of broadsheets at the wall, bound in twine, addressed in a clean hand to wards Ash recognized. There was a pot of tea on a small iron plate that ran on a wick, not a draw. He noted the wick. He noted the not-draw.
 
@@ -410,7 +408,7 @@ He sat behind it like a man who was conscious of sitting behind it and was makin
 
 "He said it would hold."
 
-"It will hold. The lawyers were good."
+"It will hold," Davan said. "The lawyers were good."
 
 "He said they'll come for the upper threshold next year."
 
@@ -434,13 +432,13 @@ Ash registered the calendar. He took the chair.
 
 "Which list."
 
-"The Sixth Ward."
+"The Sixth Ward," Ash said.
 
 "Ah."
 
 "Davan."
 
-"Say it."
+"Say it," Davan said.
 
 "Names. Addresses. Pool estimates that aren't from anywhere. Boys at the corner of Halver's Square calling *hoarder rolls* like it's a price. A woman at a cloth stall pointing at the wall and saying *Branner.*"
 
@@ -460,7 +458,7 @@ Ash registered the calendar. He took the chair.
 
 "That's coercion."
 
-"Is it."
+"Is it," Davan said.
 
 "It's coercion."
 
@@ -478,7 +476,7 @@ Davan watched him. Davan did not press. Davan let the silence do the thing the s
 
 "I don't know," Ash said.
 
-"You don't know where the line is."
+"You don't know where the line is," Davan said.
 
 "I don't."
 
@@ -506,7 +504,7 @@ Ash watched it do its work. He had walked here from the canal with the sentence 
 
 "I know."
 
-"I'm not asking you to join us."
+"I'm not asking you to join us," Davan said.
 
 "I know."
 
@@ -528,7 +526,7 @@ He did not ask how Davan knew. Davan knew. The Open Hand had an ear at the Hall.
 
 The *good* did not land like the *good* at the wall in Halver's Square. It landed as the small precise thing Davan meant, which was the acknowledgment of a refusal and not a celebration of it. But it landed in the same shape. Ash heard the shape. He did not say so.
 
-"I should go."
+"I should go," Ash said.
 
 "Korel will walk you down."
 
@@ -548,7 +546,7 @@ At the door he turned. Davan had not stood. Davan was at the desk with his hands
 
 "What about her."
 
-"You told me about her at the bench. The one who isn't going to be a healer."
+"You told me about her at the bench," Ash said. "The one who isn't going to be a healer."
 
 "Yes."
 
@@ -558,7 +556,7 @@ Davan looked at him.
 
 "No."
 
-"Will she be."
+"Will she be," Ash said.
 
 A pause.
 
@@ -616,7 +614,7 @@ She said, without looking up:
 
 He set the gear down.
 
-"Pell's wife."
+"Pell's wife," Ash said.
 
 "Branner's daughter. She's on it."
 
@@ -624,7 +622,7 @@ He set the gear down.
 
 "Mm."
 
-"How."
+"How," Ash said.
 
 "They're estimating off the household. Branner is the elder. They list the household. The household is on the list."
 
@@ -634,7 +632,7 @@ He set the gear down.
 
 He sat down at the bench. Tesha did not look up. She was working the seal off the pump-head with the small wooden pick Haran kept for the seals because metal scratched the seat. She worked it carefully. She worked it the way a person worked a thing she had worked twenty times, which she had, and the carefulness was not the carefulness of a beginner, it was the carefulness of a person who had learned that the seal seat was the thing that decided whether the next pump would last a year or a week.
 
-"Tesha."
+"Tesha," Ash said.
 
 "Mm."
 
@@ -670,7 +668,7 @@ She picked the pick up. She did not use it. She held it.
 
 He was quiet.
 
-"Tesha."
+"Tesha," Ash said.
 
 "Mm."
 
@@ -678,7 +676,7 @@ He was quiet.
 
 She set the pick down. She turned on the stool to face him. She had a small smear of pump-grease at the corner of her jaw she did not know was there. He did not tell her.
 
-"Why can't we do both?"
+"Why can't we do both?" she said.
 
 He did not answer right away.
 
@@ -724,7 +722,7 @@ She had a smear of grease at her jaw. She had the pump-head open in the clamp an
 
 "I'll work on it."
 
-"Take your time."
+"Take your time," Tesha said.
 
 "I will."
 
@@ -758,14 +756,12 @@ He thought about the question.
 
 *Why can't we do both.*
 
-He did not have the answer. He had the shape of the question, and the shape was a shape he had not held before, and the shape was not the shape of the answer he had walked into the workshop with, and the shape was not the shape of any answer he had been given in any room today. The shape was Tesha's, and Tesha had handed it across the way Maren had handed the plate across in the kitchen, and the handing-across was the thing.
-
 He set the bread down.
 
 He picked up the file. He picked up the gear. He set the gear in the small clamp at the corner of the bench. He looked at the next tooth and at the angle the eye did not want, and then at the angle the eye did not want from the other side, and he filed.
 
 Tesha, at her bench, worked the seal seat clean.
 
-The lamp by the door burned down a quarter and Sun came in to trim it without speaking and went out, and the workshop was the workshop, and the curve outside the window was the curve, and the city beyond the curve had, in one day, written a law and printed a list and asked a Wellspring to oppose it and a leader to defend it and a worker to choose, and the Wellspring had said no twice and had not said yes once, and the worker had said *both,* and the worker was at her bench, and the Wellspring was at his, and the file was the file, and the gear was the gear, and the tooth came clean.
+The lamp by the door burned down a quarter and Sun came in to trim it without speaking and went out, and the file was the file, and the gear was the gear, and the tooth came clean.
 
 He filed the next.

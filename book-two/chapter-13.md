@@ -388,7 +388,7 @@ It was working.
 
 It was also Sera in her sister's bed.
 
-Both were true. Both stayed true the rest of the climb. He did not fix them. He did not put one above the other. He carried them up the curve, one in each pocket with his hands, and the carrying was the climb, and the climb was the carrying, and the two things did not become one thing.
+Both were true.
 
 * * *
 
@@ -407,10 +407,6 @@ It was working.
 It would work in ten years. The seal would have been replaced four times by then, and Branner would have taught his daughter to replace it, and his daughter would have taught the boy in the next building, and the pump in the yard would still be the pump in the yard, and the rhythm at the handle would still be the rhythm, and the water would still come up at eighty percent, and the cistern would still fill, and the building would still drink.
 
 It was also Branner working the handle in the late afternoon, alone, with a daughter on a list, and a Leveler grid two streets away running warm through brass vents that a child could press his bare feet against, and a woman at a stone basin whose hands were warm because a girl Sera's grandniece's age was sitting on a stool with her palm on a cap, and the girl was easing, not pushing, and the easing was working too, and the easing was working now, and the pump was working in ten years.
-
-Both true.
-
-Both insufficient.
 
 He stood at the gate.
 
@@ -474,10 +470,6 @@ She worked the seat. The pick made the small dry sound the pick made when the se
 
 He sat. He put his hands flat on the bench. He looked at his hands. The cut at the base of the thumb had closed. The line of black was gone. The hands were the hands.
 
-*Both true.*
-
-He did not say it. He did not need to. The thinking of it was the thing the thinking was, and the thing went down into him and sat down where the not-channeling sat, and the two of them sat together, not arguing, not resolving, the way two things sat when a man had walked them up a long curve at the end of a long day and had not yet been given the room to set them down.
-
 He picked up the file.
 
 He picked up the gear. He set it in the small clamp at the corner of the bench.
@@ -496,7 +488,4 @@ The burr came off.
 
 He did not have an answer.
 
-He had the shape of two things that were both true, and he had carried them up the curve, and they were still both true, and they were on the bench now next to the gear, and they did not become one thing, and they were not going to become one thing tonight, and the not-becoming was, he understood, the work.
-
 He filed the fourth.
-- **Word count:** ~6,900.

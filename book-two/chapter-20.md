@@ -138,7 +138,7 @@ She saw him see it.
 
 The thing in her face moved.
 
-It was not anything he could have named. Not a flinch. Not a wince. The smallest collapse of a structure that had been held in place so long that he had stopped being able to see it until it dropped a fraction of an inch and he saw, in its absence, what it had been.
+It was not anything he could have named. Not a flinch. Not a wince. A small collapse.
 
 Her mouth opened. Her mouth closed.
 
@@ -390,7 +390,7 @@ It was the *right* that closed conversations. He had heard her use it at family 
 
 * * *
 
-The light had moved across the table while they talked. It had been on the saucer when he sat down. Now it was on the back of his hand. The slat of sun from the kitchen window was the same slat that had crossed this table every spring afternoon of his childhood, at the same hour, and would do it again tomorrow. The sun did not know anything had happened. The sun went on.
+The light had moved across the table while they talked. It had been on the saucer when he sat down. Now it was on the back of his hand. The slat of sun from the kitchen window was the same slat that had crossed this table every spring afternoon of his childhood, at the same hour, and would do it again tomorrow.
 
 "I'm going to lose it," she said.
 
@@ -510,7 +510,7 @@ Leska came in and stopped at the doorway, the bag still on her arm, and she look
 
 "I'll help," said Ash.
 
-He stood up. He moved his cup to the sink. He picked up Maren's cup and moved it too. She got the bowls down from the second shelf without comment. He got the spoons. The kitchen, which had been the kitchen of one conversation for two hours, became the kitchen of dinner, and the change happened without anybody saying anything, the way light changed in a room when the sun moved across a window, and he watched it happen, and Maren, on the other side of the small space, watched him watch it.
+He stood up. He moved his cup to the sink. He picked up Maren's cup and moved it too. She got the bowls down from the second shelf without comment. He got the spoons. The kitchen, which had been the kitchen of one conversation for two hours, became the kitchen of dinner, and the change happened without anybody saying anything, and he watched it happen, and Maren, on the other side of the small space, watched him watch it.
 
 She did not smile.
 

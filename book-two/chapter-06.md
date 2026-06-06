@@ -644,7 +644,7 @@ He filed it.
 
 He filed it under *Maren's working too hard.* He filed it under *the long hours, the late client, the dust on her boots.* He filed it under everything the day had shown him about a sister who had walked the district at his side and had asked good questions and had been, in her assessments, generous. He filed it under the thinness at her wrist and the discipline-mask that had come down at the pump and gone back up.
 
-He filed it because the file had a drawer for it. He filed it because the other drawer was not one he was prepared to open.
+He filed it because the file had a drawer for it.
 
 "Tell me about scaling," Maren said. "If this works in Stonecurve. What's the next district."
 
@@ -680,8 +680,6 @@ She drank her tea.
 
 She said it with the smile she used for clients. She said it for him, the way she had said things for him for twenty-six years, the older sister who had taken his fights at school and his first drink at sixteen and his magicless test result and his Wellspring and now this, his third reinvention, with the same generous decisive yes she had given to all of them.
 
-She said it because she loved him and because she could see he was tired and because she wanted him to keep going. She said it and he heard it as a gift and he took it as a gift, and he did not, for the second time in an hour, look closer.
-
 Haran's file moved across the bench. Even strokes.
 
 * * *
@@ -712,7 +710,7 @@ She stepped back.
 
 She turned. She climbed.
 
-He watched her up the first flight. The brisk step was still brisk. The coat hung from her shoulders the way a coat hung from a hanger, and the hanger was thinner than the coat had been cut for, and the second-flight landing took her around the corner and out of his sight before he had finished the thought.
+He watched her up the first flight. The brisk step was still brisk. The second-flight landing took her around the corner and out of his sight before he had finished the thought.
 
 He stood at the lower stair a minute.
 
@@ -722,7 +720,7 @@ He thought *I'll tell her to eat. Mother will tell her to eat. Mother will feed 
 
 He thought *the half-beat at the cup.*
 
-He set the half-beat down. He set it on a shelf in the back of the room and he put a cloth over it and he walked away from the shelf, the way a man walks away from a thing he has decided not to look at on a day that has had enough looking in it.
+He set the half-beat down. He set it on a shelf in the back of the room and he put a cloth over it and he walked away from the shelf.
 
 He turned back into Stonecurve.
 
@@ -798,7 +796,7 @@ Haran lifted his head. He looked at Ash over the rim of his glasses. The corner 
 
 He went back to the file.
 
-Ash sat on the crate by the door and watched the lamp until the workshop window, from outside, would have looked the way it had looked from the lower stair, lit, steady, a small warmth in the dusk holding what it had been built to hold.
+Ash sat on the crate by the door and watched the lamp.
 
 The reservoir sat. The wall held. He did not, that evening, reach for either.
 
@@ -806,7 +804,7 @@ Outside in the square a child laughed once and was hushed. The old woman with th
 
 He went up to the small room above the shop. He lay down. He did not sleep, for a while. He listened to the file moving in the shop below, even strokes, the sound of an old man working a piece of brass into the shape it would need to be by morning.
 
-He thought about Vell's mother. He had not asked his mother's question. He had not asked it of Vell, either, in the day his sister had been in the district. He set the question on the same shelf where he had set the half-beat at the cup, and the shelf, when he set it down, was fuller than it had been that morning.
+He thought about Vell's mother. He had not asked his mother's question. He had not asked it of Vell, either, in the day his sister had been in the district. He set the question on the same shelf where he had set the half-beat at the cup.
 
 He slept.
 

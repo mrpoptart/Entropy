@@ -18,15 +18,15 @@ Then he said, "Ardenmere."
 
 Ash had set the cup down. He did not remember setting the cup down. The cup was on the bench beside him, and his hand was at his side, and the warmth in his palm from the kettle was the warmth in his palm, and Haran had said a word that was a place.
 
-"Ardenmere," Ash said.
+"Ardenmere. That's, sorry, that's the, that's out past the rye country, isn't it. Ardenmere."
 
 "Three days' ride. South and east. Out past the rye country."
 
-"Yes."
+"Yes. Yeah. I, I know it."
 
 "Gone."
 
-"Gone."
+"Gone. I mean. Gone, as in, gone what."
 
 "That's the word he uses." Haran tapped the page with the back of two fingers, twice, as if testing whether the page was still there. "Tomas. Tinkerer out that way. Has been writing me twenty years. He's not a man who uses a word that isn't the word."
 
@@ -36,11 +36,11 @@ Haran looked at the page.
 
 "Pools too weak for the irrigation. Crops in the second field went in three days. Healing house can't hold a working. Crystals silent four days. Heating mains in the town quarter cold. Mill won't take a channel. Bakery on the square went to wood and the wood is wet. He says they have a week of grain in the public store and after the week he doesn't know."
 
-"How."
+"How. I mean, how, sorry, how at once. How."
 
 "All at once."
 
-"How."
+"How. How does a, how does a whole, "
 
 "That's the question." Haran set the page down. He smoothed it with the heel of his hand the way he smoothed a thing he did not want to touch any more than he had to. "He says the elders aged. He says the young aren't strong enough. He says the pools have been shallowing for years and they didn't, "
 
@@ -62,7 +62,7 @@ Haran did not look up. He took a clean cloth from the shelf and folded it and la
 
 "Mm."
 
-"Three days. I can be there in two if I, "
+"Three days. I can be there in two if I..."
 
 "Mm."
 
@@ -90,7 +90,7 @@ He turned to the stove. He took the kettle off the ring with the cloth at the ha
 
 "And then what."
 
-"And then I, "
+"And then I..."
 
 "And then what, Ash."
 
@@ -104,7 +104,7 @@ He stood with the cloth in his hand a count, and the cloth was the cloth, and th
 
 "It's a real question."
 
-"Yes."
+"Yes. Yeah. I know."
 
 Haran turned back to the bench. He lifted the cloth off the page. He looked at the page again.
 
@@ -188,7 +188,7 @@ Ash read it.
 
 He read it standing, with his hand on the bench at the edge of the page, and he did not, when he was done, pick up the next letter.
 
-"Three degrees," he said.
+"Three degrees. That's, sorry, that's, "
 
 "Mm."
 
@@ -200,7 +200,7 @@ He read it standing, with his hand on the bench at the edge of the page, and he 
 
 "Forty. Give or take."
 
-"And they're wrapping them."
+"And they're wrapping them. I mean, they've been, yeah."
 
 "Two so far. They'll do the meeting hall this year. They'll do the rest as the linen comes."
 
@@ -470,7 +470,7 @@ He let the bellows up. He took the rod out of the coals with the tongs and laid 
 
 "Mm."
 
-"Maren wrote."
+"Maren wrote. She had the list, the, from the Hall."
 
 "Mm."
 
@@ -492,7 +492,7 @@ Haran set the rod back in the coals. He took up the bellows again and started th
 
 "No."
 
-"I don't know what I'm going to do."
+"I don't know what I'm going to do. I mean. I'm not, sorry, I don't, "
 
 Haran worked the bellows.
 
@@ -500,7 +500,7 @@ He worked them through three counts of the slow rhythm before he answered, and t
 
 "Write to Joren," Haran said.
 
-"Joren."
+"Joren. Right, the, the wrap, the, "
 
 "Shen Pass. The wrap. You read Iren's letter. You'll have a question for Joren if you sit with the letter. Write it. I'll send it with the next post."
 
@@ -522,7 +522,7 @@ Haran worked the bellows. He held the temperature. He looked at the rod in the c
 
 "Write to him. Ask him a question. The question doesn't have to be the right question. The question has to be a real one. He'll write back."
 
-"And then."
+"And then. And then I, "
 
 "And then there's a letter on the bench. And then there's another. And then there are forty. And then there's a winter where you've thought, with Joren, about what the wool batt does that the linen doesn't, and you've thought, with Curran, about why the second mast cracks at the step, and you've thought, with Beska, about why the wheel held the spring planting and won't, on its own, hold the autumn one. And then it's a year from now and you've not been to Ardenmere, and Ardenmere is what Ardenmere is, and the rest of the country is, in some places, not Ardenmere, and the not-Ardenmere is the thing you have been part of, and is not the thing you have done."
 

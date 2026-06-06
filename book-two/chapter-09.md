@@ -10,13 +10,13 @@ Ash read it twice.
 
 He set it on the bench beside the file. He looked at Haran. Haran was at the stove. Haran did not turn.
 
-"He wrote."
+"He wrote. I mean. Davan, he, he wrote."
 
 "Mm."
 
-"Fourth-day."
+"Fourth-day. Day after, I mean, that's, "
 
-"Day after tomorrow."
+"Day after tomorrow," Haran said.
 
 "Mm."
 
@@ -36,7 +36,7 @@ He folded the answer.
 
 Haran came back from the square.
 
-"Tell the boy to take it," Ash said.
+"Tell the boy to take it," Ash said. "If, sorry, if he's, yeah. Tell the boy."
 
 "Mm."
 
@@ -66,11 +66,11 @@ She came to the basin.
 
 "Reska said you said someone's coming."
 
-"Three someones."
+"Three someones. The, yeah. Davan and two with him."
 
 She nodded.
 
-"At the fourth?"
+"At the fourth?" Vell said.
 
 "At the fourth."
 
@@ -80,7 +80,7 @@ She looked at the tap. She did not look at him.
 
 "I'll be on the pump," she said.
 
-"You don't have to be."
+"You don't have to be. I mean, sorry, you don't, "
 
 "I'll be on the pump."
 
@@ -94,7 +94,7 @@ Haran was at the bench. Haran had the file in his hand. Haran had, since the mor
 
 "Mm."
 
-"I told her she didn't have to."
+"I told her she didn't have to. I mean, she, yeah, she wants to be."
 
 "Mm."
 
@@ -110,11 +110,11 @@ The brass shaving curled and dropped to the bench. Haran swept it, with the side
 
 "Three of them," Haran said.
 
-"Three."
+"Three. Yeah."
 
 "Two organizers with him."
 
-"Yes."
+"Yes. Korel and a woman, Liss, I think. He said Liss."
 
 "Mm."
 
@@ -122,7 +122,7 @@ Haran filed. He did not look up. The file moved the way the file moved when Hara
 
 "You'll want the back bench clear," Haran said.
 
-"I'll clear it."
+"I'll clear it. Yeah, I'll, sorry, I'll do that now."
 
 "Mm."
 
@@ -130,7 +130,7 @@ Ash cleared the back bench. The back bench had, in the year, become the bench he
 
 "Tea," Haran said.
 
-"At the fourth."
+"At the fourth. Yeah, I'll, I'll put the kettle on when they're, when I see them in the square."
 
 "Mm."
 
@@ -190,7 +190,7 @@ Haran turned back to the bench. He did not pour. He picked up the file.
 
 Liss looked at Ash. She had registered, Ash registered, that the tea was an offer and a not-offer at once, and she had filed the registering somewhere her face did not show.
 
-"I thought," Ash said, "we'd start at the basin."
+"I thought," Ash said, "we'd start at the basin. I mean, if, if that's, yeah. The basin's where the work is."
 
 "The basin," Davan said.
 
@@ -220,7 +220,7 @@ Davan looked at the pump.
 
 "From the second feeder. The cistern itself is above us, two streets up, but we tapped the second feeder because the second feeder runs through the wall here and the head is right."
 
-"What's the lift?"
+"What's the lift?" Davan said.
 
 "Twenty-two feet to the basin level. Twenty-six to the upper flats."
 
@@ -234,7 +234,7 @@ Ash registered the question. The question was the third question. It was the que
 
 "Forty strokes a minute, sustained. Sixty for a short pull."
 
-"So a hundred pints a minute on long crank."
+"So a hundred pints a minute on long crank," Davan said.
 
 "A hundred."
 
@@ -330,7 +330,7 @@ Davan crouched.
 
 He crouched at the base of the riser and put his hand against the wrap and held it there for the count of five. He took his hand away. He looked at the wrap. He looked at the joint where the wrap met the wall. He looked at the small pin Jora had set into the wall to hold the wrap's bottom edge.
 
-"Who wrapped it?"
+"Who wrapped it?" Davan said.
 
 "Jora."
 
@@ -346,7 +346,7 @@ He crouched at the base of the riser and put his hand against the wrap and held 
 
 "The harbor."
 
-"Old stock?"
+"Old stock?" Davan said.
 
 "Yes."
 
@@ -382,7 +382,7 @@ Davan stood. He brushed his palm against his coat. He walked along the hall and 
 
 "For the building."
 
-"And the building holds heat."
+"And the building holds heat," Davan said.
 
 "It holds it. The wrap and the new flue and the eastern wall reseal are the three pieces."
 
@@ -448,7 +448,7 @@ It came out before he had decided.
 
 Haran looked at him.
 
-"Stay," Ash said. "You can work."
+"Stay," Ash said. "You can work. I mean. Stay."
 
 "Mm."
 
@@ -502,9 +502,9 @@ The next thing was, in every case, the thing the answer had not yet covered.
 
 He drank tea.
 
-"You've been running the math."
+"You've been running the math," Davan said.
 
-"I've been running it."
+"I've been running it. Yeah. For a while now."
 
 "And the answer is not eight months at one tenth."
 
@@ -514,9 +514,9 @@ He drank tea.
 
 "Nobody."
 
-"Dorenne."
+"Dorenne," Davan said.
 
-"Dorenne hasn't said no. Dorenne hasn't said yes."
+"Dorenne hasn't said no. Dorenne hasn't said yes. She, I mean, that's her, that's how she answers a thing she hasn't decided."
 
 "Mm."
 
@@ -542,11 +542,11 @@ He told him about Aren, who had stayed three weeks and had said, in the third we
 
 "He's not wrong," Davan said.
 
-"He's not."
+"He's not. I mean. No. He's not."
 
 "You taught them how to operate. You did not teach them how the system was made."
 
-"I didn't."
+"I didn't. That's, yeah. That's the thing."
 
 "And now they don't know how the system was made."
 
@@ -564,7 +564,7 @@ Davan's story came in pieces.
 
 It came in pieces because Davan did not, in the way of a man who told his story to take the room, tell his story. It came in pieces because Ash asked. It came in pieces because the questions Ash asked were the questions a man asked who had spent a half-hour being asked very good questions and had begun, in the second half-hour, to ask them back.
 
-"Where are you from."
+"Where are you from," Ash said.
 
 "The mill quarter. South side. By the third bridge."
 
@@ -582,7 +582,7 @@ It came in pieces because Davan did not, in the way of a man who told his story 
 
 He said *yes* the way a man said *yes* about a thing he had said *yes* about a great many times.
 
-"And your pool."
+"And your pool," Ash said.
 
 Davan looked at the cup.
 
@@ -596,7 +596,7 @@ Davan looked at the cup.
 
 "I can light a lamp. I can warm a cup of tea. I cannot, on my best day, do what an apprentice elder did at twenty without thinking about it."
 
-"You trained."
+"You trained," Ash said.
 
 "My mother paid for two years of teaching when I was twelve. The teacher told her, in the second year, not to keep paying. He said it kindly. He said *the boy is bright. The boy is not strong.* My mother stopped paying and sent me to my uncle to learn fitting."
 
@@ -656,8 +656,6 @@ He had said it on the towpath two nights ago. He had said it in his head at the 
 
 It was a small thing to say. It cost him.
 
-The cost was the cost a sentence had when the sentence had, until the saying, been a sentence the speaker had allowed himself the comfort of not having said. The comfort was over.
-
 Davan registered.
 
 He did not, in the registering, do the thing a lesser interlocutor would have done, which was move forward. He let the sentence be the sentence. He drank tea.
@@ -688,7 +686,7 @@ Davan did not say any of this.
 
 He said:
 
-"Twenty-three years is a long time to be patient."
+"Twenty-three years is a long time to be patient," Davan said.
 
 "It is."
 
@@ -704,7 +702,7 @@ He said:
 
 He drank.
 
-"What did your anger build."
+"What did your anger build," Davan said.
 
 Ash looked at the bench.
 
@@ -736,11 +734,11 @@ She looked at Davan. The look was the look of a lieutenant who had read enough l
 
 "Why."
 
-"We did the south first. The wrap technique improved by the third building. We haven't gone back to redo the northern."
+"We did the south first," Ash said. "The wrap technique improved by the third building. We haven't gone back to redo the northern."
 
 "Cost."
 
-"Cost."
+"Cost. Yeah, cost, and time, and the, yeah."
 
 "Mm."
 
@@ -748,7 +746,7 @@ She nodded. She did not, in the nodding, soften.
 
 "I have notes," she said. "I'll send them."
 
-"Send them."
+"Send them. Thank you, please, send them."
 
 "Mm."
 
@@ -766,7 +764,7 @@ She poured the cup. She drank it standing. She drank it in three swallows, the w
 
 "Korel."
 
-"Tell him the hour."
+"Tell him the hour," Davan said.
 
 "I'll tell him."
 
@@ -788,15 +786,15 @@ He stood the way a tall man stood after sitting on a low crate for two hours, sl
 
 "Thank you," he said.
 
-"You're welcome here."
+"You're welcome here. Any, yeah, any time."
 
 "I'd like to come back."
 
-"Come back."
+"Come back. Please. Yeah."
 
-"I'd like to bring someone. A woman who runs a kitchen in the canal quarter. She has questions about heat I don't have answers for."
+"I'd like to bring someone," Davan said. "A woman who runs a kitchen in the canal quarter. She has questions about heat I don't have answers for."
 
-"Bring her."
+"Bring her. Bring her, yeah."
 
 "Mm."
 
@@ -860,7 +858,7 @@ He looked at Davan's cup. The tea in the cup had a small skin where it had coole
 
 "He listens," Haran said.
 
-"He does."
+"He does. He really, yeah. He does."
 
 "Mm."
 
@@ -868,7 +866,7 @@ A pause.
 
 "He's right about the boys," Haran said.
 
-"He is."
+"He is. I mean. Yeah. He is."
 
 "Mm."
 
@@ -882,7 +880,7 @@ He turned the tap on the small basin in the corner of the workshop. The water ca
 
 Haran wound wire.
 
-"He'll be back," Ash said.
+"He'll, yeah. He'll be back. He'll bring the woman with the kitchen. He said her name and I, I didn't catch it. Sorry," Ash said.
 
 "He will."
 

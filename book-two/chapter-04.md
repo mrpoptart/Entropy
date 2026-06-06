@@ -54,8 +54,6 @@ Haran pressed his own palm to the wall. Held it there. His eyes moved in the way
 
 "Clean work," Haran said. He pulled his hand away. "Better than the Velden job."
 
-From Haran, that was a speech.
-
 * * *
 
 The pipe system took two days to lay.
@@ -98,7 +96,7 @@ Haran said nothing else. He didn't need to. The wasted reservoir was already doi
 
 The woman in the doorway went back inside.
 
-They tore out the lower sections that afternoon. Ash broke his own seals with channeling that felt like undoing, the reservoir's warmth reversed, dissolving bonds he'd built hours earlier. Each broken joint was a small, specific loss. Not dramatic. Not catastrophic. Just the quiet arithmetic of waste.
+They tore out the lower sections that afternoon. Ash broke his own seals with channeling that felt like undoing, the reservoir's warmth reversed, dissolving bonds he'd built hours earlier. Each broken joint was a small, specific loss. Not dramatic. Not catastrophic.
 
 *That reservoir is gone twice.*
 
@@ -230,7 +228,7 @@ Ash opened his mouth. Closed it. He didn't have an answer that wasn't defensive.
 
 "I'm telling you it works tomorrow," he said. "That's all I've got."
 
-He went back to the junction. Dael stood in the square for a long moment. Then he picked up the wrench and went to the secondary feed line. His hands were rough with the tool. Unpracticed. But he was there.
+He went back to the junction. Dael stood in the square for a long moment. Then he picked up the wrench and went to the secondary feed line. His hands were rough with the tool. Unpracticed.
 
 * * *
 
@@ -260,9 +258,9 @@ The water system didn't require that. It just ran.
 
 Yes. The pipe would hold. The cistern would hold. The pump would turn. Mechanical. Permanent. Built once, by a man who wouldn't always be here, for people who would.
 
-The arithmetic of it settled in him. Not comfort. Fact. He'd spent reservoir he couldn't recover. He'd spent it wrong once, and then right. The waste stung. The success didn't erase the waste. Both were true. Both stayed.
+The arithmetic of it settled in him. He'd spent reservoir he couldn't recover. He'd spent it wrong once, and then right. The waste stung. The success didn't erase the waste.
 
-Haran pocketed his notebook and stood. The evening light caught the buildings of Stonecurve at the angle that turned limestone gold, and for a moment the cracked walls and timber shoring and patched rooftops looked like something other than damage. They looked like a place where people lived. Which is what they'd always been.
+Haran pocketed his notebook and stood. The evening light caught the buildings of Stonecurve at the angle that turned limestone gold, and for a moment the cracked walls and timber shoring and patched rooftops looked like something other than damage.
 
 "Same time tomorrow?" Ash asked.
 
@@ -270,7 +268,7 @@ Haran pocketed his notebook and stood. The evening light caught the buildings of
 
 He left. Ash sat on the wall a while longer. The tap ran. The square emptied as people went inside. Below, Dael was tightening bolts on the secondary feed line. He hadn't left early. He hadn't volunteered for extra work. But he was still here, and the wrench was in his hand, and he hadn't put it down.
 
-Ash watched the water run. Counted the cost. Let the ache in his hands be what it was.
+Ash watched the water run. Counted the cost.
 
 He climbed down and walked through Stonecurve toward the road that led back to The Splits. The street followed the limestone shelf's long curve, the buildings leaning close, the name making sense the way place names always did once you'd walked the ground. Lamplit windows. A woman's voice calling a child inside. The ordinary sounds of a district that was, for the first time in months, not carrying water in buckets.
 
@@ -284,4 +282,4 @@ He didn't reach.
 
 He walked, and the city settled around him, and somewhere behind him in Stonecurve a tap ran water into a stone basin by gravity alone, and nobody was channeling, and nobody needed to.
 
-Eleven branches of twelve. A start.
+Eleven branches of twelve.
