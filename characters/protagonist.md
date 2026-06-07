@@ -75,9 +75,21 @@ He spends freely because the reservoir feels infinite and because every expendit
 Late in Book One, through his intellect, he realizes the reservoir is finite. The math doesn't lie. This isn't forever. The question shifts from "what can I become?" to "what should I do with what's left?"
 
 ### Book Two: Reckoning
-He tries to use his remaining power to change the world — to fix the big problems directly. He learns that force-applied change doesn't stick, that the world's systems are more complex than any individual can override. Meanwhile the power keeps draining and the world's broader magical decline is becoming undeniable.
+He tries to use his remaining power to change the world, to fix the big problems directly. He learns that force-applied change doesn't stick, that the world's systems are more complex than any individual can override. Meanwhile the power keeps draining and the world's broader magical decline is becoming undeniable.
 
-He confronts the temptation to hoard what's left for self-preservation — to stay powerful, to never go back to being *that person*. This is the deepest fear: not losing the power itself, but returning to the helpless, burdensome, excluded person he was before.
+He confronts the temptation to hoard what's left for self-preservation, to stay powerful, to never go back to being *that person*. This is the deepest fear: not losing the power itself, but returning to the helpless, burdensome, excluded person he was before.
+
+#### Book Two Ch1 opening register: leverage-trained mind, wisdom-as-destination
+
+The plan-level descriptor for Ash entering Book Two is "purposeful, almost desperate drive." That still holds at the level of arc pressure. The interior register the prose must render, however, is more specific, and it replaces any residual restrained-humbled-builder texture that lingered from late Book One. Writers and reviewers working Book Two Ch1 (and the chapters that immediately follow, until the register shifts under plot pressure) should hold this:
+
+- **He arrives as the right person for the moment, by training.** A cold apartment one terrace up from The Splits, a father who keeps three of everything, workshop hours next to Haran: the whole life reads, in retrospect, as an education in leverage. He has spent twenty-some years learning how to make a small thing do work that looked impossible. The reservoir behind his ribs is the first thing he has ever carried that was the right size for what he sees.
+- **Where another mind reads *small* and feels rage or despair, Ash reads *finite* and starts calculating placement.** Given the broadsheet and the diagnosis, he registers the diagnosis as correct and moves immediately to the remaining question, which is placement. He looks at the city's broken places with an engineer's eye. The finite reservoir is a constraint to optimize around, not a wound to grieve.
+- **The clock does not frighten him.** He has always worked on a clock. The pressure registers as familiar rather than novel.
+- **Power without wisdom is the trap; Book One taught him that.** The operating lesson he carries into Ch1 is: the lever is useless without placement, placement is wisdom, and wisdom cannot be bought with the lever. So you take the lever to the person who knows where to put it. The workshop is **destination, not refuge.** He is not going to Haran to hide; he is going to Haran because Haran is where placement lives.
+- **Render this as a quality of attention, never as narration.** Ash does not articulate any of the above to himself on the page. The word "lever" never appears in the prose. The register shows in what he notices, the order in which he notices it, and the absence of the rage/despair beat where one would otherwise sit. Writers introducing interiority that names the leverage frame, or reviewers grading for it as explicit thought, are both off-spec.
+
+This register sits alongside, not against, the plan-level "purposeful, almost desperate drive": the drive is the engine, the leverage-trained attention is the texture. It also sits alongside, not against, the persistent Voice spec below (chatter-as-armor in small rooms, post-Wellspring drift toward declarative compression, recovery in Haran's workshop). The Ch1 attention quality is an *interior* register; the *spoken* register continues to follow the Voice section, including the workshop-recovery rule.
 
 ### Book Three: Letting Go
 He knows what needs to be built and approximately how to build it. He spends his remaining reservoir deliberately — not on spectacle, but on preparing the world for the transition out of magic. He empowers others, teaches, builds systems.

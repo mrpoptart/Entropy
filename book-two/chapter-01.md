@@ -1,26 +1,22 @@
 # Chapter 1
 
-The hill was steeper than he remembered.
+Ash came down the switchback path from the lower-middle district in the gray light before dawn, hands in his coat pockets, boots finding the high places in the stone steps by habit. The city was quiet at this hour. Cold air off the Verenthi Range pressed against the rooftops and settled into the streets below, pooling in the low places the way water did, the way everything in Solathis eventually did, flowing downhill, toward the districts that could least afford it. He knew the descent the way his hands read a piece of stock on the bench: the cracked riser at the third turn, the wall whose mortar had begun to weep at the joint, the lamp bracket above the second switchback that hung off true. Each detail caught and stayed, filed against some future tally. His eye did this on its own. It had been doing it for years.
 
-Ash came down the switchback path from the lower-middle district in the gray light before dawn, hands in his coat pockets, boots finding the worn places in the stone steps by habit. The city was quiet at this hour. Cold air off the Verenthi Range pressed against the rooftops and settled into the streets below, pooling in the low places the way water did, the way everything in Solathis eventually did, flowing downhill, toward the districts that could least afford it.
-
-He'd been making this walk every morning for three weeks. Up before his parents stirred, out the door while the heating lattice in the walls still held its overnight warmth, down through the middle terraces and into The Splits. The route hadn't changed since he was fourteen. The city around it had.
+He'd been making this walk every morning for three weeks. Up before his parents stirred, out the door while the heating lattice in the walls still held its overnight warmth, the warmth his mother had paid for the night before in the only currency she had. Down through the middle terraces and into The Splits. The route hadn't changed since he was fourteen. The city around it had.
 
 A broadsheet was pasted to the retaining wall at the second switchback, the ink still sharp. He slowed but didn't stop. He'd read this one already, or one like it. They changed every few days now, each version a little sharper than the last, the language tightening the way a spring tightens when you wind it past the point of casual tension. This one had the circle-and-line symbol printed large at the top, bold as a signature. Beneath it: THE DECLINE DIDN'T CHOOSE WHO IT CRUSHED.
 
-Below that, smaller type he couldn't read at walking speed. He didn't need to. He'd read enough of them.
+Below that, smaller type he couldn't read at walking speed. He didn't need to. He'd read enough of them, and the diagnosis was settled in him already. They were right. The shape of the problem was the shape they had named. What remained was the placement, and placement was not a thing a broadsheet could do.
 
 He kept walking.
 
-The lower terraces showed the earthquake's work more honestly than the upper ones. Up in the elder districts, the damage had been repaired within days, strong pools, organized crews, the institutional machinery of wealth and power doing what it did best: making problems disappear before anyone had to look at them too long. Down here, the reconstruction was visible and ongoing. Scaffolding braced the face of a residential block where the stone had sheared along an old fault line. A temporary water point stood at a junction, its brass fittings already green with oxidation, a line of buckets and jugs arranged beside it in the particular order of a community that had learned to share a resource by taking turns. Two buildings on the south side of the street had been condemned. Their windows were dark, their doors marked with the Infrastructure Directorate's red seal.
+The lower terraces showed the earthquake's work more honestly than the upper ones. Up in the elder districts, the damage had been repaired within days, strong pools, organized crews, the institutional machinery of wealth and power doing what it did best: making problems disappear before anyone had to look at them too long. Down here, the reconstruction was visible and ongoing. Scaffolding braced the face of a residential block where the stone had sheared along an old fault line, and his eye went to the shear without him asking it to, tracking where a brace placed two courses lower would carry the load with half the timber. A temporary water point stood at a junction, its brass fittings already green with oxidation, a line of buckets and jugs arranged beside it in the particular order of a community that had learned to share a resource by taking turns. Two buildings on the south side of the street had been condemned. Their windows were dark, their doors marked with the Infrastructure Directorate's red seal.
 
 Dorenne's seal.
 
 His jaw tightened. He walked past.
 
-The Splits opened below him, the narrow district wedged between the plateau's lower shelf and the gorge wall, where the streets were too steep for carts and the buildings leaned into each other like old men sharing a bench. The heating lattices down here had been unreliable for years, dim or dead depending on the block, and the morning cold sat in the stone the way it sat in poorly insulated walls: stubbornly, completely, with no intention of leaving until someone made it.
-
-Nobody down here had the pool to spare.
+The Splits opened below him, the narrow district wedged between the plateau's lower shelf and the gorge wall, where the streets were too steep for carts and the buildings leaned into each other like old men sharing a bench. The heating lattices down here had been unreliable for years, dim or dead depending on the block, and the morning cold sat in the stone the way it sat in poorly insulated walls: stubbornly, completely, with no intention of leaving until someone made it. He read the blocks as he passed. The chimney on the corner house drew poorly, three bricks short above the roofline. The lane between the two leaning tenements would carry a shared standpipe if anyone ran one. The shutter on the second floor of the cooper's house had been wedged with a folded scrap of leather, and the wedge was holding, and the wedge had been placed by somebody who knew what wedges did. Nobody down here had the pool to spare. Somebody down here was going to have to make the cold leave.
 
 He turned onto the lane that led to Haran's workshop. The flagstone three steps from the door was still loose. He stepped over it.
 
@@ -42,15 +38,15 @@ The drawer held the spring-loaded pump mechanism where he'd left it, the brass h
 
 The reservoir stirred.
 
-Not a thought. Not a decision. A physical thing, warmth behind his ribs, dense and present the way a heartbeat was present, felt only when the room was quiet enough and the body still enough and the mind stopped reaching for the next thing. He'd learned its edges over the past weeks, not by measurement but by sensation, the way you learned the walls of a room you lived in by reaching out in the dark and finding them closer than you expected. The oceanic fullness of the first weeks after activation was gone. In its place: something finite and shaped, a volume he could almost cup in his hands, warm as a stone that had been sitting in sunlight and was now giving it back.
+Not a thought. Not a decision. A physical thing, warmth behind his ribs, dense and present the way a heartbeat was present, felt only when the room was quiet enough and the body still enough and the mind stopped reaching for the next thing. He'd learned its edges over the past weeks, not by measurement but by sensation, the way you learned the walls of a room you lived in by reaching out in the dark and finding them closer than you expected. The oceanic fullness of the first weeks after activation was gone. In its place was something he had no other word for than *proportional.* A weight in the chest the exact size of the hand that carried it. The first thing he had ever held that was the right size for what he saw when he looked out a window.
 
 He set the mechanism down and picked up the fine file.
 
 The bore needed another tenth of a millimeter. He began to file.
 
-Steel on brass, rhythmic, precise. Each stroke took material away in quantities too small to see and too real to doubt. His breathing settled into the rhythm of the work, and the warmth in his chest, the reservoir, the held thing, the finite store of everything extraordinary he'd ever been, sat quiet.
+Steel on brass, rhythmic, precise. Each stroke took material away in quantities too small to see and too real to doubt. His breathing settled into the rhythm of the work, and the warmth in his chest, the reservoir, the held thing, the patient thing, sat with him at the bench the way a second pair of hands sat with him: present, accurate, ready when the work asked.
 
-He didn't channel. The file was the right tool and his hands were the right hands and the problem in front of him had nothing to do with magic.
+He didn't channel. The file was the right tool for the bore. The reservoir was for the work the file could not do, and the discipline was not in withholding but in choosing the smallest tool that would do the job. The file was enough. So the file was what moved.
 
 The stove ticked. The fire settled. He lost himself in the work.
 
@@ -66,7 +62,7 @@ The design wasn't finished. The full-scale version needed a different spring, he
 
 He sat with that for a moment. The solved thing. The small, specific satisfaction of a problem that had yielded to nothing but time and attention and hands that knew what they were doing.
 
-The reservoir sat quiet in his chest. Waiting. Not restless. Not demanding. Just there, the way a tool was there, available, finite, part of what he carried.
+The reservoir sat with him in his chest. Patient. Present. Accurate. Costly. Available. His.
 
 * * *
 
@@ -110,7 +106,7 @@ Haran nodded. He reached into his vest pocket and produced a small, dark disc, t
 
 "Rendered tree sap. Petra's been experimenting. She heats it with sulfur and it vulcanizes, hardens without losing flexibility. She made twenty of these last week."
 
-Ash picked it up. The material was dense, slightly tacky, with a firmness that gave under thumb pressure and returned to shape. He pressed it against the bench surface and felt the seal form, airtight, immediate, no gap.
+Ash picked it up. The material was dense, slightly tacky, with a firmness that gave under thumb pressure and returned to shape. He pressed it against the bench surface and felt the seal form, airtight, immediate, no gap. He felt the bench around the disc rearrange itself in his attention, every drawing on every project board sliding half a degree to account for the new constraint. A material like this did not stop at a valve seat.
 
 "How long does it hold?"
 
@@ -126,7 +122,7 @@ Ash pinned the board flat on the bench. The valve assembly drawings were in the 
 
 "Gate valve with a vulcanized seat," he said, half to himself. He began to sketch. The housing shape changed, simpler, a straight-through bore with a sliding gate. The seal interface simplified. The number of moving parts dropped from seven to three.
 
-Haran watched him draw. He didn't comment. He drank his tea and watched, and the watching had the quality of a man observing something he'd expected to see, not surprised, not gratified, just present for it.
+Haran watched him draw. He didn't comment. He drank his tea and watched, and the watching had the quality of a man observing something he'd expected to see, not surprised, not gratified, just present for it. Ash worked under that attention the way a piece of stock worked under a calibrated jig: held in true, free to move only in the directions that mattered. Haran's eye was the placement-eye. He had brought the work to it.
 
 Ash worked through the sketch in ten minutes. The new design was cleaner, more robust, easier to manufacture. He set the pencil down and looked at it.
 
@@ -140,7 +136,7 @@ Ash saw it immediately. The sharp edge of the steel gate dragging across the sof
 
 "Small one. Two millimeters."
 
-Ash took the pencil back and modified the drawing. The radius was a tiny change, barely visible on the sketch, but it would double the seal's life. Maybe more.
+Ash took the pencil back and modified the drawing. The radius was a tiny change, barely visible on the sketch, but it would double the seal's life. Maybe more. This was the thing he had come here for. Not refuge. This.
 
 They sat with the finished drawing between them.
 
@@ -158,7 +154,7 @@ Ash almost smiled. The Velden pump, the one he'd installed in the weeks before t
 
 Twenty. In a city of thousands.
 
-"Twenty. I... yeah." He was quiet for a moment. "I keep thinking about the repair crews up in the elder districts, how fast the stone was dressed and sealed, and then I walk down here and the scaffolding has been on that building for six weeks. It's not... it's not even close."
+"Twenty. I... yeah." He was quiet for a moment. The number sat in him not as a discouragement but as a measurement, the kind of number you took before you decided where the next stroke went. "I keep thinking about the repair crews up in the elder districts, how fast the stone was dressed and sealed, and then I walk down here and the scaffolding has been on that building for six weeks. It's not... it's not even close."
 
 "No," Haran said. "It's not."
 
@@ -184,7 +180,7 @@ Petra came in twenty minutes later, shaking rain from her coat. She was slight, 
 
 "Depends on sap supply. The resin trees in the gorge forest are tappable, but it's a half-day walk each way. If I had a reliable source..." She trailed off, already calculating.
 
-Two more tinkerers arrived, faces Ash recognized but couldn't name. They'd joined while he was away, during the months he'd spent in Dorenne's orbit, burning through the reservoir for something he'd thought was purpose. New people. Projects he hadn't seen. A ventilation system using thermal convection instead of channeled air movement. A lamp design that burned refined plant oil with a wick configuration that tripled the light output of a standard flame.
+Two more tinkerers arrived, faces Ash recognized but couldn't name. They'd joined while he was away, during the months he'd spent in Dorenne's orbit, burning through the reservoir for something he'd thought was purpose. New people. Projects he hadn't seen. A ventilation system using thermal convection instead of channeled air movement. A lamp design that burned refined plant oil with a wick configuration that tripled the light output of a standard flame. He registered each project the way he registered a length of stock at the rack: dimensions, properties, where it could bear. Other people had been doing this work, and they had been doing it well, and the eye that had brought him down the hill recognized the eye that had built these projects. It was the same eye.
 
 The workshop had continued without him.
 
@@ -242,7 +238,7 @@ Haran set the fitting down. "I didn't say but."
 
 "Was I." Haran looked at him. The look was steady, unhurried, the look of a man who wasn't going to have this conversation for Ash when Ash could have it for himself. "What do you think happens if they get what they're asking for?"
 
-Ash sat with the question. The math was there, the same math that had undone him in a dim room with a guttering candle. You could redistribute the water in a leaking vessel. You couldn't redistribute the leak.
+Ash sat with the question. The math was there, the same math that had undone him in a dim room with a guttering candle. You could redistribute the water in a leaking vessel. You couldn't redistribute the leak. He felt the question land in him the way a calibrated weight landed on a balance: not as alarm, but as data. The diagnosis was right and the prescription was wrong, and the question was where, in the gap between them, the work went.
 
 "I keep thinking about a vessel with a crack in it. You can bail faster, but..." He trailed off. "It buys some time. Not enough time, I don't think. But I'm not sure what else they can do from where they're standing."
 
@@ -280,11 +276,11 @@ He went back to his bench. The conversation was over. Not because it was finishe
 
 Ash sat with the broadsheet and the question and the pieces.
 
-The reservoir pulsed once, low and quiet. The warmth behind his ribs, finite and edged, closer to the bottom than it had any right to be. He could feel it the way he'd learned to feel it: not as a number, not as a countdown, but as a weight in the body. A season carried in the chest.
+The reservoir pulsed once, low and quiet. The warmth behind his ribs, neither too much nor too little, the right amount of the right thing held in the hand that had been trained to hold it. He could feel it the way he'd learned to feel it: not as a number, not as a countdown, but as a weight in the body. A season carried in the chest, and the season long enough if the placements were right.
 
-What can you build that outlasts the building?
+*What can you build that outlasts the building?*
 
-He didn't know. The not-knowing was heavier than it had been three weeks ago, when the question was new and the grief of the break with Dorenne was fresh and the workshop was a refuge more than a starting point. Now the not-knowing had texture. It had the shape of twenty homes with hand-cranked water. It had the shape of a rubber disc on a workbench. It had the shape of broadsheets on every wall and a city dividing along fault lines that the earthquake hadn't created, only revealed.
+He didn't know. The not-knowing had texture now. It had texture because three weeks of mornings had taught his eye where the city's pressure points were, and there were many of them, and they did not all bear the same weight, and choosing among them was the work. The grief of the break with Dorenne was real and it sat in him still, but it sat behind. What sat in front was the question of placement. It had the shape of twenty homes with hand-cranked water. It had the shape of a rubber disc on a workbench. It had the shape of broadsheets on every wall and a city dividing along fault lines that the earthquake hadn't created, only revealed.
 
 He picked up his pencil. The gate valve prototype needed dimensions transferred from the drawing to the steel. Precise work. The kind that occupied the hands and freed the mind to turn the question over, the way his fingers turned the mechanism over, testing the fit, checking the tolerances, listening for the click that meant the parts had found each other.
 
