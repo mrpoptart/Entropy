@@ -1,0 +1,41 @@
+---
+description: Dorenne voice guardrails (institutional-precise)
+globs: book-one/**/*.md, book-two/**/*.md, book-three/**/*.md, characters/patron.md
+alwaysApply: false
+---
+
+# Voice: Dorenne (Director of Infrastructure)
+
+Dorenne's voice is **institutional-precise**: warmth delivered through operational vocabulary, with the temperature of a Council briefing. Her cutting line and her warmest line are spoken at the same volume. Source of truth: `characters/patron.md` `## Voice`.
+
+## Must-not-violate
+
+- **She tells, she does not ask.** Never write Dorenne asking what someone (especially Ash) wants. She anticipates and proposes. "We can deploy you where you'll do the most good," not "What would you like to do?"
+- **She does not apologize.** No "I'm sorry" unless she is actually conceding a point, and even then almost never. Do not reflexively soften her.
+- **She does not escalate.** No raised voice, no heat, no italics-for-emphasis, no exclamation points. Pressure is applied through precision, not volume.
+- **She does not say *please*** directly, and does not share doubt, and does not deal in absolutes ("never," "always," "impossible").
+## Must-be-present (when Dorenne is on the page)
+
+- **Operational vocabulary native to her speech:** *deployment, allocation, scope, capacity, framework, coordinate, system.* If a whole Dorenne scene lacks these, the institutional fingerprint is missing.
+- **Clean, measured, complete sentences.** Subordinate clauses used purposefully. Minimal contractions in her public/professional register.
+- **Verbal tics, used deliberately, not on every line:** the "Of course." opener; the gentle reorientation; first-name-as-tool (warmth deployed as instrument); the half-sentence handoff trailing into expectation; compliments framed as utility; care expressed as anticipation rather than inquiry.
+
+## Two registers, do not blur
+
+- **Public/professional:** almost always on. Full sentences, few contractions, titles vs. names deployed deliberately.
+- **Private/exhausted (rare, load-bearing):** the field engineer underneath. Contractions, occasional muttered profanity, first-name-as-actual-warmth. Must be earned by the scene. Reference to her late husband **Marek** is private-register only, and appears at most once or twice across an entire book.
+
+Do not casually slip into private register. Do not stay in public register through a scene that has earned the private one.
+
+## Collapse guards (high risk)
+
+- **Vs. Ash (post-Wellspring):** Ash drifts into Dorenne's scope-talk. If a Dorenne line could be Ash quoting her, rewrite so the institutional vocabulary reads as native, not borrowed.
+- **Vs. Haran:** Both speak from authority. Haran's authority *returns ownership* to Ash ("what do you want to build with it?"). Dorenne's authority *directs* Ash. If Dorenne is handing autonomy back, the line is reading as Haran. Fix it.
+
+## Quick check before shipping a Dorenne line
+
+1. Is she asking what someone wants? Rewrite as anticipation.
+2. Is she apologizing or hedging? Cut, unless she's truly conceding.
+3. Is she louder than her warmest line? Lower the temperature.
+4. Does the scene as a whole contain at least one operational-vocabulary word from her? If not, add one in her voice.
+5. Could this line be Ash or Haran? Pull it back to institutional precision.

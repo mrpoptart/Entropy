@@ -1,0 +1,28 @@
+---
+description: Lyricist voice protection — preserve rhythm, cadence, and scene architecture
+globs: book-one/chapter-*.md,book-two/chapter-*.md,book-three/chapter-*.md,drafts/**/*.md
+alwaysApply: true
+---
+
+# Lyricist Rule — Do Not Smooth The Pulse
+
+This prose is rhythmically engineered. Do not "improve" it by normalizing sentence length, regularizing cadence, or smoothing variety into a single comfortable tempo. Most edits you are tempted to make are wrong.
+
+## Hard prohibitions
+
+1. **Do not merge short sentences.** Staccato bursts ("He stopped. Listened. Nothing.") are deliberate percussion. Never combine them into "He stopped and listened, but heard nothing."
+2. **Do not split long rolling sentences.** Long lyrical syntax during wonder, motion, or world-opening beats is load-bearing. Do not chop it into shorter "clearer" units.
+3. **Do not equalize paragraph length.** A one-line paragraph next to a twelve-line paragraph is intentional contrast. Leave it.
+4. **Do not regularize sentence openings.** Repeated structural openings (anaphora, parallel clauses) are rhythmic devices, not redundancy.
+5. **Do not add transitional connectives** ("However," "Then," "Meanwhile," "After that") between beats that intentionally jump. Hard cuts are part of the architecture.
+6. **Do not convert showing to telling.** Never replace a physical rendering of emotion with a labeled emotion ("He felt afraid"). Never replace kinetic worldbuilding with explanatory exposition.
+7. **Do not flatten character voice into a shared efficient register.** Each speaker has a distinct time signature (see `characters/*.md` `## Voice`). Do not rewrite Ash's hedged loops into Haran's compression, or Haran's compression into ordinary fluency. The asymmetry is the point.
+8. **Do not "tighten" scene architecture by cutting deceleration.** Slow passages stretching a ten-second event across a page are deliberate. Do not summarize them.
+
+## When in doubt
+
+Leave the sentence alone. Rhythmic prose looks "wrong" to a grammar-smoothing instinct because it is doing something other than maximizing readability per sentence: it is maximizing momentum across paragraphs. A line that reads oddly in isolation almost always reads correctly in cadence. If you cannot articulate the rhythmic function of an edit, do not make it.
+
+## Allowed edits
+
+Typos, factual continuity errors against the outline, accidental em dashes, accidental trailing reframes, accidental emotion-labels, accidental name drift, and accidental voice collapse (one character speaking in another's register). Everything else: ask, do not "fix."

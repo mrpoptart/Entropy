@@ -1,0 +1,37 @@
+---
+description: Maren voice guardrails (reductive-efficient, visible cost of control)
+globs: book-one/**/*.md, book-two/**/*.md, characters/sister.md
+alwaysApply: false
+---
+
+# Voice: Maren
+
+Maren is the disciplined-not-talented sibling. Her authority comes from carried weight (caretaker history, lifetime of grind), not from being best in the room. Never frame her as exceptional, most precise, or most talented. She is the one who keeps showing up.
+
+## Core pattern: reductive-efficient, level, unsurprised
+
+- **Short, trimmed, level cadence.** She cuts what doesn't need to be there. Her hurt lives in what's missing, not what's pushed.
+- **Flattens under pressure.** Never sharpens, never escalates, never raises volume. Rising heat in her words is drift. The pressure shows in the body (a hand to the collar), not the line.
+- **Pointed diagnostic questions.** "Are you sleeping?" She asks; she does not answer in kind about herself.
+- **One-word agreements that close conversations.** "Right." "Fine." "Sure." Use these to end, not to elaborate.
+- **One dry deadpan zinger per scene she's in,** delivered without a tag. If a Maren scene has no zinger, it's a missed beat.
+- **Body does half the work.** The collar-fix gesture, a look, a silence. Prefer gesture to words when emotion rises.
+
+## Must not
+
+- **No direct emotional naming.** Never "I'm jealous / angry / scared / hurt / tired." Her whole architecture is built on not naming her interior.
+- **No elaborated reassurance.** Not "I'm fine, really, I promise." Just "Fine." If reassurance is running long, it belongs to Ash.
+- **No asking for help.** Ever. She cannot.
+- **No elaborated praise, no ultimatums, no softeners** ("just," "maybe," "I think").
+- **No institutional vocabulary** (deployment, scope, scheduling-register). That's Dorenne. Maren's vocabulary is personal and bodily.
+- **No warmth, no animation, no landed punchline she's clearly enjoying.** That's Ryn. Maren is cool, surgical, deadpan.
+- **No clipped post-Wellspring scope-talk.** That's Ash's borrowed efficiency from Dorenne. Maren's economy is native and reductive, not borrowed and brittle.
+- **No "I am the standard" register.** Her authority is "I am the one who keeps showing up."
+
+## Collapse checks (high-frequency drift)
+
+- **vs. Ryn:** If the line is warm, physically animated, or lands a joke with visible pleasure, it's Ryn. Maren is cool and dry.
+- **vs. Ash:** If the clipped declarative could be post-Wellspring Ash, push Maren toward a pointed question or a one-word close instead.
+- **vs. Dorenne:** If Maren reaches for institutional nouns, pull her back to personal/bodily diagnostic register.
+
+## When narration says her voice is *level, unsurprised, even*, the dialogue must match.

@@ -1,0 +1,48 @@
+---
+description: Unified review checks for continuity, character arc, worldbuilding, and thread convergence. Apply before editing any chapter draft, outline, plan, or planning doc.
+globs: book-one/**/*.md, book-two/**/*.md, book-three/**/*.md, *convergence-map.md, characters/**/*.md, worldbuilding.md, magic-system.md, timeline.md, series-outline.md, **/outline.md, **/plan.md
+alwaysApply: false
+---
+
+# Unified Review Rule
+
+Before proposing edits to any chapter or planning document, run all four checks below in a single pass. Do not split into separate reviews. Organize findings by severity (Critical / Important / Minor), not by domain.
+
+## 1. Continuity
+- Character names, spellings, and physical descriptions match `characters/*.md`.
+- Location names match the **Named Locations** gazetteer in the relevant `outline.md`. Do not invent a name when one exists.
+- Historical events match `timeline.md`; cross-chapter facts match previously written `chapter-*.md` files.
+- Reservoir level matches the outline's reservoir table for this chapter.
+- Time references, character presence, and seeds/callbacks align with outline expectations.
+
+## 2. Character Arc
+- Behavior matches the profile in `characters/*.md`; motivation is shown, not stated.
+- Arc position matches outline + `plan.md` for this chapter. No unearned competence.
+- Relationship dynamics carry appropriate history and weight.
+
+## 3. Worldbuilding
+- Pool / Wellspring / channeling mechanics match `magic-system.md`. Use natural terminology ("running low"), not numeric precision ("47%").
+- Geography, districts, distances, cultural hierarchy, and technology level match `worldbuilding.md`.
+
+## 4. Convergence & Threads
+- Check `convergence-map.md` for this chapter's assigned threads. Each must be present at the expected mode (plant / progress / converge).
+- Flag any thread dormant 3+ chapters. Flag thread density inappropriate for chapter position.
+- In convergence-zone chapters, threads must collide, not merely coexist.
+- New seeds must serve the current scene AND set up a payoff.
+
+## Hard Style Gates (block edits if violated)
+All house-style invariants are gates: em-dash ban, trailing-reframe ban (100% post-failure, 50% elsewhere), dialogue attribution (with the four local checks on inserted beats), voice asymmetry, tertiary voice. If any house-style rule is violated, do not apply the edit; surface the violation.
+
+## Plot Sync
+If a proposed edit changes plot, character decisions, timeline, thread state, or arc, update `outline.md`, `plan.md`, `convergence-map.md`, and affected `characters/*.md` in the **same pass**. Outline and plan are living documents.
+
+## Required Output
+- **Critical Issues** (domain, location, issue, source file, fix)
+- **Important Issues** (same format)
+- **Minor Notes** (brief list)
+- **Reservoir Status** (expected vs depicted, verdict)
+- **Thread Inventory** (table: thread / map expects / draft does / verdict)
+- **Character Check** (per character: profile match, arc position, voice)
+- **Strengths** (specific, with quotes)
+
+If any Critical issue or Hard Style Gate fails, do not apply edits. Surface findings and stop.

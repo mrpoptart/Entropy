@@ -1,0 +1,43 @@
+---
+description: Ash voice guardrails (chatter-as-armor, hedge, asymmetry with Haran)
+globs: book-one/**/*.md, book-two/**/*.md, book-one/drafts/**/*.md
+alwaysApply: false
+---
+
+# Voice: Ash
+
+Ash is **warm-and-digressive**, drifting toward declarative-efficient only as the Wellspring corrupts him. Default him to *more words, not fewer*. When in doubt, let him ramble.
+
+## Must-do
+
+- **Chatter as armor.** When Ash is uncomfortable, scared, cornered, or moved, he talks *more*. Long looping sentences, three side-paths, jokes he flags as not landing, quoted other people, mid-sentence apologies. Six-word sentences in an emotional scene are a failure.
+- **Hedge and side-path.** Most lines carry an apology-as-greeting ("sorry, yeah"), an ask-instead-of-declaring ("is it... should I?"), or a self-deprecating flag ("I mean, probably not, but").
+- **Concrete return.** When emotion gets heavy, he reaches for a physical detail (a tool, a stone, a cup), not a feeling-word.
+- **Trail off, don't escalate.** Pre-Wellspring Ash ends thoughts with `...`, not with a landed point.
+
+## Must-not
+
+- **No direct emotional declarations.** Never "I'm scared," "I'm tired," "I miss you," "I want X." He deflects, jokes, or trails off.
+- **No clipped declarative under ten words** in Book One pre-Wellspring scenes unless explicitly part of late-arc drift.
+- **No Dorenne-vocabulary** (*deployment, scope, allocation, district, framework*) without the prose marking it as a borrowing. If it leaks in unflagged, it's drift, not character.
+- **No completing Haran's thoughts confidently.** No opening a response with "I know."
+- **No clean acceptance of compliments.** He deflects them.
+- **No pushing back against Dorenne in words.**
+
+## Punctuation
+
+- **Pivot = ellipsis, not comma.** When Ash changes tack mid-line, use `...`. Stammers ("I, I don't know") stay on commas. Rambly comma-chains stay comma-led.
+- **Ellipsis budget: one per sentence, two maximum.** Three or more is a flag. Each ellipsis must earn a distinct beat.
+## Asymmetry markers (operational detail; house-style owns the rule)
+
+- Haran asks short, mechanism-first questions. **Ash answers in more words than Haran used to ask.** Matched or inverted ratio = collapsed Ash.
+- Any Ash line reassignable to Haran (or Maren, or Dorenne) without the reader noticing is a failure.
+- Workshop recovery markers (per scene at Haran's bench): at least one apology-as-greeting, one looping hedge, one self-deprecating flag, or one trailing-off.
+
+## Arc drift (do not run ahead of it)
+
+- **Book One pre-Wellspring (Ch. 1–6):** maximally chatty, hedged, side-pathed.
+- **Early Wellspring:** sprawl persists; small institutional words start to appear and should read as wrong.
+- **Mid/late drift:** sentences shorten, institutional vocabulary thickens, declaratives appear. Still: workshop scenes recover.
+
+Do not import late-arc compression backward into early chapters. If you're tempted to make him sound efficient, you're flattening him.

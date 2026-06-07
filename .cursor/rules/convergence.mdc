@@ -1,0 +1,60 @@
+---
+description: Narrative thread management and Sanderlanche pacing protection
+alwaysApply: true
+---
+
+# Convergence & Thread Protection Rule
+
+This trilogy is built on a **Sanderlanche** structure: independently developed narrative threads collide simultaneously in Act 3 to create exponential momentum. Thread management is load-bearing. Do not "tidy" it.
+
+## Authoritative Source
+
+`convergence-map.md` is the single source of truth for thread state. Before touching any chapter, consult it for:
+- Which threads should be **planted (seed)**, **progressed**, or **converged** in this chapter
+- Per-chapter thread density targets
+- Cross-thread amplification pairings
+- Convergence-zone boundaries
+
+If your change would alter thread status, update `convergence-map.md`, the book's `outline.md`, and `plan.md` in the same pass. Drift is expensive.
+
+## Do Not Resolve Early
+
+A thread the map marks as **seed** or **progress** must not be resolved, explained, or closed off, no matter how loose it looks. Loose is the point. Specifically:
+
+- Do not have a character voice the connection between two threads before the convergence-map chapter where they collide.
+- Do not "answer" a planted mystery, motif, or causal seed in the same chapter it is planted.
+- Do not collapse two threads into one for tidiness. Parallelism is intentional.
+- Do not let a POV character notice subtext the reader is meant to assemble later.
+
+## Do Not Sand Down Seeds
+
+Seeds are deliberately concrete and slightly odd so a re-reader recognizes them. Do not:
+
+- Generalize a specific detail ("the third reservoir gauge" becomes "the gauges"). Specificity is the seed.
+- Cut a line because it feels tangential to the current scene; it is likely pulling double duty for a later payoff.
+- Smooth a seed into atmosphere. Seeds serve the current scene AND set up later collision; preserve both functions.
+- Move a seed to a "better" chapter. Placement is calibrated to dormancy windows.
+
+If a line feels gratuitously specific, suspect a seed. Leave it.
+
+## Do Not Foreshadow Harder
+
+The map calibrates surprise-and-inevitability. Do not:
+
+- Add foreshadowing, dream sequences, callbacks, or "as you know" beats that telegraph a convergence.
+- Have a character remember the seed out loud before the payoff chapter.
+- Insert a narrator-side hint. (See No Trailing-Reframe Rule. The narrator does not grade or foreshadow.)
+
+## Density and Dormancy
+
+- Do not strip threads from a chapter to "focus" it. Density targets exist: early acts 3 to 5, middle 4 to 6, convergence zones 6 to 10 and rising.
+- Do not let a thread go dormant for 3+ consecutive chapters by deleting its only appearance in a chapter.
+- In Act 3 convergence-zone chapters: do not lengthen scenes, do not add comfortable stopping points, do not separate colliding threads into adjacent-but-independent resolutions. Threads must affect each other on the page, not merely co-occur.
+
+## Cross-Thread Amplification
+
+Where the map flags amplification, one thread's payoff must strengthen another within the same scene. Do not split amplified beats into separate scenes for clarity. Simultaneity is the craft.
+
+## When In Doubt
+
+Leave the thread material alone and surface the question. A seed you don't understand is more valuable than a tidy chapter that has quietly defused the avalanche.

@@ -1,0 +1,46 @@
+---
+description: Entropy worldbuilding and magic system guardrails
+alwaysApply: true
+---
+
+# Worldbuilding & Magic System Rule
+
+Source of truth: `worldbuilding.md`, `magic-system.md`, `timeline.md`, and the active book's `outline.md` (including its Named Locations gazetteer and reservoir table). Read before drafting any scene that touches the world. Do not invent.
+
+## Magic mechanics (do not contradict)
+
+- **Pools** are a renewable daily allotment, individual to each caster, and weaken generationally. Elders have larger pools; younger generations are measurably weaker. Never invert this.
+- **The Wellspring** is finite, non-renewable, and unprecedented in use. It is not a bigger pool. Do not describe it recharging, refilling, or behaving like a pool.
+- **Channeling** runs through hands, voice, and intent. No new conduits, foci, gestures, runes, sigils, or implements.
+- **Reservoir levels** must match the outline's reservoir table for the chapter's point in the timeline. Do not raise, lower, or invent reservoirs. If a level seems wrong, stop and flag, do not reconcile in prose.
+- No quantitative system details in prose. kJ figures, pool percentages, and numeric costs are author-side tools. Characters speak naturally: "I'm running low," "that'll cost me," "I've got nothing left."
+
+## Terminology (closed set)
+
+Use only: **channeling, pool, Wellspring, reservoir**, and terms already established in the source files and gazetteer. Do not coin synonyms (no "mana," "aether," "drawing," "the Font," "the Deep Well," etc.). Do not capitalize common terms into proper nouns unless the sources do.
+
+## Geography
+
+- Use district, building, and feature names from the outline's Named Locations gazetteer exactly as spelled there. Do not invent districts, streets, lifts, or landmarks when an established one fits.
+- City layout is fixed: plateau and gorge, vertical stratification, elder/wealthy districts high, poor districts low, transit lifts between. Do not flatten, re-tier, or re-orient.
+- Named places (Solathis, Kharren Fault, etc.) must be spelled and located as in `worldbuilding.md`. Travel times must be plausible against established distances.
+
+## Culture, economy, technology
+
+- Generational power gradient (elder = stronger pool = more wealth and authority) is load-bearing. Do not soften it.
+- Currency is coin-based; the broader economy is pool-based. Non-magical people carry real social stigma; mechanical technology carries stigma too and sits at the established low level of development. Do not modernize, do not invent gadgets.
+- Political factions appear only as established in the sources. Do not invent groups, titles, or offices.
+
+## Show, don't tell (hard constraint)
+
+Worldbuilding enters the prose through use, not explanation. Prohibited:
+
+- Narrator pausing to explain how magic, pools, the Wellspring, channeling, reservoirs, districts, or history work.
+- Characters thinking about their own world in textbook terms no native would use.
+- History, politics, or system mechanics delivered as exposition block. Move it into dialogue, action, or a concrete sensory beat, or cut it.
+
+If a scene needs the reader to understand something, show someone doing it, paying for it, or arguing about it. Never lecture.
+
+## When unsure
+
+Stop and ask, or leave a `TODO(worldkeeper):` marker. Do not guess a name, a reservoir level, a district, or a mechanic. Inventing is the failure mode this rule exists to prevent.

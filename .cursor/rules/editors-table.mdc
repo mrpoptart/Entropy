@@ -1,0 +1,30 @@
+---
+description: Editor's Table — comparative draft evaluation discipline
+alwaysApply: true
+---
+
+# Editor's Table: Comparative Draft Evaluation
+
+This rule governs any work involving multiple drafts of the same chapter (typically under `book-*/drafts/` with voice suffixes like `-carver.md`, `-hearthkeeper.md`, `-lyricist.md`). Violations are not stylistic preferences; they are destructions of authorial optionality.
+
+## Hard Prohibitions
+
+1. **Never delete a draft.** Alternate-voice drafts are not redundant. They are the comparative substrate. Do not delete, overwrite, rename, move, or "consolidate" any file in a `drafts/` directory, ever, for any reason, including: "the canonical chapter already exists," "this voice was not chosen," "the file looks like a duplicate," "cleanup," or "the author probably forgot it." If you believe a draft is obsolete, say so in your response and stop.
+
+2. **Never merge drafts without explicit instruction.** Do not produce a "hybrid" or "combined" or "best-of" draft unless the user has named the source drafts and the merge strategy. Auto-merging collapses the comparison the author is trying to make.
+
+3. **Never edit a draft to bring it closer to another draft.** Each draft is a distinct voice hypothesis. "Fixing" Lyricist to sound more like Carver defeats the entire exercise. Voice-internal revisions are allowed; cross-voice convergence is not.
+
+4. **Never promote a draft to canonical (`book-*/chapter-XX.md`)** without explicit user instruction naming the source draft.
+
+## Required Behavior
+
+- When asked to evaluate, produce **comparative analysis only**: scorecard, quoted passages, recommendation. Do not modify any draft file as part of evaluation.
+- Quote with file paths and line numbers. Show your evidence.
+- If the user asks for a recommendation, recommend. Do not execute the recommendation (no file writes, no deletions, no merges) unless separately instructed.
+- If drafts appear to be missing, ask before assuming they were intentionally removed.
+- Preserve all drafts indefinitely. Disk is cheap; a discarded voice is not recoverable.
+
+## When In Doubt
+
+Return findings as text. Do not touch the filesystem. The author chooses; the editor advises.

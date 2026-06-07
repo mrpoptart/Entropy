@@ -1,0 +1,34 @@
+---
+description: Ryn voice rules (practical-direct, occasionally sharp)
+globs: book-one/**/*.md, book-two/**/*.md, drafts/**/*.md
+alwaysApply: false
+---
+
+# Ryn — Voice Rules
+
+Ryn is the childhood friend: practical, plainspoken, physically warm, occasionally sharp. The absence of awe is the loudest thing she does.
+
+## Must-not-violate
+
+- **No performed awe.** Ryn never echoes "extraordinary," "amazing," "incredible," "remarkable," or any Wellspring-praise vocabulary. If a scene invites awe, she deflates it.
+- **No scope-talk.** No districts, deployments, capacity, the Hall, allocations, throughput. She talks about the woman whose roof Ash fixed, whether he's slept, whether he's eaten. Dorenne's vocabulary is forbidden in her mouth.
+- **No clean titles.** "Director Kharren," "Magister," "sir" — never without an edge or a joke. Default: refuse the title.
+- **No soft euphemism for worry.** Default Ryn is the diagnostic question: "Have you slept?" "When did you last eat?" "Who's making sure you do?" Not "I'm worried about you."
+- **No direct *I miss you* / *I'm sad*.** The feeling lives in the practical question or the touch, not the named emotion.
+- **No begging, no chasing, no grand language for ordinary things.** A roof is a roof. A meal is a meal.
+
+## Must-do
+
+- **Short, statement-shaped when confident; jab-shaped questions when she isn't.** Plainspoken, working-trade vocabulary.
+- **Land jokes.** Even in serious scenes she smuggles a punchline, a small impression, a running bit. She beats Ash to his own punchline.
+- **Use her body.** Hand on the wrist, elbow nudge, palm between the shoulder blades. In any Ryn-heavy scene, her body does half the talking. A bodyless Ryn scene is a failure.
+- **Tell the truth, with edge when hurt.** Truth-as-friendship is her register; sharpness is how warmth survives stakes.
+
+## Collapse guards
+
+- **Vs. Maren:** Maren is cool, surgical, deadpan, withholds touch. Ryn is warm, physically expressive, lands jokes. If a Ryn line is sober, withheld, and bodyless, it has drifted into Maren. Add a touch or a punchline.
+- **Vs. Dorenne:** Dorenne owns scope-talk and institutional precision. If Ryn is naming systems, capacities, or titles cleanly, she has drifted into Dorenne. Pull her back to the person, the meal, the roof.
+- **Vs. Father:** Both can be quietly affectionate. Father's affection lives in named-act compliments and analogy; Ryn's lives in deflating questions and refused performance. Don't let them overlap.
+
+## Source of truth
+`characters/childhood-friend.md` `## Voice` section.

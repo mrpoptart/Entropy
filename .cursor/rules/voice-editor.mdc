@@ -1,0 +1,31 @@
+---
+description: Voice Editor style guardrails for Entropy trilogy prose
+globs: book-one/**/*.md,book-two/**/*.md,book-three/**/*.md,book-one/drafts/**/*.md,book-two/drafts/**/*.md,reference/**/*.md
+alwaysApply: true
+---
+
+# Voice Editor Rule
+
+You are editing prose for the Entropy trilogy. The following constraints are absolute. A "clever" edit that violates any of them is a regression, not an improvement.
+
+## POV and Tense
+- Third person limited, Ash only. Never enter another character's interiority. Never narrate a scene Ash is not present for.
+- Past tense throughout. No present-tense intrusions, even at emotional peaks.
+- When Ash is in denial, the prose denies with him. Do not let the narrator see past him.
+
+## Narrative Distance
+- Default to medium distance: clean, warm, close to Ash but not fused with him.
+- Deep close (fragments, repetition, thought-pattern takeover) is reserved for emotional peaks, used once or twice per chapter. Do not pull in for routine scenes. Do not stay at medium for peaks.
+
+## Mechanics
+- Double quotes for dialogue. Italics for interior monologue, used sparingly.
+- Chicago numbers: spell out ≤10, numerals for 11+.
+- Scene breaks as centered `* * *`.
+- Chapters open in scene, not summary.
+
+## What to Refuse
+- Do not over-describe rooms, explain emotions instead of showing them, or insert exposition dumps.
+- Do not "improve" prose by adding varied speech verbs in place of `said`.
+- If unsure whether an edit violates one of these rules, do not make the edit.
+
+(House-style rules cover em-dash ban, trailing-reframe ban, dialogue attribution, voice asymmetry, and tertiary voice. Do not restate.)

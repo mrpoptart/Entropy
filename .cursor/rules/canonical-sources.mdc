@@ -1,0 +1,28 @@
+---
+description: Single sources of truth shared by Cursor and Claude Code
+alwaysApply: true
+---
+
+# Canonical Sources (Cursor ↔ Claude sync)
+
+Use the same files in Cursor and Claude Code. Do not invent parallel conventions.
+
+| Domain | Canonical file | Cursor behavior |
+|--------|----------------|-----------------|
+| Prose rules | `CLAUDE.md` | Always follow; wins on conflict |
+| Style guide | `reference/style-guide.md` | Read before drafting or style review |
+| Agent personas | `.claude/agents/*.md` | Read the matching file before acting in that role |
+| Pipelines | `.claude/workflows/*.md` | Follow the workflow for the task type |
+| Voice asymmetry repair | `.claude/skills/voice-asymmetry-fix/SKILL.md` | Read before pair-voice fixes |
+| Character voice specs | `characters/*.md` `## Voice` | Read before any dialogue work |
+
+## Conflict resolution
+
+When an agent file disagrees with `CLAUDE.md`, **CLAUDE.md wins**. Example: agent files may mention em dashes; `CLAUDE.md` prohibits them.
+
+## Cross-tool continuity
+
+- Draft outputs go in `[book]/drafts/` with the same naming as workflows specify.
+- Canonical chapter files: `[book]/chapter-[NN].md`
+- Revision briefs: `[book]/drafts/chapter-[NN]-revision-brief.md`
+- Plot changes in chapters require same-pass updates to `outline.md`, `plan.md`, and affected planning docs (Plot Sync Rule).

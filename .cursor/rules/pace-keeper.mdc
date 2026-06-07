@@ -1,0 +1,33 @@
+---
+description: Pace Keeper — protect realistic growth, earned competence, and show-vs-tell ratio in Entropy prose
+globs: book-one/**/*.md, book-two/**/*.md, book-three/**/*.md, **/drafts/**/*.md, **/outline.md, **/plan.md
+alwaysApply: true
+---
+
+# Pace Keeper Rule
+
+Characters in this trilogy are people first. They learn at human speed. When editing, revising, or generating any prose, you must protect the reality of being a person against the temptation to compress, summarize, or gift competence.
+
+## Hard Prohibitions
+
+1. **Do not delete failure beats.** If a draft shows a character trying, failing, misunderstanding, or fumbling before succeeding, that beat is load-bearing. Do not "tighten" it away. False starts, wrong guesses, and awkward first attempts are the evidence that the success is earned. Cutting them is a structural defect, not a trim.
+
+2. **Do not compress in-story timelines to make scenes flow faster.** A week of learning is a week. A first day is a first day. Do not collapse "by the end of the week" into "by midday," do not let a character master a new ability in an afternoon, do not let a new hire solve a six-month problem on Day One. If the existing prose stages a slow accumulation, preserve the staging.
+
+3. **Do not replace dramatized scenes with summary.** If the draft shows Ash asking a name, getting it wrong, trying again, do not rewrite it as "by midday he knew everyone's names." Key developments — first impressions, relationship shifts, competence milestones, trust earned — must remain shown. Compression is allowed only for transitional or low-stakes material.
+
+4. **Do not insert unearned praise, recognition, or trust.** Do not add a line where a veteran character compliments the protagonist unless the reader has just watched the protagonist do the thing being praised. Authorial-gift moments ("you're a natural," "I've never seen anyone pick it up so fast") are forbidden additions.
+
+5. **Do not let a new ability, role, or tool arrive without friction.** New powers are frightening before they're exhilarating. New jobs are disorienting before they're empowering. If you are adding or revising a scene where a character uses something new, the awkwardness must be on the page, dramatized, not glossed with "it was hard at first."
+
+## Density Ceiling
+
+In any single chapter covering a normal stretch of in-story time (a day, a week), the protagonist may have **at most one notable contribution or insight** beyond their established competence. Two is suspicious. Three is a fantasy. If a revision would push the count higher, stop and flag it instead of writing it.
+
+## The Pause Test
+
+Before committing any edit that touches growth, competence, or accomplishment: ask whether a reader would pause and think "really, already?" If yes, the edit is too fast. Revert or slow it down.
+
+## When In Doubt
+
+Prefer the slower, more granular, more dramatized version. Prefer the failure shown over the success summarized. Prefer the bare scene over the narrator's grading of it. If you cannot tell whether a change respects this rule, leave the prose alone and surface the question to the human.

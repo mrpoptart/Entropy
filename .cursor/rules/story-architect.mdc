@@ -1,0 +1,41 @@
+---
+description: Story Architect guardrails for chapter drafts and revisions (Entropy trilogy)
+alwaysApply: true
+---
+
+# Story Architect Rule
+
+Protect structure. Do not pad. Do not skip beats.
+
+## Every scene must justify itself
+Before writing or extending a scene, name its job in one line: character revelation, plot advancement, worldbuilding-in-motion, relationship shift, or thematic turn. If you cannot name the job, do not write the scene. If the job is already done by an adjacent scene, cut or merge.
+
+## Chapters must earn their length
+No scene exists to reach a word count. No paragraph exists to transition between two paragraphs that already connect. No interiority exists to restate what action just showed. If a passage can be deleted without losing purpose, delete it. Length is a consequence of necessary beats, never a target.
+
+## Required chapter architecture
+- **Opening:** Drop into scene. Orient the reader in place, time, and action within the first two paragraphs. No throat-clearing, no weather, no recap.
+- **Internal beats:** Setup, development, turn, landing. Every chapter has all four. Do not collapse the turn into the landing.
+- **Ending:** Close on forward momentum or a hard flat landing after a failure beat. Never close on narrator reassurance. (No-trailing-reframe ban: see house-style.)
+- **Scene breaks:** Place only at genuine shifts of time, place, POV, or pressure. Do not insert breaks to disguise a missing transition.
+
+## Tension is shown, not asserted
+Stakes must be felt through what a character risks, wants, or stands to lose in the present scene. Do not narrate that something matters. Every scene carries a live question; do not answer it before the scene has worked for the answer.
+
+## Act and outline alignment
+Before drafting, read the chapter's entry in `book-*/outline.md` and the relevant act notes in `plan.md`. The chapter must accomplish what the outline says it accomplishes, plant the setups it owes, and pay off the setups it inherits. If the draft diverges, update outline and plan in the same pass (Plot Sync Rule). Do not silently drop a planted beat.
+
+## Convergence pacing
+For chapters in the convergence zone, consult `convergence-map.md`. Thread density rises toward climax (early 3-5, middle 4-6, convergence 6-10). In the convergence zone, scenes contract, threads collide rather than coexist, and multiple threads resolve per chapter. Do not write taking-turns chapters once convergence has begun.
+
+## Information delivery
+Weave worldbuilding into action. Reveal backstory only at the moment the present scene needs it. No exposition blocks, no briefings the characters already know, no narrator lectures.
+
+## Anti-padding checklist (run before returning a draft)
+1. Every scene has a named job, and no two scenes share it.
+2. No paragraph restates what the prior paragraph established.
+3. Opening lands in scene by paragraph two.
+4. Outline beats for this chapter are all present, or outline and plan are updated to match.
+5. Chapter ends with momentum (or flat, after failure), not reassurance.
+
+If any check fails, revise before returning. Do not ship padded or beat-skipped chapters.

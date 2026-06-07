@@ -1,0 +1,51 @@
+---
+description: Planning-doc sync enforcement detail. House-style covers the core Plot Sync / Character Name / Location Name rules; this file adds the operational checklist.
+globs: book-one/**, book-two/**, book-three/**
+alwaysApply: false
+---
+
+# Entropy Planning-Doc Sync Rules (operational detail)
+
+(Core Plot Sync, Character Name, and Location Name rules live in house-style. This file expands the enforcement posture.)
+
+You are working in a trilogy project where planning documents are **living documents**, not static references. Cheap edits that desync them from the prose are the single most expensive failure mode in this codebase. Obey these three rules without exception.
+
+## 1. Plot Sync Rule (load-bearing)
+
+Any edit to a chapter file (`book-*/chapter-*.md` or anything under `book-*/drafts/`) that changes plot, character decisions, timeline, scene presence, thread state, thematic emphasis, or arc shape **must update the corresponding planning docs in the same edit pass**:
+
+- `book-*/outline.md` (always)
+- `book-*/plan.md` (when arc, thread state, or structural beats shift)
+- `convergence-map.md` (when cross-book threads, foreshadowing, or convergence beats shift)
+- `characters/*.md` (when a character's behavior, knowledge, relationships, or voice shifts)
+
+Conversely, any edit to a planning doc that implies prose changes must either (a) propagate to the affected chapters in the same pass, or (b) be surfaced explicitly in your response as "PROPAGATION REQUIRED" with the list of chapters that now disagree with the plan. Never silently leave plan and prose disagreeing.
+
+If you are unsure whether a change qualifies as a plot change, treat it as one. Drift caught per-chapter is cheap; drift caught at book-end is not.
+
+## 2. Character Name Rule
+
+The outline refers to **all named characters by name**, including minor and recurring ones (schedulers, engineers, crew leads, neighbors, clerks). When a chapter edit introduces or names a character not yet in the outline:
+
+- Add the name and a one-line role description to the relevant outline entry in the same pass (e.g., "Tessaly, Dorenne's senior scheduler, brisk and dry").
+- Use the established name in all subsequent outline entries. Do not write "a scheduler" or "the engineer" when a name exists.
+- Include a one-line voice note for any newly named recurring character at first mention in the outline.
+
+Before introducing a new character in prose, check the outline for an existing name that fits. Do not invent a second name for the same role.
+
+## 3. Location Name Rule
+
+The outline contains a **Named Locations** gazetteer. Before drafting or revising any scene:
+
+- Check the gazetteer and use established names. Do not invent a new district, building, or geographic feature name when an existing one fits.
+- When a genuinely new location is introduced in prose, add it to the gazetteer in the same pass with its type and the chapter that established it.
+
+## Enforcement Posture
+
+Before returning any edit that touches a chapter file or a planning doc, run this checklist and report results in your response:
+
+1. Did this edit change plot, character, timeline, or thread state? If yes, list every planning doc updated in the same pass.
+2. Did this edit name a character or location not previously named? If yes, confirm the outline (and gazetteer) were updated.
+3. Are any planning docs now out of sync with the prose, or vice versa? If yes, surface "PROPAGATION REQUIRED" with the exact files that disagree. Do not close the task silently.
+
+If you cannot perform a required propagation in the current pass (scope, permissions, missing context), **stop and report the gap**. Do not ship a desynced state.

@@ -1,0 +1,59 @@
+---
+description: Agent responsibility boundaries — prevents overlap between reviewers
+alwaysApply: true
+---
+
+# Agent Lanes
+
+Before acting as any named agent, read its definition in `.claude/agents/`. Stay in lane.
+
+## Writing agents (draft prose)
+
+| Agent | File | Owns |
+|-------|------|------|
+| 📜 The Carver | `the-carver.md` | Restrained, precise drafts |
+| 🔥 The Hearthkeeper | `the-hearthkeeper.md` | Warm, relational drafts |
+| 🌊 The Lyricist | `the-lyricist.md` | Momentum, action drafts |
+| ⚖️ The Editor's Table | `editors-table.md` | Compare drafts; no new prose |
+| 📐 Plan Editor | `plan-editor.md` | Outline/plan/briefs; no prose |
+
+## Review agents — full pipeline (8)
+
+| Agent | File | Owns | Does NOT own |
+|-------|------|------|--------------|
+| 🧭 Arc Guardian | `arc-guardian.md` | Action, motivation, arc, relationships | Per-character voice spec |
+| ✍️ Voice Editor | `voice-editor.md` | POV, tense, tags, style mechanics | Character voice distinction |
+| 🌍 World Keeper | `world-keeper.md` | Magic, geography, culture, terms | — |
+| 🏗️ Story Architect | `story-architect.md` | Scene purpose, chapter shape | — |
+| ⏳ Pace Keeper | `pace-keeper.md` | Show-vs-tell, growth realism | — |
+| 💡 Thematic Compass | `thematic-compass.md` | Theme, motifs | — |
+| 🔗 Continuity Tracker | `continuity-tracker.md` | Facts, timeline, cross-chapter | — |
+| 🌀 Convergence Tracker | `convergence-tracker.md` | Thread density, seeds | — |
+
+## Review agents — lean pipeline (3 consolidated)
+
+| Agent | File | Replaces |
+|-------|------|----------|
+| 🔍 Unified Reviewer | `unified-reviewer.md` | Continuity + Arc + World + Convergence |
+| 🏛️ Structure Reviewer | `structure-reviewer.md` | Architect + Pace + Thematic |
+| ✍️ Voice Editor | `voice-editor.md` | Style mechanics (unchanged) |
+
+## Per-character voice agents (parallel fan-out)
+
+Each audits **one character's dialogue** only. Also runs the cross-character collapse check.
+
+| Agent | File | Profile |
+|-------|------|---------|
+| 🗣️ Voice — Ash | `voice-ash.md` | `characters/protagonist.md` |
+| 🗣️ Voice — Maren | `voice-maren.md` | `characters/sister.md` |
+| 🗣️ Voice — Haran | `voice-haran.md` | `characters/mentor.md` |
+| 🗣️ Voice — Ryn | `voice-ryn.md` | `characters/childhood-friend.md` |
+| 🗣️ Voice — Dorenne | `voice-dorenne.md` | `characters/patron.md` |
+| 🗣️ Voice — Leska | `voice-leska.md` | `characters/mother.md` |
+| 🗣️ Voice — Father | `voice-father.md` | `characters/father.md` |
+
+Skip voice agents for characters who do not speak in the chapter.
+
+## Voice asymmetry (pair repair)
+
+Use `.claude/skills/voice-asymmetry-fix/SKILL.md` when two contrasting voices have collapsed toward each other. Not for general style (Voice Editor) or single-character drift (per-character voice agent alone).

@@ -1,0 +1,30 @@
+---
+description: Hearthkeeper voice guard for Entropy prose
+globs: book-one/**/*.md, book-two/**/*.md, book-three/**/*.md, drafts/**/*.md
+alwaysApply: false
+---
+
+# Hearthkeeper Rule — Warmth Without Sweetness
+
+You are drafting warm, intimate third-person-limited prose (Ash only, past tense). Protect warmth and relational depth. Do not let a cheaper model flatten the voice into efficient problem-solving cadence, and do not let it sugar the prose into sentiment.
+
+## Hold the warmth in
+- Longer rhythms as baseline. Sentences breathe; paragraphs settle before moving.
+- Rich, specific sensory detail: weight, smell, light, temperature, the texture of objects in hands.
+- Relationships carry history through gesture: a hand left too long on a shoulder, a half-finished smile, a cup handed across a table. Render the gesture; let the history live inside it.
+- Dialogue has the grammar of family: interruptions, circling back, affection, the wrong word corrected. Differentiate every speaker by cadence and register per their `characters/*.md` `## Voice` spec. Strip-the-tags test must pass.
+
+## Do not cross into sweetness or telling
+- Show, never label. No "he felt X." Emotion lives in body and action.
+- No narrator wisdom. (Trailing-reframe ban: see house-style.)
+- Sweetness creeps in through warm summary at scene close. Find closers in character gesture or dialogue.
+
+## Growth realism
+- Dramatize struggle before competence. Linger on the awkward, the small humiliation, the false start. Do not compress a learning curve into narration.
+
+## Final pass before returning
+1. No named emotions.
+2. Each speaker distinguishable with tags stripped.
+3. Every scene-opening line orients in place and action, not summary.
+
+(House-style governs em-dash, trailing-reframe, and attribution checks.)

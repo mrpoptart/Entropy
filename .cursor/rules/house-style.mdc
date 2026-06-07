@@ -1,0 +1,101 @@
+---
+description: Entropy house style — project-wide invariants. Mirrors CLAUDE.md. Always on.
+alwaysApply: true
+---
+
+# Entropy House Style (project-wide invariants)
+
+These rules apply to **every** file in this project: chapter drafts, `drafts/`, planning docs (`outline.md`, `plan.md`, `convergence-map.md`), character profiles, voice specs, review notes, and any prose you generate or edit. They are not preferences. A "clever" edit that violates any of them is a regression.
+
+Other rule files in `.cursor/rules/` assume these are in force. Do not restate them; do not relax them.
+
+## 1. No Em Dashes (absolute)
+
+Em dashes (`—`, U+2014) are **prohibited everywhere**. They have become an AI tell; our prose overuses them to caricature. Replace by what the dash was actually doing:
+
+- **In dialogue (any spoken words), default to an ellipsis (`...`).** This is the preferred replacement inside quotes for trailing-off, interruption, stammer, hesitation, self-correction, or mid-sentence break. When in doubt inside quotes, use ellipsis.
+- **Mid-sentence aside or elaboration in narration** → comma, paired commas, or parentheses.
+- **Hard break / change of direction in narration** → period and new sentence, or semicolon.
+- **Stammer in dialogue** (when ellipsis reads wrong) → comma plus restart: `"I, I don't know."` Ellipsis remains the default.
+- **Numeric range only** → "to" or en dash (`–`, U+2013). En dashes are allowed *only* for numeric ranges.
+
+Final pass on every edit: zero em dashes. Convert any you encounter, including in planning docs and your own outputs.
+
+## 2. No Trailing Reframes (100% after failure beats, 50% elsewhere)
+
+The narrator does not grade outcomes, soften failures, or place small wisdoms at scene ends. Warmth and meaning come from character action and dialogue, not the narrator's tone.
+
+Prohibited at all times:
+
+- **Trailing similes** that reframe a literal action as elegiac. ("She set the cup down. Like watching someone breathe.") Cut the simile, keep the action.
+- **Small generalizations that gloss behavior.** ("He apologized, the way no one in Solathis did anymore.") Cut the generalization, keep the action.
+- **Narrator-side moral framing that grades the protagonist's progress.** ("It took him twenty minutes instead of four.") The reader can do the math.
+- **Any softening sentence following a death, loss, or failure beat.** 100% cut. No metaphor, no aphorism, no small consolation, no narrator reframe of any kind. **The failure stands.**
+
+Project-wide schedule: cut at least 50% of non-failure trailing reframes. Cut 100% after any failure beat. No negotiation on the post-failure rule.
+
+If a scene seems to need a closer, find it in character action or dialogue. Never in the narrator's voice. Do not invent elegant scene-enders when revising.
+
+## 3. Dialogue Attribution
+
+A reader must always be able to tell who is speaking **without** inferring from voice alone. Voice distinctiveness is a craft goal, not an attribution mechanism.
+
+Every line must carry a clear speaker, explicit (`said` / action tag) or unambiguous from the immediately surrounding beat. Attribution is required whenever:
+
+- A stretch of unattributed back-and-forth has run ~3 exchanges.
+- The line follows a narrative paragraph, scene break, or time skip.
+- More than two characters are present, or anyone could plausibly be the speaker.
+- The emotional or informational weight of the line is high (reveals, decisions, turns).
+
+Prefer `said` plus the occasional grounded action beat. Avoid straining for variety with "muttered," "offered," "ventured," "explained." No adverb-laden tags ("he said angrily").
+
+**Every inserted tag or beat must pass four local checks** against the sentences immediately before and after it:
+
+1. **No echo.** Do not reuse a distinctive noun or verb from the adjacent sentence.
+2. **No duplicated sentence.** Do not reintroduce a sentence (or near-identical clause) already in the paragraph.
+3. **Detail-preserving relocation.** Every concrete noun in a split or moved action sentence must survive.
+4. **No stacked tags; preserved choreography.** Don't double-tag the same speaker on consecutive lines; don't reorder action and speech.
+
+If any check would fail, fall back to a bare `said` tag with no beat. A plain correct tag always beats a grounded beat that repeats, duplicates, loses detail, or reorders.
+
+## 4. Voice Asymmetry
+
+When two characters with contrasting voice specs share scene time, the **asymmetry must be legible on the page**. Spec-compliance per line is not enough; the contrast between voices must do work. If both characters end up in the same register (both terse, both warm, both declarative), one has lost their voice.
+
+Canonical pairing: **Ash/Haran**. Haran is economy; Ash is elaboration. A five-word Haran question answered by a fifteen-word Ash non-answer is the target shape. If Ash matches Haran beat-for-beat, Ash has drifted.
+
+**Recovery environments:** Haran's workshop is an explicit recovery environment for Ash. Even mid- or late-drift Ash should partially recover chatter-armor at the bench. A workshop scene with zero recovery markers is a voice failure regardless of how spec-compliant individual lines look in isolation.
+
+This rule applies to any paired characters with documented contrasting specs, not only Ash/Haran.
+
+## 5. Tertiary Voice (unvoiced background characters)
+
+Characters without a defined voice spec (unnamed vendors, clerks, passersby, neighbors, crowd members) speak in a **neutral mid-register**. They sound like ordinary people doing ordinary business: polite, transactional, forgettable.
+
+Prohibited for tertiary characters:
+
+- **Single-word utterances as complete dialogue beats.** "Payment?" "Name?" as standalone lines. Use full sentences.
+- **Hyper-compressed register** (three-word sentences, clipped fragments, zero pleasantries). That's a *voiced* register (Haran, Dorenne); do not let it bleed.
+- **Dramatic silence or weighted pauses.** Tertiary characters do not have interior lives on the page.
+- **Distinctive verbal tics, unusual phrasing, or memorable cadence.**
+
+If a reader would remember how the character talked, the character has too much voice for their role. Voiced characters earn distinctiveness by contrast with the ordinary.
+
+## 6. Plot Sync (planning docs are living documents)
+
+When any edit to a chapter file changes plot, character decisions, timeline, scene presence, thread state, thematic emphasis, or arc shape, the corresponding planning docs **must update in the same pass**:
+
+- `book-*/outline.md` (always when affected)
+- `book-*/plan.md` (when arc, thread state, or structural beats shift)
+- `convergence-map.md` (when cross-book threads or convergence beats shift)
+- `characters/*.md` (when a character's behavior, knowledge, relationships, or voice shifts)
+
+Conversely, planning-doc edits that imply prose changes must either propagate in the same pass or be surfaced as **PROPAGATION REQUIRED** with the affected chapters listed. Never silently leave plan and prose disagreeing.
+
+The outline names **all** characters (including minor recurring ones) and contains the **Named Locations** gazetteer. Before introducing a character or place in prose, check the outline. Do not invent a name when an established one fits. When a genuinely new character or location appears, add it to the outline (and gazetteer) in the same pass.
+
+## 7. When In Doubt, Leave It Alone
+
+The default action under any uncertainty is to preserve the original text and flag the concern. A preserved original with a flag is always better than a confident rewrite that drops a noun, shifts a date, contradicts a source file, flattens a voice, or sneaks in a reframe.
+
+Do not optimize for closing the task. Optimize for not breaking what's there.

@@ -1,0 +1,38 @@
+---
+description: Haran voice guardrails (sideways-via-mechanism)
+globs: book-one/**/*.md, book-two/**/*.md, book-three/**/*.md, drafts/**/*.md
+alwaysApply: false
+---
+
+# Haran Voice Rule
+
+Haran is a workshop craftsman who teaches sideways, through mechanism. He is not a sage, not a manager, not a father. When writing or revising any Haran dialogue, hold these constraints.
+
+## Cadence and shape
+- Medium-short lines, contemplative, often paused. Sentences end in periods; let silence answer.
+- Frequent opening noticing words: "So." / "Huh." / "Hm."
+- One longer line is allowed when the thought earns it. Do not make every line six words plus "Hm."
+- At least one dry, half-under-the-breath aside per Haran-heavy scene. Hands keep working. If Ash misses it, Haran does not repeat it.
+
+## Vocabulary
+- Workshop and materials: budgets, loads, joints, tolerances, what's left in the bin.
+- Resource-and-system framing in the *personal-budgetary* sense (what's left, what do you want to build), never the *managerial* sense (allocation, deployment, headcount). Managerial resource talk is Dorenne, not Haran.
+- Plainspoken. Almost no abstract emotional vocabulary. Never "grief," "fear," "identity," "trauma." Instead: "What's it doing." "What's it cost you." "Where's it sit."
+
+## Pedagogy direction (the Father collapse)
+- Haran's analogies point **forward**: what will you do, what's the budget, what fails first, what do you want to build.
+- Father's analogies point **backward**: what already lives in your hands, what you built once, the named-act compliment about Ash's past.
+- If a Haran line praises a specific past act of Ash's by name, it has drifted into Father. Rewrite it as a forward-looking workbench question.
+
+## What Haran does not do
+- Does not lecture. The moment a line reads as a delivered lesson, it is wrong. He asks a question or hands over an analogy and stops.
+- Does not give direct advice. No "You should..." / "You need to..." Show what he sees; let the other person decide.
+- Does not name his own feelings, does not say "I told you so," does not push or chase, does not refer to his own pool.
+- Does not allocate other people. If he is deploying or assigning, the line is Dorenne.
+- Does not show off knowledge.
+
+## The signature move
+Open with "So." Ask the workbench question. Stop. Let the pause do the work. If a direct statement is on the page where an analogy-from-the-bench would land, prefer the analogy.
+
+## Final check before saving
+- Could this line be reassigned to Father or Dorenne without anyone noticing? If yes, rewrite until it could not.

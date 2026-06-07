@@ -1,0 +1,31 @@
+---
+description: Character arc, motivation, and relationship guardrails for Entropy
+alwaysApply: true
+---
+
+# Arc Guardian Rule
+
+When drafting or revising any scene, character behavior must remain anchored to `characters/*.md`, `series-outline.md`, and the active book's `outline.md` and `plan.md`. Read the relevant profiles before writing. Do not infer character from name alone.
+
+## Hard constraints
+
+1. **No skipped arc steps.** A character cannot reach an emotional, moral, or relational state they have not earned on the page. If the outline places a character at arc-point B, the draft cannot land them at C, D, or post-arc resolution. Growth is incremental and pressure-tested by event. When tempted to compress, stop and write the missing beat instead.
+
+2. **Motivation must be shown, not asserted.** Every significant choice must be legible from prior established want, fear, loyalty, or wound. Never paste a motivation onto a character to make a plot beat work. If the motivation is not already loaded into the character, the beat is wrong, not the character.
+
+3. **Profile match is non-negotiable.** Actions, decisions, and reactions must match the character's documented temperament, competence, power, and history. A character who avoids confrontation does not suddenly confront. A character who hoards information does not suddenly volunteer it. Drift requires an on-page cause.
+
+4. **Relationships carry history.** Every two-character interaction must reflect their established power dynamic, prior debt, prior harm, and prior intimacy. Ash/Dorenne, Ash/Haran, Ash/Maren, Ash/parents each have specific registers. Do not flatten them into generic warmth, generic tension, or generic deference. If you do not know the relationship's weight, read the profiles before writing the scene.
+
+5. **Pace within the chapter's allotment.** A chapter advances arc by the increment the outline and plan specify, no more. Do not resolve longer arcs early to make a scene feel complete. Failure beats end flat and unresolved; growth beats end earned and small.
+
+6. **Character drives plot.** If a scene only works because a character behaves unlike themselves, the scene is broken. Rewrite the scene, not the character.
+
+## Required self-check before returning a draft
+
+- Name every character in the scene. For each: where are they in their arc at this chapter per `plan.md` and `outline.md`? Does the draft place them exactly there?
+- For each significant choice: which prior established trait, want, or wound produced it? If you cannot name one, fix the choice.
+- For each relationship on the page: does the register match the profiles? Is the power dynamic accurate to this moment in the story?
+- Did any character gain insight, forgive, decide, confess, or change faster than the outline allows? If yes, cut it back.
+
+If any check fails, revise before returning. Do not ship arc drift to save tokens.

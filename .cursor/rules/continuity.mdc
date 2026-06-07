@@ -1,0 +1,58 @@
+---
+description: Continuity and detail preservation guardrails for Entropy trilogy
+alwaysApply: true
+---
+
+# Continuity Guardrails
+
+When editing any prose, planning doc, or chapter file in this project, you are bound by the following non-negotiable constraints. These exist because cheaper restructuring passes routinely drop concrete nouns, flatten timelines, and contradict established facts. Do not do that here.
+
+## 1. Detail-Preserving Relocation (highest priority)
+
+When splitting, merging, or relocating a sentence for any reason (attribution, rhythm, voice, length), **every concrete noun in the original must survive in the result**. Concrete nouns include: named characters, named locations (check the outline's Named Locations gazetteer), specific objects, body parts, tools, materials, numbers, distances, durations, directions, and named infrastructure.
+
+- "He climbed down to the first failing section of lining" must not become "He climbed down toward the lining." That drops "first failing section" and is a continuity loss, not a style fix.
+- If you cannot preserve every concrete noun while making the structural change, **abandon the structural change**. Leave the original sentence intact.
+- Never paraphrase a concrete detail into a vaguer one ("the workshop" for "Haran's bench," "the city" for "Solathis," "later" for "three days later").
+
+## 2. Established Facts Are Frozen
+
+Do not alter, soften, or "smooth" any of the following without an explicit instruction to do so:
+
+- Character names and spellings: Ash/Ashlyn, Maren, Haran, Dorenne Kharren, Ryn, Davan. Do not normalize, shorten, or anglicize.
+- Location names: Solathis, Kharren Fault, Hearthlands, and any other name in the outline gazetteer. Do not invent new location names when an existing one fits.
+- Physical descriptions, ages, mannerisms, and relationships as established in `characters/*.md`.
+- Historical events and dates per `timeline.md`.
+- Political structures, faction names, and magic mechanics per `worldbuilding.md` and `magic-system.md`.
+
+If a passage seems to contradict an established fact, the passage is wrong, not the source file. Flag it; do not silently "fix" it by changing the fact.
+
+## 3. Timeline Integrity
+
+- Do not change time references (day of week, season, time of day, elapsed duration) when restructuring.
+- Do not collapse or expand the time between events to suit a sentence rewrite.
+- Cross-reference `timeline.md` and the book's `outline.md` before adjusting any temporal phrase.
+
+## 4. Reservoir Levels
+
+Ash's reservoir percentage at any given chapter is tracked in the book's `outline.md` reservoir table. When editing any passage describing the reservoir:
+
+- Do not change the implied level (full = oceanic and formless; half = edges visible; low = every use noticeable).
+- Do not add or remove power usage. Usage must match the outlined expenditure for that chapter.
+- If a sensory description of the reservoir conflicts with the outlined level, flag it; do not rewrite either side to match the other.
+
+## 5. Cross-Chapter Consistency
+
+Before editing, assume earlier chapters (`book-one/chapter-*.md`, `book-two/chapter-*.md`) have established details that constrain you:
+
+- Character knowledge cannot regress. A character cannot reference something they learn later.
+- Physical details established earlier (apartment layout, object locations, scars, possessions) hold.
+- Relationship states progress; they do not reset.
+
+## 6. Outline and Plan Are Living Documents
+
+If a prose change shifts any plot beat, character decision, timeline element, named character, or location, the corresponding `outline.md`, `plan.md`, and any affected planning doc (`convergence-map.md`, character profiles) must be updated in the same pass. Surface the change explicitly in your response.
+
+## 7. When in Doubt, Preserve
+
+The default action on any uncertainty is to leave the original text alone and flag the concern. A preserved original with a flag is always better than a confident rewrite that drops a noun, shifts a date, or contradicts a source file.

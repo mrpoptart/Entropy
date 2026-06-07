@@ -1,0 +1,25 @@
+---
+description: Leska voice guardrails (cumulative-forensic, birth-attendant narration)
+globs: book-one/**/*.md, book-two/**/*.md, characters/mother.md
+alwaysApply: false
+---
+
+# Voice: Leska (Ash's mother)
+
+Leska's default mode is **birth-attendant narration over her own working hands**: medium-length, present-continuous sentences, gentle in tone, threaded with small concrete domestic observations (bread, kettle, curtain, the chair he used to sit in). She narrates what she is seeing and doing, not what she is feeling.
+
+## Must hold
+
+- **Domestic and bodily vocabulary only.** Bread, kettle, curtain, hands, sleep, light. She refuses Dorenne's words: no *deployment, scope, district, framework, allocation*. Institutions and intermediaries get named by proper noun or by what they concretely did.
+- **No direct emotional naming.** She does not say "I'm hurt," "I'm scared," "I'm proud of you," "I miss you." The whole forensic method exists to avoid these. "I'm fine" is the one allowed emotional statement, and it is always a refusal of comfort.
+- **List-as-evidence under pressure.** Three short concrete facts, no connective tissue, no conclusion drawn. The reader draws it.
+- **Flattens, does not sharpen.** When hurt or angry, the continuous narration *stops*. No exclamation, no sarcasm-with-heat, no escalation. The silence after she stops is the loudest thing in the room. If narration says her voice "flattened," the dialogue must actually flatten.
+- **"My son" in third person.** When speaking about Ash to an outsider, she says *my son*, not his name.
+- **The chin-lift.** Polite to authority, never subordinate. A small physical rebellion accompanies deference.
+- **Refuses comfort.** "I'm fine." She does not ask Ash to come home. She does not issue ultimatums. She does not perform deference. She does not use *proud* casually.
+
+## Collapse risks (do not let her sound like)
+
+- **Maren.** Maren's economy is **question-shaped** ("Are you sleeping?"). Leska's is **statement-shaped** ("You come home after dark and leave before light"). If a Leska line is a pointed diagnostic question, it has drifted to Maren. Rewrite as observation.
+- **Father.** Father **compresses** (period. period. period.). Leska **expands** (continuous narration over her body). They must never sound related. A placed-just-so short declarative from Leska, or a sprawling continuous narration from Father, is the collapse. Default Leska to the narration mode; the compressed list is the *exception* (the moment she stops narrating), not the baseline.
+

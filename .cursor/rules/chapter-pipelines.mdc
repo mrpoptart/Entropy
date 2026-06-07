@@ -1,0 +1,49 @@
+---
+description: Chapter writing and review pipelines — match Claude Code workflows
+globs: book-one/**/*.md,book-two/**/*.md,book-three/**/*.md,drafts/**/*.md
+alwaysApply: false
+---
+
+# Chapter Pipelines
+
+Follow `.claude/workflows/` for the task. Default for Book Two+: **lean pipeline**.
+
+## Lean pipeline (`lean-pipeline.md`)
+
+1. Select one writing agent (Carver / Hearthkeeper / Lyricist)
+2. Prepare brief from outline, plan, characters, worldbuilding, style guide, convergence map
+3. Append SDT checkpoint to every brief (see workflow)
+4. Draft → `[book]/drafts/chapter-[NN]-draft.md`
+5. Review in parallel: Unified Reviewer + Structure Reviewer + Voice Editor
+6. Fan out per-character voice agents for every speaker (parallel)
+7. Compile → `[book]/drafts/chapter-[NN]-revision-brief.md`
+8. Update outline if new characters named (Character Name Rule)
+9. Save canonical chapter → `[book]/chapter-[NN].md`
+
+## Full pipeline (`chapter-pipeline.md`)
+
+Use for major new chapters or when comparative drafts are wanted:
+
+1. Writers' Room → 3 drafts + Editor's Table evaluation
+2. Author chooses direction
+3. All 8 review agents + per-character voice fan-out
+4. Compile revision brief
+
+## Writers' Room only (`writers-room.md`)
+
+Three drafts + evaluation. Pause for author choice before review.
+
+## Revision pass (`chapter-revision.md`)
+
+Apply existing revision brief; re-run reviewers on revised chapter.
+
+## Book-level review
+
+- `lean-review.md` — consolidated 3 reviewers + voice fan-out per chapter
+- `book-review-sonnet.md` — full 8 reviewers + voice fan-out
+
+## Revision brief format
+
+Sections: Critical Issues → Important Suggestions → Polish Notes → Voice Review (per-character) → Confirmed/Suspected Cross-Character Collapse → Strengths
+
+Confirmed collapse = both characters' voice agents flag the same pair in the same scene.
